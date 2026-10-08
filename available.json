@@ -1,0 +1,108 @@
+{
+  "status": "partial-upload",
+  "expectedOriginalImages": 748,
+  "uploadedOriginalImages": 9,
+  "updatedAt": "2026-10-08T12:15:32.921258+00:00",
+  "note": "Only records listed here are currently uploaded and verified. Full upload is pending after connection failures.",
+  "records": [
+    {
+      "id": "mono:nobel-laureate-1",
+      "subject": "nobel-laureate-1",
+      "edition": "mono",
+      "title": "威廉·康拉德·伦琴",
+      "titleEnglish": "Wilhelm Conrad Röntgen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-1/mono.jpg",
+      "sha256": "51a40ca0345498502189ba3a04723c4cce7e9f7f49798385beda5aec8a3d66ee",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-1/mono.jpg"
+    },
+    {
+      "id": "color:nobel-laureate-1",
+      "subject": "nobel-laureate-1",
+      "edition": "color",
+      "title": "威廉·康拉德·伦琴",
+      "titleEnglish": "Wilhelm Conrad Röntgen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-1/color.jpg",
+      "sha256": "70991d86b49154ba8d6432d605ad48b0418e16bd052d98755346fceb8ac4786e",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-1/color.jpg"
+    },
+    {
+      "id": "mono:nobel-laureate-10",
+      "subject": "nobel-laureate-10",
+      "edition": "mono",
+      "title": "J.J.汤姆孙",
+      "titleEnglish": "J.J. Thomson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-10/mono.jpg",
+      "sha256": "87eb63dcdfbe0664c92549420e67c50abaf694b5ee4791646779474fcac318dc",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-10/mono.jpg"
+    },
+    {
+      "id": "color:nobel-laureate-10",
+      "subject": "nobel-laureate-10",
+      "edition": "color",
+      "title": "J.J.汤姆孙",
+      "titleEnglish": "J.J. Thomson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-10/color.jpg",
+      "sha256": "1dffbb3fb1c055be4ebf74d9375738573ac8c6c9c10b2167a7753e0c266ee5e2",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-10/color.jpg"
+    },
+    {
+      "id": "mono:nobel-laureate-11",
+      "subject": "nobel-laureate-11",
+      "edition": "mono",
+      "title": "阿尔伯特·迈克耳孙",
+      "titleEnglish": "Albert A. Michelson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-11/mono.jpg",
+      "sha256": "2b8324e5dbc7483272dac8bef80bbabadf407d6a0a63de8fc1d7af55511a886c",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-11/mono.jpg"
+    },
+    {
+      "id": "color:nobel-laureate-11",
+      "subject": "nobel-laureate-11",
+      "edition": "color",
+      "title": "阿尔伯特·迈克耳孙",
+      "titleEnglish": "Albert A. Michelson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-11/color.jpg",
+      "sha256": "9cdf89c8b5c39054aa38f04f8b8fee4461c9c92384250abb0bc739e2001c8575",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-11/color.jpg"
+    },
+    {
+      "id": "mono:nobel-laureate-12",
+      "subject": "nobel-laureate-12",
+      "edition": "mono",
+      "title": "加布里埃尔·李普曼",
+      "titleEnglish": "Gabriel Lippmann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-12/mono.jpg",
+      "sha256": "c98c41a65a3d1b9e0d7b4fbc6c4d11565a7a3c00700b33f9ce9ecd1d53a4591e",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-12/mono.jpg"
+    },
+    {
+      "id": "color:nobel-laureate-12",
+      "subject": "nobel-laureate-12",
+      "edition": "color",
+      "title": "加布里埃尔·李普曼",
+      "titleEnglish": "Gabriel Lippmann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-12/color.jpg",
+      "sha256": "8e2d586babec6d31c218761740b7acc6ed72919d4a09b0d1746d5aa265e84285",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-12/color.jpg"
+    },
+    {
+      "id": "color:nobel-laureate-13",
+      "subject": "nobel-laureate-13",
+      "edition": "color",
+      "title": "古列尔莫·马可尼",
+      "titleEnglish": "Guglielmo Marconi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-13/color.jpg",
+      "sha256": "a3c27e2cb9c51ab905ef75dc8dbfed1db42a70c96e45dfa819271c810c62b228",
+      "imageURL": "https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/Images/awards/nobel-laureate-13/color.jpg"
+    }
+  ]
+}
