@@ -1,0 +1,63 @@
+name: Publish independently readable artwork
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: standalone-artwork-upload
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+      - name: Copy and verify authorized artwork
+        env:
+          ARTWORK_ARCHIVE_URL: ${{ secrets.ARTWORK_ARCHIVE_URL_408 }}
+        run: |
+          python3 - <<'PYCODE'
+          import os,pathlib,urllib.request,hashlib,zipfile,json
+          archive=pathlib.Path(os.environ['RUNNER_TEMP'])/'artwork-source.zip'
+          with urllib.request.urlopen(os.environ['ARTWORK_ARCHIVE_URL'],timeout=60) as src, archive.open('wb') as dst:
+              while chunk:=src.read(1024*1024): dst.write(chunk)
+          assert hashlib.file_digest(archive.open('rb'),'sha256').hexdigest()=='24dab32c9012a33adc7c3ce113812a0ce8b430be4c418b03955609c6f2e2d56e'
+          base='https://raw.githubusercontent.com/Mustundead/mu-screensaver-artwork/main/'
+          with zipfile.ZipFile(archive) as z:
+              source=json.loads(z.read('catalog.json')); records=source['records']; assert len(records)==748
+              expected={r['image'] for r in records}; assert len(expected)==748
+              assert set(z.namelist())==expected|{'catalog.json','SHA256SUMS.txt','README.txt'}
+              groups={}; index=[]; sums=[]
+              for original in records:
+                  path=original['image']; assert path.startswith('Images/') and '..' not in pathlib.PurePosixPath(path).parts
+                  raw=z.read(path); sha=hashlib.sha256(raw).hexdigest(); assert sha==original['sha256']
+                  destination=pathlib.Path(path); destination.parent.mkdir(parents=True,exist_ok=True); destination.write_bytes(raw)
+                  sums.append(sha+'  '+path)
+                  groups.setdefault(original['subject'],{'subject':original['subject'],'thumbnailAvailable':False,'editions':{}})['editions'][original['edition']]=original
+                  item={k:v for k,v in original.items() if k not in ('context','thumbnail','thumbnailSHA256')}
+                  item.update(imageURL=base+path,thumbnailURL=base+path,previewUsesOriginal=True,detailsURL=base+'Details/'+original['subject']+'.json')
+                  index.append(item)
+              assert len(groups)==374 and all(set(v['editions'])=={'mono','color'} for v in groups.values())
+              pathlib.Path('Details').mkdir(exist_ok=True)
+              for subject,detail in groups.items(): pathlib.Path('Details',subject+'.json').write_text(json.dumps(detail,ensure_ascii=False,indent=2)+'\n')
+              catalog={k:v for k,v in source.items() if k!='records'}
+              catalog.update(status='complete',uploadedOriginalImages=748,expectedOriginalImages=748,thumbnailAvailable=False,previewNote='thumbnailURL currently uses the original image; separate thumbnails are not uploaded',records=index)
+              content=json.dumps(catalog,ensure_ascii=False,indent=2)+'\n'
+              pathlib.Path('catalog.json').write_text(content); pathlib.Path('available.json').write_text(content)
+              pathlib.Path('SHA256SUMS.txt').write_text('\n'.join(sorted(sums))+'\n')
+              lines=['# MU Screensaver artwork','','748 张原图，374 个主题，每个主题含单色与彩色两版。图片均为独立 JPG，无需登录或解压。','','[读取完整图片清单]('+base+'catalog.json)','','清单中的 `imageURL` 是原图地址，`detailsURL` 提供主题说明及引用来源。`thumbnailURL` 暂时使用同一张原图，独立缩略图尚未上传。','','公开可读取不代表授予开源或免费再分发许可。本仓库不包含屏保应用、个人设置或内部测试资料。','','|主题|单色原图|彩色原图|说明与来源|','|---|---|---|---|']
+              for subject,detail in groups.items():
+                  mono=detail['editions']['mono'];color=detail['editions']['color'];lines.append('|'+mono['title'].replace('|','/')+'|[单色]('+base+mono['image']+')|[彩色]('+base+color['image']+')|[查看]('+base+'Details/'+subject+'.json)|')
+              pathlib.Path('README.md').write_text('\n'.join(lines)+'\n')
+          print('Verified 748 original-image SHA256 values and preserved 374 bilingual subject descriptions.')
+          PYCODE
+      - name: Publish individual files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add Images Details catalog.json available.json README.md SHA256SUMS.txt
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m 'Publish all 748 independently readable original artworks'
+          git push origin HEAD:main
