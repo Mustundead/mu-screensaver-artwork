@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-169",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-169",
+      "subject": "nobel-laureate-169",
+      "edition": "mono",
+      "title": "奥托·瓦拉赫",
+      "titleEnglish": "Otto Wallach",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-169/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-169/mono.jpg",
+      "sha256": "8fcf7063a745e88eea110820dad90d883a53b1711fdd7ab85d105f938f453ede",
+      "thumbnailSHA256": "795ef954677df2abbe1663c2e11a523b5aa47dced529ef7bd54e30b7171443c0",
+      "context": {
+        "phrase": {
+          "zh": "香气的不同，可以追问到组成。",
+          "en": "A scent invites a question about composition."
+        },
+        "visual": {
+          "zh": "巨幅卷曲果皮与松针交叠，小滴管从下方斜入。黑白与钴蓝版把针叶和液滴作为蓝色结构；彩色版使用橙色果皮、乳白内皮、深绿针叶与琥珀色液滴。以植物材料呼应萜类研究，植物颜色和液滴都是原创表达，不对应某种物质的实测样品。",
+          "en": "An oversized curling peel overlaps pine needles, with a tiny pipette entering diagonally below. The monochrome/cobalt edition emphasizes needles and droplet; full color uses orange peel, cream pith, green needles and amber liquid. These botanical props evoke terpene research without depicting a measured chemical sample."
+        },
+        "background": {
+          "zh": "奥托·瓦拉赫因脂环族化合物方面的开创性研究获得1910年诺贝尔化学奖。诺贝尔官方资料介绍，他在19世纪80年代研究多种植物精油及其中的萜类物质，发展了从复杂混合物中分离和研究这些成分的方法，发现许多看似不同的香气材料含有相关的化学成分；这些物质还可能相互转化，使分析更加困难。成果对有机化学及使用精油的化学工业产生影响。配图中的果皮、松针和滴管是原创视觉解读，不表示某一植物的精确配方，也不提出健康功效；短句不是本人引语。\n1910年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在脂环族化合物领域的开创性研究对有机化学和化学工业的贡献。",
+          "en": "Otto Wallach received the 1910 Nobel Prize in Chemistry for pioneering work on alicyclic compounds. Nobel’s account describes his 1880s studies of plant essential oils and terpenes, and methods for separating and characterizing constituents within complicated mixtures. He found related chemical components in apparently different fragrant materials; their tendency to transform also complicated analysis. His work influenced organic chemistry and industries using essential oils. The peel, pine needles and pipette form an original visual interpretation rather than a precise botanical recipe or a claim about health benefits. The phrase is original, not a quotation.\n1910 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his services to organic chemistry and the chemical industry by his pioneer work in the field of alicyclic compounds"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年化学奖｜官方记录",
+              "en": "1910 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1910/wallach/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1910/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-169",
+      "subject": "nobel-laureate-169",
+      "edition": "color",
+      "title": "奥托·瓦拉赫",
+      "titleEnglish": "Otto Wallach",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-169/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-169/color.jpg",
+      "sha256": "51f8c8dc466e839f50420cf1f0a26ceacd9a8f582ad0781cd5be213b17bed2e7",
+      "thumbnailSHA256": "9067b129f72b407693f9c5ccd8f98e104fe5bfaed87d6b2158b2b11ad70f7045",
+      "context": {
+        "phrase": {
+          "zh": "香气的不同，可以追问到组成。",
+          "en": "A scent invites a question about composition."
+        },
+        "visual": {
+          "zh": "巨幅卷曲果皮与松针交叠，小滴管从下方斜入。黑白与钴蓝版把针叶和液滴作为蓝色结构；彩色版使用橙色果皮、乳白内皮、深绿针叶与琥珀色液滴。以植物材料呼应萜类研究，植物颜色和液滴都是原创表达，不对应某种物质的实测样品。",
+          "en": "An oversized curling peel overlaps pine needles, with a tiny pipette entering diagonally below. The monochrome/cobalt edition emphasizes needles and droplet; full color uses orange peel, cream pith, green needles and amber liquid. These botanical props evoke terpene research without depicting a measured chemical sample."
+        },
+        "background": {
+          "zh": "奥托·瓦拉赫因脂环族化合物方面的开创性研究获得1910年诺贝尔化学奖。诺贝尔官方资料介绍，他在19世纪80年代研究多种植物精油及其中的萜类物质，发展了从复杂混合物中分离和研究这些成分的方法，发现许多看似不同的香气材料含有相关的化学成分；这些物质还可能相互转化，使分析更加困难。成果对有机化学及使用精油的化学工业产生影响。配图中的果皮、松针和滴管是原创视觉解读，不表示某一植物的精确配方，也不提出健康功效；短句不是本人引语。\n1910年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在脂环族化合物领域的开创性研究对有机化学和化学工业的贡献。",
+          "en": "Otto Wallach received the 1910 Nobel Prize in Chemistry for pioneering work on alicyclic compounds. Nobel’s account describes his 1880s studies of plant essential oils and terpenes, and methods for separating and characterizing constituents within complicated mixtures. He found related chemical components in apparently different fragrant materials; their tendency to transform also complicated analysis. His work influenced organic chemistry and industries using essential oils. The peel, pine needles and pipette form an original visual interpretation rather than a precise botanical recipe or a claim about health benefits. The phrase is original, not a quotation.\n1910 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his services to organic chemistry and the chemical industry by his pioneer work in the field of alicyclic compounds"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年化学奖｜官方记录",
+              "en": "1910 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1910/wallach/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1910/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

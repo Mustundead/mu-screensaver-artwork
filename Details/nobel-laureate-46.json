@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-46",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-46",
+      "subject": "nobel-laureate-46",
+      "edition": "mono",
+      "title": "恩里科·费米",
+      "titleEnglish": "Enrico Fermi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-46/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-46/mono.jpg",
+      "sha256": "6b084e899fe3a911a7c4364a64754a0b2bca2462d3c80c166cc843ad91870ceb",
+      "thumbnailSHA256": "fe27991c8023ed2d59c5282951ae8e4e7aa430c0ca41931e5b4428d66cf524f1",
+      "context": {
+        "phrase": {
+          "zh": "慢下来，相遇的机会更多。",
+          "en": "Slowing down opens more chances to meet."
+        },
+        "visual": {
+          "zh": "长方形石蜡块横占画面中央，稀疏点线从左侧进入，在块内折转并变得密集，延伸到右侧细金属片；周围排线衬出块体。",
+          "en": "A rectangular wax block spans the center. Sparse dotted traces enter from the left, bend and grow denser inside the block, then reach a thin metal plate at the right. Surrounding hatching defines the volume."
+        },
+        "background": {
+          "zh": "费米因中子辐照产生放射性物质及慢中子引发核反应的研究获得1938年诺贝尔物理学奖。诺贝尔官方介绍记载，他和同事发现中子经过石蜡减速后，与原子核发生作用的机会增加。画面以石蜡块、逐渐缩短的折线路径和金属片表达这层关系。点线不是实测轨迹，也不表示精确速度或装置；这幅画没有复原1942年的反应堆。短句为原创。\n1938年物理学奖；独享本年度奖项。获奖理由（中文译述）：通过实验证明中子照射可产生新的放射性元素，并发现慢中子引起核反应的相关现象",
+          "en": "Fermi received the 1938 Nobel Prize in Physics for work on radioactivity induced by neutrons and nuclear reactions caused by slow neutrons. The official Nobel account describes how he and his colleagues found that slowing neutrons with paraffin increased their interaction with atomic nuclei. A wax block, progressively shorter wandering marks and a metal plate express this relationship. The marks are qualitative, not measured trajectories, exact speeds or an apparatus reconstruction. This is not his 1942 reactor. The phrase is original.\n1938 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年物理学奖｜官方记录",
+              "en": "1938 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/laureate/46",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/fermi-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-46",
+      "subject": "nobel-laureate-46",
+      "edition": "color",
+      "title": "恩里科·费米",
+      "titleEnglish": "Enrico Fermi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-46/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-46/color.jpg",
+      "sha256": "3b34392b3599ca75f07b3fbb7d46ed1f20cfd9f6fd1c9283e7ad58d1927833ad",
+      "thumbnailSHA256": "15ae90879c44da94ef152a85a1d71110ba83522946ab63d28d792ddd860d2b1c",
+      "context": {
+        "phrase": {
+          "zh": "慢下来，相遇的机会更多。",
+          "en": "Slowing down opens more chances to meet."
+        },
+        "visual": {
+          "zh": "长方形石蜡块横占画面中央，稀疏点线从左侧进入，在块内折转并变得密集，延伸到右侧细金属片；周围排线衬出块体。",
+          "en": "A rectangular wax block spans the center. Sparse dotted traces enter from the left, bend and grow denser inside the block, then reach a thin metal plate at the right. Surrounding hatching defines the volume."
+        },
+        "background": {
+          "zh": "费米因中子辐照产生放射性物质及慢中子引发核反应的研究获得1938年诺贝尔物理学奖。诺贝尔官方介绍记载，他和同事发现中子经过石蜡减速后，与原子核发生作用的机会增加。画面以石蜡块、逐渐缩短的折线路径和金属片表达这层关系。点线不是实测轨迹，也不表示精确速度或装置；这幅画没有复原1942年的反应堆。短句为原创。\n1938年物理学奖；独享本年度奖项。获奖理由（中文译述）：通过实验证明中子照射可产生新的放射性元素，并发现慢中子引起核反应的相关现象",
+          "en": "Fermi received the 1938 Nobel Prize in Physics for work on radioactivity induced by neutrons and nuclear reactions caused by slow neutrons. The official Nobel account describes how he and his colleagues found that slowing neutrons with paraffin increased their interaction with atomic nuclei. A wax block, progressively shorter wandering marks and a metal plate express this relationship. The marks are qualitative, not measured trajectories, exact speeds or an apparatus reconstruction. This is not his 1942 reactor. The phrase is original.\n1938 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his demonstrations of the existence of new radioactive elements produced by neutron irradiation, and for his related discovery of nuclear reactions brought about by slow neutrons"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年物理学奖｜官方记录",
+              "en": "1938 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/laureate/46",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/fermi-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

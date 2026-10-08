@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-294",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-294",
+      "subject": "nobel-laureate-294",
+      "edition": "mono",
+      "title": "罗纳德·罗斯",
+      "titleEnglish": "Ronald Ross",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-294/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-294/mono.jpg",
+      "sha256": "f231e3c12d548cc1f9c650bcd1b7990820847d283aba87e81fc6b95c50a43810",
+      "thumbnailSHA256": "f2316b589e302aa07e12403019a4eb8837da73ecfb921900d1a130d13f98bfc0",
+      "context": {
+        "phrase": {
+          "zh": "找到传播的路径，才有改变的起点。",
+          "en": "Finding the route of transmission opens a way to change."
+        },
+        "visual": {
+          "zh": "为罗斯独立创作的医学研究拼贴，以蚊子、显微镜和观察器皿呼应疟疾传播研究。画面是艺术表达，没有提供寄生虫生命周期示意或医疗指导。",
+          "en": "An original research collage for Ross uses a mosquito, microscope and observation glassware to evoke work on malaria transmission. It is an artistic interpretation, not a parasite-cycle diagram or medical guide."
+        },
+        "background": {
+          "zh": "罗斯因疟疾研究获得1902年诺贝尔生理学或医学奖。他的研究帮助揭示蚊子在疟疾传播中的作用，为进一步研究与防治奠定了基础。配图用放大的蚊子和观察器具表现寻找传播路径的过程，没有复刻实验或把研究描述成由单次观察完成。\n1902年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对疟疾的研究；他揭示了疟疾如何进入生物体，为成功研究这一疾病及其防治方法奠定了基础。",
+          "en": "Ross received the 1902 Nobel Prize in Physiology or Medicine for research into malaria. His work helped establish the mosquito's role in transmission and laid foundations for further research and prevention. The enlarged mosquito and instruments evoke the search for transmission routes without reconstructing experiments or suggesting the work was completed in one observation.\n1902 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年生理学或医学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1902/ross/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1902/ross/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-294",
+      "subject": "nobel-laureate-294",
+      "edition": "color",
+      "title": "罗纳德·罗斯",
+      "titleEnglish": "Ronald Ross",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-294/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-294/color.jpg",
+      "sha256": "464088707b95724269a027921b841de1a8f269957b4191ddf550f470e4a0d877",
+      "thumbnailSHA256": "2fc6dcfbc7d6fa7190484bed1250a347ce4ba550e9483d649c7d26bf103174d1",
+      "context": {
+        "phrase": {
+          "zh": "找到传播的路径，才有改变的起点。",
+          "en": "Finding the route of transmission opens a way to change."
+        },
+        "visual": {
+          "zh": "为罗斯独立创作的医学研究拼贴，以蚊子、显微镜和观察器皿呼应疟疾传播研究。画面是艺术表达，没有提供寄生虫生命周期示意或医疗指导。",
+          "en": "An original research collage for Ross uses a mosquito, microscope and observation glassware to evoke work on malaria transmission. It is an artistic interpretation, not a parasite-cycle diagram or medical guide."
+        },
+        "background": {
+          "zh": "罗斯因疟疾研究获得1902年诺贝尔生理学或医学奖。他的研究帮助揭示蚊子在疟疾传播中的作用，为进一步研究与防治奠定了基础。配图用放大的蚊子和观察器具表现寻找传播路径的过程，没有复刻实验或把研究描述成由单次观察完成。\n1902年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对疟疾的研究；他揭示了疟疾如何进入生物体，为成功研究这一疾病及其防治方法奠定了基础。",
+          "en": "Ross received the 1902 Nobel Prize in Physiology or Medicine for research into malaria. His work helped establish the mosquito's role in transmission and laid foundations for further research and prevention. The enlarged mosquito and instruments evoke the search for transmission routes without reconstructing experiments or suggesting the work was completed in one observation.\n1902 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on malaria, by which he has shown how it enters the organism and thereby has laid the foundation for successful research on this disease and methods of combating it"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年生理学或医学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1902/ross/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1902/ross/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

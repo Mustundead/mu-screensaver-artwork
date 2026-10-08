@@ -1,0 +1,70 @@
+{
+  "subject": "23-einstein",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:23-einstein",
+      "subject": "23-einstein",
+      "edition": "mono",
+      "title": "科学：爱因斯坦与时空",
+      "titleEnglish": "Einstein and Spacetime",
+      "category": "自然科学",
+      "image": "Images/mono/23-einstein.jpg",
+      "thumbnail": "Thumbs/mono/23-einstein.jpg",
+      "sha256": "8b60bada8b0f3d46380a7afc36b8c8b9250ab2ec0337b80cb8eddc97db43a504",
+      "thumbnailSHA256": "3af35ccfd92b1357c2e88811ca282e1fc60d5549d2b55b40aeaa8be08613973d",
+      "context": {
+        "phrase": {
+          "zh": "换一种时空观，重问熟悉的世界。",
+          "en": "A new view of spacetime reshapes familiar questions."
+        },
+        "visual": {
+          "zh": "爱因斯坦的生成肖像与交织曲线把思想人物和时空概念并置。肖像不是照片，线条也不是从相对论方程计算出的物理模拟。",
+          "en": "A generated portrait of Einstein meets interwoven curves to connect a thinker with spacetime. The portrait is not a photograph, and the lines are not a simulation calculated from relativity."
+        },
+        "background": {
+          "zh": "NASA 的科学史文章区分了爱因斯坦 1905 年的狭义相对论与 1915 年完成关键工作的广义相对论。前者改变了绝对时间和空间的观念，后者用时空几何描述引力。两个理论并不是同一年提出，也不能把所有现代物理都概括为一个公式。",
+          "en": "NASA distinguishes Einstein’s 1905 special relativity from the crucial 1915 development of general relativity. The former changed ideas of absolute space and time; the latter described gravity through spacetime geometry. These were distinct developments, not one theory produced in a single year."
+        },
+        "sources": [
+          {
+            "label": "NASA · Einstein and General Relativity",
+            "url": "https://www.nasa.gov/image-article/einstein-general-relativity/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:23-einstein",
+      "subject": "23-einstein",
+      "edition": "color",
+      "title": "科学：爱因斯坦与时空",
+      "titleEnglish": "Einstein and Spacetime",
+      "category": "自然科学",
+      "image": "Images/color/23-einstein.jpg",
+      "thumbnail": "Thumbs/color/23-einstein.jpg",
+      "sha256": "be74f876eaf153ac6df771a85a08d382cb6e841d40d99af663441a73402730a6",
+      "thumbnailSHA256": "7c64fdde24fc38b63fba97b39f215bbd6f880f30d7ae8ff8fae18161bb4f6475",
+      "context": {
+        "phrase": {
+          "zh": "换一种时空观，重问熟悉的世界。",
+          "en": "A new view of spacetime reshapes familiar questions."
+        },
+        "visual": {
+          "zh": "爱因斯坦的生成肖像与交织曲线把思想人物和时空概念并置。肖像不是照片，线条也不是从相对论方程计算出的物理模拟。",
+          "en": "A generated portrait of Einstein meets interwoven curves to connect a thinker with spacetime. The portrait is not a photograph, and the lines are not a simulation calculated from relativity."
+        },
+        "background": {
+          "zh": "NASA 的科学史文章区分了爱因斯坦 1905 年的狭义相对论与 1915 年完成关键工作的广义相对论。前者改变了绝对时间和空间的观念，后者用时空几何描述引力。两个理论并不是同一年提出，也不能把所有现代物理都概括为一个公式。",
+          "en": "NASA distinguishes Einstein’s 1905 special relativity from the crucial 1915 development of general relativity. The former changed ideas of absolute space and time; the latter described gravity through spacetime geometry. These were distinct developments, not one theory produced in a single year."
+        },
+        "sources": [
+          {
+            "label": "NASA · Einstein and General Relativity",
+            "url": "https://www.nasa.gov/image-article/einstein-general-relativity/"
+          }
+        ]
+      }
+    }
+  }
+}

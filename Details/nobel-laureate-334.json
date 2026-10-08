@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-334",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-334",
+      "subject": "nobel-laureate-334",
+      "edition": "mono",
+      "title": "格哈德·多马克",
+      "titleEnglish": "Gerhard Domagk",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-334/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-334/mono.jpg",
+      "sha256": "e62e8dce6c7141bb9c626dfe7db6b121836a974064f40c3f2128cc4f89e4668c",
+      "thumbnailSHA256": "1c8cd09704ee35b88fb8b8d240b5a3eaf5528dc7be568c8402a6983e144ba85c",
+      "context": {
+        "phrase": {
+          "zh": "发现，有时藏在熟悉的颜色里。",
+          "en": "Discovery can hide in a familiar color."
+        },
+        "visual": {
+          "zh": "显微镜从左侧越出画面，物镜对着载物台上的空白玻片；右下立着一只装有液体、带软木塞的玻璃小瓶，刻线描出金属和玻璃。",
+          "en": "A cropped microscope occupies the left, its objective facing a clear slide on the stage. A small corked vial of liquid stands at the lower right; fine hatching describes metal and glass."
+        },
+        "background": {
+          "zh": "多马克因发现百浪多息（Prontosil）的抗菌作用获得1939年诺贝尔生理学或医学奖。官方介绍记载，他和同事在1932年的小鼠研究中观察到相关磺胺类物质对感染的作用。画面用试剂瓶与显微镜下的空白玻片表达从化学物质走向生物观察的探索。它没有描绘实际疗效、培养皿实验或具体装置，也不提供今天的用药建议。短句为原创。\n1939年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：发现百浪多息的抗菌作用",
+          "en": "Domagk received the 1939 Nobel Prize in Physiology or Medicine for discovering the antibacterial effects of Prontosil. The official account describes observations by him and his colleagues in mouse studies in 1932 involving sulfonamides and infection. A specimen vial beside a microscope and clear slide expresses exploration from chemical material to biological observation. It shows no measured efficacy, petri-dish experiment or specific apparatus and provides no present-day medication advice. The phrase is original.\n1939 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for the discovery of the antibacterial effects of prontosil"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年生理学或医学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/laureate/334",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/domagk-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-334",
+      "subject": "nobel-laureate-334",
+      "edition": "color",
+      "title": "格哈德·多马克",
+      "titleEnglish": "Gerhard Domagk",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-334/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-334/color.jpg",
+      "sha256": "f0510fd5b9df0db86c62c89e42a480617f8309d2bc5480583b0e3278f606135c",
+      "thumbnailSHA256": "bd32e7b2a11fa2c101af4b2506f6cf2ff2a9fe15511c96725e05771d6f8fb038",
+      "context": {
+        "phrase": {
+          "zh": "发现，有时藏在熟悉的颜色里。",
+          "en": "Discovery can hide in a familiar color."
+        },
+        "visual": {
+          "zh": "显微镜从左侧越出画面，物镜对着载物台上的空白玻片；右下立着一只装有液体、带软木塞的玻璃小瓶，刻线描出金属和玻璃。",
+          "en": "A cropped microscope occupies the left, its objective facing a clear slide on the stage. A small corked vial of liquid stands at the lower right; fine hatching describes metal and glass."
+        },
+        "background": {
+          "zh": "多马克因发现百浪多息（Prontosil）的抗菌作用获得1939年诺贝尔生理学或医学奖。官方介绍记载，他和同事在1932年的小鼠研究中观察到相关磺胺类物质对感染的作用。画面用试剂瓶与显微镜下的空白玻片表达从化学物质走向生物观察的探索。它没有描绘实际疗效、培养皿实验或具体装置，也不提供今天的用药建议。短句为原创。\n1939年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：发现百浪多息的抗菌作用",
+          "en": "Domagk received the 1939 Nobel Prize in Physiology or Medicine for discovering the antibacterial effects of Prontosil. The official account describes observations by him and his colleagues in mouse studies in 1932 involving sulfonamides and infection. A specimen vial beside a microscope and clear slide expresses exploration from chemical material to biological observation. It shows no measured efficacy, petri-dish experiment or specific apparatus and provides no present-day medication advice. The phrase is original.\n1939 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for the discovery of the antibacterial effects of prontosil"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年生理学或医学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/laureate/334",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/domagk-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

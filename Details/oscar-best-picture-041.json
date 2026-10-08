@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-041",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-041",
+      "subject": "oscar-best-picture-041",
+      "edition": "mono",
+      "title": "雾都孤儿",
+      "titleEnglish": "Oliver!",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-041/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-041/mono.jpg",
+      "sha256": "378655c265c79956d260dac5508f6ff048e02f3308db27d43d2f2e7cdeeb687e",
+      "thumbnailSHA256": "695d0626f010c83739ede332420d8cb2e87979ccfba1f6fed59adaad16a58372",
+      "context": {
+        "phrase": {
+          "zh": "每个孩子，都该有一扇为他打开的门。",
+          "en": "Every child deserves an open door."
+        },
+        "visual": {
+          "zh": "近处石阶上放着空金属碗和木勺；砖巷通向远处亮着灯的小门，烟囱轮廓衬在天空下。",
+          "en": "An empty metal bowl and wooden spoon rest on the near stone step. A brick passage leads to a lit doorway beneath distant chimney silhouettes."
+        },
+        "background": {
+          "zh": "影片跟随孤儿奥利弗从济贫院来到伦敦，寻找家庭与归属。这部1968年的音乐电影获得1969年第41届奥斯卡最佳影片。画面把近处空碗和木勺，与砖巷尽头亮着灯的敞门联系起来，表达温饱与被接纳的需要。它是原创寓意画，不是电影剧照、演员肖像或某一场戏的复原。短句不是台词或歌词。\n第41届奥斯卡最佳影片：雾都孤儿。颁奖年份 1969；参评年份 1968。",
+          "en": "Oliver leaves a workhouse for London, seeking family and belonging. This 1968 musical film won Best Picture at the 41st Academy Awards in 1969. An empty bowl and wooden spoon near the viewer relate to a small lit doorway at the end of a brick passage, expressing needs for food and acceptance. This is an original metaphor, not a film still, actor portrait or reconstruction of a specific scene. The phrase is not dialogue or a lyric.\nAcademy Awards ceremony 41 (1969), Best Picture: Oliver!. Eligibility year: 1968."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1969",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "sonypictures.com",
+            "url": "https://www.sonypictures.com/movies/oliver",
+            "labelLocalized": {
+              "zh": "《雾都孤儿》影片介绍｜索尼影业",
+              "en": "Oliver! synopsis — Sony Pictures"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-041",
+      "subject": "oscar-best-picture-041",
+      "edition": "color",
+      "title": "雾都孤儿",
+      "titleEnglish": "Oliver!",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-041/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-041/color.jpg",
+      "sha256": "a518553b46180fbc791a2bb2b0eeff5e1d4cb1fbcfcd76237beced82e3ddb2ab",
+      "thumbnailSHA256": "56f0306084d8e1f45280ff0a68bf05dce66d711579b6c54cabe954c2bd4cb2a6",
+      "context": {
+        "phrase": {
+          "zh": "每个孩子，都该有一扇为他打开的门。",
+          "en": "Every child deserves an open door."
+        },
+        "visual": {
+          "zh": "近处石阶上放着空金属碗和木勺；砖巷通向远处亮着灯的小门，烟囱轮廓衬在天空下。",
+          "en": "An empty metal bowl and wooden spoon rest on the near stone step. A brick passage leads to a lit doorway beneath distant chimney silhouettes."
+        },
+        "background": {
+          "zh": "影片跟随孤儿奥利弗从济贫院来到伦敦，寻找家庭与归属。这部1968年的音乐电影获得1969年第41届奥斯卡最佳影片。画面把近处空碗和木勺，与砖巷尽头亮着灯的敞门联系起来，表达温饱与被接纳的需要。它是原创寓意画，不是电影剧照、演员肖像或某一场戏的复原。短句不是台词或歌词。\n第41届奥斯卡最佳影片：雾都孤儿。颁奖年份 1969；参评年份 1968。",
+          "en": "Oliver leaves a workhouse for London, seeking family and belonging. This 1968 musical film won Best Picture at the 41st Academy Awards in 1969. An empty bowl and wooden spoon near the viewer relate to a small lit doorway at the end of a brick passage, expressing needs for food and acceptance. This is an original metaphor, not a film still, actor portrait or reconstruction of a specific scene. The phrase is not dialogue or a lyric.\nAcademy Awards ceremony 41 (1969), Best Picture: Oliver!. Eligibility year: 1968."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1969",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "sonypictures.com",
+            "url": "https://www.sonypictures.com/movies/oliver",
+            "labelLocalized": {
+              "zh": "《雾都孤儿》影片介绍｜索尼影业",
+              "en": "Oliver! synopsis — Sony Pictures"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

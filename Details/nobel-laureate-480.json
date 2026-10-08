@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-480",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-480",
+      "subject": "nobel-laureate-480",
+      "edition": "mono",
+      "title": "伊莱休·鲁特",
+      "titleEnglish": "Elihu Root",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-480/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-480/mono.jpg",
+      "sha256": "ca5964cd7a8d0e01b68469a1d6829a75c4600cc0cea527f865c9844301df7af1",
+      "thumbnailSHA256": "d6a75f3fc6194f0a4ff893ac275209b3cd3d8d7f35f1cc9d64729b0a4f38d2ae",
+      "context": {
+        "phrase": {
+          "zh": "让分歧有路可谈。",
+          "en": "Give differences a path to dialogue."
+        },
+        "visual": {
+          "zh": "多层空白纸张弯成一座小桥，斜跨两块石材之间的裂隙，借轻与重的对照呼应协商与仲裁。黑白与钴蓝版突出纸桥；彩色版使用乳白纸面、赭色与灰绿纸边、深浅不同的石材。它是原创象征，不代表真实条约、工程或历史场景。",
+          "en": "Layered blank paper forms a small bridge across a fissure between stones, contrasting light and heavy materials to evoke negotiation and arbitration. Cobalt defines the bridge in monochrome; full color uses ivory paper, ochre/sage edges and contrasting stone. This is an original symbol, not a real treaty, engineering project or historical scene."
+        },
+        "background": {
+          "zh": "鲁特独自获得1912年诺贝尔和平奖，官方理由是增进南北美洲国家之间的理解，并推动美国与其他国家的重要仲裁协议。仲裁是把争议交由约定的第三方裁决，不能等同于消除所有冲突。美国国务院历史办公室的行程记录列出，他在1906年访问巴西并参加第三届美洲国家国际会议，随后到访乌拉圭、阿根廷、智利、秘鲁等地。诺贝尔和平奖官方网站也指出其外交工作的历史矛盾：他曾支持美国控制其他地区，同时又试图减轻拉丁美洲对美国扩张的担忧。画面仅以空白纸拱表达协商，不把获奖等同于认可他的全部政策，短句也不是本人引语。\n1912年和平奖；独享本年度奖项。获奖理由（中文译述）：增进南北美洲国家之间的理解，并推动美国与其他国家的重要仲裁协议。",
+          "en": "Root was the sole recipient of the 1912 Nobel Peace Prize for improving understanding between North and South American countries and initiating important arbitration agreements between the United States and other countries. Arbitration submits disputes to an agreed third party; it does not eliminate every conflict. The US Office of the Historian records his 1906 attendance at the Third International Conference of American States in Brazil and subsequent visits to Uruguay, Argentina, Chile, Peru and elsewhere. The Nobel Peace Prize’s official history also describes a contradiction: support for US control of other territories alongside efforts to ease Latin American fears of expansion. Blank paper symbolizes negotiation, without endorsing all his policies. The phrase is not a quotation.\n1912 — The Nobel Peace Prize. Received the full prize. Official motivation: for bringing about better understanding between the countries of North and South America and initiating important arbitration agreements between the United States and other countries"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年和平奖｜官方记录",
+              "en": "1912 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1912",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "history.state.gov",
+            "url": "https://history.state.gov/departmenthistory/travels/secretary/root-elihu",
+            "labelLocalized": {
+              "zh": "官方出访记录｜美国国务院历史办公室",
+              "en": "Official itinerary — US Office of the Historian"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-480",
+      "subject": "nobel-laureate-480",
+      "edition": "color",
+      "title": "伊莱休·鲁特",
+      "titleEnglish": "Elihu Root",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-480/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-480/color.jpg",
+      "sha256": "72abd803e4c157afaa5e22ff59bb7449388b8e1b255a75fb54a55edb92acb73e",
+      "thumbnailSHA256": "34fc2210074c0dd4d7c24667f547b3d64a93bbae53af9f11db6a5ca3810dc297",
+      "context": {
+        "phrase": {
+          "zh": "让分歧有路可谈。",
+          "en": "Give differences a path to dialogue."
+        },
+        "visual": {
+          "zh": "多层空白纸张弯成一座小桥，斜跨两块石材之间的裂隙，借轻与重的对照呼应协商与仲裁。黑白与钴蓝版突出纸桥；彩色版使用乳白纸面、赭色与灰绿纸边、深浅不同的石材。它是原创象征，不代表真实条约、工程或历史场景。",
+          "en": "Layered blank paper forms a small bridge across a fissure between stones, contrasting light and heavy materials to evoke negotiation and arbitration. Cobalt defines the bridge in monochrome; full color uses ivory paper, ochre/sage edges and contrasting stone. This is an original symbol, not a real treaty, engineering project or historical scene."
+        },
+        "background": {
+          "zh": "鲁特独自获得1912年诺贝尔和平奖，官方理由是增进南北美洲国家之间的理解，并推动美国与其他国家的重要仲裁协议。仲裁是把争议交由约定的第三方裁决，不能等同于消除所有冲突。美国国务院历史办公室的行程记录列出，他在1906年访问巴西并参加第三届美洲国家国际会议，随后到访乌拉圭、阿根廷、智利、秘鲁等地。诺贝尔和平奖官方网站也指出其外交工作的历史矛盾：他曾支持美国控制其他地区，同时又试图减轻拉丁美洲对美国扩张的担忧。画面仅以空白纸拱表达协商，不把获奖等同于认可他的全部政策，短句也不是本人引语。\n1912年和平奖；独享本年度奖项。获奖理由（中文译述）：增进南北美洲国家之间的理解，并推动美国与其他国家的重要仲裁协议。",
+          "en": "Root was the sole recipient of the 1912 Nobel Peace Prize for improving understanding between North and South American countries and initiating important arbitration agreements between the United States and other countries. Arbitration submits disputes to an agreed third party; it does not eliminate every conflict. The US Office of the Historian records his 1906 attendance at the Third International Conference of American States in Brazil and subsequent visits to Uruguay, Argentina, Chile, Peru and elsewhere. The Nobel Peace Prize’s official history also describes a contradiction: support for US control of other territories alongside efforts to ease Latin American fears of expansion. Blank paper symbolizes negotiation, without endorsing all his policies. The phrase is not a quotation.\n1912 — The Nobel Peace Prize. Received the full prize. Official motivation: for bringing about better understanding between the countries of North and South America and initiating important arbitration agreements between the United States and other countries"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年和平奖｜官方记录",
+              "en": "1912 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1912",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "history.state.gov",
+            "url": "https://history.state.gov/departmenthistory/travels/secretary/root-elihu",
+            "labelLocalized": {
+              "zh": "官方出访记录｜美国国务院历史办公室",
+              "en": "Official itinerary — US Office of the Historian"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

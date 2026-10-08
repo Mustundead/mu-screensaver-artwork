@@ -1,0 +1,70 @@
+{
+  "subject": "069-optical-fiber",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:069-optical-fiber",
+      "subject": "069-optical-fiber",
+      "edition": "mono",
+      "title": "光纤与连接",
+      "titleEnglish": "Optical Fiber and Connections",
+      "category": "工程与制造",
+      "image": "Images/mono/069-optical-fiber.jpg",
+      "thumbnail": "Thumbs/mono/069-optical-fiber.jpg",
+      "sha256": "b2d5160af2c8c471220b5a5ffbee572573e205629054b83f87fdcabeaf16ab9d",
+      "thumbnailSHA256": "201ce513c0175362bb2c0c99bab238168d260ec719f925f1f642dec15dfef56c",
+      "context": {
+        "phrase": {
+          "zh": "一束光，沿着细线去远方。",
+          "en": "A beam travels along a fine strand."
+        },
+        "visual": {
+          "zh": "发亮的细丝穿过层叠的环形结构，表现光在纤维中被引导。画中外露的光芒并不是工作中光纤泄漏信号的样子。",
+          "en": "A glowing strand passes through layered rings, suggesting guided light in a fiber. The visible glow does not depict signal leaking from a working cable."
+        },
+        "background": {
+          "zh": "光纤的芯与包层具有不同折射率，使光在适当条件下沿纤维传播；全反射是理解导光的一种基本方式。光纤通信还需要发射、接收和误码控制等系统。",
+          "en": "Different refractive indices in a fiber’s core and cladding guide light along the strand under suitable conditions; total internal reflection is a basic way to understand this. Communication also depends on transmitters, receivers and error control."
+        },
+        "sources": [
+          {
+            "label": "Corning · Optical fiber glossary",
+            "url": "https://www.corning.com/optical-communications/in/en/home/products/fiber/optical-fiber-resource-center/glossary-of-terms.html"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:069-optical-fiber",
+      "subject": "069-optical-fiber",
+      "edition": "color",
+      "title": "光纤与连接",
+      "titleEnglish": "Optical Fiber and Connections",
+      "category": "工程与制造",
+      "image": "Images/color/069-optical-fiber.jpg",
+      "thumbnail": "Thumbs/color/069-optical-fiber.jpg",
+      "sha256": "f37f405160cd2696fc8e8362eb74f7ad0810689ad4e2f4ee90abe652a86a9493",
+      "thumbnailSHA256": "4a3846ad407d1ad11e8b05a909aa1b9a154aec29f889aa16e31f9549d4256ccb",
+      "context": {
+        "phrase": {
+          "zh": "一束光，沿着细线去远方。",
+          "en": "A beam travels along a fine strand."
+        },
+        "visual": {
+          "zh": "发亮的细丝穿过层叠的环形结构，表现光在纤维中被引导。画中外露的光芒并不是工作中光纤泄漏信号的样子。",
+          "en": "A glowing strand passes through layered rings, suggesting guided light in a fiber. The visible glow does not depict signal leaking from a working cable."
+        },
+        "background": {
+          "zh": "光纤的芯与包层具有不同折射率，使光在适当条件下沿纤维传播；全反射是理解导光的一种基本方式。光纤通信还需要发射、接收和误码控制等系统。",
+          "en": "Different refractive indices in a fiber’s core and cladding guide light along the strand under suitable conditions; total internal reflection is a basic way to understand this. Communication also depends on transmitters, receivers and error control."
+        },
+        "sources": [
+          {
+            "label": "Corning · Optical fiber glossary",
+            "url": "https://www.corning.com/optical-communications/in/en/home/products/fiber/optical-fiber-resource-center/glossary-of-terms.html"
+          }
+        ]
+      }
+    }
+  }
+}

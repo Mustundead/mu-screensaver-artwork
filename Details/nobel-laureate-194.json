@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-194",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-194",
+      "subject": "nobel-laureate-194",
+      "edition": "mono",
+      "title": "伊雷娜·约里奥-居里",
+      "titleEnglish": "Irène Joliot-Curie",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-194/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-194/mono.jpg",
+      "sha256": "52c385541cb24558c544439f2a957cfc368bc26fabfa479bb13bfa95cdfb737f",
+      "thumbnailSHA256": "12590d0d1e3ed4d8ba4a25fad0c59780fafc96220114a21960319a9611a30210",
+      "context": {
+        "phrase": {
+          "zh": "外来的推动停下了，变化仍在继续。",
+          "en": "The outside impulse has stopped; the change continues."
+        },
+        "visual": {
+          "zh": "一条银色薄片沿右侧纵向卷折，上下裁出画面；明暗折面由细刻线塑形，左侧深绿留白中紧邻薄片有三条短细线。中性黑白保留折面和细线位置。",
+          "en": "A single silver foil strip folds vertically along the right and extends beyond the top and bottom. Fine engraved hatching shapes its light and dark facets; three short marks sit close to the foil across the quiet deep-green field. Neutral monochrome preserves the folds and marks."
+        },
+        "background": {
+          "zh": "伊雷娜·约里奥-居里与弗雷德里克·约里奥共同获得1935年诺贝尔化学奖，各占一半。他们在1934年发现，薄铝片受到α粒子照射后，即使移走照射源仍会发出辐射；铝原子发生转变，形成了磷的放射性同位素。这说明放射性原子能够人工制造。折起的银色薄片与邻近细线取意于照射停止后仍持续的变化，是原创寓意，不是能直接看见的辐射、实验读数或独由她完成的步骤；短句为原创。\n1935年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：因合成新的放射性元素，与弗雷德里克·约里奥共同获奖。",
+          "en": "Irène Joliot-Curie shared the 1935 Nobel Prize in Chemistry equally with Frédéric Joliot. In 1934 they found that thin aluminum exposed to alpha particles continued to emit radiation after the source was removed. Aluminum atoms had been transformed into a radioactive isotope of phosphorus, showing that radioactive atoms could be created artificially. The folded silver foil and nearby fine marks evoke change continuing after irradiation stops. They are an original metaphor, not visible radiation, readings or a step performed by her alone. The phrase is original.\n1935 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: in recognition of their synthesis of new radioactive elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年化学奖｜官方记录",
+              "en": "1935 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1935/joliot-curie/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-194",
+      "subject": "nobel-laureate-194",
+      "edition": "color",
+      "title": "伊雷娜·约里奥-居里",
+      "titleEnglish": "Irène Joliot-Curie",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-194/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-194/color.jpg",
+      "sha256": "2fd91350edf27d28634709da7f87020e727bff598c83986bc45010acae9978c6",
+      "thumbnailSHA256": "abcf7a1673e89fa5b07d218869cd88d40d8c7c20d8aa47b932910e7cee391f10",
+      "context": {
+        "phrase": {
+          "zh": "外来的推动停下了，变化仍在继续。",
+          "en": "The outside impulse has stopped; the change continues."
+        },
+        "visual": {
+          "zh": "一条银色薄片沿右侧纵向卷折，上下裁出画面；明暗折面由细刻线塑形，左侧深绿留白中紧邻薄片有三条短细线。中性黑白保留折面和细线位置。",
+          "en": "A single silver foil strip folds vertically along the right and extends beyond the top and bottom. Fine engraved hatching shapes its light and dark facets; three short marks sit close to the foil across the quiet deep-green field. Neutral monochrome preserves the folds and marks."
+        },
+        "background": {
+          "zh": "伊雷娜·约里奥-居里与弗雷德里克·约里奥共同获得1935年诺贝尔化学奖，各占一半。他们在1934年发现，薄铝片受到α粒子照射后，即使移走照射源仍会发出辐射；铝原子发生转变，形成了磷的放射性同位素。这说明放射性原子能够人工制造。折起的银色薄片与邻近细线取意于照射停止后仍持续的变化，是原创寓意，不是能直接看见的辐射、实验读数或独由她完成的步骤；短句为原创。\n1935年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：因合成新的放射性元素，与弗雷德里克·约里奥共同获奖。",
+          "en": "Irène Joliot-Curie shared the 1935 Nobel Prize in Chemistry equally with Frédéric Joliot. In 1934 they found that thin aluminum exposed to alpha particles continued to emit radiation after the source was removed. Aluminum atoms had been transformed into a radioactive isotope of phosphorus, showing that radioactive atoms could be created artificially. The folded silver foil and nearby fine marks evoke change continuing after irradiation stops. They are an original metaphor, not visible radiation, readings or a step performed by her alone. The phrase is original.\n1935 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: in recognition of their synthesis of new radioactive elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年化学奖｜官方记录",
+              "en": "1935 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1935/joliot-curie/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

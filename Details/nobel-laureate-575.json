@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-575",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-575",
+      "subject": "nobel-laureate-575",
+      "edition": "mono",
+      "title": "亨利克·显克微支",
+      "titleEnglish": "Henryk Sienkiewicz",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-575/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-575/mono.jpg",
+      "sha256": "0e215d01577b1228e7d7e79525f4cf60ed1703e5d9468b57f5515f5631ffc750",
+      "thumbnailSHA256": "cdf495cf4fb5cd52c89ac742cede9b5b12dfe7dc1a805199a095d4789ae07b17",
+      "context": {
+        "phrase": {
+          "zh": "长篇故事，把人的命运放进历史之中。",
+          "en": "Long stories place human lives within history."
+        },
+        "visual": {
+          "zh": "以想象中的罗马拱门、城堡、空白书页和羽毛笔组成的独立拼贴，呼应显克微支的历史小说。建筑不是指定古迹，画面也不是某本小说的准确场景或真实书籍版本。",
+          "en": "An original collage of an imagined Roman arch, castle, blank books and a quill evokes Sienkiewicz's historical fiction. The architecture does not identify actual monuments, and the artwork reconstructs neither a precise novel scene nor a real book edition."
+        },
+        "background": {
+          "zh": "显克微支获得1905年诺贝尔文学奖，获奖理由是作为史诗作家的卓越成就。他以历史小说著称，波兰历史三部曲将历史事实与虚构结合；《你往何处去》则以尼禄时代的罗马为背景。配图把两个历史世界与写作物件相连，不把奖项归因于单一本书。\n1905年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他作为史诗作家的卓越成就。",
+          "en": "Sienkiewicz received the 1905 Nobel Prize in Literature for his outstanding merits as an epic writer. Known for historical novels, he combined fact and fiction in his trilogy of Polish history; Quo Vadis is set in Nero's Rome. The artwork connects these historical worlds with writing objects without presenting the prize as an award for one book.\n1905 — The Nobel Prize in Literature. Received the full prize. Official motivation: because of his outstanding merits as an epic writer"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年文学奖｜官方记录",
+              "en": "1905 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1905/sienkiewicz/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-575",
+      "subject": "nobel-laureate-575",
+      "edition": "color",
+      "title": "亨利克·显克微支",
+      "titleEnglish": "Henryk Sienkiewicz",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-575/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-575/color.jpg",
+      "sha256": "7416e61eeae0f357d26f8cf01220deabe19f3dc936d6b2af3699bde86a0a4169",
+      "thumbnailSHA256": "4b033bd6ad587924a081575d868ecbd18355f67e2000b2dc94b7e50ca6a365d7",
+      "context": {
+        "phrase": {
+          "zh": "长篇故事，把人的命运放进历史之中。",
+          "en": "Long stories place human lives within history."
+        },
+        "visual": {
+          "zh": "以想象中的罗马拱门、城堡、空白书页和羽毛笔组成的独立拼贴，呼应显克微支的历史小说。建筑不是指定古迹，画面也不是某本小说的准确场景或真实书籍版本。",
+          "en": "An original collage of an imagined Roman arch, castle, blank books and a quill evokes Sienkiewicz's historical fiction. The architecture does not identify actual monuments, and the artwork reconstructs neither a precise novel scene nor a real book edition."
+        },
+        "background": {
+          "zh": "显克微支获得1905年诺贝尔文学奖，获奖理由是作为史诗作家的卓越成就。他以历史小说著称，波兰历史三部曲将历史事实与虚构结合；《你往何处去》则以尼禄时代的罗马为背景。配图把两个历史世界与写作物件相连，不把奖项归因于单一本书。\n1905年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他作为史诗作家的卓越成就。",
+          "en": "Sienkiewicz received the 1905 Nobel Prize in Literature for his outstanding merits as an epic writer. Known for historical novels, he combined fact and fiction in his trilogy of Polish history; Quo Vadis is set in Nero's Rome. The artwork connects these historical worlds with writing objects without presenting the prize as an award for one book.\n1905 — The Nobel Prize in Literature. Received the full prize. Official motivation: because of his outstanding merits as an epic writer"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年文学奖｜官方记录",
+              "en": "1905 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1905/sienkiewicz/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

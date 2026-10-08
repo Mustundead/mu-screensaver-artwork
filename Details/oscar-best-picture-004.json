@@ -1,0 +1,102 @@
+{
+  "subject": "oscar-best-picture-004",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-004",
+      "subject": "oscar-best-picture-004",
+      "edition": "mono",
+      "title": "壮志千秋",
+      "titleEnglish": "Cimarron",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-004/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-004/mono.jpg",
+      "sha256": "f69ba06dc8fb98f2dfd5f92cc82c5e031eff6b827a5f68e441c219f58edacd6b",
+      "thumbnailSHA256": "9b8a2eda5164b3aa7a8f23b071524a3fb1a9a2072041563b3737f146a156b914",
+      "context": {
+        "phrase": {
+          "zh": "在变动的土地上，记下人的来路。",
+          "en": "On changing ground, keep a record of people's journeys."
+        },
+        "visual": {
+          "zh": "为1931年《壮志千秋》独立创作的报业与迁徙拼贴，以早期印刷机、车轮与草叶回望影片的时代背景；不是电影剧照或海报。",
+          "en": "An original press-and-migration collage for the 1931 Cimarron, with an early printing press, wagon wheel and prairie grasses recalling its setting. Not a movie still or poster."
+        },
+        "background": {
+          "zh": "影片改编自埃德娜·费伯的小说，围绕报纸编辑扬西、他的妻子萨布拉及一家人在俄克拉何马的生活展开，并于1931年获得第四届奥斯卡最佳影片奖。印刷机与车轮分别对应报业与迁徙；这是对影片背景的艺术解读，不复刻某个镜头。\n第4届奥斯卡最佳影片：壮志千秋。颁奖年份 1931；参评年份 1930/31。",
+          "en": "Adapted from Edna Ferber's novel, the film follows newspaper editor Yancey, his wife Sabra and their family's life in Oklahoma. It won Best Picture at the fourth Academy Awards in 1931. The press and wheel refer to publishing and migration; this is an artistic interpretation of the setting, not a recreation of a shot.\nAcademy Awards ceremony 4 (1931), Best Picture: Cimarron. Eligibility year: 1930/31."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1932",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "TCM",
+            "url": "https://www.tcm.com/watchtcm/titles/14798"
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/899-CIMARRON",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-004",
+      "subject": "oscar-best-picture-004",
+      "edition": "color",
+      "title": "壮志千秋",
+      "titleEnglish": "Cimarron",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-004/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-004/color.jpg",
+      "sha256": "367447a60c5c09d09dbbeecb56f3907fa28c47c3139728ffd4adece628a6aa18",
+      "thumbnailSHA256": "cbff005e77145a5cf0f8066280a36e790d4409cfa01e72f5d66981f22364d66a",
+      "context": {
+        "phrase": {
+          "zh": "在变动的土地上，记下人的来路。",
+          "en": "On changing ground, keep a record of people's journeys."
+        },
+        "visual": {
+          "zh": "为1931年《壮志千秋》独立创作的报业与迁徙拼贴，以早期印刷机、车轮与草叶回望影片的时代背景；不是电影剧照或海报。",
+          "en": "An original press-and-migration collage for the 1931 Cimarron, with an early printing press, wagon wheel and prairie grasses recalling its setting. Not a movie still or poster."
+        },
+        "background": {
+          "zh": "影片改编自埃德娜·费伯的小说，围绕报纸编辑扬西、他的妻子萨布拉及一家人在俄克拉何马的生活展开，并于1931年获得第四届奥斯卡最佳影片奖。印刷机与车轮分别对应报业与迁徙；这是对影片背景的艺术解读，不复刻某个镜头。\n第4届奥斯卡最佳影片：壮志千秋。颁奖年份 1931；参评年份 1930/31。",
+          "en": "Adapted from Edna Ferber's novel, the film follows newspaper editor Yancey, his wife Sabra and their family's life in Oklahoma. It won Best Picture at the fourth Academy Awards in 1931. The press and wheel refer to publishing and migration; this is an artistic interpretation of the setting, not a recreation of a shot.\nAcademy Awards ceremony 4 (1931), Best Picture: Cimarron. Eligibility year: 1930/31."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1932",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "TCM",
+            "url": "https://www.tcm.com/watchtcm/titles/14798"
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/899-CIMARRON",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

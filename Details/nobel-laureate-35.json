@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-35",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-35",
+      "subject": "nobel-laureate-35",
+      "edition": "mono",
+      "title": "欧文·理查森",
+      "titleEnglish": "Owen Willans Richardson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-35/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-35/mono.jpg",
+      "sha256": "53f460ca2d15605b86cb57acc1b2cc83b1f71d59cc244dca5acc4b50803716d7",
+      "thumbnailSHA256": "ca4ad5c8c8b887bedb59564117d0acf6cfa5bd9bc245cbd1673a6d5ca200fc8c",
+      "context": {
+        "phrase": {
+          "zh": "热，使表面有了新的出口。",
+          "en": "Heat opens a way beyond the surface."
+        },
+        "visual": {
+          "zh": "横向钢套在右侧露出椭圆开口，剖视内部的连续热丝在回弯处呈暗红色，细点散向浅色留白。黑白版保留同一剖视关系，以浅灰热丝对照暗色内腔；这不是实验装置复原。",
+          "en": "A horizontal steel sleeve opens into an ellipse at the right. A cutaway reveals a continuous filament with a muted red return bend; sparse dots spread into the pale space beyond. The neutral edition keeps the same cutaway, with a pale gray filament against the dark interior. This is not a reconstructed apparatus."
+        },
+        "background": {
+          "zh": "理查森获1928年诺贝尔物理学奖，实际于1929年领受。他研究金属受热时释放电子的现象，并发现描述这一现象的规律。钢套、热丝与细点是受热释放的原创寓意，不是历史仪器、实验数据或科学示意图；短句为原创。\n1928年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他研究热电子现象，并发现以其名字命名的规律。",
+          "en": "Richardson was awarded the 1928 Nobel Prize in Physics and received it in 1929. He studied the release of electrons from heated metal and discovered a law describing this behavior. The sleeve, filament and dots are an original metaphor for release through heating, not a historical instrument, experimental data or a scientific schematic. The phrase is original.\n1928 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the thermionic phenomenon and especially for the discovery of the law named after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1928 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1928/summary/",
+            "labelLocalized": {
+              "zh": "1928年物理学奖｜官方记录",
+              "en": "1928 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1928/richardson/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-35",
+      "subject": "nobel-laureate-35",
+      "edition": "color",
+      "title": "欧文·理查森",
+      "titleEnglish": "Owen Willans Richardson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-35/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-35/color.jpg",
+      "sha256": "bd77edc9fc1ac84301595e4b1ec6cfaefd1ae7368c83bb66fc827958ba5908ef",
+      "thumbnailSHA256": "0f19dfa469a3f9398fe60062d02a0646fa893de0ead3b98615d2beb6c01b7313",
+      "context": {
+        "phrase": {
+          "zh": "热，使表面有了新的出口。",
+          "en": "Heat opens a way beyond the surface."
+        },
+        "visual": {
+          "zh": "横向钢套在右侧露出椭圆开口，剖视内部的连续热丝在回弯处呈暗红色，细点散向浅色留白。黑白版保留同一剖视关系，以浅灰热丝对照暗色内腔；这不是实验装置复原。",
+          "en": "A horizontal steel sleeve opens into an ellipse at the right. A cutaway reveals a continuous filament with a muted red return bend; sparse dots spread into the pale space beyond. The neutral edition keeps the same cutaway, with a pale gray filament against the dark interior. This is not a reconstructed apparatus."
+        },
+        "background": {
+          "zh": "理查森获1928年诺贝尔物理学奖，实际于1929年领受。他研究金属受热时释放电子的现象，并发现描述这一现象的规律。钢套、热丝与细点是受热释放的原创寓意，不是历史仪器、实验数据或科学示意图；短句为原创。\n1928年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他研究热电子现象，并发现以其名字命名的规律。",
+          "en": "Richardson was awarded the 1928 Nobel Prize in Physics and received it in 1929. He studied the release of electrons from heated metal and discovered a law describing this behavior. The sleeve, filament and dots are an original metaphor for release through heating, not a historical instrument, experimental data or a scientific schematic. The phrase is original.\n1928 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the thermionic phenomenon and especially for the discovery of the law named after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1928 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1928/summary/",
+            "labelLocalized": {
+              "zh": "1928年物理学奖｜官方记录",
+              "en": "1928 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1928/richardson/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

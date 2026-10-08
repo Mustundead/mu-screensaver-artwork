@@ -1,0 +1,70 @@
+{
+  "subject": "030-gravitational-waves",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:030-gravitational-waves",
+      "subject": "030-gravitational-waves",
+      "edition": "mono",
+      "title": "引力波",
+      "titleEnglish": "Gravitational Waves",
+      "category": "宇宙",
+      "image": "Images/mono/030-gravitational-waves.jpg",
+      "thumbnail": "Thumbs/mono/030-gravitational-waves.jpg",
+      "sha256": "ae82c218e8a178b676d43acc5c2bef4fdd4640e63434946c3ebc160262d713cc",
+      "thumbnailSHA256": "e0d6c5ff1562879a388f1eb639ccf7b53faea825ca8fab4b849c0ac5b694ff39",
+      "context": {
+        "phrase": {
+          "zh": "时空的一次轻颤，也能传得很远。",
+          "en": "A ripple in spacetime can travel far."
+        },
+        "visual": {
+          "zh": "层层涟漪围绕两个明亮天体扩散，将难以直接看见的引力波化作水波般的形态。这不是探测器输出的波形。",
+          "en": "Ripples radiate from two luminous bodies, giving an invisible gravitational wave a water-like form. This is not a detector trace."
+        },
+        "background": {
+          "zh": "广义相对论预言，加速运动的大质量天体可以产生引力波。LIGO 于 2015 年首次直接探测到来自双黑洞并合的信号，开启了通过时空扰动研究宇宙的新途径。",
+          "en": "General relativity predicts gravitational waves from accelerating massive bodies. In 2015 LIGO directly detected a signal from merging black holes, opening another way to study the universe through disturbances in spacetime."
+        },
+        "sources": [
+          {
+            "label": "LIGO Scientific Collaboration · First detection",
+            "url": "https://ligo.org/science-summaries/gw150914/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:030-gravitational-waves",
+      "subject": "030-gravitational-waves",
+      "edition": "color",
+      "title": "引力波",
+      "titleEnglish": "Gravitational Waves",
+      "category": "宇宙",
+      "image": "Images/color/030-gravitational-waves.jpg",
+      "thumbnail": "Thumbs/color/030-gravitational-waves.jpg",
+      "sha256": "9cf1c6762055924c528922e658d8b444d144c574ca4f80428770807cbec42509",
+      "thumbnailSHA256": "4c18be5f896a59024b3dd8b3ea8847bf71c3a4094419279ed9780c6231c55e7d",
+      "context": {
+        "phrase": {
+          "zh": "时空的一次轻颤，也能传得很远。",
+          "en": "A ripple in spacetime can travel far."
+        },
+        "visual": {
+          "zh": "层层涟漪围绕两个明亮天体扩散，将难以直接看见的引力波化作水波般的形态。这不是探测器输出的波形。",
+          "en": "Ripples radiate from two luminous bodies, giving an invisible gravitational wave a water-like form. This is not a detector trace."
+        },
+        "background": {
+          "zh": "广义相对论预言，加速运动的大质量天体可以产生引力波。LIGO 于 2015 年首次直接探测到来自双黑洞并合的信号，开启了通过时空扰动研究宇宙的新途径。",
+          "en": "General relativity predicts gravitational waves from accelerating massive bodies. In 2015 LIGO directly detected a signal from merging black holes, opening another way to study the universe through disturbances in spacetime."
+        },
+        "sources": [
+          {
+            "label": "LIGO Scientific Collaboration · First detection",
+            "url": "https://ligo.org/science-summaries/gw150914/"
+          }
+        ]
+      }
+    }
+  }
+}

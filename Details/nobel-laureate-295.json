@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-295",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-295",
+      "subject": "nobel-laureate-295",
+      "edition": "mono",
+      "title": "尼尔斯·芬森",
+      "titleEnglish": "Niels Ryberg Finsen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-295/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-295/mono.jpg",
+      "sha256": "f32af9343ce4c1229d6d2b2e874df627b4dfc3ee6b0d80b4ee9cb66fd2abe268",
+      "thumbnailSHA256": "c8ca5f5754e647a4246e647bedd2c14e7a70daa8bfeffafbd7c84592536418c5",
+      "context": {
+        "phrase": {
+          "zh": "换一种观察方式，也许能找到新的方向。",
+          "en": "A different way of observing may reveal a new direction."
+        },
+        "visual": {
+          "zh": "为芬森独立创作的光学研究拼贴，以反射器、透镜、空椅和记录本呼应早期光照研究。器材是象征性组合，不是他的原装治疗设备；画面不展示患者、治疗过程或可照做的装置。",
+          "en": "An original optics-research collage for Finsen combines a reflector, lenses, an empty chair and a notebook to evoke early light research. The apparatus is symbolic, not his actual treatment equipment; the image shows no patient, treatment procedure or device to reproduce."
+        },
+        "background": {
+          "zh": "芬森获得1903年诺贝尔生理学或医学奖，表彰他以集中光照治疗疾病的研究贡献，尤其是寻常狼疮。这是一种皮肤结核。官方资料介绍他在1895年以集中紫外光治疗这一疾病的历史研究。配图以光学器材呼应当时的探索，不将历史研究表现为今天的治疗建议，也不复原具体治疗装置。\n1903年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他以集中光照治疗疾病、尤其是寻常狼疮（一种皮肤结核）所作出的贡献，为医学开辟了新的方向。",
+          "en": "Finsen received the 1903 Nobel Prize in Physiology or Medicine for his contribution to treating disease with concentrated light, especially lupus vulgaris, a form of skin tuberculosis. Official Nobel material describes his historical use of concentrated ultraviolet light in 1895. The artwork evokes that exploration through optical objects without presenting it as current treatment advice or reconstructing an actual treatment apparatus.\n1903 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年生理学或医学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1903/finsen/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-295",
+      "subject": "nobel-laureate-295",
+      "edition": "color",
+      "title": "尼尔斯·芬森",
+      "titleEnglish": "Niels Ryberg Finsen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-295/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-295/color.jpg",
+      "sha256": "8cea64126812672f0537b7a050e0853dd30cae2ddfe332e210a464c2d387998d",
+      "thumbnailSHA256": "c305817186291f66d570fbebb24447446b8dbe507019a936cbc52556a40ae482",
+      "context": {
+        "phrase": {
+          "zh": "换一种观察方式，也许能找到新的方向。",
+          "en": "A different way of observing may reveal a new direction."
+        },
+        "visual": {
+          "zh": "为芬森独立创作的光学研究拼贴，以反射器、透镜、空椅和记录本呼应早期光照研究。器材是象征性组合，不是他的原装治疗设备；画面不展示患者、治疗过程或可照做的装置。",
+          "en": "An original optics-research collage for Finsen combines a reflector, lenses, an empty chair and a notebook to evoke early light research. The apparatus is symbolic, not his actual treatment equipment; the image shows no patient, treatment procedure or device to reproduce."
+        },
+        "background": {
+          "zh": "芬森获得1903年诺贝尔生理学或医学奖，表彰他以集中光照治疗疾病的研究贡献，尤其是寻常狼疮。这是一种皮肤结核。官方资料介绍他在1895年以集中紫外光治疗这一疾病的历史研究。配图以光学器材呼应当时的探索，不将历史研究表现为今天的治疗建议，也不复原具体治疗装置。\n1903年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他以集中光照治疗疾病、尤其是寻常狼疮（一种皮肤结核）所作出的贡献，为医学开辟了新的方向。",
+          "en": "Finsen received the 1903 Nobel Prize in Physiology or Medicine for his contribution to treating disease with concentrated light, especially lupus vulgaris, a form of skin tuberculosis. Official Nobel material describes his historical use of concentrated ultraviolet light in 1895. The artwork evokes that exploration through optical objects without presenting it as current treatment advice or reconstructing an actual treatment apparatus.\n1903 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his contribution to the treatment of diseases, especially lupus vulgaris, with concentrated light radiation, whereby he has opened a new avenue for medical science"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年生理学或医学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1903/finsen/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

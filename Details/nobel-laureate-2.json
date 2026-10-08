@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-2",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-2",
+      "subject": "nobel-laureate-2",
+      "edition": "mono",
+      "title": "亨德里克·洛伦兹",
+      "titleEnglish": "Hendrik A. Lorentz",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-2/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-2/mono.jpg",
+      "sha256": "7539498f932b9ff3f704001c5d0744fbf1386135c99d7fcc54b9181a62b2ac82",
+      "thumbnailSHA256": "6b57d8d7f0ad176435ebc8e43b45c7dfa34976163a56f1609ad4de2914d958e6",
+      "context": {
+        "phrase": {
+          "zh": "让光的变化，显露背后的规律。",
+          "en": "Let changes in light reveal the laws behind them."
+        },
+        "visual": {
+          "zh": "为洛伦兹独立创作的光与电磁理论拼贴，以线圈、棱镜和波纹表达研究之间的联系；器具与波纹是艺术概括，不是实验示意图。",
+          "en": "An original light-and-electromagnetic-theory collage for Lorentz, using a coil, prism and wave forms to evoke connections between phenomena. The objects and waves are artistic abstractions, not an experiment diagram."
+        },
+        "background": {
+          "zh": "洛伦兹与塞曼分享1902年诺贝尔物理学奖，获奖工作研究磁性对辐射现象的影响。洛伦兹的电子理论为理解光与磁场的联系提供了理论解释。配图用线圈和波纹表现这项工作的思考路径，不描绘电子的真实轨迹。\n1902年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们研究磁性对辐射现象影响所作出的卓越贡献。",
+          "en": "Lorentz shared the 1902 Nobel Prize in Physics with Zeeman for research on magnetism's influence on radiation phenomena. His electron theory helped explain the relationship between light and magnetic fields. The coil and wave forms interpret this theoretical work rather than depict actual electron paths.\n1902 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年物理学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/lorentz/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/lorentz/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-2",
+      "subject": "nobel-laureate-2",
+      "edition": "color",
+      "title": "亨德里克·洛伦兹",
+      "titleEnglish": "Hendrik A. Lorentz",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-2/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-2/color.jpg",
+      "sha256": "f838451dfe2ed35393fdfd66e53e5b8106711bf61f686ba0bdb9d2255dec179e",
+      "thumbnailSHA256": "3d314e6f5828e5e06d45c88f81fc9f4afe76d9cc9802ae5101369651a0c63b7f",
+      "context": {
+        "phrase": {
+          "zh": "让光的变化，显露背后的规律。",
+          "en": "Let changes in light reveal the laws behind them."
+        },
+        "visual": {
+          "zh": "为洛伦兹独立创作的光与电磁理论拼贴，以线圈、棱镜和波纹表达研究之间的联系；器具与波纹是艺术概括，不是实验示意图。",
+          "en": "An original light-and-electromagnetic-theory collage for Lorentz, using a coil, prism and wave forms to evoke connections between phenomena. The objects and waves are artistic abstractions, not an experiment diagram."
+        },
+        "background": {
+          "zh": "洛伦兹与塞曼分享1902年诺贝尔物理学奖，获奖工作研究磁性对辐射现象的影响。洛伦兹的电子理论为理解光与磁场的联系提供了理论解释。配图用线圈和波纹表现这项工作的思考路径，不描绘电子的真实轨迹。\n1902年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们研究磁性对辐射现象影响所作出的卓越贡献。",
+          "en": "Lorentz shared the 1902 Nobel Prize in Physics with Zeeman for research on magnetism's influence on radiation phenomena. His electron theory helped explain the relationship between light and magnetic fields. The coil and wave forms interpret this theoretical work rather than depict actual electron paths.\n1902 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年物理学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/lorentz/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/lorentz/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

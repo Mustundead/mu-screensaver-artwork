@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-330",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-330",
+      "subject": "nobel-laureate-330",
+      "edition": "mono",
+      "title": "亨利·戴尔",
+      "titleEnglish": "Sir Henry Dale",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-330/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-330/mono.jpg",
+      "sha256": "2ad2a7083ca511dbe92fb2bc93fde0c0db9965fd0a9f276cb915cf588d5279f9",
+      "thumbnailSHA256": "553ee56bae26e979cb39e61e9a9424f3767210f8de45b326b1c67c47601b61c6",
+      "context": {
+        "phrase": {
+          "zh": "细小的传递，也能让另一端产生回应。",
+          "en": "A tiny transmission can bring a response at the other end."
+        },
+        "visual": {
+          "zh": "一束浅杏色纤维从左上分叉成三个圆钝末端，下方暗红肌束平行铺开；象牙间隙中的小颗粒连接两者的关系，右上留白。细刻线顺着枝条和肌束塑形，中性黑白保持相同结构。",
+          "en": "One pale-amber filament branches from upper left into three rounded terminal tips above broad parallel terracotta fibers. Small particles occupy the ivory gap, with quiet paper at upper right. Fine engraved lines follow branches and fibers; neutral monochrome retains the structure."
+        },
+        "background": {
+          "zh": "戴尔与勒维共同获得1936年诺贝尔生理学或医学奖，表彰有关神经信号化学传递的发现。戴尔和合作者扩展了乙酰胆碱在神经连接处及神经向肌肉传递时作用的实验依据；乙酰胆碱是一种传递神经信号的化学物质。画面用分叉末端、间隙中的小颗粒与下方肌束表达跨越间隙的传递，是原创寓意，不是精确解剖、分子结构、颗粒数量或治疗说明；短句为原创。\n1936年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现神经信号的化学传递",
+          "en": "Dale and Loewi shared the 1936 Nobel Prize in Physiology or Medicine for discoveries relating to chemical transmission of nerve impulses. Dale and collaborators extended experimental evidence for acetylcholine at nerve junctions and in transmission from nerve to muscle. Acetylcholine is a chemical messenger that carries nerve signals. Branching terminals, small particles in a gap and muscle-like fibers below form an original metaphor for transmission, not exact anatomy, molecular structure, particle counts or treatment advice. The phrase is original.\n1936 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries relating to chemical transmission of nerve impulses"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年生理学或医学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/dale/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/dale/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-330",
+      "subject": "nobel-laureate-330",
+      "edition": "color",
+      "title": "亨利·戴尔",
+      "titleEnglish": "Sir Henry Dale",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-330/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-330/color.jpg",
+      "sha256": "b26a214a5278fd31e668d506853bcbd9d9e325eed9297d4d52e24dabd6568fa3",
+      "thumbnailSHA256": "1e795fa1bb83bce0c6fd0ec1e304df9fa45330e02b4eda24af08be217e70230d",
+      "context": {
+        "phrase": {
+          "zh": "细小的传递，也能让另一端产生回应。",
+          "en": "A tiny transmission can bring a response at the other end."
+        },
+        "visual": {
+          "zh": "一束浅杏色纤维从左上分叉成三个圆钝末端，下方暗红肌束平行铺开；象牙间隙中的小颗粒连接两者的关系，右上留白。细刻线顺着枝条和肌束塑形，中性黑白保持相同结构。",
+          "en": "One pale-amber filament branches from upper left into three rounded terminal tips above broad parallel terracotta fibers. Small particles occupy the ivory gap, with quiet paper at upper right. Fine engraved lines follow branches and fibers; neutral monochrome retains the structure."
+        },
+        "background": {
+          "zh": "戴尔与勒维共同获得1936年诺贝尔生理学或医学奖，表彰有关神经信号化学传递的发现。戴尔和合作者扩展了乙酰胆碱在神经连接处及神经向肌肉传递时作用的实验依据；乙酰胆碱是一种传递神经信号的化学物质。画面用分叉末端、间隙中的小颗粒与下方肌束表达跨越间隙的传递，是原创寓意，不是精确解剖、分子结构、颗粒数量或治疗说明；短句为原创。\n1936年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现神经信号的化学传递",
+          "en": "Dale and Loewi shared the 1936 Nobel Prize in Physiology or Medicine for discoveries relating to chemical transmission of nerve impulses. Dale and collaborators extended experimental evidence for acetylcholine at nerve junctions and in transmission from nerve to muscle. Acetylcholine is a chemical messenger that carries nerve signals. Branching terminals, small particles in a gap and muscle-like fibers below form an original metaphor for transmission, not exact anatomy, molecular structure, particle counts or treatment advice. The phrase is original.\n1936 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries relating to chemical transmission of nerve impulses"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年生理学或医学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/dale/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/dale/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

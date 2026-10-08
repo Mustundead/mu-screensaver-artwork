@@ -1,0 +1,70 @@
+{
+  "subject": "031-exoplanet-transit",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:031-exoplanet-transit",
+      "subject": "031-exoplanet-transit",
+      "edition": "mono",
+      "title": "系外行星凌星",
+      "titleEnglish": "Exoplanet Transits",
+      "category": "宇宙",
+      "image": "Images/mono/031-exoplanet-transit.jpg",
+      "thumbnail": "Thumbs/mono/031-exoplanet-transit.jpg",
+      "sha256": "9c82cf5c5f0ed970e07da1d4712d1b2df8c05e376eb35a137ff1f318ecd053fd",
+      "thumbnailSHA256": "0f6dde3cf48aa53d101af012ac580da9aa09f02b17a102fa083dafb5a1ce695c",
+      "context": {
+        "phrase": {
+          "zh": "一瞬变暗，可能是一颗远方行星。",
+          "en": "A small dimming may reveal a distant planet."
+        },
+        "visual": {
+          "zh": "小型暗圆越过发光恒星，前景中有观察刻度，把凌星过程压缩到一幅画里。大小、轨迹与亮度变化都不代表真实观测值。",
+          "en": "A small dark disc crosses a glowing star beside observing marks, compressing a transit into one scene. The sizes, path and brightness change are not observational measurements."
+        },
+        "background": {
+          "zh": "若系外行星从地球视角经过恒星前方，恒星总亮度会暂时下降。天文学家研究这种周期性的光变，估计行星的轨道周期和相对于恒星的大小；还需排除其他造成变暗的原因。",
+          "en": "When an exoplanet passes in front of its star from Earth’s viewpoint, the star briefly dims. Astronomers study repeated dips to estimate the orbital period and the planet’s size relative to its star, while checking other causes of dimming."
+        },
+        "sources": [
+          {
+            "label": "NASA · Transit method",
+            "url": "https://science.nasa.gov/exoplanets/whats-a-transit/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:031-exoplanet-transit",
+      "subject": "031-exoplanet-transit",
+      "edition": "color",
+      "title": "系外行星凌星",
+      "titleEnglish": "Exoplanet Transits",
+      "category": "宇宙",
+      "image": "Images/color/031-exoplanet-transit.jpg",
+      "thumbnail": "Thumbs/color/031-exoplanet-transit.jpg",
+      "sha256": "5d85aa219e4da5c09eba3d3ec402bc634ceb51cdd57e002180badbe4db73ed77",
+      "thumbnailSHA256": "6b50c5b3b09e61a439fe070cfa74e5b2bc6e5e83294caf049bd2e1b32cfe1c3e",
+      "context": {
+        "phrase": {
+          "zh": "一瞬变暗，可能是一颗远方行星。",
+          "en": "A small dimming may reveal a distant planet."
+        },
+        "visual": {
+          "zh": "小型暗圆越过发光恒星，前景中有观察刻度，把凌星过程压缩到一幅画里。大小、轨迹与亮度变化都不代表真实观测值。",
+          "en": "A small dark disc crosses a glowing star beside observing marks, compressing a transit into one scene. The sizes, path and brightness change are not observational measurements."
+        },
+        "background": {
+          "zh": "若系外行星从地球视角经过恒星前方，恒星总亮度会暂时下降。天文学家研究这种周期性的光变，估计行星的轨道周期和相对于恒星的大小；还需排除其他造成变暗的原因。",
+          "en": "When an exoplanet passes in front of its star from Earth’s viewpoint, the star briefly dims. Astronomers study repeated dips to estimate the orbital period and the planet’s size relative to its star, while checking other causes of dimming."
+        },
+        "sources": [
+          {
+            "label": "NASA · Transit method",
+            "url": "https://science.nasa.gov/exoplanets/whats-a-transit/"
+          }
+        ]
+      }
+    }
+  }
+}

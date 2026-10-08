@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-488",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-488",
+      "subject": "nobel-laureate-488",
+      "edition": "mono",
+      "title": "奥斯汀·张伯伦",
+      "titleEnglish": "Sir Austen Chamberlain",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-488/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-488/mono.jpg",
+      "sha256": "32128366e75eceeda11714cd1efd562c6012d199b445d9baf24e7c1644ae075d",
+      "thumbnailSHA256": "1a33d86b9523e3dbecd8f02ceb196ca0e1bfe11a4ec277daf9eb9b05b63f0ae3",
+      "context": {
+        "phrase": {
+          "zh": "彼此靠近，需要共同的约定。",
+          "en": "Drawing closer takes an agreement."
+        },
+        "visual": {
+          "zh": "两枚巨大的青铜扣斜向相对，一侧带青绿铜锈，一侧呈暖棕色，以象牙色编织绳环相连，左下露出一角空白折纸。黑白版保留金属扣、绳环和裁切，细刻纹更明显。这是协商与共同约定的原创寓意，不是历史公约文物。",
+          "en": "Two huge bronze clasps face diagonally toward each other, one with green patina and one warm brown, joined by an ivory braided loop; blank folded paper enters at lower left. Monochrome retains the objects and crop with stronger fine hatching. This is an original metaphor for negotiation and agreement, not a historical treaty artifact."
+        },
+        "background": {
+          "zh": "奥斯汀·张伯伦与查尔斯·道威斯各获1925年诺贝尔和平奖的一半，奖项于1926年颁发。张伯伦获奖缘于促成《洛迦诺公约》的关键作用；道威斯则因道威斯计划获奖，两人的贡献不同。相连金属扣是协商与约定的原创寓意，不是历史文物，也不表示公约消除了所有冲突。短句为原创。\n1925年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他在促成《洛迦诺公约》中的关键作用。",
+          "en": "Austen Chamberlain and Charles Dawes shared the 1925 Nobel Peace Prize equally, receiving it in 1926. Chamberlain was recognized for helping bring about the Locarno Treaty; Dawes was recognized for the Dawes Plan. Their contributions differ. Connected metal clasps are an original metaphor for negotiation and agreement, not historical artifacts or a claim that the treaty ended all conflict. The phrase is original.\n1925 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his crucial role in bringing about the Locarno Treaty"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年和平奖｜官方记录",
+              "en": "1925 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1925/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-488",
+      "subject": "nobel-laureate-488",
+      "edition": "color",
+      "title": "奥斯汀·张伯伦",
+      "titleEnglish": "Sir Austen Chamberlain",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-488/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-488/color.jpg",
+      "sha256": "65412e37172341779d408cb25ff0399d00fe59c46c4076820c5afd46283bac81",
+      "thumbnailSHA256": "12182749a78693331af5414383b748cdc92100ef651562774f2679ad97893a01",
+      "context": {
+        "phrase": {
+          "zh": "彼此靠近，需要共同的约定。",
+          "en": "Drawing closer takes an agreement."
+        },
+        "visual": {
+          "zh": "两枚巨大的青铜扣斜向相对，一侧带青绿铜锈，一侧呈暖棕色，以象牙色编织绳环相连，左下露出一角空白折纸。黑白版保留金属扣、绳环和裁切，细刻纹更明显。这是协商与共同约定的原创寓意，不是历史公约文物。",
+          "en": "Two huge bronze clasps face diagonally toward each other, one with green patina and one warm brown, joined by an ivory braided loop; blank folded paper enters at lower left. Monochrome retains the objects and crop with stronger fine hatching. This is an original metaphor for negotiation and agreement, not a historical treaty artifact."
+        },
+        "background": {
+          "zh": "奥斯汀·张伯伦与查尔斯·道威斯各获1925年诺贝尔和平奖的一半，奖项于1926年颁发。张伯伦获奖缘于促成《洛迦诺公约》的关键作用；道威斯则因道威斯计划获奖，两人的贡献不同。相连金属扣是协商与约定的原创寓意，不是历史文物，也不表示公约消除了所有冲突。短句为原创。\n1925年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他在促成《洛迦诺公约》中的关键作用。",
+          "en": "Austen Chamberlain and Charles Dawes shared the 1925 Nobel Peace Prize equally, receiving it in 1926. Chamberlain was recognized for helping bring about the Locarno Treaty; Dawes was recognized for the Dawes Plan. Their contributions differ. Connected metal clasps are an original metaphor for negotiation and agreement, not historical artifacts or a claim that the treaty ended all conflict. The phrase is original.\n1925 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his crucial role in bringing about the Locarno Treaty"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年和平奖｜官方记录",
+              "en": "1925 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1925/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

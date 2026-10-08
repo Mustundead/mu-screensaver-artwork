@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-602",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-602",
+      "subject": "nobel-laureate-602",
+      "edition": "mono",
+      "title": "托马斯·曼",
+      "titleEnglish": "Thomas Mann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-602/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-602/mono.jpg",
+      "sha256": "2f17c0eb1dd35e3a79524b84275ed2dc1c8a66e7f571002bdb33998610feca09",
+      "thumbnailSHA256": "12b8afe197eb9c00d800a9451cbf34eb753cd3e45206291f91a6fdb521ceca7f",
+      "context": {
+        "phrase": {
+          "zh": "家宅仍在，时代已变。",
+          "en": "The house remains as its era changes."
+        },
+        "visual": {
+          "zh": "赭色商人宅邸正面占据中部，阶梯山墙在上方裁切，绿色闭窗、暗色窗格与中央空门口按楼层排列；细刻线表现墙面和木框。黑白版保持正立面、空门口及两侧留白。",
+          "en": "An ochre merchant-home facade fills the center, with its stepped gable cropped above. Green shutters, dark window grids and an empty central doorway are arranged by floor. Fine engraving describes plaster and timber. The neutral edition keeps the frontal view and quiet side margins."
+        },
+        "background": {
+          "zh": "托马斯·曼获1929年诺贝尔文学奖，获奖理由尤其提及1901年出版的《布登勃洛克一家》。这部小说描写商人家族的几代人与衰落；他在1905年的后记中谈到家族、故乡与创作的联系。画中的宅邸是时代与家族记忆的原创寓意，不是现实故居或小说场景复原；短句为原创。\n1929年文学奖；独享本年度奖项。获奖理由（中文译述）：主要表彰其小说《布登勃洛克一家》，这部作品作为当代文学经典持续获得认可。",
+          "en": "Mann received the 1929 Nobel Prize in Literature, principally for Buddenbrooks, published in 1901. The novel follows generations and decline in a merchant family. In his 1905 epilogue he discussed connections between his family, hometown and fiction. The imagined facade is an original metaphor for family memory and changing times, not an actual historic home or reconstructed scene. The phrase is original.\n1929 — The Nobel Prize in Literature. Received the full prize. Official motivation: principally for his great novel, Buddenbrooks, which has won steadily increased recognition as one of the classic works of contemporary literature"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年文学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/facts/facts-on-the-nobel-prize-in-literature",
+            "labelLocalized": {
+              "zh": "文学奖资料｜诺贝尔奖官网",
+              "en": "Literature prize facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "germanhistorydocs.org",
+            "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/thomas-mann-epilogue-to-buddenbrooks-1905",
+            "labelLocalized": {
+              "zh": "《布登勃洛克一家》后记｜德国历史文献",
+              "en": "Buddenbrooks epilogue — German History in Documents"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-602",
+      "subject": "nobel-laureate-602",
+      "edition": "color",
+      "title": "托马斯·曼",
+      "titleEnglish": "Thomas Mann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-602/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-602/color.jpg",
+      "sha256": "59e12c2145e23b84ab3950d6220b14124cf5c182cb1a935460c72d1ef52d695a",
+      "thumbnailSHA256": "bb284694c8c01831a98baff1b39e2d51d3c99de94a4c1ba4abbaa945f40f8e15",
+      "context": {
+        "phrase": {
+          "zh": "家宅仍在，时代已变。",
+          "en": "The house remains as its era changes."
+        },
+        "visual": {
+          "zh": "赭色商人宅邸正面占据中部，阶梯山墙在上方裁切，绿色闭窗、暗色窗格与中央空门口按楼层排列；细刻线表现墙面和木框。黑白版保持正立面、空门口及两侧留白。",
+          "en": "An ochre merchant-home facade fills the center, with its stepped gable cropped above. Green shutters, dark window grids and an empty central doorway are arranged by floor. Fine engraving describes plaster and timber. The neutral edition keeps the frontal view and quiet side margins."
+        },
+        "background": {
+          "zh": "托马斯·曼获1929年诺贝尔文学奖，获奖理由尤其提及1901年出版的《布登勃洛克一家》。这部小说描写商人家族的几代人与衰落；他在1905年的后记中谈到家族、故乡与创作的联系。画中的宅邸是时代与家族记忆的原创寓意，不是现实故居或小说场景复原；短句为原创。\n1929年文学奖；独享本年度奖项。获奖理由（中文译述）：主要表彰其小说《布登勃洛克一家》，这部作品作为当代文学经典持续获得认可。",
+          "en": "Mann received the 1929 Nobel Prize in Literature, principally for Buddenbrooks, published in 1901. The novel follows generations and decline in a merchant family. In his 1905 epilogue he discussed connections between his family, hometown and fiction. The imagined facade is an original metaphor for family memory and changing times, not an actual historic home or reconstructed scene. The phrase is original.\n1929 — The Nobel Prize in Literature. Received the full prize. Official motivation: principally for his great novel, Buddenbrooks, which has won steadily increased recognition as one of the classic works of contemporary literature"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年文学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/facts/facts-on-the-nobel-prize-in-literature",
+            "labelLocalized": {
+              "zh": "文学奖资料｜诺贝尔奖官网",
+              "en": "Literature prize facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "germanhistorydocs.org",
+            "url": "https://germanhistorydocs.org/en/wilhelmine-germany-and-the-first-world-war-1890-1918/thomas-mann-epilogue-to-buddenbrooks-1905",
+            "labelLocalized": {
+              "zh": "《布登勃洛克一家》后记｜德国历史文献",
+              "en": "Buddenbrooks epilogue — German History in Documents"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

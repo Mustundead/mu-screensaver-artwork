@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-28",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-28",
+      "subject": "nobel-laureate-28",
+      "edition": "mono",
+      "title": "罗伯特·密立根",
+      "titleEnglish": "Robert A. Millikan",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-28/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-28/mono.jpg",
+      "sha256": "89abdd0a69d868e8a077dc6d60368e9dcf1f652f857eb95d02fa3a12a720c087",
+      "thumbnailSHA256": "36d5ac432a1d07e6eb3f8235d8d4fcd7b4e3ba3c00f2e72d5609e6a04ef99ed1",
+      "context": {
+        "phrase": {
+          "zh": "微小的一滴，让尺度有了依据。",
+          "en": "A tiny drop gives scale a measure."
+        },
+        "visual": {
+          "zh": "黄铜色与氧化铜色的两片金属斜跨画面，一颗金色小油滴位于暗色间隙中。黑白版保留斜线、油滴与裁切，金属纹理更明显。这是测量的原创寓意，不是实验装置的复原。",
+          "en": "Two brass and oxidized-copper planes cross the frame diagonally, with a tiny golden oil drop in the dark gap. Monochrome retains the diagonals, droplet and crop, with stronger metal texture. This is an original measurement metaphor, not a reconstructed apparatus."
+        },
+        "background": {
+          "zh": "密立根独享1923年诺贝尔物理学奖，获奖理由包括基本电荷与光电效应研究。他通过观察两块金属板之间带电油滴的运动，精确测量电子所带的电荷，并说明油滴电荷是这一基本单位的整数倍。画中金属板与油滴是测量的原创寓意，不是实验装置复原，也不是按真实比例绘制的科学图。短句为原创。\n1923年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对基本电荷及光电效应的研究。",
+          "en": "Millikan received the full 1923 Nobel Prize in Physics for work on the elementary electric charge and the photoelectric effect. By observing charged oil drops between metal plates, he precisely measured the electron's charge and showed that the drops carried integer multiples of that unit. The plates and droplet are an original measurement metaphor, not an apparatus reconstruction or a scientific drawing to scale. The phrase is original.\n1923 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the elementary charge of electricity and on the photoelectric effect"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年物理学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1923/millikan/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-28",
+      "subject": "nobel-laureate-28",
+      "edition": "color",
+      "title": "罗伯特·密立根",
+      "titleEnglish": "Robert A. Millikan",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-28/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-28/color.jpg",
+      "sha256": "649b8803d7d682aa7cc62befef9e66da9055f001c293a81bad3e1003f604431f",
+      "thumbnailSHA256": "7a983902e2d2ea79ea6dcdc254669662761bb47b4fdf800c422e982ee6f1bb07",
+      "context": {
+        "phrase": {
+          "zh": "微小的一滴，让尺度有了依据。",
+          "en": "A tiny drop gives scale a measure."
+        },
+        "visual": {
+          "zh": "黄铜色与氧化铜色的两片金属斜跨画面，一颗金色小油滴位于暗色间隙中。黑白版保留斜线、油滴与裁切，金属纹理更明显。这是测量的原创寓意，不是实验装置的复原。",
+          "en": "Two brass and oxidized-copper planes cross the frame diagonally, with a tiny golden oil drop in the dark gap. Monochrome retains the diagonals, droplet and crop, with stronger metal texture. This is an original measurement metaphor, not a reconstructed apparatus."
+        },
+        "background": {
+          "zh": "密立根独享1923年诺贝尔物理学奖，获奖理由包括基本电荷与光电效应研究。他通过观察两块金属板之间带电油滴的运动，精确测量电子所带的电荷，并说明油滴电荷是这一基本单位的整数倍。画中金属板与油滴是测量的原创寓意，不是实验装置复原，也不是按真实比例绘制的科学图。短句为原创。\n1923年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对基本电荷及光电效应的研究。",
+          "en": "Millikan received the full 1923 Nobel Prize in Physics for work on the elementary electric charge and the photoelectric effect. By observing charged oil drops between metal plates, he precisely measured the electron's charge and showed that the drops carried integer multiples of that unit. The plates and droplet are an original measurement metaphor, not an apparatus reconstruction or a scientific drawing to scale. The phrase is original.\n1923 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the elementary charge of electricity and on the photoelectric effect"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年物理学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1923/millikan/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

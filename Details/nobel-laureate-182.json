@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-182",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-182",
+      "subject": "nobel-laureate-182",
+      "edition": "mono",
+      "title": "理查德·齐格蒙迪",
+      "titleEnglish": "Richard Zsigmondy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-182/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-182/mono.jpg",
+      "sha256": "7f06fe17dfeccb7f369b1add50b5ec51ff242c9fcf7652f5e4ccb01c8c1c1429",
+      "thumbnailSHA256": "a53e2ea0cd82a8e0104e720434c3df6693fac11012d9100c2ff794c4d52d6956",
+      "context": {
+        "phrase": {
+          "zh": "细小的颗粒，也有自己的世界。",
+          "en": "Tiny particles have worlds of their own."
+        },
+        "visual": {
+          "zh": "厚壁淡青玻璃容器占据右侧，内盛深红液体，旁边立着带窄缝的小黄铜块，左下散落三粒金色圆珠。黑白版保留物件、大小关系与裁切，刻纹更明显。画面借观察小颗粒的研究构成原创寓意，圆珠数量不是实验数据。",
+          "en": "A thick pale teal glass cell fills the right with deep red liquid, beside a small slit brass block; three tiny gold beads lie at lower left. Monochrome retains the objects, scale and crop with stronger hatching. This is an original metaphor for observing particles; bead count is not experimental data."
+        },
+        "background": {
+          "zh": "齐格蒙迪独获1925年诺贝尔化学奖，奖项于1926年颁发。他研究胶体——微小颗粒分散在液体中的体系，并与合作伙伴发展超显微镜，借颗粒散射的光观察它们。红色液体与玻璃容器是这项研究的原创寓意，不是实际装置复原、颗粒大小或数量数据。短句为原创。\n1925年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他揭示胶体溶液的不均一性质，以及由此建立的胶体研究方法。",
+          "en": "Zsigmondy received the entire 1925 Nobel Prize in Chemistry in 1926 for colloid research and its methods. Colloids contain tiny particles dispersed in a liquid. He developed an ultramicroscope with collaborators to observe light scattered by particles. The red liquid and glass cell are an original metaphor, not an apparatus reconstruction or particle-size/count data. The phrase is original.\n1925 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his demonstration of the heterogenous nature of colloid solutions and for the methods he used, which have since become fundamental in modern colloid chemistry"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年化学奖｜官方记录",
+              "en": "1925 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-182",
+      "subject": "nobel-laureate-182",
+      "edition": "color",
+      "title": "理查德·齐格蒙迪",
+      "titleEnglish": "Richard Zsigmondy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-182/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-182/color.jpg",
+      "sha256": "4d3ec73bc2ab934129fe5cdbe1cfbf8d9a979936b6ceca4288496d92889acbe5",
+      "thumbnailSHA256": "19cf889d5102259c27d02b11d6e03a9f1cca79f8ef4803e75a48c141e938f37c",
+      "context": {
+        "phrase": {
+          "zh": "细小的颗粒，也有自己的世界。",
+          "en": "Tiny particles have worlds of their own."
+        },
+        "visual": {
+          "zh": "厚壁淡青玻璃容器占据右侧，内盛深红液体，旁边立着带窄缝的小黄铜块，左下散落三粒金色圆珠。黑白版保留物件、大小关系与裁切，刻纹更明显。画面借观察小颗粒的研究构成原创寓意，圆珠数量不是实验数据。",
+          "en": "A thick pale teal glass cell fills the right with deep red liquid, beside a small slit brass block; three tiny gold beads lie at lower left. Monochrome retains the objects, scale and crop with stronger hatching. This is an original metaphor for observing particles; bead count is not experimental data."
+        },
+        "background": {
+          "zh": "齐格蒙迪独获1925年诺贝尔化学奖，奖项于1926年颁发。他研究胶体——微小颗粒分散在液体中的体系，并与合作伙伴发展超显微镜，借颗粒散射的光观察它们。红色液体与玻璃容器是这项研究的原创寓意，不是实际装置复原、颗粒大小或数量数据。短句为原创。\n1925年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他揭示胶体溶液的不均一性质，以及由此建立的胶体研究方法。",
+          "en": "Zsigmondy received the entire 1925 Nobel Prize in Chemistry in 1926 for colloid research and its methods. Colloids contain tiny particles dispersed in a liquid. He developed an ultramicroscope with collaborators to observe light scattered by particles. The red liquid and glass cell are an original metaphor, not an apparatus reconstruction or particle-size/count data. The phrase is original.\n1925 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his demonstration of the heterogenous nature of colloid solutions and for the methods he used, which have since become fundamental in modern colloid chemistry"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年化学奖｜官方记录",
+              "en": "1925 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

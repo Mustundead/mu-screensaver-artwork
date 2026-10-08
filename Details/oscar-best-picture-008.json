@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-008",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-008",
+      "subject": "oscar-best-picture-008",
+      "edition": "mono",
+      "title": "叛舰喋血记",
+      "titleEnglish": "Mutiny on the Bounty",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-008/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-008/mono.jpg",
+      "sha256": "50b809d53ae95b4a1d59a194305163e55460fff8658344b459462d25545ead7c",
+      "thumbnailSHA256": "921f776e0fcca907a55ba97efdaa90c752cf12e98702e8bb24197f4ef3c8b1f8",
+      "context": {
+        "phrase": {
+          "zh": "同一段航程，也可能走向不同的方向。",
+          "en": "One voyage can lead people in different directions."
+        },
+        "visual": {
+          "zh": "为《叛舰喋血记》独立创作的航海拼贴，以帆船、小艇、桨、缆绳和面包果枝表现航行与分离。船只与岛岸是艺术想象，不复制影片镜头，也不是历史邦蒂号或拍摄道具的准确模型。",
+          "en": "An original seafaring collage for Mutiny on the Bounty uses a sailing vessel, launch, oars, rope and a breadfruit branch to evoke voyage and separation. Its vessels and shoreline are imagined, not copied scenes or accurate models of the historical Bounty or film props."
+        },
+        "background": {
+          "zh": "1935年的《叛舰喋血记》由弗兰克·劳埃德执导，获得第八届奥斯卡最佳影片奖。影片改编自诺德霍夫与霍尔的小说，围绕邦蒂号航行期间舰长与船员之间的冲突展开。影片与配图均应区别于历史事件的完整记录；这里用航海物件呼应电影主题，不复原具体暴力场面。\n第8届奥斯卡最佳影片：叛舰喋血记。颁奖年份 1936；参评年份 1935。",
+          "en": "Directed by Frank Lloyd, the 1935 film Mutiny on the Bounty won Best Picture at the eighth Academy Awards. Adapted from novels by Nordhoff and Hall, it follows conflict between captain and crew during the Bounty voyage. Both film and illustration are distinguished from a complete historical record; the artwork interprets seafaring themes without reconstructing violent scenes.\nAcademy Awards ceremony 8 (1936), Best Picture: Mutiny on the Bounty. Eligibility year: 1935."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1936",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/7072-MUTINY-ONTHEBOUNTY",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-008",
+      "subject": "oscar-best-picture-008",
+      "edition": "color",
+      "title": "叛舰喋血记",
+      "titleEnglish": "Mutiny on the Bounty",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-008/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-008/color.jpg",
+      "sha256": "41015e695f8dda85952f203f7368008620e6f32e835c3e0b4ab62d5dce0829fb",
+      "thumbnailSHA256": "6aebe006da3509e2c1140d8fe4ab83c5a6cb91e42b9d8f0070f5e56452c28369",
+      "context": {
+        "phrase": {
+          "zh": "同一段航程，也可能走向不同的方向。",
+          "en": "One voyage can lead people in different directions."
+        },
+        "visual": {
+          "zh": "为《叛舰喋血记》独立创作的航海拼贴，以帆船、小艇、桨、缆绳和面包果枝表现航行与分离。船只与岛岸是艺术想象，不复制影片镜头，也不是历史邦蒂号或拍摄道具的准确模型。",
+          "en": "An original seafaring collage for Mutiny on the Bounty uses a sailing vessel, launch, oars, rope and a breadfruit branch to evoke voyage and separation. Its vessels and shoreline are imagined, not copied scenes or accurate models of the historical Bounty or film props."
+        },
+        "background": {
+          "zh": "1935年的《叛舰喋血记》由弗兰克·劳埃德执导，获得第八届奥斯卡最佳影片奖。影片改编自诺德霍夫与霍尔的小说，围绕邦蒂号航行期间舰长与船员之间的冲突展开。影片与配图均应区别于历史事件的完整记录；这里用航海物件呼应电影主题，不复原具体暴力场面。\n第8届奥斯卡最佳影片：叛舰喋血记。颁奖年份 1936；参评年份 1935。",
+          "en": "Directed by Frank Lloyd, the 1935 film Mutiny on the Bounty won Best Picture at the eighth Academy Awards. Adapted from novels by Nordhoff and Hall, it follows conflict between captain and crew during the Bounty voyage. Both film and illustration are distinguished from a complete historical record; the artwork interprets seafaring themes without reconstructing violent scenes.\nAcademy Awards ceremony 8 (1936), Best Picture: Mutiny on the Bounty. Eligibility year: 1935."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1936",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/7072-MUTINY-ONTHEBOUNTY",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-338",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-338",
+      "subject": "nobel-laureate-338",
+      "edition": "mono",
+      "title": "赫伯特·加塞",
+      "titleEnglish": "Herbert S. Gasser",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-338/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-338/mono.jpg",
+      "sha256": "170b402533736e9a0658e2480f1ca8f87fb450c9d0299f3fc8469eaeb4737e5c",
+      "thumbnailSHA256": "bd67de8f9afca122caa24a58c120754b096f59cc30e665154dd4bb8c444abb25",
+      "context": {
+        "phrase": {
+          "zh": "不同的路径，有不同的节奏。",
+          "en": "Different paths carry different rhythms."
+        },
+        "visual": {
+          "zh": "几条神经纤维从近处断面伸向远处，粗细不同的纤维并行而不分叉，层层包裹的断面与深色背景形成对照。",
+          "en": "Several nerve fibers extend from near cross-sections into depth. Differently sized fibers run alongside each other without branching, their layered sheaths contrasting with the dark background."
+        },
+        "background": {
+          "zh": "加塞与厄兰格比较了不同神经纤维的传导。他们发现较粗与较细的纤维传导速度不同，这些研究揭示单条纤维功能的差异，两人共同获得1944年诺贝尔生理学或医学奖，各占一半。画面把纤维粗细并置，是原创结构示意，不是组织照片或用于诊断的图谱。短句为原创。\n1944年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现单条神经纤维功能的高度分化",
+          "en": "Gasser and Erlanger compared conduction in different nerve fibers. They showed that thicker fibers conduct faster than thinner ones, helping reveal their distinct functions. They shared the 1944 Nobel Prize in Physiology or Medicine equally. Different fiber widths form an original structural illustration, not a tissue photograph or diagnostic chart. The phrase is original.\n1944 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries relating to the highly differentiated functions of single nerve fibres"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年生理学或医学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "rockefeller.edu",
+            "url": "https://www.rockefeller.edu/our-scientists/herbert-s-gasser/2548-nobel-prize/",
+            "labelLocalized": {
+              "zh": "研究与生平｜洛克菲勒大学",
+              "en": "Research and career — Rockefeller University"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-338",
+      "subject": "nobel-laureate-338",
+      "edition": "color",
+      "title": "赫伯特·加塞",
+      "titleEnglish": "Herbert S. Gasser",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-338/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-338/color.jpg",
+      "sha256": "19443587090bc53babec101326b7289da4ca0a87c39202fc0d099f1665ff078e",
+      "thumbnailSHA256": "51808f1ebe17e9206eae4366613615c2c02d9e542381c5e26fd22272598496fa",
+      "context": {
+        "phrase": {
+          "zh": "不同的路径，有不同的节奏。",
+          "en": "Different paths carry different rhythms."
+        },
+        "visual": {
+          "zh": "几条神经纤维从近处断面伸向远处，粗细不同的纤维并行而不分叉，层层包裹的断面与深色背景形成对照。",
+          "en": "Several nerve fibers extend from near cross-sections into depth. Differently sized fibers run alongside each other without branching, their layered sheaths contrasting with the dark background."
+        },
+        "background": {
+          "zh": "加塞与厄兰格比较了不同神经纤维的传导。他们发现较粗与较细的纤维传导速度不同，这些研究揭示单条纤维功能的差异，两人共同获得1944年诺贝尔生理学或医学奖，各占一半。画面把纤维粗细并置，是原创结构示意，不是组织照片或用于诊断的图谱。短句为原创。\n1944年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现单条神经纤维功能的高度分化",
+          "en": "Gasser and Erlanger compared conduction in different nerve fibers. They showed that thicker fibers conduct faster than thinner ones, helping reveal their distinct functions. They shared the 1944 Nobel Prize in Physiology or Medicine equally. Different fiber widths form an original structural illustration, not a tissue photograph or diagnostic chart. The phrase is original.\n1944 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries relating to the highly differentiated functions of single nerve fibres"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年生理学或医学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "rockefeller.edu",
+            "url": "https://www.rockefeller.edu/our-scientists/herbert-s-gasser/2548-nobel-prize/",
+            "labelLocalized": {
+              "zh": "研究与生平｜洛克菲勒大学",
+              "en": "Research and career — Rockefeller University"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

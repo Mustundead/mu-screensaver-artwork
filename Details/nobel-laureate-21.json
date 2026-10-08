@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-21",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-21",
+      "subject": "nobel-laureate-21",
+      "edition": "mono",
+      "title": "威廉·劳伦斯·布拉格",
+      "titleEnglish": "Lawrence Bragg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-21/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-21/mono.jpg",
+      "sha256": "0d3a747b1dd272d362f76a7ded7ef0870529b85a9da7dd8eef7653740e45a056",
+      "thumbnailSHA256": "3c7abdd4a13ab38dec0148e6aa579242bc4c5fa4bcb98c1d00db56adadf44f43",
+      "context": {
+        "phrase": {
+          "zh": "换一个角度，层层秩序逐渐显现。",
+          "en": "A change of angle reveals order, layer by layer."
+        },
+        "visual": {
+          "zh": "平行厚片从近处向右上退远，前景直尺与小晶体形成尺度差。黑白与钴蓝版突出最近的一片；彩色版区分深绿石材、暖色石灰岩、灰绿矿石与银灰直尺。原创层面雕塑借角度与深度表达结构，没有对应某种晶体的真实原子排列。",
+          "en": "Parallel slabs recede toward upper right, with a foreground straightedge and a tiny distant crystal. Cobalt emphasizes the nearest slab in monochrome; full color distinguishes deep green stone, warm limestone, gray-green mineral and silvery steel. This original layered sculpture evokes angle and depth without modeling a particular atomic structure."
+        },
+        "background": {
+          "zh": "威廉·劳伦斯·布拉格与父亲威廉·亨利·布拉格共同获得1915年诺贝尔物理学奖，两人各占一半份额。儿子从晶体中的平行层面与角度关系出发解释X射线衍射，父亲的仪器工作为测量提供支持，两人的研究推进了晶体结构分析。这与劳厄因发现晶体对X射线的衍射而获得1914年奖项是相邻但不同的贡献。画面将层面转化为放大的原创雕塑，没有宣称其尺寸、间距或角度来自实际测量。短句为原创。\n1915年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：因利用X射线分析晶体结构所作的贡献。",
+          "en": "William Lawrence Bragg shared the 1915 Nobel Prize in Physics equally with his father William Henry Bragg. The son's interpretation related X-ray diffraction to parallel planes within crystals and their angles, while the father's instrumentation supported measurement. Together their work advanced crystal-structure analysis. This followed, but was distinct from, von Laue's 1914 recognition for discovering X-ray diffraction by crystals. The enlarged sculptural planes do not reproduce measured dimensions, spacing or angles. The phrase is original.\n1915 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their services in the analysis of crystal structure by means of X-rays"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1915 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1915/summary/",
+            "labelLocalized": {
+              "zh": "1915年物理学奖｜官方记录",
+              "en": "1915 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1915/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "rigb.org",
+            "url": "https://www.rigb.org/explore-science/explore/collection/william-braggs-spectrometer",
+            "labelLocalized": {
+              "zh": "仪器馆藏资料｜英国皇家研究院",
+              "en": "Instrument collection — Royal Institution"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-21",
+      "subject": "nobel-laureate-21",
+      "edition": "color",
+      "title": "威廉·劳伦斯·布拉格",
+      "titleEnglish": "Lawrence Bragg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-21/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-21/color.jpg",
+      "sha256": "7b4ebc3ec928f9636bb048e18b722830e7a03195e17614e6373f3331ba5e95b0",
+      "thumbnailSHA256": "c633dca491812a136f13748280073f5e40060a8cc3d691a1238a15bf1cf3bb67",
+      "context": {
+        "phrase": {
+          "zh": "换一个角度，层层秩序逐渐显现。",
+          "en": "A change of angle reveals order, layer by layer."
+        },
+        "visual": {
+          "zh": "平行厚片从近处向右上退远，前景直尺与小晶体形成尺度差。黑白与钴蓝版突出最近的一片；彩色版区分深绿石材、暖色石灰岩、灰绿矿石与银灰直尺。原创层面雕塑借角度与深度表达结构，没有对应某种晶体的真实原子排列。",
+          "en": "Parallel slabs recede toward upper right, with a foreground straightedge and a tiny distant crystal. Cobalt emphasizes the nearest slab in monochrome; full color distinguishes deep green stone, warm limestone, gray-green mineral and silvery steel. This original layered sculpture evokes angle and depth without modeling a particular atomic structure."
+        },
+        "background": {
+          "zh": "威廉·劳伦斯·布拉格与父亲威廉·亨利·布拉格共同获得1915年诺贝尔物理学奖，两人各占一半份额。儿子从晶体中的平行层面与角度关系出发解释X射线衍射，父亲的仪器工作为测量提供支持，两人的研究推进了晶体结构分析。这与劳厄因发现晶体对X射线的衍射而获得1914年奖项是相邻但不同的贡献。画面将层面转化为放大的原创雕塑，没有宣称其尺寸、间距或角度来自实际测量。短句为原创。\n1915年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：因利用X射线分析晶体结构所作的贡献。",
+          "en": "William Lawrence Bragg shared the 1915 Nobel Prize in Physics equally with his father William Henry Bragg. The son's interpretation related X-ray diffraction to parallel planes within crystals and their angles, while the father's instrumentation supported measurement. Together their work advanced crystal-structure analysis. This followed, but was distinct from, von Laue's 1914 recognition for discovering X-ray diffraction by crystals. The enlarged sculptural planes do not reproduce measured dimensions, spacing or angles. The phrase is original.\n1915 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their services in the analysis of crystal structure by means of X-rays"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1915 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1915/summary/",
+            "labelLocalized": {
+              "zh": "1915年物理学奖｜官方记录",
+              "en": "1915 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1915/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "rigb.org",
+            "url": "https://www.rigb.org/explore-science/explore/collection/william-braggs-spectrometer",
+            "labelLocalized": {
+              "zh": "仪器馆藏资料｜英国皇家研究院",
+              "en": "Instrument collection — Royal Institution"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

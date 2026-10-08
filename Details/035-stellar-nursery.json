@@ -1,0 +1,70 @@
+{
+  "subject": "035-stellar-nursery",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:035-stellar-nursery",
+      "subject": "035-stellar-nursery",
+      "edition": "mono",
+      "title": "恒星形成",
+      "titleEnglish": "Star Formation",
+      "category": "宇宙",
+      "image": "Images/mono/035-stellar-nursery.jpg",
+      "thumbnail": "Thumbs/mono/035-stellar-nursery.jpg",
+      "sha256": "18fdefbb53fa92e473d9273894d0d90d5d5c327d6806827856a029b604ee5598",
+      "thumbnailSHA256": "b024d23c0f077caf99e5b777c36f0e2f496ffc50aa850284fb333ee212413d05",
+      "context": {
+        "phrase": {
+          "zh": "星光从云气里慢慢生长。",
+          "en": "Stars begin within clouds."
+        },
+        "visual": {
+          "zh": "发亮的团块悬在层叠的气体与尘埃之间，表现恒星诞生的环境。色彩和位置并非某一星云的观测图。",
+          "en": "Bright knots sit within layered gas and dust to suggest a birthplace of stars. Colors and positions do not depict an observed nebula."
+        },
+        "background": {
+          "zh": "恒星在寒冷的分子云中形成；局部气体与尘埃在引力作用下聚集、收缩，逐步孕育原恒星。恒星形成涉及许多阶段，不能从这张画判断其年龄或质量。",
+          "en": "Stars form in cold molecular clouds as pockets of gas and dust gather and collapse under gravity, leading toward protostars. The process has many stages; this illustration cannot reveal an age or mass."
+        },
+        "sources": [
+          {
+            "label": "NASA · Stars",
+            "url": "https://science.nasa.gov/universe/stars/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:035-stellar-nursery",
+      "subject": "035-stellar-nursery",
+      "edition": "color",
+      "title": "恒星形成",
+      "titleEnglish": "Star Formation",
+      "category": "宇宙",
+      "image": "Images/color/035-stellar-nursery.jpg",
+      "thumbnail": "Thumbs/color/035-stellar-nursery.jpg",
+      "sha256": "adab441bbf7bd2d6a01def37610606da748ec20b576ca344b607ca1d5579ae9f",
+      "thumbnailSHA256": "c9c029b77310167ab98698bf4ee77723d045c63367364e4ef9afc7c69be82d82",
+      "context": {
+        "phrase": {
+          "zh": "星光从云气里慢慢生长。",
+          "en": "Stars begin within clouds."
+        },
+        "visual": {
+          "zh": "发亮的团块悬在层叠的气体与尘埃之间，表现恒星诞生的环境。色彩和位置并非某一星云的观测图。",
+          "en": "Bright knots sit within layered gas and dust to suggest a birthplace of stars. Colors and positions do not depict an observed nebula."
+        },
+        "background": {
+          "zh": "恒星在寒冷的分子云中形成；局部气体与尘埃在引力作用下聚集、收缩，逐步孕育原恒星。恒星形成涉及许多阶段，不能从这张画判断其年龄或质量。",
+          "en": "Stars form in cold molecular clouds as pockets of gas and dust gather and collapse under gravity, leading toward protostars. The process has many stages; this illustration cannot reveal an age or mass."
+        },
+        "sources": [
+          {
+            "label": "NASA · Stars",
+            "url": "https://science.nasa.gov/universe/stars/"
+          }
+        ]
+      }
+    }
+  }
+}

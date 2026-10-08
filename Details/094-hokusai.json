@@ -1,0 +1,70 @@
+{
+  "subject": "094-hokusai",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:094-hokusai",
+      "subject": "094-hokusai",
+      "edition": "mono",
+      "title": "北斋与流动",
+      "titleEnglish": "Hokusai and Flow",
+      "category": "艺术与人文",
+      "image": "Images/mono/094-hokusai.jpg",
+      "thumbnail": "Thumbs/mono/094-hokusai.jpg",
+      "sha256": "5176fddfc0e9f15b502c706c0b14d42028786b6f23adf9826bc78a9ed1ff0141",
+      "thumbnailSHA256": "7a5161f461f874299c9361e9ab1b3659d3ec3527448aa4eb29ec5d7e5a5959c4",
+      "context": {
+        "phrase": {
+          "zh": "流动的一瞬，也能成为长久的图像。",
+          "en": "A moment of motion can become an enduring image."
+        },
+        "visual": {
+          "zh": "北斋的生成形象与卷起的浪、水面和层叠画面相连，向浮世绘中的运动感致意。它不是原版木版画，也不是对真实海浪高度的测量。",
+          "en": "A generated Hokusai figure meets curling waves and layered images in a tribute to motion in ukiyo-e. This is not an original woodblock print or a measurement of an actual wave."
+        },
+        "background": {
+          "zh": "大都会艺术博物馆将《神奈川冲浪里》定年为约 1830—1832 年，列为《富岳三十六景》系列中的木版画。系列名称提供了作品语境，画面中的富士山与近处巨浪共同建立尺度关系；屏保插画则是独立的重新想象。",
+          "en": "The Met dates Under the Wave off Kanagawa to about 1830–1832 and identifies it as a woodblock print from Thirty-six Views of Mount Fuji. That series supplies context for the mountain and foreground wave’s contrasting scales. The screensaver is an independent reimagining."
+        },
+        "sources": [
+          {
+            "label": "The Met · Under the Wave off Kanagawa",
+            "url": "https://www.metmuseum.org/art/collection/search/56353"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:094-hokusai",
+      "subject": "094-hokusai",
+      "edition": "color",
+      "title": "北斋与流动",
+      "titleEnglish": "Hokusai and Flow",
+      "category": "艺术与人文",
+      "image": "Images/color/094-hokusai.jpg",
+      "thumbnail": "Thumbs/color/094-hokusai.jpg",
+      "sha256": "dfaeda0a5a07cc32df61037ec5b6899b8cf52266690c15169294d689c26d2759",
+      "thumbnailSHA256": "8eb70bb1534c667bd46d167efc3c4c53463f8388c77de949f2056b8d82d1a0da",
+      "context": {
+        "phrase": {
+          "zh": "流动的一瞬，也能成为长久的图像。",
+          "en": "A moment of motion can become an enduring image."
+        },
+        "visual": {
+          "zh": "北斋的生成形象与卷起的浪、水面和层叠画面相连，向浮世绘中的运动感致意。它不是原版木版画，也不是对真实海浪高度的测量。",
+          "en": "A generated Hokusai figure meets curling waves and layered images in a tribute to motion in ukiyo-e. This is not an original woodblock print or a measurement of an actual wave."
+        },
+        "background": {
+          "zh": "大都会艺术博物馆将《神奈川冲浪里》定年为约 1830—1832 年，列为《富岳三十六景》系列中的木版画。系列名称提供了作品语境，画面中的富士山与近处巨浪共同建立尺度关系；屏保插画则是独立的重新想象。",
+          "en": "The Met dates Under the Wave off Kanagawa to about 1830–1832 and identifies it as a woodblock print from Thirty-six Views of Mount Fuji. That series supplies context for the mountain and foreground wave’s contrasting scales. The screensaver is an independent reimagining."
+        },
+        "sources": [
+          {
+            "label": "The Met · Under the Wave off Kanagawa",
+            "url": "https://www.metmuseum.org/art/collection/search/56353"
+          }
+        ]
+      }
+    }
+  }
+}

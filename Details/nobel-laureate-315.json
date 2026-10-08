@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-315",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-315",
+      "subject": "nobel-laureate-315",
+      "edition": "mono",
+      "title": "威廉·埃因托芬",
+      "titleEnglish": "Willem Einthoven",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-315/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-315/mono.jpg",
+      "sha256": "2f09213fa079f2bcce185866a9b4834cf4917ff55c15831cb328783becfd379e",
+      "thumbnailSHA256": "e0ead98e2718390bec8b20b311909b155376a7178ee719fbe743a9457b91f764",
+      "context": {
+        "phrase": {
+          "zh": "微弱的变化，也可以留下清楚的痕迹。",
+          "en": "Even a faint change can leave a clear trace."
+        },
+        "visual": {
+          "zh": "暗红色马蹄磁铁斜跨画面，银灰色两极间绷着一根细线，右侧空白纸带弯成弧形。黑白版保留细线、纸带与裁切，刻纹更明显。这是微弱电流记录的原创寓意，不是诊断图。",
+          "en": "A dark red horseshoe magnet crosses the frame diagonally, with a single fine thread between steel pole faces and a blank paper ribbon curving at right. Monochrome retains the thread, paper and crop, with stronger etched texture. This is an original recording metaphor, not a diagnostic chart."
+        },
+        "background": {
+          "zh": "埃因托芬独享1924年诺贝尔生理学或医学奖，获奖理由是发现心电图的机制。心脏活动产生的微弱电流可以被记录下来；他发展弦线电流计，以磁场中细线的位移测量微小电流，推动心电研究。画中的磁铁、细线与空白纸带是记录的原创寓意，不是原装置复原或诊断图，也不提供医疗判断。短句为原创。\n1924年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对心电图机制的发现。",
+          "en": "Einthoven received the full 1924 Nobel Prize in Physiology or Medicine for discovering the mechanism of the electrocardiogram. Weak electrical currents from heart activity can be recorded; his string galvanometer measured small currents through a fine thread’s displacement in a magnetic field and advanced electrocardiographic research. The magnet, thread and blank paper are an original recording metaphor, not a reconstructed instrument, diagnostic chart or medical assessment. The phrase is original.\n1924 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the mechanism of the electrocardiogram"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1924 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1924/summary/",
+            "labelLocalized": {
+              "zh": "1924年生理学或医学奖｜官方记录",
+              "en": "1924 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1924/einthoven/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-315",
+      "subject": "nobel-laureate-315",
+      "edition": "color",
+      "title": "威廉·埃因托芬",
+      "titleEnglish": "Willem Einthoven",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-315/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-315/color.jpg",
+      "sha256": "99572e5080cfc8f9dbc20a362d8c57028c761a35194cf1a03a6409882a8eb509",
+      "thumbnailSHA256": "bc920cf323551813dee0e674bc395d5a1d31a9f91d7b10a14f6cc748748b0375",
+      "context": {
+        "phrase": {
+          "zh": "微弱的变化，也可以留下清楚的痕迹。",
+          "en": "Even a faint change can leave a clear trace."
+        },
+        "visual": {
+          "zh": "暗红色马蹄磁铁斜跨画面，银灰色两极间绷着一根细线，右侧空白纸带弯成弧形。黑白版保留细线、纸带与裁切，刻纹更明显。这是微弱电流记录的原创寓意，不是诊断图。",
+          "en": "A dark red horseshoe magnet crosses the frame diagonally, with a single fine thread between steel pole faces and a blank paper ribbon curving at right. Monochrome retains the thread, paper and crop, with stronger etched texture. This is an original recording metaphor, not a diagnostic chart."
+        },
+        "background": {
+          "zh": "埃因托芬独享1924年诺贝尔生理学或医学奖，获奖理由是发现心电图的机制。心脏活动产生的微弱电流可以被记录下来；他发展弦线电流计，以磁场中细线的位移测量微小电流，推动心电研究。画中的磁铁、细线与空白纸带是记录的原创寓意，不是原装置复原或诊断图，也不提供医疗判断。短句为原创。\n1924年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对心电图机制的发现。",
+          "en": "Einthoven received the full 1924 Nobel Prize in Physiology or Medicine for discovering the mechanism of the electrocardiogram. Weak electrical currents from heart activity can be recorded; his string galvanometer measured small currents through a fine thread’s displacement in a magnetic field and advanced electrocardiographic research. The magnet, thread and blank paper are an original recording metaphor, not a reconstructed instrument, diagnostic chart or medical assessment. The phrase is original.\n1924 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the mechanism of the electrocardiogram"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1924 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1924/summary/",
+            "labelLocalized": {
+              "zh": "1924年生理学或医学奖｜官方记录",
+              "en": "1924 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1924/einthoven/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

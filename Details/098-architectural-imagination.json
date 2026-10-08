@@ -1,0 +1,70 @@
+{
+  "subject": "098-architectural-imagination",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:098-architectural-imagination",
+      "subject": "098-architectural-imagination",
+      "edition": "mono",
+      "title": "建筑的思想",
+      "titleEnglish": "Architectural Imagination",
+      "category": "艺术与人文",
+      "image": "Images/mono/098-architectural-imagination.jpg",
+      "thumbnail": "Thumbs/mono/098-architectural-imagination.jpg",
+      "sha256": "55f5e84152d4adf9d0a3aa1275f375ccac93976c8b19a4e23c201a6d6a82fbe4",
+      "thumbnailSHA256": "406d47d0f07003595c98d629b20d0d71dc66988009ead98b0d7b207c5792d7db",
+      "context": {
+        "phrase": {
+          "zh": "在建造之前，先想象如何生活。",
+          "en": "Before building, imagine how life could unfold."
+        },
+        "visual": {
+          "zh": "绘图的手、弧线和展开的建筑空间，把构想与建造之间的距离呈现出来。它不是可施工的图纸，不提供结构安全、尺寸或造价承诺。",
+          "en": "A drafting hand, arcs and unfolding spaces show the distance between imagining and building. This is not a construction drawing and makes no structural, dimensional or cost claims."
+        },
+        "background": {
+          "zh": "MoMA 收藏的富勒 Dymaxion House 方案平面图定年为 1927—1929 年，展示建筑如何通过图纸探索不同的组织方式。馆藏中“方案”与“建成物”需要区分；未建成的设计也能记录一个时代对技术与生活的设想。",
+          "en": "MoMA dates Fuller’s Dymaxion House project plan to 1927–1929. It shows drawings exploring ways to organize architecture. A project is distinct from a completed building; unbuilt designs can still record an era’s ideas about technology and living."
+        },
+        "sources": [
+          {
+            "label": "MoMA · Dymaxion House project",
+            "url": "https://www.moma.org/collection/works/806"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:098-architectural-imagination",
+      "subject": "098-architectural-imagination",
+      "edition": "color",
+      "title": "建筑的思想",
+      "titleEnglish": "Architectural Imagination",
+      "category": "艺术与人文",
+      "image": "Images/color/098-architectural-imagination.jpg",
+      "thumbnail": "Thumbs/color/098-architectural-imagination.jpg",
+      "sha256": "20b9c557f99a5a1211431f00f436afbc76e45417cbbecaccfe0aa6071a327c80",
+      "thumbnailSHA256": "7c0bee30da1c24ef6f2556503390966b6f0a073cb37c7d0afc7787e5e03d6586",
+      "context": {
+        "phrase": {
+          "zh": "在建造之前，先想象如何生活。",
+          "en": "Before building, imagine how life could unfold."
+        },
+        "visual": {
+          "zh": "绘图的手、弧线和展开的建筑空间，把构想与建造之间的距离呈现出来。它不是可施工的图纸，不提供结构安全、尺寸或造价承诺。",
+          "en": "A drafting hand, arcs and unfolding spaces show the distance between imagining and building. This is not a construction drawing and makes no structural, dimensional or cost claims."
+        },
+        "background": {
+          "zh": "MoMA 收藏的富勒 Dymaxion House 方案平面图定年为 1927—1929 年，展示建筑如何通过图纸探索不同的组织方式。馆藏中“方案”与“建成物”需要区分；未建成的设计也能记录一个时代对技术与生活的设想。",
+          "en": "MoMA dates Fuller’s Dymaxion House project plan to 1927–1929. It shows drawings exploring ways to organize architecture. A project is distinct from a completed building; unbuilt designs can still record an era’s ideas about technology and living."
+        },
+        "sources": [
+          {
+            "label": "MoMA · Dymaxion House project",
+            "url": "https://www.moma.org/collection/works/806"
+          }
+        ]
+      }
+    }
+  }
+}

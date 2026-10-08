@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-196",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-196",
+      "subject": "nobel-laureate-196",
+      "edition": "mono",
+      "title": "诺曼·霍沃思",
+      "titleEnglish": "Norman Haworth",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-196/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-196/mono.jpg",
+      "sha256": "42afc82d8e6b381dc57502706ef4393948318be4cf4ad9f15f83abd964c09207",
+      "thumbnailSHA256": "1b2b9680306bdea8c1cc56c16932fe0cbe99ba9cdc219eaf18ffda0c4dec2e51",
+      "context": {
+        "phrase": {
+          "zh": "看清组成，才能重新构造。",
+          "en": "Understand the structure, then build it anew."
+        },
+        "visual": {
+          "zh": "装着晶体的玻璃浅皿从右下越出画面，六边形金属环悬在上方，环与浅皿的刻线阴影落向左上。",
+          "en": "A shallow glass dish filled with crystals crops at the lower right. A six-sided metal loop hovers above it, with etched shadows from the loop and dish extending toward the upper left."
+        },
+        "background": {
+          "zh": "霍沃思因研究碳水化合物和维生素C，获得1937年诺贝尔化学奖的一半，另一半授予卡雷尔。他揭示糖分子的环状组织，并研究维生素C的结构与合成。画面用糖晶体上方的六边金属环和影子表达结构被看清；金属环只寓意糖的环状组织，不是维生素C的准确分子式、原子数量或实际实验模型。短句为原创。\n1937年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：研究碳水化合物和维生素C",
+          "en": "Haworth received half the 1937 Nobel Prize in Chemistry for his investigations of carbohydrates and vitamin C; Karrer received the other half. He revealed ring-like organization in sugars and investigated vitamin C structure and synthesis. A six-sided metal loop and shadow above sugar-like crystals symbolize revealing structure. The loop refers qualitatively to cyclic sugars, not an exact vitamin C formula, atom count or laboratory model. The phrase is original.\n1937 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his investigations on carbohydrates and vitamin C"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年化学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-196",
+      "subject": "nobel-laureate-196",
+      "edition": "color",
+      "title": "诺曼·霍沃思",
+      "titleEnglish": "Norman Haworth",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-196/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-196/color.jpg",
+      "sha256": "00803d8a6cb359f4e802ef1cc69c84cbd01fed9a67d81e8d0b5ef0c6b7b13f3b",
+      "thumbnailSHA256": "6eefa0804ec4b99952d7f9a867a4f674cdaf8f641af9e0134374a4960daecc75",
+      "context": {
+        "phrase": {
+          "zh": "看清组成，才能重新构造。",
+          "en": "Understand the structure, then build it anew."
+        },
+        "visual": {
+          "zh": "装着晶体的玻璃浅皿从右下越出画面，六边形金属环悬在上方，环与浅皿的刻线阴影落向左上。",
+          "en": "A shallow glass dish filled with crystals crops at the lower right. A six-sided metal loop hovers above it, with etched shadows from the loop and dish extending toward the upper left."
+        },
+        "background": {
+          "zh": "霍沃思因研究碳水化合物和维生素C，获得1937年诺贝尔化学奖的一半，另一半授予卡雷尔。他揭示糖分子的环状组织，并研究维生素C的结构与合成。画面用糖晶体上方的六边金属环和影子表达结构被看清；金属环只寓意糖的环状组织，不是维生素C的准确分子式、原子数量或实际实验模型。短句为原创。\n1937年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：研究碳水化合物和维生素C",
+          "en": "Haworth received half the 1937 Nobel Prize in Chemistry for his investigations of carbohydrates and vitamin C; Karrer received the other half. He revealed ring-like organization in sugars and investigated vitamin C structure and synthesis. A six-sided metal loop and shadow above sugar-like crystals symbolize revealing structure. The loop refers qualitatively to cyclic sugars, not an exact vitamin C formula, atom count or laboratory model. The phrase is original.\n1937 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his investigations on carbohydrates and vitamin C"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年化学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

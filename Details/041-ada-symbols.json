@@ -1,0 +1,70 @@
+{
+  "subject": "041-ada-symbols",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:041-ada-symbols",
+      "subject": "041-ada-symbols",
+      "edition": "mono",
+      "title": "洛夫莱斯与符号",
+      "titleEnglish": "Lovelace and Symbols",
+      "category": "计算与人工智能",
+      "image": "Images/mono/041-ada-symbols.jpg",
+      "thumbnail": "Thumbs/mono/041-ada-symbols.jpg",
+      "sha256": "55545ef2a25326c0d4cd66cfbf487d61c3d7ffc3ca1d2fc40ea37184fecd7717",
+      "thumbnailSHA256": "3ac11de639cabe28894fde94eb4a5f2ae77c16903eed11b35770ed324d73d25b",
+      "context": {
+        "phrase": {
+          "zh": "把想法写成机器能遵循的步骤。",
+          "en": "Turn an idea into steps a machine could follow."
+        },
+        "visual": {
+          "zh": "风格化人物、齿轮和符号纸带并置，表现数学想象与机器设计的相遇。纸带上的记号是装饰，并非洛夫莱斯原稿的复刻。",
+          "en": "A stylized figure, gears and a symbolic strip connect mathematical imagination with machine design. The marks are decorative, not a facsimile of Lovelace’s manuscript."
+        },
+        "background": {
+          "zh": "洛夫莱斯在 1843 年发表分析机文章的译文及大量注释，其中包含计算伯努利数的步骤。分析机在她有生之年未建成，因此这些步骤是为设想中的机器写下的。",
+          "en": "In 1843 Lovelace published a translation about the Analytical Engine with extensive notes, including steps for calculating Bernoulli numbers. The Engine was not completed in her lifetime, so the steps addressed a proposed machine."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Ada Lovelace",
+            "url": "https://www.computerhistory.org/babbage/adalovelace"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:041-ada-symbols",
+      "subject": "041-ada-symbols",
+      "edition": "color",
+      "title": "洛夫莱斯与符号",
+      "titleEnglish": "Lovelace and Symbols",
+      "category": "计算与人工智能",
+      "image": "Images/color/041-ada-symbols.jpg",
+      "thumbnail": "Thumbs/color/041-ada-symbols.jpg",
+      "sha256": "2da05f8df9321e126330134c9400cabcb425b3f9e041560aea39d00a7abec688",
+      "thumbnailSHA256": "64fa8641a31e81942f53f0c49c9a39f0f771c68fe52c498ef64e00db02fffc31",
+      "context": {
+        "phrase": {
+          "zh": "把想法写成机器能遵循的步骤。",
+          "en": "Turn an idea into steps a machine could follow."
+        },
+        "visual": {
+          "zh": "风格化人物、齿轮和符号纸带并置，表现数学想象与机器设计的相遇。纸带上的记号是装饰，并非洛夫莱斯原稿的复刻。",
+          "en": "A stylized figure, gears and a symbolic strip connect mathematical imagination with machine design. The marks are decorative, not a facsimile of Lovelace’s manuscript."
+        },
+        "background": {
+          "zh": "洛夫莱斯在 1843 年发表分析机文章的译文及大量注释，其中包含计算伯努利数的步骤。分析机在她有生之年未建成，因此这些步骤是为设想中的机器写下的。",
+          "en": "In 1843 Lovelace published a translation about the Analytical Engine with extensive notes, including steps for calculating Bernoulli numbers. The Engine was not completed in her lifetime, so the steps addressed a proposed machine."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Ada Lovelace",
+            "url": "https://www.computerhistory.org/babbage/adalovelace"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-462",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-462",
+      "subject": "nobel-laureate-462",
+      "edition": "mono",
+      "title": "亨利·杜南",
+      "titleEnglish": "Henry Dunant",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-462/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-462/mono.jpg",
+      "sha256": "add9a46a361740cf80883c532cd7d7a01780ce251daad84680d938e4748a439f",
+      "thumbnailSHA256": "d61545035e5677624c520067fe4c361d02a28488b9c595b75a4a3beb6a738b8f",
+      "context": {
+        "phrase": {
+          "zh": "救助一个人，不必先问他站在哪一边。",
+          "en": "Care for a person before asking which side they are on."
+        },
+        "visual": {
+          "zh": "为杜南独立创作的人道救助拼贴，以空担架、纱布、书页和橄榄枝表现跨越阵营的关怀；不是战场实录。",
+          "en": "An original humanitarian-aid collage for Dunant, using an empty stretcher, gauze, book pages and an olive branch to evoke care across opposing sides. Not a battlefield record."
+        },
+        "background": {
+          "zh": "杜南目睹1859年索尔费里诺战役后的伤亡，随后推动不分阵营的伤员救助。他参与创立红十字事业，并与帕西分享1901年首届诺贝尔和平奖。画面中的救助用品对应他的人道主义工作，书页与橄榄枝是对记录与和平的艺术解读。\n1901年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他救助伤兵并促进国际理解的人道主义努力。",
+          "en": "After witnessing the aftermath of the 1859 Battle of Solferino, Dunant advocated care for wounded soldiers regardless of their side. He helped establish the Red Cross movement and shared the first Nobel Peace Prize in 1901 with Passy. Aid supplies refer to his humanitarian work; book pages and an olive branch are artistic interpretations of testimony and peace.\n1901 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his humanitarian efforts to help wounded soldiers and create international understanding"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年和平奖｜官方记录",
+              "en": "1901 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1901/dunant/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-humanitarian-nobel-peace-prizes/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-462",
+      "subject": "nobel-laureate-462",
+      "edition": "color",
+      "title": "亨利·杜南",
+      "titleEnglish": "Henry Dunant",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-462/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-462/color.jpg",
+      "sha256": "b779dc4e6e4d8d77246d3c16054dac37fa5cb3cb317fa9a4e1f4927bde90c170",
+      "thumbnailSHA256": "ddb9a57250cf3b9517a3c27cc91025fc938200d801732dcc1fcbf8b74379ae98",
+      "context": {
+        "phrase": {
+          "zh": "救助一个人，不必先问他站在哪一边。",
+          "en": "Care for a person before asking which side they are on."
+        },
+        "visual": {
+          "zh": "为杜南独立创作的人道救助拼贴，以空担架、纱布、书页和橄榄枝表现跨越阵营的关怀；不是战场实录。",
+          "en": "An original humanitarian-aid collage for Dunant, using an empty stretcher, gauze, book pages and an olive branch to evoke care across opposing sides. Not a battlefield record."
+        },
+        "background": {
+          "zh": "杜南目睹1859年索尔费里诺战役后的伤亡，随后推动不分阵营的伤员救助。他参与创立红十字事业，并与帕西分享1901年首届诺贝尔和平奖。画面中的救助用品对应他的人道主义工作，书页与橄榄枝是对记录与和平的艺术解读。\n1901年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他救助伤兵并促进国际理解的人道主义努力。",
+          "en": "After witnessing the aftermath of the 1859 Battle of Solferino, Dunant advocated care for wounded soldiers regardless of their side. He helped establish the Red Cross movement and shared the first Nobel Peace Prize in 1901 with Passy. Aid supplies refer to his humanitarian work; book pages and an olive branch are artistic interpretations of testimony and peace.\n1901 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his humanitarian efforts to help wounded soldiers and create international understanding"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年和平奖｜官方记录",
+              "en": "1901 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1901/dunant/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-humanitarian-nobel-peace-prizes/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

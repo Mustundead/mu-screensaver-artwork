@@ -1,0 +1,70 @@
+{
+  "subject": "054-faraday",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:054-faraday",
+      "subject": "054-faraday",
+      "edition": "mono",
+      "title": "法拉第与感应",
+      "titleEnglish": "Faraday and Induction",
+      "category": "自然科学",
+      "image": "Images/mono/054-faraday.jpg",
+      "thumbnail": "Thumbs/mono/054-faraday.jpg",
+      "sha256": "2caa3e5a9e8a76b247b68d7f6593c1c199bf4df6828324a5c89ec23d80f46ba8",
+      "thumbnailSHA256": "90ed6e720b2666d23e389042a36d0df7c25818a74595659d9d89ea6f3f12e184",
+      "context": {
+        "phrase": {
+          "zh": "移动的磁场，唤起流动的电。",
+          "en": "A changing magnetic field can stir a current."
+        },
+        "visual": {
+          "zh": "风格化人物站在铜线圈与发光弧线旁，把实验中看不见的感应画成流动的路径。线圈和仪表并非历史实验的精确复原。",
+          "en": "A stylized figure stands by coils and luminous arcs, turning invisible induction into moving paths. Apparatus and meter are not exact reconstructions of the experiment."
+        },
+        "background": {
+          "zh": "法拉第在 1831 年的实验中发现，改变穿过线圈的磁作用会引起短暂电流。他的感应研究成为发电机和变压器的基础；图中持续发亮的线条不表示电流会在静止磁场中无条件流动。",
+          "en": "In 1831 Faraday found a transient current when magnetic conditions through a coil changed. His induction work underlies generators and transformers; the glowing lines do not imply a current flows unconditionally in a static magnetic field."
+        },
+        "sources": [
+          {
+            "label": "American Physical Society · Faraday",
+            "url": "https://www.aps.org/apsnews/2001/08/faraday-electromagnetism"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:054-faraday",
+      "subject": "054-faraday",
+      "edition": "color",
+      "title": "法拉第与感应",
+      "titleEnglish": "Faraday and Induction",
+      "category": "自然科学",
+      "image": "Images/color/054-faraday.jpg",
+      "thumbnail": "Thumbs/color/054-faraday.jpg",
+      "sha256": "845a67f73cb9502b073634c7c08ee25aa89d384038fd22baf62dc171e39281d6",
+      "thumbnailSHA256": "c42e52a07578eee8b0850e208e0cab7a956dacfdc446d716ccd10b96d4c5b0c2",
+      "context": {
+        "phrase": {
+          "zh": "移动的磁场，唤起流动的电。",
+          "en": "A changing magnetic field can stir a current."
+        },
+        "visual": {
+          "zh": "风格化人物站在铜线圈与发光弧线旁，把实验中看不见的感应画成流动的路径。线圈和仪表并非历史实验的精确复原。",
+          "en": "A stylized figure stands by coils and luminous arcs, turning invisible induction into moving paths. Apparatus and meter are not exact reconstructions of the experiment."
+        },
+        "background": {
+          "zh": "法拉第在 1831 年的实验中发现，改变穿过线圈的磁作用会引起短暂电流。他的感应研究成为发电机和变压器的基础；图中持续发亮的线条不表示电流会在静止磁场中无条件流动。",
+          "en": "In 1831 Faraday found a transient current when magnetic conditions through a coil changed. His induction work underlies generators and transformers; the glowing lines do not imply a current flows unconditionally in a static magnetic field."
+        },
+        "sources": [
+          {
+            "label": "American Physical Society · Faraday",
+            "url": "https://www.aps.org/apsnews/2001/08/faraday-electromagnetism"
+          }
+        ]
+      }
+    }
+  }
+}

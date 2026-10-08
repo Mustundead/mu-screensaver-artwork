@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-044",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-044",
+      "subject": "oscar-best-picture-044",
+      "edition": "mono",
+      "title": "法国贩毒网",
+      "titleEnglish": "The French Connection",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-044/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-044/mono.jpg",
+      "sha256": "7c79e637afca7fa57545b1a8f9e38422448ed4d58902a1bcae1c583797ce015f",
+      "thumbnailSHA256": "be72ee10afcae0d1c76de1469aff865d8d4e7cd5b9a5dd5c82ac63141dad4502",
+      "context": {
+        "phrase": {
+          "zh": "顺着线索，看见隐藏的联系。",
+          "en": "Follow the clues to hidden connections."
+        },
+        "visual": {
+          "zh": "高架铁路的铆钉立柱与横梁从近处向远方收束，空街在前方转弯，左侧砖墙与路面承接条带状光影，远处露出水面。",
+          "en": "Riveted elevated-rail columns and beams converge into depth above an empty curving street; bands of light cross the left brick walls and road, with water visible beyond."
+        },
+        "background": {
+          "zh": "影片讲述纽约警探追查与法国有关的毒品走私线索。这部1971年的电影获得1972年第44届奥斯卡最佳影片。画面用高架铁路下延伸转弯的街道表达追踪与联系，是原创寓意，不是剧照、演员肖像、真实案发地点或电影对白。短句为原创。\n第44届奥斯卡最佳影片：法国贩毒网。颁奖年份 1972；参评年份 1971。",
+          "en": "The film follows New York detectives investigating a drug-smuggling connection to France. This 1971 film won Best Picture at the 44th Academy Awards in 1972. A curving street beneath elevated tracks expresses pursuit and connections in an original metaphor, not a film still, actor portrait, actual case location or film dialogue. The phrase is original.\nAcademy Awards ceremony 44 (1972), Best Picture: The French Connection. Eligibility year: 1971."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1972",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "20thcenturystudios.com",
+            "url": "https://www.20thcenturystudios.com/movies/the-french-connection",
+            "labelLocalized": {
+              "zh": "《法国贩毒网》影片介绍｜二十世纪影业",
+              "en": "The French Connection synopsis — 20th Century Studios"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-044",
+      "subject": "oscar-best-picture-044",
+      "edition": "color",
+      "title": "法国贩毒网",
+      "titleEnglish": "The French Connection",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-044/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-044/color.jpg",
+      "sha256": "6e8c6e739a02f0c61b9084ea584187f15180187586cc0ac6a13c29c4730490f9",
+      "thumbnailSHA256": "fe910499f2e5be544640ce0ddfdafacd21ad241a441782a52f02c92e13db2c37",
+      "context": {
+        "phrase": {
+          "zh": "顺着线索，看见隐藏的联系。",
+          "en": "Follow the clues to hidden connections."
+        },
+        "visual": {
+          "zh": "高架铁路的铆钉立柱与横梁从近处向远方收束，空街在前方转弯，左侧砖墙与路面承接条带状光影，远处露出水面。",
+          "en": "Riveted elevated-rail columns and beams converge into depth above an empty curving street; bands of light cross the left brick walls and road, with water visible beyond."
+        },
+        "background": {
+          "zh": "影片讲述纽约警探追查与法国有关的毒品走私线索。这部1971年的电影获得1972年第44届奥斯卡最佳影片。画面用高架铁路下延伸转弯的街道表达追踪与联系，是原创寓意，不是剧照、演员肖像、真实案发地点或电影对白。短句为原创。\n第44届奥斯卡最佳影片：法国贩毒网。颁奖年份 1972；参评年份 1971。",
+          "en": "The film follows New York detectives investigating a drug-smuggling connection to France. This 1971 film won Best Picture at the 44th Academy Awards in 1972. A curving street beneath elevated tracks expresses pursuit and connections in an original metaphor, not a film still, actor portrait, actual case location or film dialogue. The phrase is original.\nAcademy Awards ceremony 44 (1972), Best Picture: The French Connection. Eligibility year: 1971."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1972",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "20thcenturystudios.com",
+            "url": "https://www.20thcenturystudios.com/movies/the-french-connection",
+            "labelLocalized": {
+              "zh": "《法国贩毒网》影片介绍｜二十世纪影业",
+              "en": "The French Connection synopsis — 20th Century Studios"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

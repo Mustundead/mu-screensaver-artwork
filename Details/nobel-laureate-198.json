@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-198",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-198",
+      "subject": "nobel-laureate-198",
+      "edition": "mono",
+      "title": "理查德·库恩",
+      "titleEnglish": "Richard Kuhn",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-198/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-198/mono.jpg",
+      "sha256": "68b184bb4ee0b654dc04ccb15dcd418ad87933747ede0d71d87571f6ec8b84a5",
+      "thumbnailSHA256": "1896995d3f86cbf621ef9b794ee8a69a1fffc08208f1843b91a86ed6e2052093",
+      "context": {
+        "phrase": {
+          "zh": "分开颜色，才能看清其中的差别。",
+          "en": "Separate the colors to see their differences."
+        },
+        "visual": {
+          "zh": "玻璃柱从上缘伸入，内部三条分层带以不同明暗区分；出口下方悬着一滴液体，玻璃浅皿在下方承接，左侧卷叶伸入画面。",
+          "en": "A glass column enters from the top edge, with three separated bands distinguished by tone. A drop hangs below its outlet above a shallow glass dish, while a curled leaf enters from the left."
+        },
+        "background": {
+          "zh": "库恩因类胡萝卜素和维生素研究获得1938年诺贝尔化学奖，该奖于1939年授予。官方颁奖说明记录了他和同事对色素分离方法、类胡萝卜素及维生素B族的研究。画面用玻璃柱中的分层色带、卷叶和一滴液体表达分离植物物质的过程。色带是原创寓意，不对应某一次实验；带状形态不表示真实物质的颜色或分布，也不构成维生素功效说明。短句为原创。\n1938年化学奖；独享本年度奖项。获奖理由（中文译述）：研究类胡萝卜素和维生素",
+          "en": "Kuhn was awarded the 1938 Nobel Prize in Chemistry for work on carotenoids and vitamins; the award was made in 1939. The official presentation describes research by him and his collaborators on pigment separation, carotenoids and B vitamins. Bands inside a glass column, a curled leaf and a falling drop form an original metaphor for separating plant substances. The bands do not reproduce an experiment; their appearance does not represent the colors or distribution of real substances. This image makes no claim about vitamin benefits. The phrase is original.\n1938 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his work on carotenoids and vitamins"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年化学奖｜官方记录",
+              "en": "1938 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1938/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/richard-kuhn-and-the-chemical-institute-double-bonds-and-biological-mechanisms/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-198",
+      "subject": "nobel-laureate-198",
+      "edition": "color",
+      "title": "理查德·库恩",
+      "titleEnglish": "Richard Kuhn",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-198/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-198/color.jpg",
+      "sha256": "fbc38ada55bea531ce487689df4833b1119728a4b9dd673020e1b3de8cfdfd14",
+      "thumbnailSHA256": "37ec935cd1e280c2fe8e8894e6a65a8cf2e6e1fd099bdb21fb1dd68e4a14895d",
+      "context": {
+        "phrase": {
+          "zh": "分开颜色，才能看清其中的差别。",
+          "en": "Separate the colors to see their differences."
+        },
+        "visual": {
+          "zh": "玻璃柱从上缘伸入，内部三条分层带以不同明暗区分；出口下方悬着一滴液体，玻璃浅皿在下方承接，左侧卷叶伸入画面。",
+          "en": "A glass column enters from the top edge, with three separated bands distinguished by tone. A drop hangs below its outlet above a shallow glass dish, while a curled leaf enters from the left."
+        },
+        "background": {
+          "zh": "库恩因类胡萝卜素和维生素研究获得1938年诺贝尔化学奖，该奖于1939年授予。官方颁奖说明记录了他和同事对色素分离方法、类胡萝卜素及维生素B族的研究。画面用玻璃柱中的分层色带、卷叶和一滴液体表达分离植物物质的过程。色带是原创寓意，不对应某一次实验；带状形态不表示真实物质的颜色或分布，也不构成维生素功效说明。短句为原创。\n1938年化学奖；独享本年度奖项。获奖理由（中文译述）：研究类胡萝卜素和维生素",
+          "en": "Kuhn was awarded the 1938 Nobel Prize in Chemistry for work on carotenoids and vitamins; the award was made in 1939. The official presentation describes research by him and his collaborators on pigment separation, carotenoids and B vitamins. Bands inside a glass column, a curled leaf and a falling drop form an original metaphor for separating plant substances. The bands do not reproduce an experiment; their appearance does not represent the colors or distribution of real substances. This image makes no claim about vitamin benefits. The phrase is original.\n1938 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his work on carotenoids and vitamins"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年化学奖｜官方记录",
+              "en": "1938 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1938/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/richard-kuhn-and-the-chemical-institute-double-bonds-and-biological-mechanisms/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

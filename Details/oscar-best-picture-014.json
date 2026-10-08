@@ -1,0 +1,110 @@
+{
+  "subject": "oscar-best-picture-014",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-014",
+      "subject": "oscar-best-picture-014",
+      "edition": "mono",
+      "title": "青山翠谷",
+      "titleEnglish": "How Green Was My Valley",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-014/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-014/mono.jpg",
+      "sha256": "af7e4cc65f7fa8a3d191275b7cd200c5744a22016898b8be615fd0c8da2da697",
+      "thumbnailSHA256": "9f725ecd99a84f4d30f9cd2e81c88c9ab7e2d1a8bc726e3b62f55dbb86c53038",
+      "context": {
+        "phrase": {
+          "zh": "山谷变了，记忆仍有回声。",
+          "en": "The valley changes; memory still echoes."
+        },
+        "visual": {
+          "zh": "巨幅裁切的矿井提升轮、山坡上的小排屋与前景煤块形成悬殊尺度，表现工业变化与家园记忆。黑白与钴蓝版突出轮圈与辐条；彩色版呈现深铁色机械、绿色山坡、暖砖石房屋和蓝绿远山。它是原创隐喻，不是影片剧照、真实拍摄地或历史矿井复原。",
+          "en": "A huge cropped mine winding wheel contrasts with small hillside houses and foreground coal, interpreting industrial change and memories of home. Cobalt emphasizes the wheel in the monochrome edition; iron, green hills, warm masonry and blue-green distance distinguish full color. It is not a film still, filming location or historical mine reconstruction."
+        },
+        "background": {
+          "zh": "《青山翠谷》是约翰·福特执导、改编自理查德·卢埃林小说的1941年影片，在1942年2月26日举行的第14届奥斯卡颁奖典礼获得最佳影片奖；影片年份与获奖典礼年份不同。英国电影协会的介绍将它描述为对威尔士矿工家庭艰难生活的抒情回望，社区的苦难与互相支持通过孩子的视角呈现。后来的叙述者回忆童年山谷，而工业发展改变了家园。配图用矿井机械、煤与小排屋表现这些主题，不把影片当作完整历史记录，也不复刻实际场景；短句为原创，不是电影台词。\n第14届奥斯卡最佳影片：青山翠谷。颁奖年份 1942；参评年份 1941。",
+          "en": "John Ford directed the 1941 adaptation of Richard Llewellyn's novel. It won Best Picture at the 14th Academy Awards on 26 February 1942, honoring 1941 releases. BFI describes a lyrical recollection of a Welsh mining family's hardships and community support through a child's perspective, with an older narrator recalling a valley changed by industry. The machinery, coal and terrace houses interpret these themes rather than reproducing a set or treating the film as a complete historical record. The phrase is original, not dialogue.\nAcademy Awards ceremony 14 (1942), Best Picture: How Green Was My Valley. Eligibility year: 1941."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1942",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "bfi.org.uk",
+            "url": "https://www.bfi.org.uk/film/f550ed0c-407e-52dc-91e7-9fa613ced129/how-green-was-my-valley",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          },
+          {
+            "label": "bfidatadigipres.github.io",
+            "url": "https://bfidatadigipres.github.io/big%20screen%20classics/2021/07/03/how-green-was-my-valley/",
+            "labelLocalized": {
+              "zh": "影片放映介绍｜英国电影协会",
+              "en": "Film programme notes — BFI"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-014",
+      "subject": "oscar-best-picture-014",
+      "edition": "color",
+      "title": "青山翠谷",
+      "titleEnglish": "How Green Was My Valley",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-014/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-014/color.jpg",
+      "sha256": "c90a897a4ad71c786f2ee0b9233aa0a73b30cf0b5a7ea33fe4dede15252e3091",
+      "thumbnailSHA256": "897a3efce4cfe9b10d9c47182f969fba0f0d37fffa88d5ae6ad3a2b0de238789",
+      "context": {
+        "phrase": {
+          "zh": "山谷变了，记忆仍有回声。",
+          "en": "The valley changes; memory still echoes."
+        },
+        "visual": {
+          "zh": "巨幅裁切的矿井提升轮、山坡上的小排屋与前景煤块形成悬殊尺度，表现工业变化与家园记忆。黑白与钴蓝版突出轮圈与辐条；彩色版呈现深铁色机械、绿色山坡、暖砖石房屋和蓝绿远山。它是原创隐喻，不是影片剧照、真实拍摄地或历史矿井复原。",
+          "en": "A huge cropped mine winding wheel contrasts with small hillside houses and foreground coal, interpreting industrial change and memories of home. Cobalt emphasizes the wheel in the monochrome edition; iron, green hills, warm masonry and blue-green distance distinguish full color. It is not a film still, filming location or historical mine reconstruction."
+        },
+        "background": {
+          "zh": "《青山翠谷》是约翰·福特执导、改编自理查德·卢埃林小说的1941年影片，在1942年2月26日举行的第14届奥斯卡颁奖典礼获得最佳影片奖；影片年份与获奖典礼年份不同。英国电影协会的介绍将它描述为对威尔士矿工家庭艰难生活的抒情回望，社区的苦难与互相支持通过孩子的视角呈现。后来的叙述者回忆童年山谷，而工业发展改变了家园。配图用矿井机械、煤与小排屋表现这些主题，不把影片当作完整历史记录，也不复刻实际场景；短句为原创，不是电影台词。\n第14届奥斯卡最佳影片：青山翠谷。颁奖年份 1942；参评年份 1941。",
+          "en": "John Ford directed the 1941 adaptation of Richard Llewellyn's novel. It won Best Picture at the 14th Academy Awards on 26 February 1942, honoring 1941 releases. BFI describes a lyrical recollection of a Welsh mining family's hardships and community support through a child's perspective, with an older narrator recalling a valley changed by industry. The machinery, coal and terrace houses interpret these themes rather than reproducing a set or treating the film as a complete historical record. The phrase is original, not dialogue.\nAcademy Awards ceremony 14 (1942), Best Picture: How Green Was My Valley. Eligibility year: 1941."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1942",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "bfi.org.uk",
+            "url": "https://www.bfi.org.uk/film/f550ed0c-407e-52dc-91e7-9fa613ced129/how-green-was-my-valley",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          },
+          {
+            "label": "bfidatadigipres.github.io",
+            "url": "https://bfidatadigipres.github.io/big%20screen%20classics/2021/07/03/how-green-was-my-valley/",
+            "labelLocalized": {
+              "zh": "影片放映介绍｜英国电影协会",
+              "en": "Film programme notes — BFI"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

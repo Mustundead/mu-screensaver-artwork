@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-337",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-337",
+      "subject": "nobel-laureate-337",
+      "edition": "mono",
+      "title": "约瑟夫·厄兰格",
+      "titleEnglish": "Joseph Erlanger",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-337/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-337/mono.jpg",
+      "sha256": "8fad0d6e2afb1b959a7fa0d671060468c448aa96da16ba3da3b970e4102f117c",
+      "thumbnailSHA256": "9aa136347cb308a45380bf7e4d450ff1d1a8412face36591861b0f87ad368dcf",
+      "context": {
+        "phrase": {
+          "zh": "把短暂的信号，留在眼前。",
+          "en": "Bring a brief signal into view."
+        },
+        "visual": {
+          "zh": "斜向伸入画面的细长玻璃电子管连接圆形屏面，屏上两条浅色短波形由刻线构成，金属支架承托下方。",
+          "en": "An elongated glass tube leads diagonally to a round screen with two short pale engraved traces. A metal support holds the tube beneath."
+        },
+        "background": {
+          "zh": "厄兰格与加塞把神经中短暂的电信号记录下来。他们改进示波装置，并研究单条神经纤维的不同功能，共同获得1944年诺贝尔生理学或医学奖，各占一半。画面以玻璃电子管和简化的波形表达观察信号；波形为原创示意，不是诊断结果或历史记录。短句为原创。\n1944年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现单条神经纤维功能的高度分化",
+          "en": "Erlanger and Gasser brought brief nerve signals into view. They adapted an oscillograph and studied the different functions of individual nerve fibers, sharing the 1944 Nobel Prize in Physiology or Medicine equally. A glass tube and simplified traces express observing signals. The traces are original illustrations, not diagnostic results or historical recordings. The phrase is original.\n1944 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries relating to the highly differentiated functions of single nerve fibres"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年生理学或医学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "beckerexhibits.wustl.edu",
+            "url": "https://beckerexhibits.wustl.edu/s/neurosciences/page/erlanger",
+            "labelLocalized": {
+              "zh": "厄兰格与神经信号研究｜圣路易斯华盛顿大学",
+              "en": "Erlanger and nerve signals — Washington University in St. Louis"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-337",
+      "subject": "nobel-laureate-337",
+      "edition": "color",
+      "title": "约瑟夫·厄兰格",
+      "titleEnglish": "Joseph Erlanger",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-337/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-337/color.jpg",
+      "sha256": "20f39cb564e57d383130924d4b3cb7025f8c747cf98d11b6254b3b8d47dfa25b",
+      "thumbnailSHA256": "5bee0589bad7f62810e1f8159c4c93cc05d87a92c842a632661b11b0ed1b2241",
+      "context": {
+        "phrase": {
+          "zh": "把短暂的信号，留在眼前。",
+          "en": "Bring a brief signal into view."
+        },
+        "visual": {
+          "zh": "斜向伸入画面的细长玻璃电子管连接圆形屏面，屏上两条浅色短波形由刻线构成，金属支架承托下方。",
+          "en": "An elongated glass tube leads diagonally to a round screen with two short pale engraved traces. A metal support holds the tube beneath."
+        },
+        "background": {
+          "zh": "厄兰格与加塞把神经中短暂的电信号记录下来。他们改进示波装置，并研究单条神经纤维的不同功能，共同获得1944年诺贝尔生理学或医学奖，各占一半。画面以玻璃电子管和简化的波形表达观察信号；波形为原创示意，不是诊断结果或历史记录。短句为原创。\n1944年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现单条神经纤维功能的高度分化",
+          "en": "Erlanger and Gasser brought brief nerve signals into view. They adapted an oscillograph and studied the different functions of individual nerve fibers, sharing the 1944 Nobel Prize in Physiology or Medicine equally. A glass tube and simplified traces express observing signals. The traces are original illustrations, not diagnostic results or historical recordings. The phrase is original.\n1944 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries relating to the highly differentiated functions of single nerve fibres"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年生理学或医学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "beckerexhibits.wustl.edu",
+            "url": "https://beckerexhibits.wustl.edu/s/neurosciences/page/erlanger",
+            "labelLocalized": {
+              "zh": "厄兰格与神经信号研究｜圣路易斯华盛顿大学",
+              "en": "Erlanger and nerve signals — Washington University in St. Louis"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

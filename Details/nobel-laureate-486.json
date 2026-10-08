@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-486",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-486",
+      "subject": "nobel-laureate-486",
+      "edition": "mono",
+      "title": "克里斯蒂安·朗格",
+      "titleEnglish": "Christian Lange",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-486/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-486/mono.jpg",
+      "sha256": "3803322649378ca17c6c2a807a3a3a6714ddef33cacd046821cdedc4a1912c79",
+      "thumbnailSHA256": "f54b3378a5e3c782bfc9e3ef86a74ab6db893c3241967ad2dee6f8a2aeca1b29",
+      "context": {
+        "phrase": {
+          "zh": "把对话留下，让合作继续。",
+          "en": "Keep the dialogue so cooperation can continue."
+        },
+        "visual": {
+          "zh": "巨大的蓝绿布面档案册斜向裁入右侧，旧黄铜夹与米白布带固定一张伸向左侧的空白纸页。黑白版保留册体、夹子、布带和纸页。布纹、纸层与金属细节表现保存交流记录的工作，不是真实馆藏或历史物件复原。",
+          "en": "A monumental slate-teal cloth folio is cropped at right. An old brass clip and ivory linen tape hold a blank sheet projecting left. Monochrome retains folio, clip, tape and paper. Cloth, layered pages and metal suggest the practical work of preserving dialogue, not an actual archive object or historical reconstruction."
+        },
+        "background": {
+          "zh": "朗格与布兰廷各获1921年诺贝尔和平奖的一半。朗格自1909年起担任各国议会联盟秘书长；这是一家促进不同国家议会交流的组织。他在第一次世界大战期间维持组织工作，并把办公地点移到如今的奥斯陆。诺贝尔和平中心强调，他重视实际可行的国际合作与避免下一场战争。画中档案册、夹子和布带是保存对话的原创寓意，不是真实馆藏文件。短句为原创，不是人物引语。\n1921年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰两位获奖者毕生为和平事业和有组织的国际合作作出的贡献。",
+          "en": "Lange and Branting each received half of the 1921 Nobel Peace Prize. From 1909 Lange served as secretary-general of the Inter-Parliamentary Union, which connects parliaments across countries. He maintained its work through the First World War and moved its office to what is now Oslo. The Nobel Peace Center describes his practical approach to international cooperation and preventing another war. Folio, clip and tape are an original metaphor for preserving dialogue, not actual archive documents. The phrase is original, not a quotation.\n1921 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their lifelong contributions to the cause of peace and organized internationalism"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年和平奖｜官方记录",
+              "en": "1921 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeacecenter.org",
+            "url": "https://www.nobelpeacecenter.org/en/news/first-secretary-of-peace",
+            "labelLocalized": {
+              "zh": "朗格与国际合作｜诺贝尔和平中心",
+              "en": "Lange and international cooperation — Nobel Peace Center"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-486",
+      "subject": "nobel-laureate-486",
+      "edition": "color",
+      "title": "克里斯蒂安·朗格",
+      "titleEnglish": "Christian Lange",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-486/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-486/color.jpg",
+      "sha256": "a560856fdee352639de8940a84fcff2280f24843dd172e27c1fcafbd3cdb509d",
+      "thumbnailSHA256": "bfee582a6ea7d009bfbb66fdcf5a90bba696ed858a45cc152efa688c77669bb2",
+      "context": {
+        "phrase": {
+          "zh": "把对话留下，让合作继续。",
+          "en": "Keep the dialogue so cooperation can continue."
+        },
+        "visual": {
+          "zh": "巨大的蓝绿布面档案册斜向裁入右侧，旧黄铜夹与米白布带固定一张伸向左侧的空白纸页。黑白版保留册体、夹子、布带和纸页。布纹、纸层与金属细节表现保存交流记录的工作，不是真实馆藏或历史物件复原。",
+          "en": "A monumental slate-teal cloth folio is cropped at right. An old brass clip and ivory linen tape hold a blank sheet projecting left. Monochrome retains folio, clip, tape and paper. Cloth, layered pages and metal suggest the practical work of preserving dialogue, not an actual archive object or historical reconstruction."
+        },
+        "background": {
+          "zh": "朗格与布兰廷各获1921年诺贝尔和平奖的一半。朗格自1909年起担任各国议会联盟秘书长；这是一家促进不同国家议会交流的组织。他在第一次世界大战期间维持组织工作，并把办公地点移到如今的奥斯陆。诺贝尔和平中心强调，他重视实际可行的国际合作与避免下一场战争。画中档案册、夹子和布带是保存对话的原创寓意，不是真实馆藏文件。短句为原创，不是人物引语。\n1921年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰两位获奖者毕生为和平事业和有组织的国际合作作出的贡献。",
+          "en": "Lange and Branting each received half of the 1921 Nobel Peace Prize. From 1909 Lange served as secretary-general of the Inter-Parliamentary Union, which connects parliaments across countries. He maintained its work through the First World War and moved its office to what is now Oslo. The Nobel Peace Center describes his practical approach to international cooperation and preventing another war. Folio, clip and tape are an original metaphor for preserving dialogue, not actual archive documents. The phrase is original, not a quotation.\n1921 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their lifelong contributions to the cause of peace and organized internationalism"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年和平奖｜官方记录",
+              "en": "1921 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeacecenter.org",
+            "url": "https://www.nobelpeacecenter.org/en/news/first-secretary-of-peace",
+            "labelLocalized": {
+              "zh": "朗格与国际合作｜诺贝尔和平中心",
+              "en": "Lange and international cooperation — Nobel Peace Center"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

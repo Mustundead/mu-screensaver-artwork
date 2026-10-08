@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-605",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-605",
+      "subject": "nobel-laureate-605",
+      "edition": "mono",
+      "title": "约翰·高尔斯华绥",
+      "titleEnglish": "John Galsworthy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-605/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-605/mono.jpg",
+      "sha256": "a4ac241035fd7e1ac8f29c99d29c8729bebd683e86816b6019554c4c1242240f",
+      "thumbnailSHA256": "4eae6e95f01d314bdae38bddbbed690f13d76b76ad46755dd4f944e21cec87b7",
+      "context": {
+        "phrase": {
+          "zh": "拥有的边界之外，还有人的自由。",
+          "en": "Beyond the bounds of ownership lies human freedom."
+        },
+        "visual": {
+          "zh": "近处石柱与两处铰链连接一扇打开的铁门，门栏从上缘裁出；右侧另一扇门的局部与中间开口形成边界。开口通向明亮花园与弯曲小径。黑白版保留连接结构、开放通道和远近明暗层次。",
+          "en": "A foreground stone post and two hinges hold an open iron gate, its bars cropped above. A partial gate at right frames a clear gap leading to a bright garden and winding path. The neutral monochrome edition preserves the attachments, open passage and tonal depth."
+        },
+        "background": {
+          "zh": "高尔斯华绥因杰出的叙事艺术获得1932年诺贝尔文学奖，获奖理由特别提到《福尔赛世家》。这组小说描写家族生活、财产观念与个人感情之间的张力。门与花园是对占有和自由的原创解读，不是小说中某栋房屋的复原，也不是作者原话；短句为原创。\n1932年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他杰出的叙事艺术，其最高成就体现在《福尔赛世家》中。",
+          "en": "Galsworthy received the 1932 Nobel Prize in Literature for distinguished narrative art, with The Forsyte Saga singled out in the citation. The novels explore family life and tensions between property instincts and personal feeling. The gate and garden are an original interpretation of ownership and freedom, not a reconstructed house from the novels or the author’s words. The phrase is original.\n1932 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his distinguished art of narration which takes its highest form in The Forsyte Saga"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年文学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "gutenberg.org",
+            "url": "https://www.gutenberg.org/files/2559/2559-h/2559-h.htm",
+            "labelLocalized": {
+              "zh": "《福尔赛世家》原文｜古登堡计划",
+              "en": "The Forsyte Saga original text — Project Gutenberg"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-605",
+      "subject": "nobel-laureate-605",
+      "edition": "color",
+      "title": "约翰·高尔斯华绥",
+      "titleEnglish": "John Galsworthy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-605/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-605/color.jpg",
+      "sha256": "4bd6a681e48862ecb06eb81c53eb9ea9c6154012eafc1d3b0ccebe5f67693a07",
+      "thumbnailSHA256": "775ec589729ceddb682a193f601cf6715cc63044ad17b82d533516a9c700892b",
+      "context": {
+        "phrase": {
+          "zh": "拥有的边界之外，还有人的自由。",
+          "en": "Beyond the bounds of ownership lies human freedom."
+        },
+        "visual": {
+          "zh": "近处石柱与两处铰链连接一扇打开的铁门，门栏从上缘裁出；右侧另一扇门的局部与中间开口形成边界。开口通向明亮花园与弯曲小径。黑白版保留连接结构、开放通道和远近明暗层次。",
+          "en": "A foreground stone post and two hinges hold an open iron gate, its bars cropped above. A partial gate at right frames a clear gap leading to a bright garden and winding path. The neutral monochrome edition preserves the attachments, open passage and tonal depth."
+        },
+        "background": {
+          "zh": "高尔斯华绥因杰出的叙事艺术获得1932年诺贝尔文学奖，获奖理由特别提到《福尔赛世家》。这组小说描写家族生活、财产观念与个人感情之间的张力。门与花园是对占有和自由的原创解读，不是小说中某栋房屋的复原，也不是作者原话；短句为原创。\n1932年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他杰出的叙事艺术，其最高成就体现在《福尔赛世家》中。",
+          "en": "Galsworthy received the 1932 Nobel Prize in Literature for distinguished narrative art, with The Forsyte Saga singled out in the citation. The novels explore family life and tensions between property instincts and personal feeling. The gate and garden are an original interpretation of ownership and freedom, not a reconstructed house from the novels or the author’s words. The phrase is original.\n1932 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his distinguished art of narration which takes its highest form in The Forsyte Saga"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年文学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "gutenberg.org",
+            "url": "https://www.gutenberg.org/files/2559/2559-h/2559-h.htm",
+            "labelLocalized": {
+              "zh": "《福尔赛世家》原文｜古登堡计划",
+              "en": "The Forsyte Saga original text — Project Gutenberg"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

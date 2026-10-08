@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-181",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-181",
+      "subject": "nobel-laureate-181",
+      "edition": "mono",
+      "title": "弗里茨·普雷格尔",
+      "titleEnglish": "Fritz Pregl",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-181/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-181/mono.jpg",
+      "sha256": "fcd8b984221b806d7c85e5c687afc10b2fde82a2fae4e2033e2578ce8ecaf48d",
+      "thumbnailSHA256": "f023dfd6b4402fc1c28d5e602b7242ed86e5cc0aee535d647b1624df32d7f855",
+      "context": {
+        "phrase": {
+          "zh": "样本虽少，细节仍可辨认。",
+          "en": "Even a small sample can yield detail."
+        },
+        "visual": {
+          "zh": "巨大的细尖镊子从右上方伸向左下的小陶瓷样品舟，舟内有三颗琥珀色颗粒；赭色空白折纸从右下裁入。黑白版保留镊子、三颗粒与裁切。这是微量分析的原创联想，不是真实器具复原。",
+          "en": "Huge fine-point tweezers extend from upper right toward a small ceramic sample boat at lower left containing three amber grains; blank ochre folded paper enters from lower right. Monochrome retains the tweezers, three grains and crop. This is an original micro-analysis association, not a reconstruction of actual tools."
+        },
+        "background": {
+          "zh": "普雷格尔独享1923年诺贝尔化学奖，因发明有机物质的微量分析方法获奖。他改进已有的定量元素分析方法，使很少量的有机样本也能接受分析，减少时间、劳动和材料消耗。画中镊子、小样品舟和颗粒是对微量工作的原创联想，不是他实际使用器具的复原。短句为原创。\n1923年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发明有机物质微量分析的方法。",
+          "en": "Pregl received the full 1923 Nobel Prize in Chemistry for inventing methods of micro-analysis of organic substances. He adapted existing quantitative elemental analysis to very small organic samples, saving time, labor and material. The tweezers, small sample boat and grains are original associations with small-sample work, not reconstructions of his actual tools. The phrase is original.\n1923 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his invention of the method of micro-analysis of organic substances"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年化学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-181",
+      "subject": "nobel-laureate-181",
+      "edition": "color",
+      "title": "弗里茨·普雷格尔",
+      "titleEnglish": "Fritz Pregl",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-181/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-181/color.jpg",
+      "sha256": "1c1fa24e6918ef980ddcbdc4e125da740d3524c5f519fbb375ac287a44e25b22",
+      "thumbnailSHA256": "1c51683b30479ca3f9b0467cb26f6d27fd38b2bfa6f4207b31b2911c5793fc85",
+      "context": {
+        "phrase": {
+          "zh": "样本虽少，细节仍可辨认。",
+          "en": "Even a small sample can yield detail."
+        },
+        "visual": {
+          "zh": "巨大的细尖镊子从右上方伸向左下的小陶瓷样品舟，舟内有三颗琥珀色颗粒；赭色空白折纸从右下裁入。黑白版保留镊子、三颗粒与裁切。这是微量分析的原创联想，不是真实器具复原。",
+          "en": "Huge fine-point tweezers extend from upper right toward a small ceramic sample boat at lower left containing three amber grains; blank ochre folded paper enters from lower right. Monochrome retains the tweezers, three grains and crop. This is an original micro-analysis association, not a reconstruction of actual tools."
+        },
+        "background": {
+          "zh": "普雷格尔独享1923年诺贝尔化学奖，因发明有机物质的微量分析方法获奖。他改进已有的定量元素分析方法，使很少量的有机样本也能接受分析，减少时间、劳动和材料消耗。画中镊子、小样品舟和颗粒是对微量工作的原创联想，不是他实际使用器具的复原。短句为原创。\n1923年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发明有机物质微量分析的方法。",
+          "en": "Pregl received the full 1923 Nobel Prize in Chemistry for inventing methods of micro-analysis of organic substances. He adapted existing quantitative elemental analysis to very small organic samples, saving time, labor and material. The tweezers, small sample boat and grains are original associations with small-sample work, not reconstructions of his actual tools. The phrase is original.\n1923 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his invention of the method of micro-analysis of organic substances"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年化学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

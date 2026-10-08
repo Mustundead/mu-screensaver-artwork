@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-29",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-29",
+      "subject": "nobel-laureate-29",
+      "edition": "mono",
+      "title": "曼内·西格巴恩",
+      "titleEnglish": "Manne Siegbahn",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-29/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-29/mono.jpg",
+      "sha256": "3dc5283832db6c5c826a2b070a91b1a714883c7c5147cc1d4f2f3b328c68b0cc",
+      "thumbnailSHA256": "67bc55c90fb08f79e258138fbd4df0388e60f945dced1c31c903391bd1c41c26",
+      "context": {
+        "phrase": {
+          "zh": "细分光的痕迹，靠的是更准的测量。",
+          "en": "Finer traces of light require finer measures."
+        },
+        "visual": {
+          "zh": "斜置的黄铜色狭缝组件占据画面右侧，琥珀色晶体位于左下，弯曲的黑色胶片带上有两条银色纹。黑白版保留狭缝、晶体、胶片和裁切，金属刻纹更明显。这是精密测量的原创寓意，不是历史器材复原。",
+          "en": "An angled brass slit assembly dominates the right, with an amber crystal at lower left and two silver bands on a curving black film strip. Monochrome retains the slit, crystal, film and crop, with stronger metal hatching. This is an original precision metaphor, not a historical apparatus."
+        },
+        "background": {
+          "zh": "西格巴恩独享1924年诺贝尔物理学奖，奖项于1925年颁给他，理由是X射线光谱学领域的发现与研究。他改进X射线管、气泵与光谱测量装置，提高测量精度，帮助研究元素的特征X射线。金属狭缝、晶体与银色条纹是精密测量的原创寓意，不是历史器材复原，也不代表实际测量数据。短句为原创。\n1924年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在X射线光谱学领域的发现与研究。",
+          "en": "Siegbahn received the full 1924 Nobel Prize in Physics in 1925 for discoveries and research in X-ray spectroscopy. He improved X-ray tubes, pumps and spectrographic instruments, increasing measurement precision and the study of characteristic X-rays from elements. The slit, crystal and silver bands are an original metaphor for precision, not a historical apparatus or measured data. The phrase is original.\n1924 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discoveries and research in the field of X-ray spectroscopy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1924 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1924/summary/",
+            "labelLocalized": {
+              "zh": "1924年物理学奖｜官方记录",
+              "en": "1924 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1924/siegbahn/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-29",
+      "subject": "nobel-laureate-29",
+      "edition": "color",
+      "title": "曼内·西格巴恩",
+      "titleEnglish": "Manne Siegbahn",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-29/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-29/color.jpg",
+      "sha256": "d5225748dc246878260409cc03df6000eb6b6b75219f0376afea5d4cda1d4a4d",
+      "thumbnailSHA256": "a74d745f9f2a6be24a85f35155eb6592d958954ee57dad1aeb9b24822348c1f9",
+      "context": {
+        "phrase": {
+          "zh": "细分光的痕迹，靠的是更准的测量。",
+          "en": "Finer traces of light require finer measures."
+        },
+        "visual": {
+          "zh": "斜置的黄铜色狭缝组件占据画面右侧，琥珀色晶体位于左下，弯曲的黑色胶片带上有两条银色纹。黑白版保留狭缝、晶体、胶片和裁切，金属刻纹更明显。这是精密测量的原创寓意，不是历史器材复原。",
+          "en": "An angled brass slit assembly dominates the right, with an amber crystal at lower left and two silver bands on a curving black film strip. Monochrome retains the slit, crystal, film and crop, with stronger metal hatching. This is an original precision metaphor, not a historical apparatus."
+        },
+        "background": {
+          "zh": "西格巴恩独享1924年诺贝尔物理学奖，奖项于1925年颁给他，理由是X射线光谱学领域的发现与研究。他改进X射线管、气泵与光谱测量装置，提高测量精度，帮助研究元素的特征X射线。金属狭缝、晶体与银色条纹是精密测量的原创寓意，不是历史器材复原，也不代表实际测量数据。短句为原创。\n1924年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在X射线光谱学领域的发现与研究。",
+          "en": "Siegbahn received the full 1924 Nobel Prize in Physics in 1925 for discoveries and research in X-ray spectroscopy. He improved X-ray tubes, pumps and spectrographic instruments, increasing measurement precision and the study of characteristic X-rays from elements. The slit, crystal and silver bands are an original metaphor for precision, not a historical apparatus or measured data. The phrase is original.\n1924 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discoveries and research in the field of X-ray spectroscopy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1924 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1924/summary/",
+            "labelLocalized": {
+              "zh": "1924年物理学奖｜官方记录",
+              "en": "1924 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1924/siegbahn/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-582",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-582",
+      "subject": "nobel-laureate-582",
+      "edition": "mono",
+      "title": "格哈特·霍普特曼",
+      "titleEnglish": "Gerhart Hauptmann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-582/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-582/mono.jpg",
+      "sha256": "fe7a99b01e8acca62d5fabebb7131ed49faa0295441dd1f4cc4ca83bbce3a837",
+      "thumbnailSHA256": "9c38ce0c9adcc11e3030ef67d2665da46bed111c04ffbc804a90fa49759efe8e",
+      "context": {
+        "phrase": {
+          "zh": "让平凡的生活，被舞台听见。",
+          "en": "Let ordinary lives be heard on stage."
+        },
+        "visual": {
+          "zh": "巨大的织梭从左下斜穿画面，细线掠过远处的小戏剧面具，把劳动与舞台联系起来。黑白与钴蓝版突出织梭；彩色版以胡桃木、亚麻线、浅陶土色面具和灰蓝背景区分材质。它是对豪普特曼文学主题的原创解读，不是某部作品的舞台复原或历史实物记录。",
+          "en": "An immense shuttle enters diagonally from lower left, with threads passing a small theatrical mask, connecting labor and stage. Cobalt emphasizes the shuttle in monochrome; full color distinguishes walnut, flax yarn, pale terracotta ceramic and a gray-blue background. This is an original interpretation of Hauptmann's literary themes, not a reconstructed production or historical artifact."
+        },
+        "background": {
+          "zh": "霍普特曼独自获得1912年诺贝尔文学奖，官方理由主要表彰他在戏剧艺术领域丰富、多样而杰出的创作，不能把获奖理由缩成单独一部《织工》。柏林自由大学的作家档案研究介绍指出，《日出之前》（1889）与《织工》（1892）是其早期突破性作品。画面以梭子、经线和陶制面具联系普通劳动生活与舞台表达；物件比例与摆放属于原创构图，短句也不是作家引语。\n1912年文学奖；独享本年度奖项。获奖理由（中文译述）：主要表彰他在戏剧艺术领域丰富、多样而杰出的创作。",
+          "en": "Hauptmann was the sole 1912 Nobel laureate in Literature, primarily honored for his fruitful, varied and outstanding dramatic production, rather than one play alone. Freie Universität Berlin’s archive research identifies Before Sunrise (1889) and The Weavers (1892) as early breakthroughs. Shuttle, threads and a ceramic mask connect ordinary working life with theater; their scale and arrangement are original, and the phrase is not a quotation.\n1912 — The Nobel Prize in Literature. Received the full prize. Official motivation: primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年文学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "fu-berlin.de",
+            "url": "https://www.fu-berlin.de/en/presse/informationen/wissenschaft/2011/201110/hauptmann.html",
+            "labelLocalized": {
+              "zh": "作家档案研究｜柏林自由大学",
+              "en": "Writer archive research — Freie Universität Berlin"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-582",
+      "subject": "nobel-laureate-582",
+      "edition": "color",
+      "title": "格哈特·霍普特曼",
+      "titleEnglish": "Gerhart Hauptmann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-582/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-582/color.jpg",
+      "sha256": "8203c7cc60031af412defc08882d6f0f19c46fd1816cceda795d4d48b25b5a26",
+      "thumbnailSHA256": "5937fa11fa8632f8355be9ae20c195a8339ad5b1c5fd2ac26ccfff812f296356",
+      "context": {
+        "phrase": {
+          "zh": "让平凡的生活，被舞台听见。",
+          "en": "Let ordinary lives be heard on stage."
+        },
+        "visual": {
+          "zh": "巨大的织梭从左下斜穿画面，细线掠过远处的小戏剧面具，把劳动与舞台联系起来。黑白与钴蓝版突出织梭；彩色版以胡桃木、亚麻线、浅陶土色面具和灰蓝背景区分材质。它是对豪普特曼文学主题的原创解读，不是某部作品的舞台复原或历史实物记录。",
+          "en": "An immense shuttle enters diagonally from lower left, with threads passing a small theatrical mask, connecting labor and stage. Cobalt emphasizes the shuttle in monochrome; full color distinguishes walnut, flax yarn, pale terracotta ceramic and a gray-blue background. This is an original interpretation of Hauptmann's literary themes, not a reconstructed production or historical artifact."
+        },
+        "background": {
+          "zh": "霍普特曼独自获得1912年诺贝尔文学奖，官方理由主要表彰他在戏剧艺术领域丰富、多样而杰出的创作，不能把获奖理由缩成单独一部《织工》。柏林自由大学的作家档案研究介绍指出，《日出之前》（1889）与《织工》（1892）是其早期突破性作品。画面以梭子、经线和陶制面具联系普通劳动生活与舞台表达；物件比例与摆放属于原创构图，短句也不是作家引语。\n1912年文学奖；独享本年度奖项。获奖理由（中文译述）：主要表彰他在戏剧艺术领域丰富、多样而杰出的创作。",
+          "en": "Hauptmann was the sole 1912 Nobel laureate in Literature, primarily honored for his fruitful, varied and outstanding dramatic production, rather than one play alone. Freie Universität Berlin’s archive research identifies Before Sunrise (1889) and The Weavers (1892) as early breakthroughs. Shuttle, threads and a ceramic mask connect ordinary working life with theater; their scale and arrangement are original, and the phrase is not a quotation.\n1912 — The Nobel Prize in Literature. Received the full prize. Official motivation: primarily in recognition of his fruitful, varied and outstanding production in the realm of dramatic art"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年文学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "fu-berlin.de",
+            "url": "https://www.fu-berlin.de/en/presse/informationen/wissenschaft/2011/201110/hauptmann.html",
+            "labelLocalized": {
+              "zh": "作家档案研究｜柏林自由大学",
+              "en": "Writer archive research — Freie Universität Berlin"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

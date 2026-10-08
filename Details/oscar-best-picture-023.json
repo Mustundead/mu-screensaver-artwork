@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-023",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-023",
+      "subject": "oscar-best-picture-023",
+      "edition": "mono",
+      "title": "彗星美人",
+      "titleEnglish": "All about Eve",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-023/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-023/mono.jpg",
+      "sha256": "9335c22037e7019194888e48299317fbbf9864594336008c339be68c070589d8",
+      "thumbnailSHA256": "68a9260dcc3dcdb120a34e13f8c0e8d935bfaf769391ccf6604b53e99797c45d",
+      "context": {
+        "phrase": {
+          "zh": "镜子照见目光，也照见野心。",
+          "en": "A mirror catches a gaze, and ambition."
+        },
+        "visual": {
+          "zh": "巨大的旧黄铜椭圆镜从右侧裁入，紫褐织带沿镜边延伸；左侧两张浅色与赭色折纸中，一张在镜中形成倒影。黑白版保留纸片、倒影与裁切。这是后台竞争的原创联想，不是电影画面、演员肖像或海报。",
+          "en": "A huge worn-brass oval mirror enters from the right, with a plum ribbon along its rim; of two ivory and ochre folded papers at left, one appears in reflection. Monochrome preserves papers, reflection and crop. This is an original backstage-rivalry association, not a film frame, actor portrait or poster."
+        },
+        "background": {
+          "zh": "《彗星美人》是1950年的影片，在1951年第23届奥斯卡获最佳影片奖。影片讲述伊芙接近舞台明星玛戈，并利用身边的关系追逐成功，呈现仰慕、野心与竞争。画中镜子、织带和空白纸片是对后台关系的原创联想，不是电影画面或海报。彩色版使用原创材质配色，不表示影片本身是彩色电影。短句为原创，不是台词。\n第23届奥斯卡最佳影片：彗星美人。颁奖年份 1951；参评年份 1950。",
+          "en": "All about Eve is a 1950 film that won Best Motion Picture at the 23rd Academy Awards in 1951. Eve gains access to stage star Margo and uses personal connections to pursue success, exploring admiration, ambition and rivalry. The mirror, ribbon and blank papers are original associations with backstage relationships, not a film frame or poster. The color edition uses an original material palette and does not imply the film was shot in color. The phrase is original, not dialogue.\nAcademy Awards ceremony 23 (1951), Best Picture: All about Eve. Eligibility year: 1950."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1951",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "20thcenturystudios.com",
+            "url": "https://www.20thcenturystudios.com/movies/all-about-eve",
+            "labelLocalized": {
+              "zh": "《彗星美人》影片介绍｜二十世纪影业",
+              "en": "All about Eve synopsis — 20th Century Studios"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-023",
+      "subject": "oscar-best-picture-023",
+      "edition": "color",
+      "title": "彗星美人",
+      "titleEnglish": "All about Eve",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-023/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-023/color.jpg",
+      "sha256": "85b6395b6e835cc284f4a59d31e2c027a140cc6ec312fea0b77cc9dfe3b0a3f6",
+      "thumbnailSHA256": "213702fdf8952eac01223fec5c5af3855b189edd9de3908214c485339adec005",
+      "context": {
+        "phrase": {
+          "zh": "镜子照见目光，也照见野心。",
+          "en": "A mirror catches a gaze, and ambition."
+        },
+        "visual": {
+          "zh": "巨大的旧黄铜椭圆镜从右侧裁入，紫褐织带沿镜边延伸；左侧两张浅色与赭色折纸中，一张在镜中形成倒影。黑白版保留纸片、倒影与裁切。这是后台竞争的原创联想，不是电影画面、演员肖像或海报。",
+          "en": "A huge worn-brass oval mirror enters from the right, with a plum ribbon along its rim; of two ivory and ochre folded papers at left, one appears in reflection. Monochrome preserves papers, reflection and crop. This is an original backstage-rivalry association, not a film frame, actor portrait or poster."
+        },
+        "background": {
+          "zh": "《彗星美人》是1950年的影片，在1951年第23届奥斯卡获最佳影片奖。影片讲述伊芙接近舞台明星玛戈，并利用身边的关系追逐成功，呈现仰慕、野心与竞争。画中镜子、织带和空白纸片是对后台关系的原创联想，不是电影画面或海报。彩色版使用原创材质配色，不表示影片本身是彩色电影。短句为原创，不是台词。\n第23届奥斯卡最佳影片：彗星美人。颁奖年份 1951；参评年份 1950。",
+          "en": "All about Eve is a 1950 film that won Best Motion Picture at the 23rd Academy Awards in 1951. Eve gains access to stage star Margo and uses personal connections to pursue success, exploring admiration, ambition and rivalry. The mirror, ribbon and blank papers are original associations with backstage relationships, not a film frame or poster. The color edition uses an original material palette and does not imply the film was shot in color. The phrase is original, not dialogue.\nAcademy Awards ceremony 23 (1951), Best Picture: All about Eve. Eligibility year: 1950."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1951",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "20thcenturystudios.com",
+            "url": "https://www.20thcenturystudios.com/movies/all-about-eve",
+            "labelLocalized": {
+              "zh": "《彗星美人》影片介绍｜二十世纪影业",
+              "en": "All about Eve synopsis — 20th Century Studios"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

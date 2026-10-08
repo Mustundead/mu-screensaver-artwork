@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-168",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-168",
+      "subject": "nobel-laureate-168",
+      "edition": "mono",
+      "title": "威廉·奥斯特瓦尔德",
+      "titleEnglish": "Wilhelm Ostwald",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-168/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-168/mono.jpg",
+      "sha256": "da2d9a22875c9432b177c47d28210fedf1d14095751688bfda6b7d17a9252461",
+      "thumbnailSHA256": "f8f1671a65dd5dbf5595355ff9f591fa2e13ac0382bb9500ee14f320b097c510",
+      "context": {
+        "phrase": {
+          "zh": "细看变化，也看变化的速度。",
+          "en": "Watch the change, and the pace of change."
+        },
+        "visual": {
+          "zh": "巨大沙漏切出画面上下边缘，多孔石拱和蓝色折面在玻璃后方交叠。沙漏指向变化所需的时间，石拱借通道表现催化的艺术隐喻；它们不是反应机理图或真实催化实验。",
+          "en": "A massive cropped hourglass overlaps a porous stone arch and folded cobalt plane. Falling sand evokes the time of change; an open passage provides an artistic metaphor for catalysis. This is neither a reaction-mechanism diagram nor a real catalytic experiment."
+        },
+        "background": {
+          "zh": "威廉·奥斯特瓦尔德获得1909年诺贝尔化学奖，获奖工作涉及催化、化学平衡以及反应速率的基本原理。反应速率是化学变化发生的快慢；化学平衡则是正向与逆向变化相互平衡的状态，并不表示微观变化停止。催化剂可以加快达到平衡的过程，而不改变相同条件下的平衡位置。奥斯特瓦尔德把定量测量用于研究这些联系，推动物理化学的发展。配图用时间与通道的形象帮助联想，不代表具体反应或设备；短句为原创，不是他的引语。\n1909年化学奖；独享本年度奖项。获奖理由（中文译述）：因其催化研究，以及对化学平衡和反应速率基本原理的探索",
+          "en": "Wilhelm Ostwald received the 1909 Nobel Prize in Chemistry for work on catalysis, chemical equilibria and rates of reaction. Reaction rate describes how quickly a chemical change proceeds. At equilibrium, forward and reverse changes balance; microscopic change does not simply stop. A catalyst can speed the approach to equilibrium without changing the equilibrium position at fixed conditions. Ostwald used quantitative measurements to explore these relationships and advance physical chemistry. Time and passage imagery invite reflection rather than depicting a particular reaction or apparatus. The phrase is original, not an Ostwald quotation.\n1909 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his work on catalysis and for his investigations into the fundamental principles governing chemical equilibria and rates of reaction"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年化学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1909/ostwald/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1909/ostwald/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-168",
+      "subject": "nobel-laureate-168",
+      "edition": "color",
+      "title": "威廉·奥斯特瓦尔德",
+      "titleEnglish": "Wilhelm Ostwald",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-168/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-168/color.jpg",
+      "sha256": "5a6f71d89c7ec44942e0b68227cfe1da4f92e5a45727c1f56282dc66ba294dcf",
+      "thumbnailSHA256": "95ffd79e8408d70239a3ca9f125eb4339dd3124eb31fc8845401002f4f6b1a12",
+      "context": {
+        "phrase": {
+          "zh": "细看变化，也看变化的速度。",
+          "en": "Watch the change, and the pace of change."
+        },
+        "visual": {
+          "zh": "巨大沙漏切出画面上下边缘，多孔石拱和蓝色折面在玻璃后方交叠。沙漏指向变化所需的时间，石拱借通道表现催化的艺术隐喻；它们不是反应机理图或真实催化实验。",
+          "en": "A massive cropped hourglass overlaps a porous stone arch and folded cobalt plane. Falling sand evokes the time of change; an open passage provides an artistic metaphor for catalysis. This is neither a reaction-mechanism diagram nor a real catalytic experiment."
+        },
+        "background": {
+          "zh": "威廉·奥斯特瓦尔德获得1909年诺贝尔化学奖，获奖工作涉及催化、化学平衡以及反应速率的基本原理。反应速率是化学变化发生的快慢；化学平衡则是正向与逆向变化相互平衡的状态，并不表示微观变化停止。催化剂可以加快达到平衡的过程，而不改变相同条件下的平衡位置。奥斯特瓦尔德把定量测量用于研究这些联系，推动物理化学的发展。配图用时间与通道的形象帮助联想，不代表具体反应或设备；短句为原创，不是他的引语。\n1909年化学奖；独享本年度奖项。获奖理由（中文译述）：因其催化研究，以及对化学平衡和反应速率基本原理的探索",
+          "en": "Wilhelm Ostwald received the 1909 Nobel Prize in Chemistry for work on catalysis, chemical equilibria and rates of reaction. Reaction rate describes how quickly a chemical change proceeds. At equilibrium, forward and reverse changes balance; microscopic change does not simply stop. A catalyst can speed the approach to equilibrium without changing the equilibrium position at fixed conditions. Ostwald used quantitative measurements to explore these relationships and advance physical chemistry. Time and passage imagery invite reflection rather than depicting a particular reaction or apparatus. The phrase is original, not an Ostwald quotation.\n1909 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his work on catalysis and for his investigations into the fundamental principles governing chemical equilibria and rates of reaction"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年化学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1909/ostwald/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1909/ostwald/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

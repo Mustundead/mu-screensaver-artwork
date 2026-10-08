@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-484",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-484",
+      "subject": "nobel-laureate-484",
+      "edition": "mono",
+      "title": "莱昂·布尔热瓦",
+      "titleEnglish": "Léon Bourgeois",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-484/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-484/mono.jpg",
+      "sha256": "02495f99df6bed086cc8dd31b0b46cb1627d06b34a0323cd5dd9c4ab82fd0f2d",
+      "thumbnailSHA256": "b89fab0bd2a6796c2a1f28fbc49892b432f5d9673ddbb60c501f4ddc2a3ed548",
+      "context": {
+        "phrase": {
+          "zh": "分歧，需要共同衡量。",
+          "en": "Differences deserve shared consideration."
+        },
+        "visual": {
+          "zh": "巨大的铜制秤梁从左上裁切，向右下斜压过叠放的空白纸页；小小的青绿色坠重悬在左侧，深紫织带穿过纸页与秤梁的交叠处。黑白版保留布局。秤梁、纸与织带是协商和衡量的原创寓意，不是实际国际条约、司法器具或历史会议记录。",
+          "en": "An enormous bronze weighing arm is cropped at upper left and crosses overlapping blank sheets toward lower right. A small teal weight hangs on the left, while a plum ribbon passes through the overlap of arm and paper. Monochrome retains the layout. Arm, sheets and ribbon are original metaphors for deliberation, not an actual treaty, judicial instrument or historical conference record."
+        },
+        "background": {
+          "zh": "布尔热瓦独享1920年诺贝尔和平奖，获奖理由是长期为和平与正义作出贡献，并在国际联盟的建立中发挥重要作用。诺贝尔官网还记录了他参与1899年与1907年海牙和平会议、支持仲裁与国际法院的工作。插画借衡量与空白纸页表现协商，并不宣称这些努力消除了战争或保证了公正。短句为原创，不是人物引语。\n1920年和平奖；独享本年度奖项。获奖理由（中文译述）：长期为和平与正义作出贡献，并在国际联盟的建立中发挥重要作用。",
+          "en": "Bourgeois received the full 1920 Nobel Peace Prize for his longstanding contribution to peace and justice and prominent role in establishing the League of Nations. NobelPrize.org also records his participation in the 1899 and 1907 Hague peace conferences and advocacy of arbitration and international courts. Weighing and blank paper evoke deliberation without claiming these efforts eliminated war or guaranteed justice. The phrase is original, not a quotation.\n1920 — The Nobel Peace Prize. Received the full prize. Official motivation: for his longstanding contribution to the cause of peace and justice and his prominent role in the establishment of the League of Nations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1920 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1920/summary/",
+            "labelLocalized": {
+              "zh": "1920年和平奖｜官方记录",
+              "en": "1920 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1920/bourgeois/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-484",
+      "subject": "nobel-laureate-484",
+      "edition": "color",
+      "title": "莱昂·布尔热瓦",
+      "titleEnglish": "Léon Bourgeois",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-484/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-484/color.jpg",
+      "sha256": "6c69c242ec21c8e772b47263051533c146d2450c21a7ac52798777a4aaa5c3ef",
+      "thumbnailSHA256": "308e4f814e481970d9dc4d3f1664805be7c31b1fad68246e34409f3de273a5c6",
+      "context": {
+        "phrase": {
+          "zh": "分歧，需要共同衡量。",
+          "en": "Differences deserve shared consideration."
+        },
+        "visual": {
+          "zh": "巨大的铜制秤梁从左上裁切，向右下斜压过叠放的空白纸页；小小的青绿色坠重悬在左侧，深紫织带穿过纸页与秤梁的交叠处。黑白版保留布局。秤梁、纸与织带是协商和衡量的原创寓意，不是实际国际条约、司法器具或历史会议记录。",
+          "en": "An enormous bronze weighing arm is cropped at upper left and crosses overlapping blank sheets toward lower right. A small teal weight hangs on the left, while a plum ribbon passes through the overlap of arm and paper. Monochrome retains the layout. Arm, sheets and ribbon are original metaphors for deliberation, not an actual treaty, judicial instrument or historical conference record."
+        },
+        "background": {
+          "zh": "布尔热瓦独享1920年诺贝尔和平奖，获奖理由是长期为和平与正义作出贡献，并在国际联盟的建立中发挥重要作用。诺贝尔官网还记录了他参与1899年与1907年海牙和平会议、支持仲裁与国际法院的工作。插画借衡量与空白纸页表现协商，并不宣称这些努力消除了战争或保证了公正。短句为原创，不是人物引语。\n1920年和平奖；独享本年度奖项。获奖理由（中文译述）：长期为和平与正义作出贡献，并在国际联盟的建立中发挥重要作用。",
+          "en": "Bourgeois received the full 1920 Nobel Peace Prize for his longstanding contribution to peace and justice and prominent role in establishing the League of Nations. NobelPrize.org also records his participation in the 1899 and 1907 Hague peace conferences and advocacy of arbitration and international courts. Weighing and blank paper evoke deliberation without claiming these efforts eliminated war or guaranteed justice. The phrase is original, not a quotation.\n1920 — The Nobel Peace Prize. Received the full prize. Official motivation: for his longstanding contribution to the cause of peace and justice and his prominent role in the establishment of the League of Nations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1920 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1920/summary/",
+            "labelLocalized": {
+              "zh": "1920年和平奖｜官方记录",
+              "en": "1920 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1920/bourgeois/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

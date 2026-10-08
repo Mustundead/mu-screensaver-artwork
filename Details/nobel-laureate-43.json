@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-43",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-43",
+      "subject": "nobel-laureate-43",
+      "edition": "mono",
+      "title": "卡尔·安德森",
+      "titleEnglish": "Carl D. Anderson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-43/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-43/mono.jpg",
+      "sha256": "256707e27b0906053409381dd4c4b703d81f9e789adb0f569eb1b7d6fb9d3805",
+      "thumbnailSHA256": "8c134aa900869107d0bd620b60914b81f2bc1b00304703e184a09020058bf3d4",
+      "context": {
+        "phrase": {
+          "zh": "沿着轨迹多看一步，熟悉的世界便多了一种可能。",
+          "en": "Follow a trace one step further, and the familiar world gains another possibility."
+        },
+        "visual": {
+          "zh": "深绿场中一条灰银薄板水平贯穿中央，一条象牙轨迹由左下浅弧穿板，再以更紧的弧线向左回转至上边缘；稀疏小点随线分布，左侧留白。薄板细排线与中性黑白版保持同一关系。",
+          "en": "A silver-gray horizontal plate spans a deep-green field. One ivory trail rises from a shallow lower-left arc through the plate, then turns more tightly leftward toward the top; sparse dots follow it, with quiet space at left. Fine hatch models the plate; neutral monochrome retains the geometry."
+        },
+        "background": {
+          "zh": "安德森因发现正电子，与赫斯分享1936年诺贝尔物理学奖，两人各获一半。1932年，他研究雾室里的粒子轨迹，发现一种质量接近电子、电荷却相反的粒子。轨迹穿过铅片后弯曲程度的变化，帮助判断粒子的运动方向。画面把这一观察关系化为一条穿板后弯曲更明显的细线，是原创定性寓意，没有真实实验的尺寸、磁场方向或测量数值；短句为原创。\n1936年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现正电子",
+          "en": "Anderson shared the 1936 Nobel Prize in Physics with Hess, each receiving half, for discovering the positron. In 1932 he studied cloud-chamber tracks and identified a particle close to electron mass with opposite charge. The change in curvature after crossing a lead plate helped establish its direction of motion. A fine path curving more tightly after the plate is an original qualitative metaphor, without actual apparatus dimensions, magnetic-field direction or measurement values. The phrase is original.\n1936 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for his discovery of the positron"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年物理学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/observing/cloud-2.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-43",
+      "subject": "nobel-laureate-43",
+      "edition": "color",
+      "title": "卡尔·安德森",
+      "titleEnglish": "Carl D. Anderson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-43/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-43/color.jpg",
+      "sha256": "ea4a1ceae318c97464e6fef99e8301f57a0b15d7d6b14a8ec779c02572b6bbe4",
+      "thumbnailSHA256": "b06097addb53eef67f80ac7d3a0b46faf2ca2ce9c6fd0f694f6ba4a43d356e35",
+      "context": {
+        "phrase": {
+          "zh": "沿着轨迹多看一步，熟悉的世界便多了一种可能。",
+          "en": "Follow a trace one step further, and the familiar world gains another possibility."
+        },
+        "visual": {
+          "zh": "深绿场中一条灰银薄板水平贯穿中央，一条象牙轨迹由左下浅弧穿板，再以更紧的弧线向左回转至上边缘；稀疏小点随线分布，左侧留白。薄板细排线与中性黑白版保持同一关系。",
+          "en": "A silver-gray horizontal plate spans a deep-green field. One ivory trail rises from a shallow lower-left arc through the plate, then turns more tightly leftward toward the top; sparse dots follow it, with quiet space at left. Fine hatch models the plate; neutral monochrome retains the geometry."
+        },
+        "background": {
+          "zh": "安德森因发现正电子，与赫斯分享1936年诺贝尔物理学奖，两人各获一半。1932年，他研究雾室里的粒子轨迹，发现一种质量接近电子、电荷却相反的粒子。轨迹穿过铅片后弯曲程度的变化，帮助判断粒子的运动方向。画面把这一观察关系化为一条穿板后弯曲更明显的细线，是原创定性寓意，没有真实实验的尺寸、磁场方向或测量数值；短句为原创。\n1936年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现正电子",
+          "en": "Anderson shared the 1936 Nobel Prize in Physics with Hess, each receiving half, for discovering the positron. In 1932 he studied cloud-chamber tracks and identified a particle close to electron mass with opposite charge. The change in curvature after crossing a lead plate helped establish its direction of motion. A fine path curving more tightly after the plate is an original qualitative metaphor, without actual apparatus dimensions, magnetic-field direction or measurement values. The phrase is original.\n1936 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for his discovery of the positron"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年物理学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/observing/cloud-2.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

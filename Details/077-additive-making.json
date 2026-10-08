@@ -1,0 +1,70 @@
+{
+  "subject": "077-additive-making",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:077-additive-making",
+      "subject": "077-additive-making",
+      "edition": "mono",
+      "title": "逐层制造",
+      "titleEnglish": "Additive Manufacturing",
+      "category": "工程与制造",
+      "image": "Images/mono/077-additive-making.jpg",
+      "thumbnail": "Thumbs/mono/077-additive-making.jpg",
+      "sha256": "d406ed2584723c55615f55752a82e9c0fbf52c159207819c5e1460258934b604",
+      "thumbnailSHA256": "7fa36ea05d1ef60750074f8221008821e34ba689ef1a5bc0b6a93d01b645b179",
+      "context": {
+        "phrase": {
+          "zh": "从一层开始，让形体逐渐出现。",
+          "en": "A form appears one layer at a time."
+        },
+        "visual": {
+          "zh": "打印头和逐层升起的物体同框，强调制造过程由薄层累积成形。层纹是艺术描绘，并非可检测的成品缺陷。",
+          "en": "A printing head and a rising layered object share the frame, emphasizing accumulation into form. The lines are artistic, not inspected defects in a finished part."
+        },
+        "background": {
+          "zh": "增材制造根据数字设计逐层堆积材料来制作物体，常被称作 3D 打印。工艺可使用金属、塑料或陶瓷，但可用性和强度仍取决于材料、工艺控制与检验。",
+          "en": "Additive manufacturing builds an object layer by layer from a digital design and is often called 3D printing. It can use metals, plastics or ceramics, while fitness and strength still depend on material, process control and inspection."
+        },
+        "sources": [
+          {
+            "label": "NIST · Additive manufacturing",
+            "url": "https://www.nist.gov/additive-manufacturing/what-additive-manufacturing"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:077-additive-making",
+      "subject": "077-additive-making",
+      "edition": "color",
+      "title": "逐层制造",
+      "titleEnglish": "Additive Manufacturing",
+      "category": "工程与制造",
+      "image": "Images/color/077-additive-making.jpg",
+      "thumbnail": "Thumbs/color/077-additive-making.jpg",
+      "sha256": "dd38a55477f324ff954e7c0fff2ed09b5bb25aee8aaf252982727af6e71c167a",
+      "thumbnailSHA256": "7011081f06262bbb3ed4ab04d46e1fab384e993d73b52fdea4debd8f459f0aa9",
+      "context": {
+        "phrase": {
+          "zh": "从一层开始，让形体逐渐出现。",
+          "en": "A form appears one layer at a time."
+        },
+        "visual": {
+          "zh": "打印头和逐层升起的物体同框，强调制造过程由薄层累积成形。层纹是艺术描绘，并非可检测的成品缺陷。",
+          "en": "A printing head and a rising layered object share the frame, emphasizing accumulation into form. The lines are artistic, not inspected defects in a finished part."
+        },
+        "background": {
+          "zh": "增材制造根据数字设计逐层堆积材料来制作物体，常被称作 3D 打印。工艺可使用金属、塑料或陶瓷，但可用性和强度仍取决于材料、工艺控制与检验。",
+          "en": "Additive manufacturing builds an object layer by layer from a digital design and is often called 3D printing. It can use metals, plastics or ceramics, while fitness and strength still depend on material, process control and inspection."
+        },
+        "sources": [
+          {
+            "label": "NIST · Additive manufacturing",
+            "url": "https://www.nist.gov/additive-manufacturing/what-additive-manufacturing"
+          }
+        ]
+      }
+    }
+  }
+}

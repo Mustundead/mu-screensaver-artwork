@@ -1,0 +1,78 @@
+{
+  "subject": "nobel-laureate-601",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-601",
+      "subject": "nobel-laureate-601",
+      "edition": "mono",
+      "title": "西格丽德·温塞特",
+      "titleEnglish": "Sigrid Undset",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-601/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-601/mono.jpg",
+      "sha256": "4bb5d71f2ec7a85d0683139c5b47026e3867ece72d6c4ed08a66c54ee901133b",
+      "thumbnailSHA256": "e3e719ec2f072cdb710f2a447f9844dd6210c3e1e88846597c1868f5c7312b43",
+      "context": {
+        "phrase": {
+          "zh": "门内的生活，也有历史的重量。",
+          "en": "Life within the doorway carries the weight of history."
+        },
+        "visual": {
+          "zh": "左侧暗红羊毛垂挂，橡木门框与门槛围出明亮开口，外面是覆雪石墙、松林和远坡。深色室内与浅色冬日形成空间纵深，黑白版保持同一门内外关系；这是想象的生活空间。",
+          "en": "Madder-red wool hangs at the left. An oak frame and threshold surround a bright opening onto a snowy stone wall, pine forest and distant slope. The dark interior and pale winter scene create depth. The neutral edition retains the same inside-outside relationship. This is an imagined domestic space."
+        },
+        "background": {
+          "zh": "温塞特获1928年诺贝尔文学奖，主要因她对中世纪北欧生活有力而生动的描写。木屋开口、羊毛织物与冬日院落是生活与历史的原创寓意，不是某部小说的场景复原，也不是特定历史建筑；短句为原创。\n1928年文学奖；独享本年度奖项。获奖理由（中文译述）：主要表彰她以有力的笔触描绘中世纪北欧生活。",
+          "en": "Undset received the 1928 Nobel Prize in Literature chiefly for her powerful portrayals of Northern life in the Middle Ages. The timber opening, wool and winter yard are an original metaphor for life and history, not a reconstructed scene from a particular novel or a specific historical building. The phrase is original.\n1928 — The Nobel Prize in Literature. Received the full prize. Official motivation: principally for her powerful descriptions of Northern life during the Middle Ages"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1928 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1928/summary/",
+            "labelLocalized": {
+              "zh": "1928年文学奖｜官方记录",
+              "en": "1928 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-601",
+      "subject": "nobel-laureate-601",
+      "edition": "color",
+      "title": "西格丽德·温塞特",
+      "titleEnglish": "Sigrid Undset",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-601/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-601/color.jpg",
+      "sha256": "26db21ca924e26e104f657cd37d2301dbe0721de61c30b985ebffe3732b44dea",
+      "thumbnailSHA256": "8919730650fe45189d93720cbe611f73073296c65b68f9130577c38f9098c6ec",
+      "context": {
+        "phrase": {
+          "zh": "门内的生活，也有历史的重量。",
+          "en": "Life within the doorway carries the weight of history."
+        },
+        "visual": {
+          "zh": "左侧暗红羊毛垂挂，橡木门框与门槛围出明亮开口，外面是覆雪石墙、松林和远坡。深色室内与浅色冬日形成空间纵深，黑白版保持同一门内外关系；这是想象的生活空间。",
+          "en": "Madder-red wool hangs at the left. An oak frame and threshold surround a bright opening onto a snowy stone wall, pine forest and distant slope. The dark interior and pale winter scene create depth. The neutral edition retains the same inside-outside relationship. This is an imagined domestic space."
+        },
+        "background": {
+          "zh": "温塞特获1928年诺贝尔文学奖，主要因她对中世纪北欧生活有力而生动的描写。木屋开口、羊毛织物与冬日院落是生活与历史的原创寓意，不是某部小说的场景复原，也不是特定历史建筑；短句为原创。\n1928年文学奖；独享本年度奖项。获奖理由（中文译述）：主要表彰她以有力的笔触描绘中世纪北欧生活。",
+          "en": "Undset received the 1928 Nobel Prize in Literature chiefly for her powerful portrayals of Northern life in the Middle Ages. The timber opening, wool and winter yard are an original metaphor for life and history, not a reconstructed scene from a particular novel or a specific historical building. The phrase is original.\n1928 — The Nobel Prize in Literature. Received the full prize. Official motivation: principally for her powerful descriptions of Northern life during the Middle Ages"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1928 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1928/summary/",
+            "labelLocalized": {
+              "zh": "1928年文学奖｜官方记录",
+              "en": "1928 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "036-early-universe",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:036-early-universe",
+      "subject": "036-early-universe",
+      "edition": "mono",
+      "title": "早期宇宙",
+      "titleEnglish": "The Early Universe",
+      "category": "宇宙",
+      "image": "Images/mono/036-early-universe.jpg",
+      "thumbnail": "Thumbs/mono/036-early-universe.jpg",
+      "sha256": "761cf7d4e8efa7b5556ea0ba3c1aa9153c4e9cdaf0202472bdb299a64862be5b",
+      "thumbnailSHA256": "7cd1b9f5a9ccf8c424cbc38b3b5c1e9c16c4338398f7d79dffc6ef364598e81e",
+      "context": {
+        "phrase": {
+          "zh": "越远的光，带来越早的消息。",
+          "en": "Distant light carries earlier news."
+        },
+        "visual": {
+          "zh": "远处的亮点与向外扩开的空间层次，把深空观测表现为向过去追问。画面没有按真实红移、距离或时间比例绘制。",
+          "en": "Remote lights and expanding spatial layers turn deep-space observation into a question about the past. Redshift, distance and time are not to scale."
+        },
+        "background": {
+          "zh": "光需要时间传播，所以望远镜看到遥远星系时，也在看到它们更早的状态。韦布空间望远镜以红外观测研究早期星系；这幅画并不对应一张韦布照片。",
+          "en": "Light takes time to travel, so observing a distant galaxy also reveals an earlier stage of it. The Webb Space Telescope uses infrared observations to study early galaxies; this painting is not a Webb image."
+        },
+        "sources": [
+          {
+            "label": "NASA · Webb early universe",
+            "url": "https://science.nasa.gov/mission/webb/early-universe/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:036-early-universe",
+      "subject": "036-early-universe",
+      "edition": "color",
+      "title": "早期宇宙",
+      "titleEnglish": "The Early Universe",
+      "category": "宇宙",
+      "image": "Images/color/036-early-universe.jpg",
+      "thumbnail": "Thumbs/color/036-early-universe.jpg",
+      "sha256": "6cfd62fad66d2c73172aeeaf1e36ba013a594b073063b749b12885074e76453e",
+      "thumbnailSHA256": "b57362fb412f570541a8f3b82e3aa00ee9d8c0c4bc46bf642d0ecf2b76137a5d",
+      "context": {
+        "phrase": {
+          "zh": "越远的光，带来越早的消息。",
+          "en": "Distant light carries earlier news."
+        },
+        "visual": {
+          "zh": "远处的亮点与向外扩开的空间层次，把深空观测表现为向过去追问。画面没有按真实红移、距离或时间比例绘制。",
+          "en": "Remote lights and expanding spatial layers turn deep-space observation into a question about the past. Redshift, distance and time are not to scale."
+        },
+        "background": {
+          "zh": "光需要时间传播，所以望远镜看到遥远星系时，也在看到它们更早的状态。韦布空间望远镜以红外观测研究早期星系；这幅画并不对应一张韦布照片。",
+          "en": "Light takes time to travel, so observing a distant galaxy also reveals an earlier stage of it. The Webb Space Telescope uses infrared observations to study early galaxies; this painting is not a Webb image."
+        },
+        "sources": [
+          {
+            "label": "NASA · Webb early universe",
+            "url": "https://science.nasa.gov/mission/webb/early-universe/"
+          }
+        ]
+      }
+    }
+  }
+}

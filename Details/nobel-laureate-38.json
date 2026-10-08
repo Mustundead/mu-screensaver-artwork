@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-38",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-38",
+      "subject": "nobel-laureate-38",
+      "edition": "mono",
+      "title": "维尔纳·海森堡",
+      "titleEnglish": "Werner Heisenberg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-38/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-38/mono.jpg",
+      "sha256": "8443c34d83d1bb268be8bd915b428368d42e1347b15ed30d9a0b636b567015c0",
+      "thumbnailSHA256": "bab2a8d7131e6968234bd13b16826f39e329067f326d46073c2e1160ad561e6d",
+      "context": {
+        "phrase": {
+          "zh": "重新排列关系，看见另一种规律。",
+          "en": "Rearrange the relations; discover another order."
+        },
+        "visual": {
+          "zh": "铜色边框中的深绿矩形网格占据画面右侧，每格内的细曲线形成不同方向与节奏；上缘与右缘裁出画外，左侧留出浅色空间。中性黑白版保留网格、曲线、边框与接触阴影。",
+          "en": "A deep-green rectangular grid in a copper-colored frame fills the right, its cells carrying fine curved lines in different directions and rhythms. The upper and right edges extend beyond the crop, with a quiet pale field to the left. The neutral monochrome edition preserves the grid, curves, frame and contact shadow."
+        },
+        "background": {
+          "zh": "海森堡因创建量子力学获得1932年诺贝尔物理学奖，实际于1933年领取。1925年，他提出后来被称为矩阵力学的方法，用数学关系描述微观现象，突破熟悉的经典轨道图景。画中的网格是数学关系的原创寓意，不是实际矩阵数据、电子轨道或实验装置；短句为原创。\n1932年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他创建量子力学；这一理论的应用还带来了对氢的不同形态的发现。",
+          "en": "Heisenberg received the Nobel Prize in Physics for 1932, awarded in 1933, for creating quantum mechanics. In 1925 he introduced the approach later called matrix mechanics, describing microscopic phenomena through mathematical relations beyond familiar classical orbits. The grid is an original metaphor for mathematical relations, not actual matrix data, electron orbits or an experimental apparatus. The phrase is original.\n1932 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年物理学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-38",
+      "subject": "nobel-laureate-38",
+      "edition": "color",
+      "title": "维尔纳·海森堡",
+      "titleEnglish": "Werner Heisenberg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-38/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-38/color.jpg",
+      "sha256": "75fb876abc74125e25af0d4c772052b109249d54eec25e1c00a519b620140eb7",
+      "thumbnailSHA256": "ce39c84a71e574e057300bf10cc2882071acb4d7124378fd191387bf10d41123",
+      "context": {
+        "phrase": {
+          "zh": "重新排列关系，看见另一种规律。",
+          "en": "Rearrange the relations; discover another order."
+        },
+        "visual": {
+          "zh": "铜色边框中的深绿矩形网格占据画面右侧，每格内的细曲线形成不同方向与节奏；上缘与右缘裁出画外，左侧留出浅色空间。中性黑白版保留网格、曲线、边框与接触阴影。",
+          "en": "A deep-green rectangular grid in a copper-colored frame fills the right, its cells carrying fine curved lines in different directions and rhythms. The upper and right edges extend beyond the crop, with a quiet pale field to the left. The neutral monochrome edition preserves the grid, curves, frame and contact shadow."
+        },
+        "background": {
+          "zh": "海森堡因创建量子力学获得1932年诺贝尔物理学奖，实际于1933年领取。1925年，他提出后来被称为矩阵力学的方法，用数学关系描述微观现象，突破熟悉的经典轨道图景。画中的网格是数学关系的原创寓意，不是实际矩阵数据、电子轨道或实验装置；短句为原创。\n1932年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他创建量子力学；这一理论的应用还带来了对氢的不同形态的发现。",
+          "en": "Heisenberg received the Nobel Prize in Physics for 1932, awarded in 1933, for creating quantum mechanics. In 1925 he introduced the approach later called matrix mechanics, describing microscopic phenomena through mathematical relations beyond familiar classical orbits. The grid is an original metaphor for mathematical relations, not actual matrix data, electron orbits or an experimental apparatus. The phrase is original.\n1932 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the creation of quantum mechanics, the application of which has, inter alia, led to the discovery of the allotropic forms of hydrogen"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年物理学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

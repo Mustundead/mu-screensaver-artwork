@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-025",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-025",
+      "subject": "oscar-best-picture-025",
+      "edition": "mono",
+      "title": "戏王之王",
+      "titleEnglish": "The Greatest Show on Earth",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-025/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-025/mono.jpg",
+      "sha256": "eb0669198f290daeb45d026a49283fd73211db6f83edb36067e70a9666365c74",
+      "thumbnailSHA256": "86cf379b0674702cdedde4490df3ddc02344ff5d1f8ae7e0d0afb5b264674f41",
+      "context": {
+        "phrase": {
+          "zh": "台前的一瞬，托起的是台后的功夫。",
+          "en": "A moment onstage rests on work unseen."
+        },
+        "visual": {
+          "zh": "两根粗绳悬起斜置木杆，木面留有旧漆痕，暗红帐篷布从左侧与下方展开，小黄铜环扣在右下。黑白版保留绳结、木杆、环扣与裁切，刻纹更明显。这是表演幕后工作的原创寓意。",
+          "en": "Two rough ropes suspend an angled wooden bar with worn paint, over dark red canvas spreading from left and bottom and a small brass rigging ring at lower right. Monochrome retains the knots, bar, ring and crop, with stronger etched texture. This is an original metaphor for backstage work."
+        },
+        "background": {
+          "zh": "《戏王之王》是塞西尔·德米尔执导的1952年影片，在1953年第25届奥斯卡获最佳影片奖。故事进入马戏团幕后，围绕经理维持演出、空中飞人的竞争与情感展开。木质吊杆、粗绳与帐篷布是幕后工作和表演风险的原创寓意，不复刻电影场景、海报或演员形象。短句为原创。\n第25届奥斯卡最佳影片：戏王之王。颁奖年份 1953；参评年份 1952。",
+          "en": "The Greatest Show on Earth is a 1952 film directed by Cecil B. DeMille and winner of Best Motion Picture at the 25th Academy Awards in 1953. It goes behind the circus scenes, following a manager’s efforts to keep the show running and the rivalries and relationships of trapeze performers. The bar, ropes and canvas are an original metaphor for backstage work and performance risk, not a movie scene, poster or actor likeness. The phrase is original.\nAcademy Awards ceremony 25 (1953), Best Picture: The Greatest Show on Earth. Eligibility year: 1952."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1953",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "paramountpictures.com",
+            "url": "https://www.paramountpictures.com/movies/the-greatest-show-on-earth",
+            "labelLocalized": {
+              "zh": "《戏王之王》影片介绍｜派拉蒙影业",
+              "en": "The Greatest Show on Earth synopsis — Paramount Pictures"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-025",
+      "subject": "oscar-best-picture-025",
+      "edition": "color",
+      "title": "戏王之王",
+      "titleEnglish": "The Greatest Show on Earth",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-025/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-025/color.jpg",
+      "sha256": "6a0ec6d92ddf8f39bb87bfdf7d862f96b1df1062a17ca57a5dbe4949afc90575",
+      "thumbnailSHA256": "71936e1d54e01b3860ee5825bc61e2f522c3a1051a9d009e86b64947d772e95b",
+      "context": {
+        "phrase": {
+          "zh": "台前的一瞬，托起的是台后的功夫。",
+          "en": "A moment onstage rests on work unseen."
+        },
+        "visual": {
+          "zh": "两根粗绳悬起斜置木杆，木面留有旧漆痕，暗红帐篷布从左侧与下方展开，小黄铜环扣在右下。黑白版保留绳结、木杆、环扣与裁切，刻纹更明显。这是表演幕后工作的原创寓意。",
+          "en": "Two rough ropes suspend an angled wooden bar with worn paint, over dark red canvas spreading from left and bottom and a small brass rigging ring at lower right. Monochrome retains the knots, bar, ring and crop, with stronger etched texture. This is an original metaphor for backstage work."
+        },
+        "background": {
+          "zh": "《戏王之王》是塞西尔·德米尔执导的1952年影片，在1953年第25届奥斯卡获最佳影片奖。故事进入马戏团幕后，围绕经理维持演出、空中飞人的竞争与情感展开。木质吊杆、粗绳与帐篷布是幕后工作和表演风险的原创寓意，不复刻电影场景、海报或演员形象。短句为原创。\n第25届奥斯卡最佳影片：戏王之王。颁奖年份 1953；参评年份 1952。",
+          "en": "The Greatest Show on Earth is a 1952 film directed by Cecil B. DeMille and winner of Best Motion Picture at the 25th Academy Awards in 1953. It goes behind the circus scenes, following a manager’s efforts to keep the show running and the rivalries and relationships of trapeze performers. The bar, ropes and canvas are an original metaphor for backstage work and performance risk, not a movie scene, poster or actor likeness. The phrase is original.\nAcademy Awards ceremony 25 (1953), Best Picture: The Greatest Show on Earth. Eligibility year: 1952."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1953",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "paramountpictures.com",
+            "url": "https://www.paramountpictures.com/movies/the-greatest-show-on-earth",
+            "labelLocalized": {
+              "zh": "《戏王之王》影片介绍｜派拉蒙影业",
+              "en": "The Greatest Show on Earth synopsis — Paramount Pictures"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

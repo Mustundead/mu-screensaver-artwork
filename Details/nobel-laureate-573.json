@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-573",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-573",
+      "subject": "nobel-laureate-573",
+      "edition": "mono",
+      "title": "弗雷德里克·米斯特拉尔",
+      "titleEnglish": "Frédéric Mistral",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-573/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-573/mono.jpg",
+      "sha256": "70091901f95208a9006a57b5d815caebc62c4fff54cad90c149c251d5fb79070",
+      "thumbnailSHA256": "e4ebca0a93ca8e22bd0a4b73fa9db785825c673a2db0121972970bada5dd5b48",
+      "context": {
+        "phrase": {
+          "zh": "熟悉的风景，也能留下自己的语言。",
+          "en": "A familiar landscape can find a voice of its own."
+        },
+        "visual": {
+          "zh": "为米斯特拉尔独立创作的乡土诗歌拼贴，以橄榄枝、想象的普罗旺斯石屋、河岸芦苇和无字诗册呼应自然与地方文化。景色不对应具体故居或诗作场景，书页也不是他的真实手稿。",
+          "en": "An original regional-poetry collage for Mistral uses an olive branch, an imagined Provençal stone house, riverside reeds and an unlettered poetry book to evoke nature and local culture. It does not identify an actual home or poem setting, and its blank pages are not his manuscripts."
+        },
+        "background": {
+          "zh": "米斯特拉尔与何塞·埃切加赖共同获得1904年诺贝尔文学奖，各占二分之一奖项份额。米斯特拉尔的获奖理由关注他的诗歌如何表现当地自然风景与民众精神，也肯定了他对普罗旺斯语言研究的贡献。配图以想象的南法乡景呼应这一方向，不将艺术组合当作历史地貌记录。\n1904年文学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他的诗歌创作所展现的清新原创性与真挚灵感，忠实表现当地自然风景与民众精神，并肯定他作为普罗旺斯语言研究者的重要贡献。",
+          "en": "Mistral shared the 1904 Nobel Prize in Literature with José Echegaray, each receiving one half. His motivation recognizes poetry reflecting natural scenery and the spirit of his people, together with work on the Provençal language. The imagined southern French landscape interprets that focus without claiming to document a historical site.\n1904 — The Nobel Prize in Literature. Received half of the prize. Official motivation: in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Provençal philologist"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年文学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/facts/facts-on-the-nobel-prize-in-literature",
+            "labelLocalized": {
+              "zh": "文学奖资料｜诺贝尔奖官网",
+              "en": "Literature prize facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-573",
+      "subject": "nobel-laureate-573",
+      "edition": "color",
+      "title": "弗雷德里克·米斯特拉尔",
+      "titleEnglish": "Frédéric Mistral",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-573/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-573/color.jpg",
+      "sha256": "716b563678323dc10dc96367986a343bf213eb8ff556fbadcca4c4441bcefac6",
+      "thumbnailSHA256": "58beeec95844e702523287882d918102bd8a9fd28dae4fecd22a19c1d5354f86",
+      "context": {
+        "phrase": {
+          "zh": "熟悉的风景，也能留下自己的语言。",
+          "en": "A familiar landscape can find a voice of its own."
+        },
+        "visual": {
+          "zh": "为米斯特拉尔独立创作的乡土诗歌拼贴，以橄榄枝、想象的普罗旺斯石屋、河岸芦苇和无字诗册呼应自然与地方文化。景色不对应具体故居或诗作场景，书页也不是他的真实手稿。",
+          "en": "An original regional-poetry collage for Mistral uses an olive branch, an imagined Provençal stone house, riverside reeds and an unlettered poetry book to evoke nature and local culture. It does not identify an actual home or poem setting, and its blank pages are not his manuscripts."
+        },
+        "background": {
+          "zh": "米斯特拉尔与何塞·埃切加赖共同获得1904年诺贝尔文学奖，各占二分之一奖项份额。米斯特拉尔的获奖理由关注他的诗歌如何表现当地自然风景与民众精神，也肯定了他对普罗旺斯语言研究的贡献。配图以想象的南法乡景呼应这一方向，不将艺术组合当作历史地貌记录。\n1904年文学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他的诗歌创作所展现的清新原创性与真挚灵感，忠实表现当地自然风景与民众精神，并肯定他作为普罗旺斯语言研究者的重要贡献。",
+          "en": "Mistral shared the 1904 Nobel Prize in Literature with José Echegaray, each receiving one half. His motivation recognizes poetry reflecting natural scenery and the spirit of his people, together with work on the Provençal language. The imagined southern French landscape interprets that focus without claiming to document a historical site.\n1904 — The Nobel Prize in Literature. Received half of the prize. Official motivation: in recognition of the fresh originality and true inspiration of his poetic production, which faithfully reflects the natural scenery and native spirit of his people, and, in addition, his significant work as a Provençal philologist"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年文学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/facts/facts-on-the-nobel-prize-in-literature",
+            "labelLocalized": {
+              "zh": "文学奖资料｜诺贝尔奖官网",
+              "en": "Literature prize facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

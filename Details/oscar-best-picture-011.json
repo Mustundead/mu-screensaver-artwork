@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-011",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-011",
+      "subject": "oscar-best-picture-011",
+      "edition": "mono",
+      "title": "浮生若梦",
+      "titleEnglish": "You Can't Take It with You",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-011/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-011/mono.jpg",
+      "sha256": "1d18684afd95b7c8c73071529d005cebe0118dd450cc4c3c7716785ffed123d5",
+      "thumbnailSHA256": "72102e992d5e789b8f2fb74a24ffca276ea5dc5ffe3e17592153ef5b8b91468b",
+      "context": {
+        "phrase": {
+          "zh": "留一点时间，给喜欢的生活。",
+          "en": "Make room for the life you love."
+        },
+        "visual": {
+          "zh": "巨大的口琴斜穿画面，舞鞋缎带交叠绕过前景；木廊、银行和空白账簿退入远处。裁切与悬殊尺度表现兴趣、家庭与金钱观念的碰撞，配图不复刻电影场景或演员。",
+          "en": "An oversized harmonica crosses the image while ballet ribbons weave through the foreground. Porch, bank and blank ledger recede into the distance. Cropping and unequal scale suggest interests, family and competing views of money without recreating actors or film scenes."
+        },
+        "background": {
+          "zh": "《浮生若梦》由弗兰克·卡普拉执导，1938年上映，改编自乔治·S·考夫曼与莫斯·哈特的舞台剧。影片围绕两个生活观念不同的家庭展开：银行家的儿子托尼与爱丽丝相爱，而她的祖父拒绝出售家宅，家人各自热衷写作、舞蹈等兴趣。爱情与买地纠纷让双方相遇，也使金钱、家庭和自由生活的价值发生碰撞。影片在1939年的第十一届奥斯卡获得最佳影片奖；卡普拉同时获得导演奖。\n第11届奥斯卡最佳影片：浮生若梦。颁奖年份 1939；参评年份 1938。",
+          "en": "Directed by Frank Capra, You Can’t Take It with You (1938) adapts the play by George S. Kaufman and Moss Hart. Banker’s son Tony falls in love with Alice, whose grandfather refuses to sell the family home. Her relatives pursue interests including writing and dancing. Romance and a land dispute bring together two families with different views of money and everyday freedom. The film won Best Picture at the 1939 Academy Awards, where Capra also won Directing.\nAcademy Awards ceremony 11 (1939), Best Picture: You Can't Take It with You. Eligibility year: 1938."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1939",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/6329-YOU-CANT-TAKE-IT-WITH-YOU",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-011",
+      "subject": "oscar-best-picture-011",
+      "edition": "color",
+      "title": "浮生若梦",
+      "titleEnglish": "You Can't Take It with You",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-011/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-011/color.jpg",
+      "sha256": "32cb13e02cac858d762865a78270d31f985c5caee21d062c7a8542c72e6405f0",
+      "thumbnailSHA256": "2951ba2b341b88f223c18342075d17861dd0a08bed1fdec54cb341a0bf95b4b6",
+      "context": {
+        "phrase": {
+          "zh": "留一点时间，给喜欢的生活。",
+          "en": "Make room for the life you love."
+        },
+        "visual": {
+          "zh": "巨大的口琴斜穿画面，舞鞋缎带交叠绕过前景；木廊、银行和空白账簿退入远处。裁切与悬殊尺度表现兴趣、家庭与金钱观念的碰撞，配图不复刻电影场景或演员。",
+          "en": "An oversized harmonica crosses the image while ballet ribbons weave through the foreground. Porch, bank and blank ledger recede into the distance. Cropping and unequal scale suggest interests, family and competing views of money without recreating actors or film scenes."
+        },
+        "background": {
+          "zh": "《浮生若梦》由弗兰克·卡普拉执导，1938年上映，改编自乔治·S·考夫曼与莫斯·哈特的舞台剧。影片围绕两个生活观念不同的家庭展开：银行家的儿子托尼与爱丽丝相爱，而她的祖父拒绝出售家宅，家人各自热衷写作、舞蹈等兴趣。爱情与买地纠纷让双方相遇，也使金钱、家庭和自由生活的价值发生碰撞。影片在1939年的第十一届奥斯卡获得最佳影片奖；卡普拉同时获得导演奖。\n第11届奥斯卡最佳影片：浮生若梦。颁奖年份 1939；参评年份 1938。",
+          "en": "Directed by Frank Capra, You Can’t Take It with You (1938) adapts the play by George S. Kaufman and Moss Hart. Banker’s son Tony falls in love with Alice, whose grandfather refuses to sell the family home. Her relatives pursue interests including writing and dancing. Romance and a land dispute bring together two families with different views of money and everyday freedom. The film won Best Picture at the 1939 Academy Awards, where Capra also won Directing.\nAcademy Awards ceremony 11 (1939), Best Picture: You Can't Take It with You. Eligibility year: 1938."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1939",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/6329-YOU-CANT-TAKE-IT-WITH-YOU",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

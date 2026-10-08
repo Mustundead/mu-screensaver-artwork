@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-038",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-038",
+      "subject": "oscar-best-picture-038",
+      "edition": "mono",
+      "title": "音乐之声",
+      "titleEnglish": "The Sound of Music",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-038/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-038/mono.jpg",
+      "sha256": "b1d152e1719c9fc67f75e32caa8056e6a054555c97146fb05439749a25cc57ce",
+      "thumbnailSHA256": "c8201e217885bb45b992c9af4d1053bf60fa9976a831013a1fb3fd0309462f28",
+      "context": {
+        "phrase": {
+          "zh": "共同的歌声，让陌生的日子慢慢成为家。",
+          "en": "A shared song can slowly turn unfamiliar days into home."
+        },
+        "visual": {
+          "zh": "青绿织物从左上铺向下方，细刻线随山脊形褶皱转折；右下的一枝雪绒花有两个浅色星状花头与灰绿叶片，右上保留象牙色空白。中性黑白保持织物和花的明暗关系。",
+          "en": "Emerald woven cloth sweeps from upper left across the bottom, with fine engraved threads following mountain-like folds. One edelweiss sprig at lower right has two pale star-shaped flower heads and gray-green leaves, beneath a quiet ivory upper-right field. Neutral monochrome preserves cloth and flower contrast."
+        },
+        "background": {
+          "zh": "《音乐之声》是罗伯特·怀斯执导的1965年音乐片，于1966年第38届奥斯卡获得最佳影片，获奖制片人为罗伯特·怀斯。影片改编自舞台音乐剧，讲述玛丽亚以音乐与七位孩子建立关系，以及家庭面对纳粹占领后的压力。绿色织物的山脊形褶皱与雪绒花是原创寓意，不是电影剧照、原道具或真实逃亡路线复原；短句为原创。\n第38届奥斯卡最佳影片：音乐之声。颁奖年份 1966；参评年份 1965。",
+          "en": "The Sound of Music, a 1965 musical directed by Robert Wise, won Best Picture at the 38th Academy Awards in 1966, with Wise credited as producer. Adapted from the stage musical, it follows Maria’s bond with seven children through music and the family’s pressures after Nazi occupation. Mountain-like folds of green cloth and an edelweiss sprig form an original metaphor, not a film still, original prop or reconstruction of the family’s actual escape route. The phrase is original.\nAcademy Awards ceremony 38 (1966), Best Picture: The Sound of Music. Eligibility year: 1965."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1966",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Catalog/moviedetails/22305",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-038",
+      "subject": "oscar-best-picture-038",
+      "edition": "color",
+      "title": "音乐之声",
+      "titleEnglish": "The Sound of Music",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-038/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-038/color.jpg",
+      "sha256": "8963f75febf39a64573d005c2817a63c0e1a6afbde81923016f77c68497b42e9",
+      "thumbnailSHA256": "f25a512922cde8d485a16133c54d188eddd346c30df48057609fc55dfd41d7f9",
+      "context": {
+        "phrase": {
+          "zh": "共同的歌声，让陌生的日子慢慢成为家。",
+          "en": "A shared song can slowly turn unfamiliar days into home."
+        },
+        "visual": {
+          "zh": "青绿织物从左上铺向下方，细刻线随山脊形褶皱转折；右下的一枝雪绒花有两个浅色星状花头与灰绿叶片，右上保留象牙色空白。中性黑白保持织物和花的明暗关系。",
+          "en": "Emerald woven cloth sweeps from upper left across the bottom, with fine engraved threads following mountain-like folds. One edelweiss sprig at lower right has two pale star-shaped flower heads and gray-green leaves, beneath a quiet ivory upper-right field. Neutral monochrome preserves cloth and flower contrast."
+        },
+        "background": {
+          "zh": "《音乐之声》是罗伯特·怀斯执导的1965年音乐片，于1966年第38届奥斯卡获得最佳影片，获奖制片人为罗伯特·怀斯。影片改编自舞台音乐剧，讲述玛丽亚以音乐与七位孩子建立关系，以及家庭面对纳粹占领后的压力。绿色织物的山脊形褶皱与雪绒花是原创寓意，不是电影剧照、原道具或真实逃亡路线复原；短句为原创。\n第38届奥斯卡最佳影片：音乐之声。颁奖年份 1966；参评年份 1965。",
+          "en": "The Sound of Music, a 1965 musical directed by Robert Wise, won Best Picture at the 38th Academy Awards in 1966, with Wise credited as producer. Adapted from the stage musical, it follows Maria’s bond with seven children through music and the family’s pressures after Nazi occupation. Mountain-like folds of green cloth and an edelweiss sprig form an original metaphor, not a film still, original prop or reconstruction of the family’s actual escape route. The phrase is original.\nAcademy Awards ceremony 38 (1966), Best Picture: The Sound of Music. Eligibility year: 1965."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1966",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Catalog/moviedetails/22305",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

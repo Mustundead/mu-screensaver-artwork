@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-296",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-296",
+      "subject": "nobel-laureate-296",
+      "edition": "mono",
+      "title": "伊万·巴甫洛夫",
+      "titleEnglish": "Ivan Pavlov",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-296/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-296/mono.jpg",
+      "sha256": "3dac5434d252a08b0b3ab86f540c4bea011e0a99030dd379e2419a8ed192e458",
+      "thumbnailSHA256": "a55c82a177b1c73fde21576a1685a1849b9b5b394e0b8364a99dbc27d89dbd46",
+      "context": {
+        "phrase": {
+          "zh": "日常的一餐，背后也有值得观察的规律。",
+          "en": "An everyday meal can reveal patterns worth observing."
+        },
+        "visual": {
+          "zh": "为巴甫洛夫独立创作的消化研究拼贴，以食物、休息中的狗、观察器材和记录本呼应生理研究。狗没有连接实验器材；显微镜等物件是象征性组合，不复原他的实验装置或过程，也不把铃铛作为获奖理由。",
+          "en": "An original digestion-research collage for Pavlov uses food, a resting dog, observation tools and a notebook. The dog is not connected to apparatus; the microscope and other objects are symbolic, not a reconstruction of his experiments, and a bell is not presented as his prize-winning contribution."
+        },
+        "background": {
+          "zh": "巴甫洛夫获得1904年诺贝尔生理学或医学奖，表彰他对消化生理的研究，使人们对这一领域的重要问题有了更深入的认识。获奖理由关注消化研究；本条不将他后来广为人知的条件反射研究替换成当年的获奖理由。配图中的狗与食物是艺术表达，不是历史实验场景。\n1904年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对消化生理的研究，使人们对这一领域的重要问题有了更深入、更广泛的认识。",
+          "en": "Pavlov received the 1904 Nobel Prize in Physiology or Medicine for work on the physiology of digestion that transformed and enlarged knowledge of important aspects of the subject. This entry retains that award focus rather than replacing it with his widely known conditioned-reflex work. The dog and food are artistic expressions, not a historical experiment scene.\n1904 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年生理学或医学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1904/pavlov/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-296",
+      "subject": "nobel-laureate-296",
+      "edition": "color",
+      "title": "伊万·巴甫洛夫",
+      "titleEnglish": "Ivan Pavlov",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-296/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-296/color.jpg",
+      "sha256": "4724a70d1558562ed21d1af1e849cb7b30628f8782a0ee405eeaf7c4b7a08965",
+      "thumbnailSHA256": "d41c456dc715c5ca8ece37789a7f7c1d5e648ff02fd2d5fb3b4ba2befc130525",
+      "context": {
+        "phrase": {
+          "zh": "日常的一餐，背后也有值得观察的规律。",
+          "en": "An everyday meal can reveal patterns worth observing."
+        },
+        "visual": {
+          "zh": "为巴甫洛夫独立创作的消化研究拼贴，以食物、休息中的狗、观察器材和记录本呼应生理研究。狗没有连接实验器材；显微镜等物件是象征性组合，不复原他的实验装置或过程，也不把铃铛作为获奖理由。",
+          "en": "An original digestion-research collage for Pavlov uses food, a resting dog, observation tools and a notebook. The dog is not connected to apparatus; the microscope and other objects are symbolic, not a reconstruction of his experiments, and a bell is not presented as his prize-winning contribution."
+        },
+        "background": {
+          "zh": "巴甫洛夫获得1904年诺贝尔生理学或医学奖，表彰他对消化生理的研究，使人们对这一领域的重要问题有了更深入的认识。获奖理由关注消化研究；本条不将他后来广为人知的条件反射研究替换成当年的获奖理由。配图中的狗与食物是艺术表达，不是历史实验场景。\n1904年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对消化生理的研究，使人们对这一领域的重要问题有了更深入、更广泛的认识。",
+          "en": "Pavlov received the 1904 Nobel Prize in Physiology or Medicine for work on the physiology of digestion that transformed and enlarged knowledge of important aspects of the subject. This entry retains that award focus rather than replacing it with his widely known conditioned-reflex work. The dog and food are artistic expressions, not a historical experiment scene.\n1904 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his work on the physiology of digestion, through which knowledge on vital aspects of the subject has been transformed and enlarged"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年生理学或医学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1904/pavlov/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "101-bookbinding",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:101-bookbinding",
+      "subject": "101-bookbinding",
+      "edition": "mono",
+      "title": "书籍与传承",
+      "titleEnglish": "Books and Their Legacy",
+      "category": "艺术与人文",
+      "image": "Images/mono/101-bookbinding.jpg",
+      "thumbnail": "Thumbs/mono/101-bookbinding.jpg",
+      "sha256": "b6df48aecdf803b8b876c52beae383331741a3e7ca1d4bf4f6262fde6a75131b",
+      "thumbnailSHA256": "faf6bf09ef96c4b50dd5bce5ffaa2dbe567a542ffd20c0f082cca7d517bc0f95",
+      "context": {
+        "phrase": {
+          "zh": "把散页连起，让故事继续被翻阅。",
+          "en": "Join the pages so a story can be read again."
+        },
+        "visual": {
+          "zh": "手、打开的书脊和层层书页把装订呈现为连接的动作。画面不是一本可识别古籍的修复记录，弯曲的纸页也不能当作具体装订步骤。",
+          "en": "Hands, an open spine and layered pages present binding as an act of connection. This is not a conservation record of an identified book, and the curved pages are not a step-by-step binding guide."
+        },
+        "background": {
+          "zh": "英国皇家收藏的《美洲鸟类》重装记录展示了书帖、缝线和衬页如何协同：各书帖按模板预先穿孔，再进行缝合。书籍因此不仅是文字，也是一种需要选择材料、控制结构的物件；修复方法要根据实际藏品决定。",
+          "en": "The Royal Collection’s rebinding record for Birds of America shows sections, sewing and endpapers working together, with sections pre-pierced using a template. A book is thus a material structure as well as text. Conservation choices depend on the actual object rather than a universal recipe."
+        },
+        "sources": [
+          {
+            "label": "Royal Collection Trust · Making sections, sewing and endpapers",
+            "url": "https://www.rct.uk/collection/conservation/the-rebinding-of-audubons-birds-of-america/making-sections-sewing-and-endpapers"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:101-bookbinding",
+      "subject": "101-bookbinding",
+      "edition": "color",
+      "title": "书籍与传承",
+      "titleEnglish": "Books and Their Legacy",
+      "category": "艺术与人文",
+      "image": "Images/color/101-bookbinding.jpg",
+      "thumbnail": "Thumbs/color/101-bookbinding.jpg",
+      "sha256": "45896b46f310126f8d0512d1f1848cb1c7dcaf2d23994ba2b10ef53c325add7a",
+      "thumbnailSHA256": "84188c0b62ccf0cfd909f6bdb2d5aae7a4d2ced7e353887d36bf27625def2ea7",
+      "context": {
+        "phrase": {
+          "zh": "把散页连起，让故事继续被翻阅。",
+          "en": "Join the pages so a story can be read again."
+        },
+        "visual": {
+          "zh": "手、打开的书脊和层层书页把装订呈现为连接的动作。画面不是一本可识别古籍的修复记录，弯曲的纸页也不能当作具体装订步骤。",
+          "en": "Hands, an open spine and layered pages present binding as an act of connection. This is not a conservation record of an identified book, and the curved pages are not a step-by-step binding guide."
+        },
+        "background": {
+          "zh": "英国皇家收藏的《美洲鸟类》重装记录展示了书帖、缝线和衬页如何协同：各书帖按模板预先穿孔，再进行缝合。书籍因此不仅是文字，也是一种需要选择材料、控制结构的物件；修复方法要根据实际藏品决定。",
+          "en": "The Royal Collection’s rebinding record for Birds of America shows sections, sewing and endpapers working together, with sections pre-pierced using a template. A book is thus a material structure as well as text. Conservation choices depend on the actual object rather than a universal recipe."
+        },
+        "sources": [
+          {
+            "label": "Royal Collection Trust · Making sections, sewing and endpapers",
+            "url": "https://www.rct.uk/collection/conservation/the-rebinding-of-audubons-birds-of-america/making-sections-sewing-and-endpapers"
+          }
+        ]
+      }
+    }
+  }
+}

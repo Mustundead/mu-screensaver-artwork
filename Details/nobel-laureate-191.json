@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-191",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-191",
+      "subject": "nobel-laureate-191",
+      "edition": "mono",
+      "title": "欧文·朗缪尔",
+      "titleEnglish": "Irving Langmuir",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-191/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-191/mono.jpg",
+      "sha256": "07fcac35dda15f3410eb3522cf3dc17d374ec7aa5076f0889a4b99918b00cf55",
+      "thumbnailSHA256": "bc98d8c2529b40f39499fefdd0851bef35851876fdbb80eccaa0984ee1af5223",
+      "context": {
+        "phrase": {
+          "zh": "薄薄的一层，也有自己的规律。",
+          "en": "Even a thin layer follows its own rules."
+        },
+        "visual": {
+          "zh": "低视角望向浅水槽，一条浅色浮动隔条横跨水面；远侧水面有琥珀色薄膜光泽，近侧水面呈浅绿，细线描绘水纹。左侧支撑与前后槽沿清楚相连。黑白版保留水槽、隔条与两侧水面的明暗差别。",
+          "en": "A low view across a shallow trough shows one pale floating strip spanning its water. The far surface has an amber film sheen and the near water is pale green, with fine engraved ripples. The left support and near/far rims form a coherent structure. The neutral edition retains the trough, strip and tonal separation of the two surface regions."
+        },
+        "background": {
+          "zh": "朗缪尔因对表面化学的发现与研究获得1932年诺贝尔化学奖。他研究物质如何聚集在表面，也用水槽与浮动隔条观察水面薄膜。画面取意于薄膜被限制在一部分水面上的实验方法，是原创插画，不是仪器复原、分子大小示意或实际读数；短句为原创。\n1932年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对物质表面化学现象的发现与研究。",
+          "en": "Langmuir received the 1932 Nobel Prize in Chemistry for discoveries and investigations in surface chemistry. He studied substances gathering at surfaces and used a water trough and floating strip to investigate surface films. The image draws on confining a film to part of a water surface; it is original artwork, not a reconstructed instrument, a molecule-scale diagram or actual readings. The phrase is original.\n1932 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his discoveries and investigations in surface chemistry"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年化学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/langmuir-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-191",
+      "subject": "nobel-laureate-191",
+      "edition": "color",
+      "title": "欧文·朗缪尔",
+      "titleEnglish": "Irving Langmuir",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-191/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-191/color.jpg",
+      "sha256": "2c5d44fc9be6dfbf30c7a3c6f7d31835d9d8ef18679a968914b5a397aa8d45fc",
+      "thumbnailSHA256": "55000bf9d41b7d5636ab9f5da5291f0c6022f46351600923123d9426b94132d4",
+      "context": {
+        "phrase": {
+          "zh": "薄薄的一层，也有自己的规律。",
+          "en": "Even a thin layer follows its own rules."
+        },
+        "visual": {
+          "zh": "低视角望向浅水槽，一条浅色浮动隔条横跨水面；远侧水面有琥珀色薄膜光泽，近侧水面呈浅绿，细线描绘水纹。左侧支撑与前后槽沿清楚相连。黑白版保留水槽、隔条与两侧水面的明暗差别。",
+          "en": "A low view across a shallow trough shows one pale floating strip spanning its water. The far surface has an amber film sheen and the near water is pale green, with fine engraved ripples. The left support and near/far rims form a coherent structure. The neutral edition retains the trough, strip and tonal separation of the two surface regions."
+        },
+        "background": {
+          "zh": "朗缪尔因对表面化学的发现与研究获得1932年诺贝尔化学奖。他研究物质如何聚集在表面，也用水槽与浮动隔条观察水面薄膜。画面取意于薄膜被限制在一部分水面上的实验方法，是原创插画，不是仪器复原、分子大小示意或实际读数；短句为原创。\n1932年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对物质表面化学现象的发现与研究。",
+          "en": "Langmuir received the 1932 Nobel Prize in Chemistry for discoveries and investigations in surface chemistry. He studied substances gathering at surfaces and used a water trough and floating strip to investigate surface films. The image draws on confining a film to part of a water surface; it is original artwork, not a reconstructed instrument, a molecule-scale diagram or actual readings. The phrase is original.\n1932 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his discoveries and investigations in surface chemistry"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年化学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/langmuir-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

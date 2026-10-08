@@ -1,0 +1,70 @@
+{
+  "subject": "26-vangogh",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:26-vangogh",
+      "subject": "26-vangogh",
+      "edition": "mono",
+      "title": "人文：梵高与感知",
+      "titleEnglish": "Van Gogh and Perception",
+      "category": "艺术与人文",
+      "image": "Images/mono/26-vangogh.jpg",
+      "thumbnail": "Thumbs/mono/26-vangogh.jpg",
+      "sha256": "70c5850bfb8040b8a5d8af46457edc6ed8013ebacab68ccdafc2454526da6854",
+      "thumbnailSHA256": "8428a74417db61a8b435f8cf5d9e18cbb66ad280941bdc4f5bfb7efded8107b0",
+      "context": {
+        "phrase": {
+          "zh": "感知的强度，也可以成为颜色。",
+          "en": "Intensity of perception can become color."
+        },
+        "visual": {
+          "zh": "向日葵、旋动的笔触意象与梵高的生成肖像组成致意。它不是梵高原作或遗失作品，画面借熟悉的花与色彩讨论感受如何进入绘画。",
+          "en": "Sunflowers, swirling marks and a generated portrait form a tribute to Van Gogh. This is not an original or lost work by him; familiar flowers and color suggest feeling entering a painting."
+        },
+        "background": {
+          "zh": "梵高博物馆的研究区分了不同《向日葵》版本：阿姆斯特丹藏本绘于 1889 年 1 月，以前一年夏天的静物为依据。反复画同一主题并不只是复制，版本之间的材料、构图和保存状况也都值得分别研究。",
+          "en": "The Van Gogh Museum distinguishes versions of Sunflowers: its Amsterdam painting dates to January 1889 and draws on the previous summer’s still life. Reworking a subject is not merely duplication; versions have individual compositions, materials and conservation histories."
+        },
+        "sources": [
+          {
+            "label": "Van Gogh Museum · Repetitions",
+            "url": "https://ontrafel.vangogh.nl/en/story/190/repetitions"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:26-vangogh",
+      "subject": "26-vangogh",
+      "edition": "color",
+      "title": "人文：梵高与感知",
+      "titleEnglish": "Van Gogh and Perception",
+      "category": "艺术与人文",
+      "image": "Images/color/26-vangogh.jpg",
+      "thumbnail": "Thumbs/color/26-vangogh.jpg",
+      "sha256": "b77269186e6a5e70538de75b960645c270ce9a312159a74a4c51ead8603980f0",
+      "thumbnailSHA256": "f47b7935c222981376f03fa8e808da23134a8216eab50208f7344122f3a4d0f3",
+      "context": {
+        "phrase": {
+          "zh": "感知的强度，也可以成为颜色。",
+          "en": "Intensity of perception can become color."
+        },
+        "visual": {
+          "zh": "向日葵、旋动的笔触意象与梵高的生成肖像组成致意。它不是梵高原作或遗失作品，画面借熟悉的花与色彩讨论感受如何进入绘画。",
+          "en": "Sunflowers, swirling marks and a generated portrait form a tribute to Van Gogh. This is not an original or lost work by him; familiar flowers and color suggest feeling entering a painting."
+        },
+        "background": {
+          "zh": "梵高博物馆的研究区分了不同《向日葵》版本：阿姆斯特丹藏本绘于 1889 年 1 月，以前一年夏天的静物为依据。反复画同一主题并不只是复制，版本之间的材料、构图和保存状况也都值得分别研究。",
+          "en": "The Van Gogh Museum distinguishes versions of Sunflowers: its Amsterdam painting dates to January 1889 and draws on the previous summer’s still life. Reworking a subject is not merely duplication; versions have individual compositions, materials and conservation histories."
+        },
+        "sources": [
+          {
+            "label": "Van Gogh Museum · Repetitions",
+            "url": "https://ontrafel.vangogh.nl/en/story/190/repetitions"
+          }
+        ]
+      }
+    }
+  }
+}

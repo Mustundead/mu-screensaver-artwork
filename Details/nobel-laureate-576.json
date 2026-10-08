@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-576",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-576",
+      "subject": "nobel-laureate-576",
+      "edition": "mono",
+      "title": "乔苏埃·卡尔杜齐",
+      "titleEnglish": "Giosuè Carducci",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-576/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-576/mono.jpg",
+      "sha256": "f0a8c38e765b4b251d1fa76c1f95538937652209dbfa3d3d5660e28f89c6eff3",
+      "thumbnailSHA256": "21e0b708a795c2a952affccf79d1d5db4065fa93f2de128d10f04f79ebf0f827",
+      "context": {
+        "phrase": {
+          "zh": "古老的韵律，也能写出时代的感受。",
+          "en": "Old rhythms can express the feelings of a new age."
+        },
+        "visual": {
+          "zh": "想象中的托斯卡纳山丘、石质拱廊、竖琴、书本和无字纸页组成独立拼贴，呼应卡尔杜齐的意大利诗歌与古典传统。建筑不是具体地点，画面也不是某首诗或历史书封的复原。",
+          "en": "An original collage of imagined Tuscan hills, a stone portico, a lyre, books and blank pages evokes Carducci's Italian poetry and classical influences. The architecture is not a specific site, and the artwork does not reconstruct a poem or historical book cover."
+        },
+        "background": {
+          "zh": "卡尔杜齐获得1906年诺贝尔文学奖，表彰他的学识与文学研究，以及诗作的创造力、清新风格和抒情力量。他长期在博洛尼亚大学教授意大利文学，创作受古典诗歌与意大利诗歌传统影响。配图把山丘、拱廊和写作器具并置，表现文学传统与个人书写之间的联系。\n1906年文学奖；独享本年度奖项。获奖理由（中文译述）：不仅表彰他的深厚学识与批评研究，更表彰其诗歌杰作所体现的创造力、清新风格与抒情力量。",
+          "en": "Carducci received the 1906 Nobel Prize in Literature for his learning and critical research, and for the creative energy, freshness and lyrical force of his poetry. He taught Italian literature at the University of Bologna for many years, drawing inspiration from classical and Italian poets. The artwork places hills, a portico and writing tools together to interpret the relationship between literary tradition and personal expression.\n1906 — The Nobel Prize in Literature. Received the full prize. Official motivation: not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年文学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1906/carducci/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1906/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-576",
+      "subject": "nobel-laureate-576",
+      "edition": "color",
+      "title": "乔苏埃·卡尔杜齐",
+      "titleEnglish": "Giosuè Carducci",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-576/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-576/color.jpg",
+      "sha256": "140cb0c6e9e1e085f9ab5d9a305ad8abb088d4b7c886a46f3fd8d42e0383abf4",
+      "thumbnailSHA256": "fbfcaf78944d8c28eabc4c9e0c0bff95f3c299b2087e096fb69a423d7ebd2871",
+      "context": {
+        "phrase": {
+          "zh": "古老的韵律，也能写出时代的感受。",
+          "en": "Old rhythms can express the feelings of a new age."
+        },
+        "visual": {
+          "zh": "想象中的托斯卡纳山丘、石质拱廊、竖琴、书本和无字纸页组成独立拼贴，呼应卡尔杜齐的意大利诗歌与古典传统。建筑不是具体地点，画面也不是某首诗或历史书封的复原。",
+          "en": "An original collage of imagined Tuscan hills, a stone portico, a lyre, books and blank pages evokes Carducci's Italian poetry and classical influences. The architecture is not a specific site, and the artwork does not reconstruct a poem or historical book cover."
+        },
+        "background": {
+          "zh": "卡尔杜齐获得1906年诺贝尔文学奖，表彰他的学识与文学研究，以及诗作的创造力、清新风格和抒情力量。他长期在博洛尼亚大学教授意大利文学，创作受古典诗歌与意大利诗歌传统影响。配图把山丘、拱廊和写作器具并置，表现文学传统与个人书写之间的联系。\n1906年文学奖；独享本年度奖项。获奖理由（中文译述）：不仅表彰他的深厚学识与批评研究，更表彰其诗歌杰作所体现的创造力、清新风格与抒情力量。",
+          "en": "Carducci received the 1906 Nobel Prize in Literature for his learning and critical research, and for the creative energy, freshness and lyrical force of his poetry. He taught Italian literature at the University of Bologna for many years, drawing inspiration from classical and Italian poets. The artwork places hills, a portico and writing tools together to interpret the relationship between literary tradition and personal expression.\n1906 — The Nobel Prize in Literature. Received the full prize. Official motivation: not only in consideration of his deep learning and critical research, but above all as a tribute to the creative energy, freshness of style, and lyrical force which characterize his poetic masterpieces"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年文学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1906/carducci/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1906/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

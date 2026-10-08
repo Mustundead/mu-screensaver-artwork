@@ -1,0 +1,70 @@
+{
+  "subject": "080-coltrane",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:080-coltrane",
+      "subject": "080-coltrane",
+      "edition": "mono",
+      "title": "科尔特兰与即兴",
+      "titleEnglish": "Coltrane and Improvisation",
+      "category": "艺术与人文",
+      "image": "Images/mono/080-coltrane.jpg",
+      "thumbnail": "Thumbs/mono/080-coltrane.jpg",
+      "sha256": "0b5d1e7af9518f94ef6b25666ba93debdd8761b72c347d8203a6fe4e3f3e4d22",
+      "thumbnailSHA256": "cbba068f5da6ac832d3a0f22eefcefd47bf85aaf26b4472e79be555367c7efb9",
+      "context": {
+        "phrase": {
+          "zh": "即兴，在倾听中找到下一步。",
+          "en": "Improvisation finds its next step by listening."
+        },
+        "visual": {
+          "zh": "萨克斯、人物面孔和流动色带表达科尔特兰演奏中的延展感。画面不是演出照片，线条也不能还原一个具体独奏。",
+          "en": "A saxophone, portrait and flowing bands evoke the expansiveness of Coltrane’s playing. This is not a concert photograph, and its lines do not encode a particular solo."
+        },
+        "background": {
+          "zh": "约翰与艾丽斯·科尔特兰故居资料记载，《A Love Supreme》于 1964 年 12 月 9 日录制，合作者包括麦科伊·泰纳、吉米·加里森和埃尔文·琼斯。它提醒我们，即兴既有个人探索，也依赖乐手之间的共同倾听。",
+          "en": "The John and Alice Coltrane Home records A Love Supreme being recorded on December 9, 1964, with McCoy Tyner, Jimmy Garrison and Elvin Jones. It offers a concrete example of individual exploration within an ensemble. The image’s emphasis on mutual listening is an interpretation of that collaborative setting."
+        },
+        "sources": [
+          {
+            "label": "The John and Alice Coltrane Home · A Love Supreme",
+            "url": "https://thecoltranehome.org/music-of-the-home/a-love-supreme/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:080-coltrane",
+      "subject": "080-coltrane",
+      "edition": "color",
+      "title": "科尔特兰与即兴",
+      "titleEnglish": "Coltrane and Improvisation",
+      "category": "艺术与人文",
+      "image": "Images/color/080-coltrane.jpg",
+      "thumbnail": "Thumbs/color/080-coltrane.jpg",
+      "sha256": "bac7eb820887911bc7a3e5df5463485d50f65b4cbd11530ed6ab69bfb50257eb",
+      "thumbnailSHA256": "5a36b9ea5f21aaba59eb5e5dfce6b4ba6061b64ce6a0ba59b1207fb474cbb7fe",
+      "context": {
+        "phrase": {
+          "zh": "即兴，在倾听中找到下一步。",
+          "en": "Improvisation finds its next step by listening."
+        },
+        "visual": {
+          "zh": "萨克斯、人物面孔和流动色带表达科尔特兰演奏中的延展感。画面不是演出照片，线条也不能还原一个具体独奏。",
+          "en": "A saxophone, portrait and flowing bands evoke the expansiveness of Coltrane’s playing. This is not a concert photograph, and its lines do not encode a particular solo."
+        },
+        "background": {
+          "zh": "约翰与艾丽斯·科尔特兰故居资料记载，《A Love Supreme》于 1964 年 12 月 9 日录制，合作者包括麦科伊·泰纳、吉米·加里森和埃尔文·琼斯。它提醒我们，即兴既有个人探索，也依赖乐手之间的共同倾听。",
+          "en": "The John and Alice Coltrane Home records A Love Supreme being recorded on December 9, 1964, with McCoy Tyner, Jimmy Garrison and Elvin Jones. It offers a concrete example of individual exploration within an ensemble. The image’s emphasis on mutual listening is an interpretation of that collaborative setting."
+        },
+        "sources": [
+          {
+            "label": "The John and Alice Coltrane Home · A Love Supreme",
+            "url": "https://thecoltranehome.org/music-of-the-home/a-love-supreme/"
+          }
+        ]
+      }
+    }
+  }
+}

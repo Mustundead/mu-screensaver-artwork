@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-179",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-179",
+      "subject": "nobel-laureate-179",
+      "edition": "mono",
+      "title": "弗雷德里克·索迪",
+      "titleEnglish": "Frederick Soddy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-179/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-179/mono.jpg",
+      "sha256": "6023b55da6e10fa34e5d83e59fd2c4489475c1494080d9f674ab9e20ecd85e61",
+      "thumbnailSHA256": "622746f1c1592a922de8d886460adea7ddaf30d41ba6a70cba0a736010ca0b18",
+      "context": {
+        "phrase": {
+          "zh": "相似之中，藏着不同的分量。",
+          "en": "Similar forms can hold different weights."
+        },
+        "visual": {
+          "zh": "右侧巨大的琥珀玻璃罐从上下边缘裁切，左上较小的透明罐保持近似瓶形；两个罐中各有一块深灰金属，空白纸带在它们之间弯曲。黑白版保留罐体、金属块、纸带与裁切。大小差异属于画面透视，不表示同位素大小或实际测得的质量。",
+          "en": "A huge amber glass jar is cropped at right and vertically; a smaller clear jar at upper left has a similar profile. Each holds a dark metal core, with a blank curling paper strip between them. Monochrome preserves jars, cores, paper and crop. Apparent size differences belong to the artwork's perspective, not actual isotope size or measured mass."
+        },
+        "background": {
+          "zh": "索迪独享1921年诺贝尔化学奖，该年度奖项保留后于1922年颁给他，表彰其放射性物质与同位素研究。同位素是同一种元素质量不同的原子形式；索迪的研究说明，化学性质相近的形式可以有不同原子质量。画中外形相近、内部金属块不同的玻璃罐只是这种联系的寓意，不是同位素结构图，也不表示某种物质的实际质量或放射性。短句为原创，不是人物引语。\n1921年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对放射性物质化学研究的贡献，以及对同位素起源与性质的研究。",
+          "en": "Soddy received the full 1921 Nobel Prize in Chemistry, presented in 1922 after the award was reserved, for research on radioactive substances and isotopes. Isotopes are forms of the same element with different atomic masses; his work showed how similar chemical character can coexist with different atomic weights. Matching jars with different metal cores are a visual metaphor, not isotope structures, measured masses or evidence of radioactivity. The phrase is original, not a quotation.\n1921 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his contributions to our knowledge of the chemistry of radioactive substances, and his investigations into the origin and nature of isotopes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年化学奖｜官方记录",
+              "en": "1921 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1921/soddy/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-179",
+      "subject": "nobel-laureate-179",
+      "edition": "color",
+      "title": "弗雷德里克·索迪",
+      "titleEnglish": "Frederick Soddy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-179/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-179/color.jpg",
+      "sha256": "b17e7569c7a9d68abee542fecb263eb27996306094de49e264413621d997ee2a",
+      "thumbnailSHA256": "4dd654e73477c1a3316bde60feea3d837a597dde3c990fe7ef50254ea43f6240",
+      "context": {
+        "phrase": {
+          "zh": "相似之中，藏着不同的分量。",
+          "en": "Similar forms can hold different weights."
+        },
+        "visual": {
+          "zh": "右侧巨大的琥珀玻璃罐从上下边缘裁切，左上较小的透明罐保持近似瓶形；两个罐中各有一块深灰金属，空白纸带在它们之间弯曲。黑白版保留罐体、金属块、纸带与裁切。大小差异属于画面透视，不表示同位素大小或实际测得的质量。",
+          "en": "A huge amber glass jar is cropped at right and vertically; a smaller clear jar at upper left has a similar profile. Each holds a dark metal core, with a blank curling paper strip between them. Monochrome preserves jars, cores, paper and crop. Apparent size differences belong to the artwork's perspective, not actual isotope size or measured mass."
+        },
+        "background": {
+          "zh": "索迪独享1921年诺贝尔化学奖，该年度奖项保留后于1922年颁给他，表彰其放射性物质与同位素研究。同位素是同一种元素质量不同的原子形式；索迪的研究说明，化学性质相近的形式可以有不同原子质量。画中外形相近、内部金属块不同的玻璃罐只是这种联系的寓意，不是同位素结构图，也不表示某种物质的实际质量或放射性。短句为原创，不是人物引语。\n1921年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对放射性物质化学研究的贡献，以及对同位素起源与性质的研究。",
+          "en": "Soddy received the full 1921 Nobel Prize in Chemistry, presented in 1922 after the award was reserved, for research on radioactive substances and isotopes. Isotopes are forms of the same element with different atomic masses; his work showed how similar chemical character can coexist with different atomic weights. Matching jars with different metal cores are a visual metaphor, not isotope structures, measured masses or evidence of radioactivity. The phrase is original, not a quotation.\n1921 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his contributions to our knowledge of the chemistry of radioactive substances, and his investigations into the origin and nature of isotopes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年化学奖｜官方记录",
+              "en": "1921 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1921/soddy/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

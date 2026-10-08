@@ -1,0 +1,70 @@
+{
+  "subject": "20-humane-interface",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:20-humane-interface",
+      "subject": "20-humane-interface",
+      "edition": "mono",
+      "title": "交互：卡片、整理与触感",
+      "titleEnglish": "Interfaces and Tactile Organization",
+      "category": "计算与人工智能",
+      "image": "Images/mono/20-humane-interface.jpg",
+      "thumbnail": "Thumbs/mono/20-humane-interface.jpg",
+      "sha256": "a363ced169c019eeb4aaa58d33df79f52e8350de8b7c1a383a35a6a571947e2d",
+      "thumbnailSHA256": "7a74dc4bcf6324e1d7e5d79a010c5a3e83f7cdc3c115550c4f6eb44469154d85",
+      "context": {
+        "phrase": {
+          "zh": "整理信息，也是在整理思路。",
+          "en": "Organizing information can organize thought."
+        },
+        "visual": {
+          "zh": "可移动的卡片与纸片把界面比作一张可以整理的工作桌。触感和空间关系是设计隐喻，画面没有展示一种已经验证更高效的操作方式。",
+          "en": "Movable cards and papers suggest an interface as an arrangement on a worktable. Touch and spatial relationships are design metaphors, not evidence that a depicted interaction is more efficient."
+        },
+        "background": {
+          "zh": "1968 年 12 月 9 日，恩格尔巴特在演示中展示了鼠标、超文本、共享屏幕协作等功能。计算机历史博物馆强调，他把计算机看作改善人与人沟通协作的工具。界面的意义不只在外观，也在于支持人如何理解和共同处理信息。",
+          "en": "On December 9, 1968, Engelbart demonstrated the mouse, hypertext and shared-screen collaboration. The Computer History Museum emphasizes his aim of improving human communication and cooperation. Interfaces matter for how people understand and work with information, as well as how they look."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Douglas C. Engelbart",
+            "url": "https://computerhistory.org/profile/doug-engelbart/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:20-humane-interface",
+      "subject": "20-humane-interface",
+      "edition": "color",
+      "title": "交互：卡片、整理与触感",
+      "titleEnglish": "Interfaces and Tactile Organization",
+      "category": "计算与人工智能",
+      "image": "Images/color/20-humane-interface.jpg",
+      "thumbnail": "Thumbs/color/20-humane-interface.jpg",
+      "sha256": "8d321222edf8ca72ebc6944265d2fc4c7b2eb2cf040f5991d93bce08e9f287b4",
+      "thumbnailSHA256": "47108687cf10548a93a733079deb46223151122ed968dabfd1dc089125e462a4",
+      "context": {
+        "phrase": {
+          "zh": "整理信息，也是在整理思路。",
+          "en": "Organizing information can organize thought."
+        },
+        "visual": {
+          "zh": "可移动的卡片与纸片把界面比作一张可以整理的工作桌。触感和空间关系是设计隐喻，画面没有展示一种已经验证更高效的操作方式。",
+          "en": "Movable cards and papers suggest an interface as an arrangement on a worktable. Touch and spatial relationships are design metaphors, not evidence that a depicted interaction is more efficient."
+        },
+        "background": {
+          "zh": "1968 年 12 月 9 日，恩格尔巴特在演示中展示了鼠标、超文本、共享屏幕协作等功能。计算机历史博物馆强调，他把计算机看作改善人与人沟通协作的工具。界面的意义不只在外观，也在于支持人如何理解和共同处理信息。",
+          "en": "On December 9, 1968, Engelbart demonstrated the mouse, hypertext and shared-screen collaboration. The Computer History Museum emphasizes his aim of improving human communication and cooperation. Interfaces matter for how people understand and work with information, as well as how they look."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Douglas C. Engelbart",
+            "url": "https://computerhistory.org/profile/doug-engelbart/"
+          }
+        ]
+      }
+    }
+  }
+}

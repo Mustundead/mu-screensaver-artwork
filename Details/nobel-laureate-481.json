@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-481",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-481",
+      "subject": "nobel-laureate-481",
+      "edition": "mono",
+      "title": "亨利·拉封丹",
+      "titleEnglish": "Henri La Fontaine",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-481/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-481/mono.jpg",
+      "sha256": "6472c8a92bfac4ba40266b1a17f5d9ac12eb4e364202f8487a17d2008520db20",
+      "thumbnailSHA256": "7d144f80e6b84fec9de996610899dfe2e16c5a40db5a5b18ad0fe1deab239013",
+      "context": {
+        "phrase": {
+          "zh": "让知识相连，让对话有路。",
+          "en": "Connect knowledge; make room for dialogue."
+        },
+        "visual": {
+          "zh": "索引卡抽屉斜穿画面，一条织带在分隔板和空白卡片之间穿行，表现知识整理与彼此联系。黑白与钴蓝版突出织带；彩色版使用暖木色、乳白与灰绿卡纸、青绿织带和黄铜把手。它是原创档案意象，不是拉方丹真实档案的复制，也未虚构任何文字记录。",
+          "en": "An index-card drawer runs diagonally through the frame while a ribbon weaves between dividers and blank cards, evoking organized knowledge and connection. Cobalt highlights the ribbon in monochrome; full color adds warm wood, cream/sage cards, teal cloth and brass. It is an original archive motif, not La Fontaine's actual archive, with no invented written records."
+        },
+        "background": {
+          "zh": "拉封丹独自获得1913年诺贝尔和平奖，官方理由表彰他对组织和平国际合作的突出贡献。Mundaneum的创始人档案介绍，他是一位研究国际法的律师，参与和平运动并担任国际和平局主席；他与保罗·奥特莱在莱奥妮·拉封丹的协助下推动知识整理与国际合作。这里借用档案卡片的形式，把知识交流与和平协作放在同一画面中。抽屉、空白卡片和织带是原创构图，既不复制具体馆藏，也不把知识整理项目说成唯一获奖理由。短句不是本人引语。\n1913年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他对组织和平国际合作的突出贡献。",
+          "en": "La Fontaine was the sole recipient of the 1913 Nobel Peace Prize, honored for organizing peaceful internationalism. Mundaneum’s founders archive describes an international-law lawyer, peace activist and president of the International Peace Bureau, who advanced documentation and cooperation with Paul Otlet and assistance from Léonie La Fontaine. Blank index cards evoke knowledge exchange alongside peaceful cooperation. The drawer and ribbon are an original composition, not specific collection objects, and documentation work is not presented as the sole award rationale. The phrase is not a quotation.\n1913 — The Nobel Peace Prize. Received the full prize. Official motivation: for his unparalleled contribution to the organization of peaceful internationalism"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年和平奖｜官方记录",
+              "en": "1913 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "mundaneum.org",
+            "url": "https://mundaneum.org/collections-et-recherches/collections/archives-des-fondateurs-du-mundaneum/",
+            "labelLocalized": {
+              "zh": "创始人档案｜Mundaneum",
+              "en": "Founders archive — Mundaneum"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-481",
+      "subject": "nobel-laureate-481",
+      "edition": "color",
+      "title": "亨利·拉封丹",
+      "titleEnglish": "Henri La Fontaine",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-481/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-481/color.jpg",
+      "sha256": "e0f8c57dc7fa231871e867fa792060ba06f042bae7fa037c1ae065c28359f4fc",
+      "thumbnailSHA256": "6bfe0f1e6e5765b74522c5bbd69e00724792caa6635a34e4a4d5278e144b79a6",
+      "context": {
+        "phrase": {
+          "zh": "让知识相连，让对话有路。",
+          "en": "Connect knowledge; make room for dialogue."
+        },
+        "visual": {
+          "zh": "索引卡抽屉斜穿画面，一条织带在分隔板和空白卡片之间穿行，表现知识整理与彼此联系。黑白与钴蓝版突出织带；彩色版使用暖木色、乳白与灰绿卡纸、青绿织带和黄铜把手。它是原创档案意象，不是拉方丹真实档案的复制，也未虚构任何文字记录。",
+          "en": "An index-card drawer runs diagonally through the frame while a ribbon weaves between dividers and blank cards, evoking organized knowledge and connection. Cobalt highlights the ribbon in monochrome; full color adds warm wood, cream/sage cards, teal cloth and brass. It is an original archive motif, not La Fontaine's actual archive, with no invented written records."
+        },
+        "background": {
+          "zh": "拉封丹独自获得1913年诺贝尔和平奖，官方理由表彰他对组织和平国际合作的突出贡献。Mundaneum的创始人档案介绍，他是一位研究国际法的律师，参与和平运动并担任国际和平局主席；他与保罗·奥特莱在莱奥妮·拉封丹的协助下推动知识整理与国际合作。这里借用档案卡片的形式，把知识交流与和平协作放在同一画面中。抽屉、空白卡片和织带是原创构图，既不复制具体馆藏，也不把知识整理项目说成唯一获奖理由。短句不是本人引语。\n1913年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他对组织和平国际合作的突出贡献。",
+          "en": "La Fontaine was the sole recipient of the 1913 Nobel Peace Prize, honored for organizing peaceful internationalism. Mundaneum’s founders archive describes an international-law lawyer, peace activist and president of the International Peace Bureau, who advanced documentation and cooperation with Paul Otlet and assistance from Léonie La Fontaine. Blank index cards evoke knowledge exchange alongside peaceful cooperation. The drawer and ribbon are an original composition, not specific collection objects, and documentation work is not presented as the sole award rationale. The phrase is not a quotation.\n1913 — The Nobel Peace Prize. Received the full prize. Official motivation: for his unparalleled contribution to the organization of peaceful internationalism"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年和平奖｜官方记录",
+              "en": "1913 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "mundaneum.org",
+            "url": "https://mundaneum.org/collections-et-recherches/collections/archives-des-fondateurs-du-mundaneum/",
+            "labelLocalized": {
+              "zh": "创始人档案｜Mundaneum",
+              "en": "Founders archive — Mundaneum"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "18-memory",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:18-memory",
+      "subject": "18-memory",
+      "edition": "mono",
+      "title": "人文：电影与时间",
+      "titleEnglish": "Cinema and Time",
+      "category": "艺术与人文",
+      "image": "Images/mono/18-memory.jpg",
+      "thumbnail": "Thumbs/mono/18-memory.jpg",
+      "sha256": "ef89a82f0fb14a7e192c9ecd52df1ec0c966d7cc03af9624a76d4c41e1575dee",
+      "thumbnailSHA256": "5b1fbfe4e934f4dcb82a4330548c9da272b5eb4cfda57ab80ae91f31e445dbae",
+      "context": {
+        "phrase": {
+          "zh": "连续的瞬间，留下时间的形状。",
+          "en": "Successive moments give time a shape."
+        },
+        "visual": {
+          "zh": "胶片、镜头与人物侧影把电影呈现为时间的保存和重新编排。画面不是历史电影剧照，也不指认一段真实拍摄经历。",
+          "en": "Film, lenses and a profile present cinema as preserving and rearranging time. This is not a historical film still or a record of an actual shoot."
+        },
+        "background": {
+          "zh": "美国国家档案馆解释，电影胶片由一系列静态画格组成，通常以每秒 24 格播放时呈现运动。这里的“通常”很重要：不同历史时期和媒介并非都使用相同帧率。运动感来自画格的连续呈现，而单张胶片保存的是一个瞬间。",
+          "en": "The US National Archives describes motion-picture film as successive still frames, usually projected at 24 frames per second to show motion. “Usually” matters: rates vary across eras and media. A single frame preserves one moment; motion emerges from their presentation in sequence."
+        },
+        "sources": [
+          {
+            "label": "US National Archives · Motion Picture",
+            "url": "https://www.archives.gov/preservation/products/definitions/mopix-def"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:18-memory",
+      "subject": "18-memory",
+      "edition": "color",
+      "title": "人文：电影与时间",
+      "titleEnglish": "Cinema and Time",
+      "category": "艺术与人文",
+      "image": "Images/color/18-memory.jpg",
+      "thumbnail": "Thumbs/color/18-memory.jpg",
+      "sha256": "b6c0f614d58e0823151ec829c0ece6d631e3176273b886dc1691e9d3cf1cba1a",
+      "thumbnailSHA256": "ca03c0d53d917482beb3d137f7c17ebbbbde87db2de6497218a15cd3d3970209",
+      "context": {
+        "phrase": {
+          "zh": "连续的瞬间，留下时间的形状。",
+          "en": "Successive moments give time a shape."
+        },
+        "visual": {
+          "zh": "胶片、镜头与人物侧影把电影呈现为时间的保存和重新编排。画面不是历史电影剧照，也不指认一段真实拍摄经历。",
+          "en": "Film, lenses and a profile present cinema as preserving and rearranging time. This is not a historical film still or a record of an actual shoot."
+        },
+        "background": {
+          "zh": "美国国家档案馆解释，电影胶片由一系列静态画格组成，通常以每秒 24 格播放时呈现运动。这里的“通常”很重要：不同历史时期和媒介并非都使用相同帧率。运动感来自画格的连续呈现，而单张胶片保存的是一个瞬间。",
+          "en": "The US National Archives describes motion-picture film as successive still frames, usually projected at 24 frames per second to show motion. “Usually” matters: rates vary across eras and media. A single frame preserves one moment; motion emerges from their presentation in sequence."
+        },
+        "sources": [
+          {
+            "label": "US National Archives · Motion Picture",
+            "url": "https://www.archives.gov/preservation/products/definitions/mopix-def"
+          }
+        ]
+      }
+    }
+  }
+}

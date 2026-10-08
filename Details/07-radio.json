@@ -1,0 +1,70 @@
+{
+  "subject": "07-radio",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:07-radio",
+      "subject": "07-radio",
+      "edition": "mono",
+      "title": "探索：射电望远镜阵列",
+      "titleEnglish": "Radio Telescope Arrays",
+      "category": "宇宙",
+      "image": "Images/mono/07-radio.jpg",
+      "thumbnail": "Thumbs/mono/07-radio.jpg",
+      "sha256": "2326fc6240b5e7732b74d783766413d58f80976efad8e63530725e6643871f29",
+      "thumbnailSHA256": "4845e73ac1c4688020c5ddee6749e506c84be184d7d72190f276c0c8551c6665",
+      "context": {
+        "phrase": {
+          "zh": "把微弱的讯号，认真听清。",
+          "en": "Listen closely to a faint signal."
+        },
+        "visual": {
+          "zh": "碟形天线朝向天空，用“聆听”比喻对不可见电磁波的接收。射电望远镜并不是直接收听太空里的声音，图中的波纹也是视觉转译。",
+          "en": "A dish points skyward, using listening as a metaphor for receiving invisible electromagnetic waves. Radio telescopes do not directly hear sound in space; the ripples are a visual translation."
+        },
+        "background": {
+          "zh": "美国国家射电天文台的甚大阵由 27 面天线组成，沿 Y 形排列。不同天线的信号以电子方式合并，使阵列能够分辨比单面天线更细的天空结构。画面表达的是协同观测，并不是该阵列的现场照片。",
+          "en": "The NRAO Very Large Array consists of 27 antennas in a Y-shaped layout. Their signals are combined electronically to resolve finer structures than a single antenna could. This illustration evokes coordinated observation rather than documenting the actual site."
+        },
+        "sources": [
+          {
+            "label": "NRAO · Very Large Array",
+            "url": "https://www.vla.nrao.edu/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:07-radio",
+      "subject": "07-radio",
+      "edition": "color",
+      "title": "探索：射电望远镜阵列",
+      "titleEnglish": "Radio Telescope Arrays",
+      "category": "宇宙",
+      "image": "Images/color/07-radio.jpg",
+      "thumbnail": "Thumbs/color/07-radio.jpg",
+      "sha256": "b4ee04d2b39fbbb424a1bdfc19cbbc08886f75d6ec3f4a4028ca664038ac9e45",
+      "thumbnailSHA256": "77e7249b6423c86f45e2b9e231d0c2aa3c169cf4a58d487410763ed731e849a9",
+      "context": {
+        "phrase": {
+          "zh": "把微弱的讯号，认真听清。",
+          "en": "Listen closely to a faint signal."
+        },
+        "visual": {
+          "zh": "碟形天线朝向天空，用“聆听”比喻对不可见电磁波的接收。射电望远镜并不是直接收听太空里的声音，图中的波纹也是视觉转译。",
+          "en": "A dish points skyward, using listening as a metaphor for receiving invisible electromagnetic waves. Radio telescopes do not directly hear sound in space; the ripples are a visual translation."
+        },
+        "background": {
+          "zh": "美国国家射电天文台的甚大阵由 27 面天线组成，沿 Y 形排列。不同天线的信号以电子方式合并，使阵列能够分辨比单面天线更细的天空结构。画面表达的是协同观测，并不是该阵列的现场照片。",
+          "en": "The NRAO Very Large Array consists of 27 antennas in a Y-shaped layout. Their signals are combined electronically to resolve finer structures than a single antenna could. This illustration evokes coordinated observation rather than documenting the actual site."
+        },
+        "sources": [
+          {
+            "label": "NRAO · Very Large Array",
+            "url": "https://www.vla.nrao.edu/"
+          }
+        ]
+      }
+    }
+  }
+}

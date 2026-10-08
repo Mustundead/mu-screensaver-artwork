@@ -1,0 +1,102 @@
+{
+  "subject": "oscar-best-picture-002",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-002",
+      "subject": "oscar-best-picture-002",
+      "edition": "mono",
+      "title": "百老汇旋律",
+      "titleEnglish": "The Broadway Melody",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-002/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-002/mono.jpg",
+      "sha256": "8e2be121218244baf74fdf8e832d0c10e6d286cd0392a9111ef1b916d52aca6c",
+      "thumbnailSHA256": "3762663fadc9f64e7891144c7f612aa77741901883af32fb647deeea69d11cde",
+      "context": {
+        "phrase": {
+          "zh": "帷幕之外，也有自己的舞台。",
+          "en": "Beyond the curtain, find a stage of your own."
+        },
+        "visual": {
+          "zh": "为《百老汇旋律》独立创作的舞台拼贴，以早期麦克风、钢琴、踢踏舞鞋和装饰艺术风格的舞台框架，表现音乐片的声音与演出。",
+          "en": "An original theatrical collage for The Broadway Melody, combining an early microphone, piano, tap shoes and an Art Deco proscenium to evoke sound and performance."
+        },
+        "background": {
+          "zh": "《百老汇旋律》是一部1929年的早期有声音乐片，讲述两姐妹从家乡来到百老汇寻求演出机会。画面用音乐与舞台物件表达她们的表演梦想；是艺术解读，不重现具体镜头，也不是原版海报。\n第2届奥斯卡最佳影片：百老汇旋律。颁奖年份 1930；参评年份 1928/29。",
+          "en": "The Broadway Melody is an early sound musical from 1929 about two sisters who leave their hometown to seek success on Broadway. Music and stage objects interpret their performing ambitions; the image does not recreate a specific shot or original poster.\nAcademy Awards ceremony 2 (1930), Best Picture: The Broadway Melody. Eligibility year: 1928/29."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1930",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1930/I",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "TCM",
+            "url": "https://www.tcm.com/articles/66966/the-broadway-melody-1929"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-002",
+      "subject": "oscar-best-picture-002",
+      "edition": "color",
+      "title": "百老汇旋律",
+      "titleEnglish": "The Broadway Melody",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-002/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-002/color.jpg",
+      "sha256": "02e6bc333b3e6e1f4ab759f80455878ed38c5c734f3ff06b5b2501eb5082440f",
+      "thumbnailSHA256": "2105c2a62dd5d0eb8255c6afd2e35e515386decfb08bda03ee2200403502054b",
+      "context": {
+        "phrase": {
+          "zh": "帷幕之外，也有自己的舞台。",
+          "en": "Beyond the curtain, find a stage of your own."
+        },
+        "visual": {
+          "zh": "为《百老汇旋律》独立创作的舞台拼贴，以早期麦克风、钢琴、踢踏舞鞋和装饰艺术风格的舞台框架，表现音乐片的声音与演出。",
+          "en": "An original theatrical collage for The Broadway Melody, combining an early microphone, piano, tap shoes and an Art Deco proscenium to evoke sound and performance."
+        },
+        "background": {
+          "zh": "《百老汇旋律》是一部1929年的早期有声音乐片，讲述两姐妹从家乡来到百老汇寻求演出机会。画面用音乐与舞台物件表达她们的表演梦想；是艺术解读，不重现具体镜头，也不是原版海报。\n第2届奥斯卡最佳影片：百老汇旋律。颁奖年份 1930；参评年份 1928/29。",
+          "en": "The Broadway Melody is an early sound musical from 1929 about two sisters who leave their hometown to seek success on Broadway. Music and stage objects interpret their performing ambitions; the image does not recreate a specific shot or original poster.\nAcademy Awards ceremony 2 (1930), Best Picture: The Broadway Melody. Eligibility year: 1928/29."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1930",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1930/I",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "TCM",
+            "url": "https://www.tcm.com/articles/66966/the-broadway-melody-1929"
+          }
+        ]
+      }
+    }
+  }
+}

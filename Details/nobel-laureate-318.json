@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-318",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-318",
+      "subject": "nobel-laureate-318",
+      "edition": "mono",
+      "title": "夏尔·尼科尔",
+      "titleEnglish": "Charles Nicolle",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-318/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-318/mono.jpg",
+      "sha256": "af16a5f5890d89a01d021f26e7d7abccde0d99ba9f55577b341340ee9bf48afd",
+      "thumbnailSHA256": "ffa80f0cbc7500c83c99a0086b1b795fb0ab1bb29a77970b043fbf03fa3bb83e",
+      "context": {
+        "phrase": {
+          "zh": "细看日常，才能发现传播的线索。",
+          "en": "Look closely at daily life to find a clue to transmission."
+        },
+        "visual": {
+          "zh": "放大的浅色织物与纵向接缝占据左侧，一只棕褐色无翅体虱抓住接缝纤维，右侧保留浅色空间。黑白版保留织纹、虫体和抓握关系；这是放大的编辑插画，没有真实比例或医学操作说明。",
+          "en": "Magnified pale cloth and its vertical folded seam fill the left side. One tan, wingless body louse grips the seam fibers, beside a quiet pale field. The neutral edition preserves the weave, insect and grip. This is an enlarged editorial illustration without a true scale or medical instructions."
+        },
+        "background": {
+          "zh": "尼科尔因斑疹伤寒研究获1928年诺贝尔生理学或医学奖。他发现体虱在这种疾病的传播中起重要作用。画中的衣料接缝与体虱对应这一历史研究，尺度和场景为原创安排，不是临床照片、鉴别图谱或防治指南；短句为原创。\n1928年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对斑疹伤寒的研究。",
+          "en": "Nicolle received the 1928 Nobel Prize in Physiology or Medicine for work on typhus. He discovered the important role of body lice in transmitting the disease. The garment seam and louse refer to that historical research; their scale and setting are an original arrangement, not a clinical photograph, identification chart or prevention guide. The phrase is original.\n1928 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on typhus"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1928 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1928/summary/",
+            "labelLocalized": {
+              "zh": "1928年生理学或医学奖｜官方记录",
+              "en": "1928 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physiology-or-medicine-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-318",
+      "subject": "nobel-laureate-318",
+      "edition": "color",
+      "title": "夏尔·尼科尔",
+      "titleEnglish": "Charles Nicolle",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-318/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-318/color.jpg",
+      "sha256": "21aaa673f5bf279d51a5d80173eda30b0d4eaee49906144588057c7d54a19f3c",
+      "thumbnailSHA256": "5181d2f964362b692886c155804321c039722966ab0c2a4b59f4f6d1dd0e72e9",
+      "context": {
+        "phrase": {
+          "zh": "细看日常，才能发现传播的线索。",
+          "en": "Look closely at daily life to find a clue to transmission."
+        },
+        "visual": {
+          "zh": "放大的浅色织物与纵向接缝占据左侧，一只棕褐色无翅体虱抓住接缝纤维，右侧保留浅色空间。黑白版保留织纹、虫体和抓握关系；这是放大的编辑插画，没有真实比例或医学操作说明。",
+          "en": "Magnified pale cloth and its vertical folded seam fill the left side. One tan, wingless body louse grips the seam fibers, beside a quiet pale field. The neutral edition preserves the weave, insect and grip. This is an enlarged editorial illustration without a true scale or medical instructions."
+        },
+        "background": {
+          "zh": "尼科尔因斑疹伤寒研究获1928年诺贝尔生理学或医学奖。他发现体虱在这种疾病的传播中起重要作用。画中的衣料接缝与体虱对应这一历史研究，尺度和场景为原创安排，不是临床照片、鉴别图谱或防治指南；短句为原创。\n1928年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对斑疹伤寒的研究。",
+          "en": "Nicolle received the 1928 Nobel Prize in Physiology or Medicine for work on typhus. He discovered the important role of body lice in transmitting the disease. The garment seam and louse refer to that historical research; their scale and setting are an original arrangement, not a clinical photograph, identification chart or prevention guide. The phrase is original.\n1928 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on typhus"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1928 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1928/summary/",
+            "labelLocalized": {
+              "zh": "1928年生理学或医学奖｜官方记录",
+              "en": "1928 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physiology-or-medicine-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

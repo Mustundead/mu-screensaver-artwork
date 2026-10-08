@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-606",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-606",
+      "subject": "nobel-laureate-606",
+      "edition": "mono",
+      "title": "伊万·蒲宁",
+      "titleEnglish": "Ivan Bunin",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-606/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-606/mono.jpg",
+      "sha256": "17e4b6b186aaed4f1c572bac7b2149dcba453dfae6e4f77a6c2a453b6d094117",
+      "thumbnailSHA256": "1e6ee857ca72bab5d525e7dd977b17cc41626828a8f1227f8e91f54084064101",
+      "context": {
+        "phrase": {
+          "zh": "留下乡间的细节，也留下时间的痕迹。",
+          "en": "Keep the details of the countryside and the traces of time."
+        },
+        "visual": {
+          "zh": "左侧深色木窗柱与斜开的玻璃窗扇近距离入画，两枚合页连接清楚；低处窗台伸向右侧，外面是枯草田野、远处裸树与浅色天空。中性黑白版保留窗框、视角、阴影与远近层次。",
+          "en": "A dark wooden post and angled open glass casement enter close at left, joined by two visible hinges. The low sill extends rightward toward a stubble field, bare distant trees and pale sky. The neutral monochrome edition preserves the frame, viewpoint, shadow and depth."
+        },
+        "background": {
+          "zh": "蒲宁因以严谨的艺术手法延续俄罗斯古典散文传统，获得1933年诺贝尔文学奖。诺贝尔奖官方介绍提到，他以克制、凝练的笔触描写俄国乡村及其衰落。旧窗框与远处田野是对观察和时间的原创解读，不是某篇作品的插图或蒲宁故居的复原；短句为原创。\n1933年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他以严谨的艺术手法延续俄罗斯古典散文传统。",
+          "en": "Bunin received the 1933 Nobel Prize in Literature for the strict artistry with which he continued classical Russian traditions in prose. The Nobel account describes his reserved, concentrated depictions of the Russian countryside and its decline. An old window frame and a distant field are an original interpretation of observation and time, not an illustration of a particular work or a reconstruction of Bunin’s home. The phrase is original.\n1933 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the strict artistry with which he has carried on the classical Russian traditions in prose writing"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年文学奖｜官方记录",
+              "en": "1933 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1933/bunin/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-606",
+      "subject": "nobel-laureate-606",
+      "edition": "color",
+      "title": "伊万·蒲宁",
+      "titleEnglish": "Ivan Bunin",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-606/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-606/color.jpg",
+      "sha256": "b0df633e60512fc341d57c1ddf46c758a579cfcaabf6f61e9d2a3b02c9b95cfe",
+      "thumbnailSHA256": "78a366c3055b011dab1010302b66c3613acb186ede6b0a961c634a3e90afa233",
+      "context": {
+        "phrase": {
+          "zh": "留下乡间的细节，也留下时间的痕迹。",
+          "en": "Keep the details of the countryside and the traces of time."
+        },
+        "visual": {
+          "zh": "左侧深色木窗柱与斜开的玻璃窗扇近距离入画，两枚合页连接清楚；低处窗台伸向右侧，外面是枯草田野、远处裸树与浅色天空。中性黑白版保留窗框、视角、阴影与远近层次。",
+          "en": "A dark wooden post and angled open glass casement enter close at left, joined by two visible hinges. The low sill extends rightward toward a stubble field, bare distant trees and pale sky. The neutral monochrome edition preserves the frame, viewpoint, shadow and depth."
+        },
+        "background": {
+          "zh": "蒲宁因以严谨的艺术手法延续俄罗斯古典散文传统，获得1933年诺贝尔文学奖。诺贝尔奖官方介绍提到，他以克制、凝练的笔触描写俄国乡村及其衰落。旧窗框与远处田野是对观察和时间的原创解读，不是某篇作品的插图或蒲宁故居的复原；短句为原创。\n1933年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他以严谨的艺术手法延续俄罗斯古典散文传统。",
+          "en": "Bunin received the 1933 Nobel Prize in Literature for the strict artistry with which he continued classical Russian traditions in prose. The Nobel account describes his reserved, concentrated depictions of the Russian countryside and its decline. An old window frame and a distant field are an original interpretation of observation and time, not an illustration of a particular work or a reconstruction of Bunin’s home. The phrase is original.\n1933 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the strict artistry with which he has carried on the classical Russian traditions in prose writing"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年文学奖｜官方记录",
+              "en": "1933 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1933/bunin/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

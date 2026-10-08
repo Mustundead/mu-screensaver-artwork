@@ -1,0 +1,70 @@
+{
+  "subject": "063-electron-microscopy",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:063-electron-microscopy",
+      "subject": "063-electron-microscopy",
+      "edition": "mono",
+      "title": "电子显微镜",
+      "titleEnglish": "Electron Microscopy",
+      "category": "自然科学",
+      "image": "Images/mono/063-electron-microscopy.jpg",
+      "thumbnail": "Thumbs/mono/063-electron-microscopy.jpg",
+      "sha256": "015195ee2f2196990ff0ab0903c3a6eb8637c3431aefe6b0b1ff5fa4fb0748ec",
+      "thumbnailSHA256": "e10322adea9a64071d205a386c31a98c24d17b73c43ff4ad75b0b709eb7f5ef7",
+      "context": {
+        "phrase": {
+          "zh": "换一种射线，进入更小的尺度。",
+          "en": "A different beam reveals a smaller scale."
+        },
+        "visual": {
+          "zh": "显微装置与细密样本纹理并置，用镜筒和微观图案表现放大观察。画中颗粒不是某份生物或材料样本的照片。",
+          "en": "A microscope-like instrument stands beside fine sample textures, suggesting magnified observation. The particles are not a photo of a biological or material specimen."
+        },
+        "background": {
+          "zh": "电子显微镜用电子束和电磁透镜形成图像，而不依赖可见光透镜。恩斯特·鲁斯卡因电子光学和首台电子显微镜的设计获得 1986 年物理学诺贝尔奖的一半。",
+          "en": "Electron microscopes form images with electron beams and electromagnetic lenses instead of visible-light optics. Ernst Ruska received half of the 1986 Physics Nobel Prize for electron optics and designing the first electron microscope."
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize · Physics 1986",
+            "url": "https://www.nobelprize.org/prizes/physics/1986/summary/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:063-electron-microscopy",
+      "subject": "063-electron-microscopy",
+      "edition": "color",
+      "title": "电子显微镜",
+      "titleEnglish": "Electron Microscopy",
+      "category": "自然科学",
+      "image": "Images/color/063-electron-microscopy.jpg",
+      "thumbnail": "Thumbs/color/063-electron-microscopy.jpg",
+      "sha256": "ce7927c0ea124159272e81578857cdd79b92a03ce9347e2ae44bbf73956db8fe",
+      "thumbnailSHA256": "aa957b4bd34e0ba6ffac415fd02d123de437559bf7acfca6201421d807cf90db",
+      "context": {
+        "phrase": {
+          "zh": "换一种射线，进入更小的尺度。",
+          "en": "A different beam reveals a smaller scale."
+        },
+        "visual": {
+          "zh": "显微装置与细密样本纹理并置，用镜筒和微观图案表现放大观察。画中颗粒不是某份生物或材料样本的照片。",
+          "en": "A microscope-like instrument stands beside fine sample textures, suggesting magnified observation. The particles are not a photo of a biological or material specimen."
+        },
+        "background": {
+          "zh": "电子显微镜用电子束和电磁透镜形成图像，而不依赖可见光透镜。恩斯特·鲁斯卡因电子光学和首台电子显微镜的设计获得 1986 年物理学诺贝尔奖的一半。",
+          "en": "Electron microscopes form images with electron beams and electromagnetic lenses instead of visible-light optics. Ernst Ruska received half of the 1986 Physics Nobel Prize for electron optics and designing the first electron microscope."
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize · Physics 1986",
+            "url": "https://www.nobelprize.org/prizes/physics/1986/summary/"
+          }
+        ]
+      }
+    }
+  }
+}

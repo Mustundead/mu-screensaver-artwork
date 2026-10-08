@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-26",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-26",
+      "subject": "nobel-laureate-26",
+      "edition": "mono",
+      "title": "阿尔伯特·爱因斯坦",
+      "titleEnglish": "Albert Einstein",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-26/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-26/mono.jpg",
+      "sha256": "775f23fab0eb70c5e3fa7430a245c48c6c1f3d564b2ccbd68ce02cd7cf1d3d26",
+      "thumbnailSHA256": "1fb2e25ca43cdba0f7dcb66ad227bbf08ffee94be658be6ea353d301674485f0",
+      "context": {
+        "phrase": {
+          "zh": "从一道光里，重新理解世界。",
+          "en": "One ray of light can change how we see."
+        },
+        "visual": {
+          "zh": "巨大的银灰金属片斜穿左下，右上铜质灯罩内的紫灰透镜投下一束淡光；三颗小银珠留在板外。黑白版保留构图、裁切与物件。这是光与金属相遇的原创寓意，不是实际实验结构，小珠不表示电子的真实形状或运动。",
+          "en": "A huge silver-gray metal sheet crosses the lower left. A copper lamp at upper right, with a smoky-violet lens, casts one pale beam; three small silver beads remain outside the sheet. Monochrome preserves composition, crop and objects. This is an original light-and-metal metaphor, not an actual apparatus; beads do not depict literal electron shapes or motion."
+        },
+        "background": {
+          "zh": "爱因斯坦独享1921年诺贝尔物理学奖，该年度奖项保留后于1922年颁给他。获奖理由强调理论物理学贡献，尤其是光电效应规律：足够高频率的光照到材料上，可以使电子逸出。他用一份份光能量来解释这一现象。画中灯、金属片与小珠是原创视觉联想，不是他的实验装置，也不表示电子的真实形状或实验数据。短句为原创，不是人物引语。\n1921年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对理论物理学的贡献，尤其是对光电效应规律的发现。",
+          "en": "Einstein received the full 1921 Nobel Prize in Physics; the reserved award was presented in 1922. The citation emphasizes theoretical physics, particularly the law of the photoelectric effect: light above a sufficient frequency can release electrons from matter. He explained this with packets of light energy. The lamp, sheet and beads are original visual associations, not his apparatus, literal electron shapes or experimental data. The phrase is original, not a quotation.\n1921 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年物理学奖｜官方记录",
+              "en": "1921 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-26",
+      "subject": "nobel-laureate-26",
+      "edition": "color",
+      "title": "阿尔伯特·爱因斯坦",
+      "titleEnglish": "Albert Einstein",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-26/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-26/color.jpg",
+      "sha256": "ba5421bb771ab1a11c69876b6b7b541a33f704cf5c3e0141388f3e742ae2350d",
+      "thumbnailSHA256": "60ad42c5dbcb8fb9c891b8f40a23fe7c43d7165d3318f352674002f1e68da332",
+      "context": {
+        "phrase": {
+          "zh": "从一道光里，重新理解世界。",
+          "en": "One ray of light can change how we see."
+        },
+        "visual": {
+          "zh": "巨大的银灰金属片斜穿左下，右上铜质灯罩内的紫灰透镜投下一束淡光；三颗小银珠留在板外。黑白版保留构图、裁切与物件。这是光与金属相遇的原创寓意，不是实际实验结构，小珠不表示电子的真实形状或运动。",
+          "en": "A huge silver-gray metal sheet crosses the lower left. A copper lamp at upper right, with a smoky-violet lens, casts one pale beam; three small silver beads remain outside the sheet. Monochrome preserves composition, crop and objects. This is an original light-and-metal metaphor, not an actual apparatus; beads do not depict literal electron shapes or motion."
+        },
+        "background": {
+          "zh": "爱因斯坦独享1921年诺贝尔物理学奖，该年度奖项保留后于1922年颁给他。获奖理由强调理论物理学贡献，尤其是光电效应规律：足够高频率的光照到材料上，可以使电子逸出。他用一份份光能量来解释这一现象。画中灯、金属片与小珠是原创视觉联想，不是他的实验装置，也不表示电子的真实形状或实验数据。短句为原创，不是人物引语。\n1921年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对理论物理学的贡献，尤其是对光电效应规律的发现。",
+          "en": "Einstein received the full 1921 Nobel Prize in Physics; the reserved award was presented in 1922. The citation emphasizes theoretical physics, particularly the law of the photoelectric effect: light above a sufficient frequency can release electrons from matter. He explained this with packets of light energy. The lamp, sheet and beads are original visual associations, not his apparatus, literal electron shapes or experimental data. The phrase is original, not a quotation.\n1921 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his services to Theoretical Physics, and especially for his discovery of the law of the photoelectric effect"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年物理学奖｜官方记录",
+              "en": "1921 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-312",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-312",
+      "subject": "nobel-laureate-312",
+      "edition": "mono",
+      "title": "奥托·迈耶霍夫",
+      "titleEnglish": "Otto Meyerhof",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-312/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-312/mono.jpg",
+      "sha256": "9fc2f91065fcc08e12343c68a00f835dd78331793e47b1e31e6cdcb539a9b3a7",
+      "thumbnailSHA256": "037765abff450574efeb10a1d400a905674d4513529c57fd13d9d068dd53d2ec",
+      "context": {
+        "phrase": {
+          "zh": "每一次用力，都有相连的过程。",
+          "en": "Every effort has connected processes."
+        },
+        "visual": {
+          "zh": "瓶绿的巨大弯曲玻璃管从左上延伸到右下，暗红织带绕过弧面，左侧留有一颗小浅色石子。黑白版保留两端开口、交叠与裁切。这是过程相连的原创寓意，不是生化反应图。",
+          "en": "A huge bottle-green curved glass tube runs from upper left to lower right, crossed by a madder-red ribbon; a small pale pebble rests at left. Monochrome preserves both open ends, overlap and crop. This is an original metaphor for connected processes, not a biochemical reaction diagram."
+        },
+        "background": {
+          "zh": "迈耶霍夫与希尔各获1922年诺贝尔生理学或医学奖的一半；该年度奖项保留后于1923年颁给他们。迈耶霍夫研究肌肉耗氧与乳酸代谢之间的关系。这里讲的是当时的研究贡献，不是现代运动生理学的完整解释。画中弯曲玻璃与织带是过程相连的原创寓意，不代表真实化学反应路径，也不提供健康建议。短句为原创。\n1922年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现肌肉耗氧与乳酸代谢之间的固定关系。",
+          "en": "Meyerhof and Hill each received half of the 1922 Nobel Prize in Physiology or Medicine; the reserved award was presented in 1923. Meyerhof studied the relationship between oxygen consumption and lactic-acid metabolism in muscle. This describes a historical contribution, not a complete explanation of modern exercise physiology. The curved glass and ribbon are an original metaphor for connected processes, not an actual reaction pathway or health advice. The phrase is original.\n1922 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of the fixed relationship between the consumption of oxygen and the metabolism of lactic acid in the muscle"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年生理学或医学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1922/meyerhof/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-312",
+      "subject": "nobel-laureate-312",
+      "edition": "color",
+      "title": "奥托·迈耶霍夫",
+      "titleEnglish": "Otto Meyerhof",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-312/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-312/color.jpg",
+      "sha256": "03c6b41c7ec83015a3e5ad9a459174addd07e6fdf29f9e9d0c1ede237844c0a3",
+      "thumbnailSHA256": "77e1f13cd31d81053d5b7a6534af751f88c1ac9c2039681667c11f92779cdfad",
+      "context": {
+        "phrase": {
+          "zh": "每一次用力，都有相连的过程。",
+          "en": "Every effort has connected processes."
+        },
+        "visual": {
+          "zh": "瓶绿的巨大弯曲玻璃管从左上延伸到右下，暗红织带绕过弧面，左侧留有一颗小浅色石子。黑白版保留两端开口、交叠与裁切。这是过程相连的原创寓意，不是生化反应图。",
+          "en": "A huge bottle-green curved glass tube runs from upper left to lower right, crossed by a madder-red ribbon; a small pale pebble rests at left. Monochrome preserves both open ends, overlap and crop. This is an original metaphor for connected processes, not a biochemical reaction diagram."
+        },
+        "background": {
+          "zh": "迈耶霍夫与希尔各获1922年诺贝尔生理学或医学奖的一半；该年度奖项保留后于1923年颁给他们。迈耶霍夫研究肌肉耗氧与乳酸代谢之间的关系。这里讲的是当时的研究贡献，不是现代运动生理学的完整解释。画中弯曲玻璃与织带是过程相连的原创寓意，不代表真实化学反应路径，也不提供健康建议。短句为原创。\n1922年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现肌肉耗氧与乳酸代谢之间的固定关系。",
+          "en": "Meyerhof and Hill each received half of the 1922 Nobel Prize in Physiology or Medicine; the reserved award was presented in 1923. Meyerhof studied the relationship between oxygen consumption and lactic-acid metabolism in muscle. This describes a historical contribution, not a complete explanation of modern exercise physiology. The curved glass and ribbon are an original metaphor for connected processes, not an actual reaction pathway or health advice. The phrase is original.\n1922 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of the fixed relationship between the consumption of oxygen and the metabolism of lactic acid in the muscle"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年生理学或医学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1922/meyerhof/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

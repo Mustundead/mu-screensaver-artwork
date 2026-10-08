@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-301",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-301",
+      "subject": "nobel-laureate-301",
+      "edition": "mono",
+      "title": "伊利亚·梅契尼科夫",
+      "titleEnglish": "Ilya Mechnikov",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-301/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-301/mono.jpg",
+      "sha256": "bd95239e543cbe75597dfccc4a63b3e2edcef1c7985c4b61c08c28887dd84f55",
+      "thumbnailSHA256": "ec16980224fb77c056c04357c48666596c9b32c88a5dc0ef5c63c19f5ae2b503",
+      "context": {
+        "phrase": {
+          "zh": "微小的细胞，也会守护生命。",
+          "en": "Small cells can defend life."
+        },
+        "visual": {
+          "zh": "包围外来物的细胞意象被放大成起伏的近景，膜的褶皱和蓝色弧线穿过画面，显微镜与观察玻璃退入远处。尺度与裁切体现细胞研究的观察过程，不是真实显微照片或精确的细胞结构图。",
+          "en": "An imagined engulfing cell becomes a vast folded foreground. Membrane ridges and a blue curve sweep across the image while microscope and observation glass recede. Scale and cropping evoke observation; this is not a microscope photograph or precise cell anatomy."
+        },
+        "background": {
+          "zh": "伊利亚·梅契尼科夫与保罗·埃尔利希共同获得1908年诺贝尔生理学或医学奖，获奖理由是对免疫的研究。梅契尼科夫发现某些细胞能够包围并吞入外来物，提出它们能帮助身体抵御侵入者。他对海星幼体中活动细胞的观察，是这一思路形成的重要线索。免疫并非只靠一种机制；他的细胞研究与埃尔利希关于抗体的研究分别揭示了防御的不同方面。插画使用细胞的艺术意象，不用于医学判断。\n1908年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：以表彰他们对免疫的研究",
+          "en": "Ilya Mechnikov shared the 1908 Nobel Prize in Physiology or Medicine with Paul Ehrlich for work on immunity. Mechnikov identified cells that surround and engulf foreign material and proposed a defensive role for them. Observations of moving cells in starfish larvae helped inspire this idea. Immunity uses multiple mechanisms: his cell-based research and Ehrlich’s antibody research revealed different aspects of defence. The cell imagery is artistic and is not for medical interpretation.\n1908 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: in recognition of their work on immunity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年生理学或医学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/immuneresponses/overview/index.php",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-301",
+      "subject": "nobel-laureate-301",
+      "edition": "color",
+      "title": "伊利亚·梅契尼科夫",
+      "titleEnglish": "Ilya Mechnikov",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-301/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-301/color.jpg",
+      "sha256": "1730058f85c2a386f4897e682a0117f990b74a6432fa93a520473056167557eb",
+      "thumbnailSHA256": "6f96690457f0f98f1b1409b3627cbe2f0670d86545d3eb113b3d91bbeacb5d26",
+      "context": {
+        "phrase": {
+          "zh": "微小的细胞，也会守护生命。",
+          "en": "Small cells can defend life."
+        },
+        "visual": {
+          "zh": "包围外来物的细胞意象被放大成起伏的近景，膜的褶皱和蓝色弧线穿过画面，显微镜与观察玻璃退入远处。尺度与裁切体现细胞研究的观察过程，不是真实显微照片或精确的细胞结构图。",
+          "en": "An imagined engulfing cell becomes a vast folded foreground. Membrane ridges and a blue curve sweep across the image while microscope and observation glass recede. Scale and cropping evoke observation; this is not a microscope photograph or precise cell anatomy."
+        },
+        "background": {
+          "zh": "伊利亚·梅契尼科夫与保罗·埃尔利希共同获得1908年诺贝尔生理学或医学奖，获奖理由是对免疫的研究。梅契尼科夫发现某些细胞能够包围并吞入外来物，提出它们能帮助身体抵御侵入者。他对海星幼体中活动细胞的观察，是这一思路形成的重要线索。免疫并非只靠一种机制；他的细胞研究与埃尔利希关于抗体的研究分别揭示了防御的不同方面。插画使用细胞的艺术意象，不用于医学判断。\n1908年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：以表彰他们对免疫的研究",
+          "en": "Ilya Mechnikov shared the 1908 Nobel Prize in Physiology or Medicine with Paul Ehrlich for work on immunity. Mechnikov identified cells that surround and engulf foreign material and proposed a defensive role for them. Observations of moving cells in starfish larvae helped inspire this idea. Immunity uses multiple mechanisms: his cell-based research and Ehrlich’s antibody research revealed different aspects of defence. The cell imagery is artistic and is not for medical interpretation.\n1908 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: in recognition of their work on immunity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年生理学或医学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/immuneresponses/overview/index.php",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

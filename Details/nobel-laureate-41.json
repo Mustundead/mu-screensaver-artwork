@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-41",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-41",
+      "subject": "nobel-laureate-41",
+      "edition": "mono",
+      "title": "詹姆斯·查德威克",
+      "titleEnglish": "James Chadwick",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-41/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-41/mono.jpg",
+      "sha256": "3fec585af7a391e2a6896458c99a1f78d3d629d501b6b810db63454bb1e98a15",
+      "thumbnailSHA256": "b016667784bf155539ecb6886e48972aa550696ea5d7574a742f1b80213407c3",
+      "context": {
+        "phrase": {
+          "zh": "看不见的差别，也能从留下的迹象中辨认。",
+          "en": "An unseen difference can be recognized by the traces it leaves."
+        },
+        "visual": {
+          "zh": "两块竖直铜色平板从上下边缘裁出，左侧板较宽；夹缝中央一枚银灰小球与一条细直横线相接，右侧深绿留白。细刻线塑造金属与球体，中性黑白保留相同关系。",
+          "en": "Two vertical copper-colored plates extend beyond the top and bottom, the left plate broader. A small silver-gray sphere in the gap meets a fine straight horizontal line, with deep-green quiet space at right. Engraved hatching models the metal and sphere; neutral monochrome retains the relationship."
+        },
+        "background": {
+          "zh": "查德威克因发现中子获得1935年诺贝尔物理学奖。1932年，他确认铍受到α粒子照射后产生的穿透性辐射包含一种不带电、质量接近质子的粒子。α粒子就是氦原子的原子核；这类中性粒子后来称为中子。画面以直线穿过两块铜色板之间的通道表达不带电的性质，是原创寓意，不是实验装置复原或测量记录；短句为原创。\n1935年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现中子而获奖。",
+          "en": "Chadwick received the 1935 Nobel Prize in Physics for discovering the neutron. In 1932 he showed that penetrating radiation produced when beryllium was exposed to alpha particles contained uncharged particles with roughly the mass of a proton. Alpha particles are helium nuclei; the neutral particles were called neutrons. A straight path through a gap between copper-colored plates is an original metaphor for neutrality, not a reconstruction or measurement. The phrase is original.\n1935 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the discovery of the neutron"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年物理学奖｜官方记录",
+              "en": "1935 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1935/chadwick/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-41",
+      "subject": "nobel-laureate-41",
+      "edition": "color",
+      "title": "詹姆斯·查德威克",
+      "titleEnglish": "James Chadwick",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-41/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-41/color.jpg",
+      "sha256": "183f9dbf888ec78b362e9411b54ca145c4bdf864bf50706788c816ff62a13f70",
+      "thumbnailSHA256": "b50ad60768a7f02a46cabf1967e6ccd0bd91b848bec12c167d5c91b6f962718d",
+      "context": {
+        "phrase": {
+          "zh": "看不见的差别，也能从留下的迹象中辨认。",
+          "en": "An unseen difference can be recognized by the traces it leaves."
+        },
+        "visual": {
+          "zh": "两块竖直铜色平板从上下边缘裁出，左侧板较宽；夹缝中央一枚银灰小球与一条细直横线相接，右侧深绿留白。细刻线塑造金属与球体，中性黑白保留相同关系。",
+          "en": "Two vertical copper-colored plates extend beyond the top and bottom, the left plate broader. A small silver-gray sphere in the gap meets a fine straight horizontal line, with deep-green quiet space at right. Engraved hatching models the metal and sphere; neutral monochrome retains the relationship."
+        },
+        "background": {
+          "zh": "查德威克因发现中子获得1935年诺贝尔物理学奖。1932年，他确认铍受到α粒子照射后产生的穿透性辐射包含一种不带电、质量接近质子的粒子。α粒子就是氦原子的原子核；这类中性粒子后来称为中子。画面以直线穿过两块铜色板之间的通道表达不带电的性质，是原创寓意，不是实验装置复原或测量记录；短句为原创。\n1935年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现中子而获奖。",
+          "en": "Chadwick received the 1935 Nobel Prize in Physics for discovering the neutron. In 1932 he showed that penetrating radiation produced when beryllium was exposed to alpha particles contained uncharged particles with roughly the mass of a proton. Alpha particles are helium nuclei; the neutral particles were called neutrons. A straight path through a gap between copper-colored plates is an original metaphor for neutrality, not a reconstruction or measurement. The phrase is original.\n1935 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the discovery of the neutron"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年物理学奖｜官方记录",
+              "en": "1935 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1935/chadwick/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

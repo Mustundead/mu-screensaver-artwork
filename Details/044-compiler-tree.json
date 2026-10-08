@@ -1,0 +1,70 @@
+{
+  "subject": "044-compiler-tree",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:044-compiler-tree",
+      "subject": "044-compiler-tree",
+      "edition": "mono",
+      "title": "程序的语法树",
+      "titleEnglish": "Syntax Trees",
+      "category": "计算与人工智能",
+      "image": "Images/mono/044-compiler-tree.jpg",
+      "thumbnail": "Thumbs/mono/044-compiler-tree.jpg",
+      "sha256": "5bbac77a7f56aae9491855ca26892d1d3817c18c9f6c431dd6484c1a8e10e459",
+      "thumbnailSHA256": "ab4c3ca0d8c1f63987534f4897e2e78032c0912bf349a231b7f176a0f894acd1",
+      "context": {
+        "phrase": {
+          "zh": "一句代码，可以展开成一棵树。",
+          "en": "A line of code can unfold into a tree."
+        },
+        "visual": {
+          "zh": "代码片段在画中分叉成节点和枝条，用生长的形状表现程序结构。节点没有对应真实语言的完整语法。",
+          "en": "Code-like fragments branch into nodes and limbs, using a growing shape to suggest program structure. The nodes are not a complete grammar for a real language."
+        },
+        "background": {
+          "zh": "程序解析器会把源代码拆解成有层级关系的抽象语法树。Babel 的 JavaScript 解析器输出这种结构，后续工具可据此分析或变换代码；画里的树只是概念图。",
+          "en": "A parser can turn source code into a hierarchical abstract syntax tree. Babel’s JavaScript parser produces such a structure for later analysis or transformation; the pictured tree is conceptual."
+        },
+        "sources": [
+          {
+            "label": "Babel · Parser documentation",
+            "url": "https://babeljs.io/docs/babel-parser/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:044-compiler-tree",
+      "subject": "044-compiler-tree",
+      "edition": "color",
+      "title": "程序的语法树",
+      "titleEnglish": "Syntax Trees",
+      "category": "计算与人工智能",
+      "image": "Images/color/044-compiler-tree.jpg",
+      "thumbnail": "Thumbs/color/044-compiler-tree.jpg",
+      "sha256": "8866de03421d0e9155bbfd3fc5b5d8313f93c59e3487cd74869d282716c46bfe",
+      "thumbnailSHA256": "400e487e2e343643b4ecd23effce8f56b3e2f37b03a970a5ea63aceacba53852",
+      "context": {
+        "phrase": {
+          "zh": "一句代码，可以展开成一棵树。",
+          "en": "A line of code can unfold into a tree."
+        },
+        "visual": {
+          "zh": "代码片段在画中分叉成节点和枝条，用生长的形状表现程序结构。节点没有对应真实语言的完整语法。",
+          "en": "Code-like fragments branch into nodes and limbs, using a growing shape to suggest program structure. The nodes are not a complete grammar for a real language."
+        },
+        "background": {
+          "zh": "程序解析器会把源代码拆解成有层级关系的抽象语法树。Babel 的 JavaScript 解析器输出这种结构，后续工具可据此分析或变换代码；画里的树只是概念图。",
+          "en": "A parser can turn source code into a hierarchical abstract syntax tree. Babel’s JavaScript parser produces such a structure for later analysis or transformation; the pictured tree is conceptual."
+        },
+        "sources": [
+          {
+            "label": "Babel · Parser documentation",
+            "url": "https://babeljs.io/docs/babel-parser/"
+          }
+        ]
+      }
+    }
+  }
+}

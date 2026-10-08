@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-045",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-045",
+      "subject": "oscar-best-picture-045",
+      "edition": "mono",
+      "title": "教父",
+      "titleEnglish": "The Godfather",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-045/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-045/mono.jpg",
+      "sha256": "0b3ab8a2cb34a63ceed430f3ce1c8b3760fe04e130fede3c3398a0c3b54a6285",
+      "thumbnailSHA256": "9963a9c26e20fb1fd846b9abb7c151622ec2ad9be84cbcd947b7300252a75947",
+      "context": {
+        "phrase": {
+          "zh": "家人的位置，也藏着权力的距离。",
+          "en": "Family places hold distances of power."
+        },
+        "visual": {
+          "zh": "长桌从近处伸向远端的高背主位，窄桌旗贯穿桌面，两侧近处空椅被边缘裁切，窗光在室内形成明暗分界。",
+          "en": "A long table recedes toward a tall head chair, a narrow runner crossing its surface; empty near side chairs are cropped at the edges as window light divides the room."
+        },
+        "background": {
+          "zh": "《教父》是弗朗西斯·福特·科波拉执导的1972年影片，改编自马里奥·普佐的小说。影片将柯里昂家族的家庭生活与犯罪生意并置，在1973年第45届奥斯卡获最佳影片。高背主位与近处空座是家族关系和权力距离的原创寓意，不复原某一幕电影，也不沿用官方海报。短句为原创。\n第45届奥斯卡最佳影片：教父。颁奖年份 1973；参评年份 1972。",
+          "en": "The Godfather is a 1972 film directed by Francis Ford Coppola, adapted from Mario Puzo’s novel. It places Corleone family life alongside the family’s criminal business and won Best Picture at the 45th Academy Awards in 1973. A high-backed head seat and nearby empty chairs express family relations and power through an original metaphor, not a film scene or official poster. The phrase is original.\nAcademy Awards ceremony 45 (1973), Best Picture: The Godfather. Eligibility year: 1972."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1973",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "paramountpictures.com",
+            "url": "https://www.paramountpictures.com/movies/the-godfather",
+            "labelLocalized": {
+              "zh": "《教父》影片介绍｜派拉蒙影业",
+              "en": "The Godfather synopsis — Paramount Pictures"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-045",
+      "subject": "oscar-best-picture-045",
+      "edition": "color",
+      "title": "教父",
+      "titleEnglish": "The Godfather",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-045/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-045/color.jpg",
+      "sha256": "f46aed327e7b317554fe3deb423f39f31601014f30e26dbc87ecfa639352d863",
+      "thumbnailSHA256": "73c48cefa4916cb1aac103b4312b324c738b6eea2c9dcc7685987f8c9cc203ec",
+      "context": {
+        "phrase": {
+          "zh": "家人的位置，也藏着权力的距离。",
+          "en": "Family places hold distances of power."
+        },
+        "visual": {
+          "zh": "长桌从近处伸向远端的高背主位，窄桌旗贯穿桌面，两侧近处空椅被边缘裁切，窗光在室内形成明暗分界。",
+          "en": "A long table recedes toward a tall head chair, a narrow runner crossing its surface; empty near side chairs are cropped at the edges as window light divides the room."
+        },
+        "background": {
+          "zh": "《教父》是弗朗西斯·福特·科波拉执导的1972年影片，改编自马里奥·普佐的小说。影片将柯里昂家族的家庭生活与犯罪生意并置，在1973年第45届奥斯卡获最佳影片。高背主位与近处空座是家族关系和权力距离的原创寓意，不复原某一幕电影，也不沿用官方海报。短句为原创。\n第45届奥斯卡最佳影片：教父。颁奖年份 1973；参评年份 1972。",
+          "en": "The Godfather is a 1972 film directed by Francis Ford Coppola, adapted from Mario Puzo’s novel. It places Corleone family life alongside the family’s criminal business and won Best Picture at the 45th Academy Awards in 1973. A high-backed head seat and nearby empty chairs express family relations and power through an original metaphor, not a film scene or official poster. The phrase is original.\nAcademy Awards ceremony 45 (1973), Best Picture: The Godfather. Eligibility year: 1972."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1973",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "paramountpictures.com",
+            "url": "https://www.paramountpictures.com/movies/the-godfather",
+            "labelLocalized": {
+              "zh": "《教父》影片介绍｜派拉蒙影业",
+              "en": "The Godfather synopsis — Paramount Pictures"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

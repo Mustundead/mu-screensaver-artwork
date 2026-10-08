@@ -1,0 +1,126 @@
+{
+  "subject": "nobel-laureate-482",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-482",
+      "subject": "nobel-laureate-482",
+      "edition": "mono",
+      "title": "红十字国际委员会",
+      "titleEnglish": "International Committee of the Red Cross",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-482/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-482/mono.jpg",
+      "sha256": "0408a7c1476cd4e57b88dd1bda8379c6a6096b7365fb8a86ce8e7f2ecece6c62",
+      "thumbnailSHA256": "47eac0e242179d5025ed5242d529e7f2ac70d6ad4c01c7a40b3c6598592d5af0",
+      "context": {
+        "phrase": {
+          "zh": "让消息抵达，让牵挂有回应。",
+          "en": "Let news reach those who are waiting."
+        },
+        "visual": {
+          "zh": "右上巨大的木质卡片抽屉延伸出画面，左下绷带卷铺开，与中央一束空白信封形成联系。彩色版区分核桃木、黄铜、奶油色纸、米白纱布和橄榄绿织物，黑白版保留构图。卡片和信封不含个人资料，也不是历史档案复制品；绷带不表示医疗操作方法。",
+          "en": "A giant wooden card-index drawer extends beyond the upper-right edge. A cropped gauze roll at lower left unfurls toward a small bundle of blank envelopes. Color distinguishes walnut, brass, cream paper, off-white gauze and olive cloth; monochrome preserves composition. Cards and envelopes contain no personal data and reproduce no historical records. Gauze does not illustrate a treatment method."
+        },
+        "background": {
+          "zh": "红十字国际委员会分别独享1917年、1944年诺贝尔和平奖，并与红十字会协会联合会分享1963年和平奖，两者各占一半。1917年的理由肯定其照顾伤兵、战俘及其家属的工作；1944年肯定战时人道工作，该奖于1945年领取；1963年肯定其推广《日内瓦公约》原则及与联合国的合作。委员会的官方历史说明，一战期间的国际战俘局帮助因战争分离的人恢复联系，包括战俘、被拘留的平民及占领区平民。插画以档案卡、信件和绷带作原创解读，不复原某人的档案，不使用机构徽记。短句为原创，不是机构引语。\n1917年和平奖；独享本年度奖项。获奖理由（中文译述）：肯定其照顾伤兵、战俘及其家属的工作\n1944年和平奖；独享本年度奖项。获奖理由（中文译述）：肯定其在战争期间开展的人道工作\n1963年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：肯定其推广《日内瓦公约》原则及与联合国的合作",
+          "en": "The International Committee of the Red Cross received the full Nobel Peace Prizes for 1917 and 1944, and half of the 1963 prize shared with the League of Red Cross Societies. The 1917 award recognized care for wounded soldiers, prisoners of war and their families; the 1944 award honored wartime humanitarian work and was received in 1945; the 1963 award recognized promotion of Geneva Convention principles and cooperation with the UN. The ICRC’s history explains how the International Prisoners-of-War Agency restored contact between people separated by war, including prisoners, civilian internees and civilians in occupied territories. Cards, letters and gauze are an original interpretation, not personal records or an official emblem. The phrase is original, not a quotation.\n1917 — The Nobel Peace Prize. Received the full prize. Official motivation: for the efforts to take care of wounded soldiers and prisoners of war and their families\n1944 — The Nobel Peace Prize. Received the full prize. Official motivation: for the great work it has performed during the war on behalf of humanity\n1963 — The Nobel Peace Prize. Received half of the prize. Official motivation: for promoting the principles of the Geneva Convention and cooperation with the UN"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1917 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1917/summary/",
+            "labelLocalized": {
+              "zh": "1917年和平奖｜官方记录",
+              "en": "1917 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize 1944 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年和平奖｜官方记录",
+              "en": "1944 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize 1963 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1963/summary/",
+            "labelLocalized": {
+              "zh": "1963年和平奖｜官方记录",
+              "en": "1963 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "icrc.org",
+            "url": "https://www.icrc.org/en/publication/0937-international-prisoners-war-agency-icrc-world-war-one",
+            "labelLocalized": {
+              "zh": "战时家属联系历史｜红十字国际委员会",
+              "en": "Wartime family contact — International Committee of the Red Cross"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-482",
+      "subject": "nobel-laureate-482",
+      "edition": "color",
+      "title": "红十字国际委员会",
+      "titleEnglish": "International Committee of the Red Cross",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-482/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-482/color.jpg",
+      "sha256": "f30d93fad00dbe63161f03ce5d21d4da35ba888f2b8c78b51deb0cb191ee7379",
+      "thumbnailSHA256": "add7d9b5eb38bb2d6f2978345a4c5fdf18e3de81b4768b0383bdf14d00d84da8",
+      "context": {
+        "phrase": {
+          "zh": "让消息抵达，让牵挂有回应。",
+          "en": "Let news reach those who are waiting."
+        },
+        "visual": {
+          "zh": "右上巨大的木质卡片抽屉延伸出画面，左下绷带卷铺开，与中央一束空白信封形成联系。彩色版区分核桃木、黄铜、奶油色纸、米白纱布和橄榄绿织物，黑白版保留构图。卡片和信封不含个人资料，也不是历史档案复制品；绷带不表示医疗操作方法。",
+          "en": "A giant wooden card-index drawer extends beyond the upper-right edge. A cropped gauze roll at lower left unfurls toward a small bundle of blank envelopes. Color distinguishes walnut, brass, cream paper, off-white gauze and olive cloth; monochrome preserves composition. Cards and envelopes contain no personal data and reproduce no historical records. Gauze does not illustrate a treatment method."
+        },
+        "background": {
+          "zh": "红十字国际委员会分别独享1917年、1944年诺贝尔和平奖，并与红十字会协会联合会分享1963年和平奖，两者各占一半。1917年的理由肯定其照顾伤兵、战俘及其家属的工作；1944年肯定战时人道工作，该奖于1945年领取；1963年肯定其推广《日内瓦公约》原则及与联合国的合作。委员会的官方历史说明，一战期间的国际战俘局帮助因战争分离的人恢复联系，包括战俘、被拘留的平民及占领区平民。插画以档案卡、信件和绷带作原创解读，不复原某人的档案，不使用机构徽记。短句为原创，不是机构引语。\n1917年和平奖；独享本年度奖项。获奖理由（中文译述）：肯定其照顾伤兵、战俘及其家属的工作\n1944年和平奖；独享本年度奖项。获奖理由（中文译述）：肯定其在战争期间开展的人道工作\n1963年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：肯定其推广《日内瓦公约》原则及与联合国的合作",
+          "en": "The International Committee of the Red Cross received the full Nobel Peace Prizes for 1917 and 1944, and half of the 1963 prize shared with the League of Red Cross Societies. The 1917 award recognized care for wounded soldiers, prisoners of war and their families; the 1944 award honored wartime humanitarian work and was received in 1945; the 1963 award recognized promotion of Geneva Convention principles and cooperation with the UN. The ICRC’s history explains how the International Prisoners-of-War Agency restored contact between people separated by war, including prisoners, civilian internees and civilians in occupied territories. Cards, letters and gauze are an original interpretation, not personal records or an official emblem. The phrase is original, not a quotation.\n1917 — The Nobel Peace Prize. Received the full prize. Official motivation: for the efforts to take care of wounded soldiers and prisoners of war and their families\n1944 — The Nobel Peace Prize. Received the full prize. Official motivation: for the great work it has performed during the war on behalf of humanity\n1963 — The Nobel Peace Prize. Received half of the prize. Official motivation: for promoting the principles of the Geneva Convention and cooperation with the UN"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1917 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1917/summary/",
+            "labelLocalized": {
+              "zh": "1917年和平奖｜官方记录",
+              "en": "1917 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize 1944 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年和平奖｜官方记录",
+              "en": "1944 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize 1963 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1963/summary/",
+            "labelLocalized": {
+              "zh": "1963年和平奖｜官方记录",
+              "en": "1963 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "icrc.org",
+            "url": "https://www.icrc.org/en/publication/0937-international-prisoners-war-agency-icrc-world-war-one",
+            "labelLocalized": {
+              "zh": "战时家属联系历史｜红十字国际委员会",
+              "en": "Wartime family contact — International Committee of the Red Cross"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

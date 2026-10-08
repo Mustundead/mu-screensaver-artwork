@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-195",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-195",
+      "subject": "nobel-laureate-195",
+      "edition": "mono",
+      "title": "彼得·德拜",
+      "titleEnglish": "Peter Debye",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-195/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-195/mono.jpg",
+      "sha256": "c78fddc975d9a40bbd1d5bd8aaacabd69220c0cc70d8bd41b20de45fdc0fa331",
+      "thumbnailSHA256": "2b9b909c9bff2d175aa2f83a7f7ff50123d639b3c2e4bb2c9c873fa47e160057",
+      "context": {
+        "phrase": {
+          "zh": "散开的迹象，也能透露内部的关系。",
+          "en": "Scattered evidence can reveal the relationships within."
+        },
+        "visual": {
+          "zh": "浅绿玻璃气体筒从左缘伸入，内有散点，黄铜环与立柱支撑；细线跨过深绿空隙连向右侧巨大象牙感光板的模糊同心环。细排线塑造玻璃与黄铜，点描塑造环纹，黑白版保留同一布局。",
+          "en": "A pale-green gas tube extends from the left with scattered dots inside, held by one brass collar and vertical support. A fine line crosses a deep-green gap to diffuse concentric rings on a large ivory photographic plate. Engraved hatch models glass and brass, stipple forms rings; neutral monochrome retains the layout."
+        },
+        "background": {
+          "zh": "德拜获得1936年诺贝尔化学奖，获奖工作包括通过偶极矩、X射线以及电子在气体中的衍射研究分子结构。偶极矩描述分子正负电荷分布不均的程度；衍射是波经过物质后形成分布图样的现象。这里采用玻璃筒中散开的点与感光板上模糊的环纹，表达从气体测量中寻找结构信息的关系，是原创寓意，不是真实仪器或测量数据，也不把德拜的工作写成布拉格父子的晶体研究；短句为原创。\n1936年化学奖；独享本年度奖项。获奖理由（中文译述）：通过偶极矩以及X射线和气体中电子衍射研究分子结构",
+          "en": "Debye received the 1936 Nobel Prize in Chemistry for contributions to molecular structure through dipole moments and the diffraction of X rays and electrons in gases. A dipole moment describes uneven positive and negative charge in a molecule; diffraction is the pattern produced when waves encounter matter. Scattered dots in a glass tube and diffuse rings on a photographic plate are an original metaphor for finding structure through gas measurements, not actual equipment or data. The phrase is original.\n1936 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his contributions to our knowledge of molecular structure through his investigations on dipole moments and on the diffraction of X-rays and electrons in gases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年化学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-195",
+      "subject": "nobel-laureate-195",
+      "edition": "color",
+      "title": "彼得·德拜",
+      "titleEnglish": "Peter Debye",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-195/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-195/color.jpg",
+      "sha256": "8a22e7f7d8f106c709e8a1a8fe8fd86dfa70f404df8bafd078c5bdb53bc76c5c",
+      "thumbnailSHA256": "9ddf2fdb76925cfcede0d25f20cf7691393256b891bc4ac78b9bc214068e2d35",
+      "context": {
+        "phrase": {
+          "zh": "散开的迹象，也能透露内部的关系。",
+          "en": "Scattered evidence can reveal the relationships within."
+        },
+        "visual": {
+          "zh": "浅绿玻璃气体筒从左缘伸入，内有散点，黄铜环与立柱支撑；细线跨过深绿空隙连向右侧巨大象牙感光板的模糊同心环。细排线塑造玻璃与黄铜，点描塑造环纹，黑白版保留同一布局。",
+          "en": "A pale-green gas tube extends from the left with scattered dots inside, held by one brass collar and vertical support. A fine line crosses a deep-green gap to diffuse concentric rings on a large ivory photographic plate. Engraved hatch models glass and brass, stipple forms rings; neutral monochrome retains the layout."
+        },
+        "background": {
+          "zh": "德拜获得1936年诺贝尔化学奖，获奖工作包括通过偶极矩、X射线以及电子在气体中的衍射研究分子结构。偶极矩描述分子正负电荷分布不均的程度；衍射是波经过物质后形成分布图样的现象。这里采用玻璃筒中散开的点与感光板上模糊的环纹，表达从气体测量中寻找结构信息的关系，是原创寓意，不是真实仪器或测量数据，也不把德拜的工作写成布拉格父子的晶体研究；短句为原创。\n1936年化学奖；独享本年度奖项。获奖理由（中文译述）：通过偶极矩以及X射线和气体中电子衍射研究分子结构",
+          "en": "Debye received the 1936 Nobel Prize in Chemistry for contributions to molecular structure through dipole moments and the diffraction of X rays and electrons in gases. A dipole moment describes uneven positive and negative charge in a molecule; diffraction is the pattern produced when waves encounter matter. Scattered dots in a glass tube and diffuse rings on a photographic plate are an original metaphor for finding structure through gas measurements, not actual equipment or data. The phrase is original.\n1936 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his contributions to our knowledge of molecular structure through his investigations on dipole moments and on the diffraction of X-rays and electrons in gases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年化学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

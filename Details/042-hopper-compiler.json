@@ -1,0 +1,70 @@
+{
+  "subject": "042-hopper-compiler",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:042-hopper-compiler",
+      "subject": "042-hopper-compiler",
+      "edition": "mono",
+      "title": "霍珀与编译",
+      "titleEnglish": "Hopper and Compilers",
+      "category": "计算与人工智能",
+      "image": "Images/mono/042-hopper-compiler.jpg",
+      "thumbnail": "Thumbs/mono/042-hopper-compiler.jpg",
+      "sha256": "5445705ee3eaa7783877a2b371a9b4dc273543a7380d0e5e4b87381d15a57cf8",
+      "thumbnailSHA256": "4f34e721d5b20b0f4db7c202a435052e5f01098e16b0db06c183b9f767bd1a46",
+      "context": {
+        "phrase": {
+          "zh": "让人写的指令，更容易交给机器。",
+          "en": "Make human instructions easier to give a machine."
+        },
+        "visual": {
+          "zh": "风格化人物与大型计算装置相对，卷曲纸带从两者之间穿过，象征程序翻译。机器外形和屏幕内容并非历史设备的精确还原。",
+          "en": "A stylized figure faces a large computer while paper loops between them, suggesting program translation. The machine and display are not exact reconstructions of historical hardware."
+        },
+        "background": {
+          "zh": "计算机历史博物馆记载，格蕾丝·霍珀在 1952 年完成用于 UNIVAC I 的 A-0，它具备后来编译器的一些特征。编译工具帮助把更接近人的写法转换成计算机可以执行的操作。",
+          "en": "The Computer History Museum records Grace Hopper completing A-0 for the UNIVAC I in 1952; it had several features of later compilers. Such tools help translate a more human-oriented way of writing into operations a computer can execute."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · 1952 timeline",
+            "url": "https://www.computerhistory.org/timeline/1952/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:042-hopper-compiler",
+      "subject": "042-hopper-compiler",
+      "edition": "color",
+      "title": "霍珀与编译",
+      "titleEnglish": "Hopper and Compilers",
+      "category": "计算与人工智能",
+      "image": "Images/color/042-hopper-compiler.jpg",
+      "thumbnail": "Thumbs/color/042-hopper-compiler.jpg",
+      "sha256": "02923e307e5349040afb6d129d872e997047907c1301460d8dc42f57db0765c3",
+      "thumbnailSHA256": "c68336c60a351bd3b5f10dff912cfd114eae4cce921de1bafeaf664de23993a2",
+      "context": {
+        "phrase": {
+          "zh": "让人写的指令，更容易交给机器。",
+          "en": "Make human instructions easier to give a machine."
+        },
+        "visual": {
+          "zh": "风格化人物与大型计算装置相对，卷曲纸带从两者之间穿过，象征程序翻译。机器外形和屏幕内容并非历史设备的精确还原。",
+          "en": "A stylized figure faces a large computer while paper loops between them, suggesting program translation. The machine and display are not exact reconstructions of historical hardware."
+        },
+        "background": {
+          "zh": "计算机历史博物馆记载，格蕾丝·霍珀在 1952 年完成用于 UNIVAC I 的 A-0，它具备后来编译器的一些特征。编译工具帮助把更接近人的写法转换成计算机可以执行的操作。",
+          "en": "The Computer History Museum records Grace Hopper completing A-0 for the UNIVAC I in 1952; it had several features of later compilers. Such tools help translate a more human-oriented way of writing into operations a computer can execute."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · 1952 timeline",
+            "url": "https://www.computerhistory.org/timeline/1952/"
+          }
+        ]
+      }
+    }
+  }
+}

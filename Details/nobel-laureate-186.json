@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-186",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-186",
+      "subject": "nobel-laureate-186",
+      "edition": "mono",
+      "title": "阿瑟·哈登",
+      "titleEnglish": "Arthur Harden",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-186/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-186/mono.jpg",
+      "sha256": "7ff91598e19af68f0091c3dfa732ff4e188666bb791967e4eec3c73cd9ecf242",
+      "thumbnailSHA256": "1cfb1a148d85c146372331a915c1213dd95ad788a3d0264dbb14ffcd2b02a80f",
+      "context": {
+        "phrase": {
+          "zh": "分开之后，才看见合作。",
+          "en": "Separation makes cooperation visible."
+        },
+        "visual": {
+          "zh": "琥珀色横带被一道细纤维竖膜分隔，少量粒点与短连接穿过开口，右侧聚起气泡。黑白版保持同一横带、竖膜和气泡关系；这是一幅想象的剖视。",
+          "en": "A fine vertical fiber membrane divides an amber band. A few dots and short bridges cross its openings, with bubbles gathering to the right. The neutral edition preserves the same band, membrane and bubbles. This is an imagined cutaway."
+        },
+        "background": {
+          "zh": "哈登与汉斯·冯·欧拉-切尔平共享1929年诺贝尔化学奖，各占一半，因研究糖的发酵及发酵酶。哈登与威廉·杨的研究表明，酵母提取物的发酵需要可透过膜的小分子因素等共同参与。画面借分隔与重新协作表达这一线索，并非历史装置复原或分子图；短句为原创。\n1929年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对糖的发酵与发酵酶的研究。",
+          "en": "Harden shared the 1929 Nobel Prize in Chemistry equally with Hans von Euler-Chelpin for work on sugar fermentation and fermentative enzymes. Harden and William Young showed that fermentation in yeast extracts depended on cooperating components, including a small diffusible factor. The image uses separation and cooperation as an original metaphor, not a historical apparatus or molecular diagram. The phrase is original.\n1929 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for their investigations on the fermentation of sugar and fermentative enzymes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年化学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-186",
+      "subject": "nobel-laureate-186",
+      "edition": "color",
+      "title": "阿瑟·哈登",
+      "titleEnglish": "Arthur Harden",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-186/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-186/color.jpg",
+      "sha256": "70202fc0d822dfd889fb3ee7d34cd546914ed8a51746ab3b18745f35585d36e6",
+      "thumbnailSHA256": "0239c03eb3e92e43349e42317ead50de7aa279bd968ee3df3a759f63ed68e235",
+      "context": {
+        "phrase": {
+          "zh": "分开之后，才看见合作。",
+          "en": "Separation makes cooperation visible."
+        },
+        "visual": {
+          "zh": "琥珀色横带被一道细纤维竖膜分隔，少量粒点与短连接穿过开口，右侧聚起气泡。黑白版保持同一横带、竖膜和气泡关系；这是一幅想象的剖视。",
+          "en": "A fine vertical fiber membrane divides an amber band. A few dots and short bridges cross its openings, with bubbles gathering to the right. The neutral edition preserves the same band, membrane and bubbles. This is an imagined cutaway."
+        },
+        "background": {
+          "zh": "哈登与汉斯·冯·欧拉-切尔平共享1929年诺贝尔化学奖，各占一半，因研究糖的发酵及发酵酶。哈登与威廉·杨的研究表明，酵母提取物的发酵需要可透过膜的小分子因素等共同参与。画面借分隔与重新协作表达这一线索，并非历史装置复原或分子图；短句为原创。\n1929年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对糖的发酵与发酵酶的研究。",
+          "en": "Harden shared the 1929 Nobel Prize in Chemistry equally with Hans von Euler-Chelpin for work on sugar fermentation and fermentative enzymes. Harden and William Young showed that fermentation in yeast extracts depended on cooperating components, including a small diffusible factor. The image uses separation and cooperation as an original metaphor, not a historical apparatus or molecular diagram. The phrase is original.\n1929 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for their investigations on the fermentation of sugar and fermentative enzymes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年化学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

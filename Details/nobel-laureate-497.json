@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-497",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-497",
+      "subject": "nobel-laureate-497",
+      "edition": "mono",
+      "title": "尼古拉斯·默里·巴特勒",
+      "titleEnglish": "Nicholas Murray Butler",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-497/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-497/mono.jpg",
+      "sha256": "ed68a4bbef746efceaf74b0528f97be9ef86a2dd561f72a2bdf505ef22a8a3be",
+      "thumbnailSHA256": "7bd301ded7ac4d0e619a5e5d89a444a83d2d291d70727ebc2fc902945ed3a7ba",
+      "context": {
+        "phrase": {
+          "zh": "把分歧带到共同的规则之下。",
+          "en": "Bring differences within shared rules."
+        },
+        "visual": {
+          "zh": "近处巨大石拱越出左侧与上缘，宽阔通道延伸到右侧远处的小拱门；地面接缝引向深处，墙面与石拱的明暗形成层次。",
+          "en": "A large foreground stone arch crops beyond the left and top edges. A broad passage leads to a smaller arch in the distance at right; floor joints extend into depth, while light and shadow distinguish the walls and arches."
+        },
+        "background": {
+          "zh": "巴特勒与简·亚当斯共同获得1931年诺贝尔和平奖。他通过国际交往、国际法与和平条约倡议推动和平，并支持1928年反对侵略战争的《凯洛格—白里安公约》。他的立场并非始终反对战争。画中的石拱与相连通道是共同规则和协商空间的原创寓意，不是海牙和平宫或其他真实法院的复原；短句为原创。\n1931年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们坚持不懈地重振和平理想，并在本国与全人类中重新唤起和平精神。",
+          "en": "Butler shared the 1931 Nobel Peace Prize with Jane Addams. He promoted peace through international contacts, international law and treaty advocacy, and supported the 1928 Kellogg–Briand Pact against aggressive war. He did not consistently oppose all war. The stone arches and connected passage are an original metaphor for shared rules and negotiation, not a reconstruction of the Peace Palace in The Hague or another actual courthouse. The phrase is original.\n1931 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年和平奖｜官方记录",
+              "en": "1931 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/prisvinnere/1931-article1295-902.html",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-497",
+      "subject": "nobel-laureate-497",
+      "edition": "color",
+      "title": "尼古拉斯·默里·巴特勒",
+      "titleEnglish": "Nicholas Murray Butler",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-497/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-497/color.jpg",
+      "sha256": "1f6aface44974b6408e84b3af2e9da0f767ddab7ba9c194aa58499190b730d0a",
+      "thumbnailSHA256": "b82df657115cce3d94a5277bb604d02def98835aed51e3f61a876b20f7a55138",
+      "context": {
+        "phrase": {
+          "zh": "把分歧带到共同的规则之下。",
+          "en": "Bring differences within shared rules."
+        },
+        "visual": {
+          "zh": "近处巨大石拱越出左侧与上缘，宽阔通道延伸到右侧远处的小拱门；地面接缝引向深处，墙面与石拱的明暗形成层次。",
+          "en": "A large foreground stone arch crops beyond the left and top edges. A broad passage leads to a smaller arch in the distance at right; floor joints extend into depth, while light and shadow distinguish the walls and arches."
+        },
+        "background": {
+          "zh": "巴特勒与简·亚当斯共同获得1931年诺贝尔和平奖。他通过国际交往、国际法与和平条约倡议推动和平，并支持1928年反对侵略战争的《凯洛格—白里安公约》。他的立场并非始终反对战争。画中的石拱与相连通道是共同规则和协商空间的原创寓意，不是海牙和平宫或其他真实法院的复原；短句为原创。\n1931年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们坚持不懈地重振和平理想，并在本国与全人类中重新唤起和平精神。",
+          "en": "Butler shared the 1931 Nobel Peace Prize with Jane Addams. He promoted peace through international contacts, international law and treaty advocacy, and supported the 1928 Kellogg–Briand Pact against aggressive war. He did not consistently oppose all war. The stone arches and connected passage are an original metaphor for shared rules and negotiation, not a reconstruction of the Peace Palace in The Hague or another actual courthouse. The phrase is original.\n1931 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年和平奖｜官方记录",
+              "en": "1931 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/prisvinnere/1931-article1295-902.html",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

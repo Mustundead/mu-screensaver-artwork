@@ -1,0 +1,70 @@
+{
+  "subject": "050-machine-vision",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:050-machine-vision",
+      "subject": "050-machine-vision",
+      "edition": "mono",
+      "title": "机器视觉",
+      "titleEnglish": "Machine Vision",
+      "category": "计算与人工智能",
+      "image": "Images/mono/050-machine-vision.jpg",
+      "thumbnail": "Thumbs/mono/050-machine-vision.jpg",
+      "sha256": "e3520d4a02a5488d9354e771c04f135e98706e4eefd059fd32b6c2b2122ef85a",
+      "thumbnailSHA256": "66f1ec52bf082d0235a01f15ecea6a5652af97ce192ae38a8178cb0bb80ca36f",
+      "context": {
+        "phrase": {
+          "zh": "看见边缘，是理解图像的一步。",
+          "en": "Finding edges is one step toward reading an image."
+        },
+        "visual": {
+          "zh": "镜头像一只观察的眼，前方画面被轮廓与标记切分，象征机器提取视觉特征。这里没有呈现实际识别结果或准确率。",
+          "en": "A camera-like eye faces contours and marks, suggesting feature extraction. The scene shows no real detection result or accuracy score."
+        },
+        "background": {
+          "zh": "计算机视觉方法可在图像中寻找角点、边缘或其他有用特征，以便匹配和分析。OpenCV 的教学示例演示了如何检测并绘制兴趣点；从特征到可靠识别还需要具体任务和数据验证。",
+          "en": "Computer-vision methods can locate corners, edges and other features for matching or analysis. OpenCV demonstrates detecting and drawing interest points; reliable recognition still depends on the task and validation data."
+        },
+        "sources": [
+          {
+            "label": "OpenCV · Feature detection",
+            "url": "https://docs.opencv.org/5.0/tutorials/features/feature_detection/feature_detection.html"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:050-machine-vision",
+      "subject": "050-machine-vision",
+      "edition": "color",
+      "title": "机器视觉",
+      "titleEnglish": "Machine Vision",
+      "category": "计算与人工智能",
+      "image": "Images/color/050-machine-vision.jpg",
+      "thumbnail": "Thumbs/color/050-machine-vision.jpg",
+      "sha256": "bb8d88b5ab7750abe695cb01658c533d3631533cc3ce6b91c4d7cce822ca5d23",
+      "thumbnailSHA256": "b2d751bcb17384782cd8c8181dbf8e7d959eb1390318ceb881e75030246a4668",
+      "context": {
+        "phrase": {
+          "zh": "看见边缘，是理解图像的一步。",
+          "en": "Finding edges is one step toward reading an image."
+        },
+        "visual": {
+          "zh": "镜头像一只观察的眼，前方画面被轮廓与标记切分，象征机器提取视觉特征。这里没有呈现实际识别结果或准确率。",
+          "en": "A camera-like eye faces contours and marks, suggesting feature extraction. The scene shows no real detection result or accuracy score."
+        },
+        "background": {
+          "zh": "计算机视觉方法可在图像中寻找角点、边缘或其他有用特征，以便匹配和分析。OpenCV 的教学示例演示了如何检测并绘制兴趣点；从特征到可靠识别还需要具体任务和数据验证。",
+          "en": "Computer-vision methods can locate corners, edges and other features for matching or analysis. OpenCV demonstrates detecting and drawing interest points; reliable recognition still depends on the task and validation data."
+        },
+        "sources": [
+          {
+            "label": "OpenCV · Feature detection",
+            "url": "https://docs.opencv.org/5.0/tutorials/features/feature_detection/feature_detection.html"
+          }
+        ]
+      }
+    }
+  }
+}

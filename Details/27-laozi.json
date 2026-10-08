@@ -1,0 +1,70 @@
+{
+  "subject": "27-laozi",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:27-laozi",
+      "subject": "27-laozi",
+      "edition": "mono",
+      "title": "人文：老子与自然",
+      "titleEnglish": "Laozi and Nature",
+      "category": "艺术与人文",
+      "image": "Images/mono/27-laozi.jpg",
+      "thumbnail": "Thumbs/mono/27-laozi.jpg",
+      "sha256": "bcecff2c724dcdc4103fb979d3c1c8921d6c1e5ff9acea162aa3f109cdf7faa2",
+      "thumbnailSHA256": "c59734dd81eec62bdf1813a77f169834eb1f043685ef48f62cc4bacac5cf8a2b",
+      "context": {
+        "phrase": {
+          "zh": "顺应事物，也是一种有意识的选择。",
+          "en": "Working with things can be a deliberate choice."
+        },
+        "visual": {
+          "zh": "老者、山水与流动线条以自然景象联想老子思想。人物是后世想象式的生成形象，并非有史料可核对的容貌；平静山水也不是“无为”的完整定义。",
+          "en": "An elder, landscape and flowing lines associate nature with Laozi’s thought. The figure is an imagined likeness, not a historically verified portrait, and a calm landscape is not a complete definition of wuwei."
+        },
+        "background": {
+          "zh": "《斯坦福哲学百科全书》指出，《老子》围绕道、德、自然和无为展开，但其作者、成书年代与这些概念的解释仍有争论。因而这里不填一个确定的生卒年，也不把“无为”简单理解为不做事；画面提供的是进入讨论的意象。",
+          "en": "The Stanford Encyclopedia of Philosophy presents the Laozi through dao, de, naturalness and wuwei, while noting disputes about authorship, date and interpretation. No exact lifespan is asserted here, and wuwei is not reduced to simply doing nothing. The image is an invitation to that discussion."
+        },
+        "sources": [
+          {
+            "label": "Stanford Encyclopedia of Philosophy · Laozi",
+            "url": "https://plato.stanford.edu/entries/laozi/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:27-laozi",
+      "subject": "27-laozi",
+      "edition": "color",
+      "title": "人文：老子与自然",
+      "titleEnglish": "Laozi and Nature",
+      "category": "艺术与人文",
+      "image": "Images/color/27-laozi.jpg",
+      "thumbnail": "Thumbs/color/27-laozi.jpg",
+      "sha256": "89ebe5204c7708547aa1136277df471db6bfeac0c56fa4121f9ab1830b28a95d",
+      "thumbnailSHA256": "54e6513fadccf81e0d5ce974a513dad1852781b2e4fcb6151c6ba89718aa1a4f",
+      "context": {
+        "phrase": {
+          "zh": "顺应事物，也是一种有意识的选择。",
+          "en": "Working with things can be a deliberate choice."
+        },
+        "visual": {
+          "zh": "老者、山水与流动线条以自然景象联想老子思想。人物是后世想象式的生成形象，并非有史料可核对的容貌；平静山水也不是“无为”的完整定义。",
+          "en": "An elder, landscape and flowing lines associate nature with Laozi’s thought. The figure is an imagined likeness, not a historically verified portrait, and a calm landscape is not a complete definition of wuwei."
+        },
+        "background": {
+          "zh": "《斯坦福哲学百科全书》指出，《老子》围绕道、德、自然和无为展开，但其作者、成书年代与这些概念的解释仍有争论。因而这里不填一个确定的生卒年，也不把“无为”简单理解为不做事；画面提供的是进入讨论的意象。",
+          "en": "The Stanford Encyclopedia of Philosophy presents the Laozi through dao, de, naturalness and wuwei, while noting disputes about authorship, date and interpretation. No exact lifespan is asserted here, and wuwei is not reduced to simply doing nothing. The image is an invitation to that discussion."
+        },
+        "sources": [
+          {
+            "label": "Stanford Encyclopedia of Philosophy · Laozi",
+            "url": "https://plato.stanford.edu/entries/laozi/"
+          }
+        ]
+      }
+    }
+  }
+}

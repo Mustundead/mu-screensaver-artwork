@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-309",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-309",
+      "subject": "nobel-laureate-309",
+      "edition": "mono",
+      "title": "朱尔·博尔代",
+      "titleEnglish": "Jules Bordet",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-309/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-309/mono.jpg",
+      "sha256": "7b7e41b2e5483f75ae9dd85a27cb891d09995bc493a0ab328caa313eeb723baa",
+      "thumbnailSHA256": "03b0cdb3236d979c09a8f509db4e75bc7bdb29f5d056c06f3ee17377df9b5201",
+      "context": {
+        "phrase": {
+          "zh": "有些保护，需要彼此配合。",
+          "en": "Some defenses depend on working together."
+        },
+        "visual": {
+          "zh": "巨大的浅绿玻璃浅皿从左上裁切；右下较小的黄铜分叉物件与灰蓝开口圆环相扣，圆环的缺口保持清楚。彩色版区分玻璃、黄铜和冷色金属，黑白版保留布局。两个相配物件是对免疫合作的原创寓意，不是抗体或补体的分子结构，也不是博尔代实验装置的复原。",
+          "en": "An enormous pale green glass dish is cropped at upper left. At lower right, a smaller brass fork fits into a blue-gray open collar whose gap remains visible. Color distinguishes glass, brass and cool metal; monochrome keeps the layout. The fitted props are an original metaphor for cooperation in immunity, not molecular structures of antibodies or complement, or a reconstruction of Bordet’s experiment."
+        },
+        "background": {
+          "zh": "博尔代独享1919年诺贝尔生理学或医学奖，获奖理由是与免疫有关的发现。诺贝尔官网的研究介绍说明，他的实验揭示：特定抗体的作用需要血液中一种对热敏感的成分配合，后者后来被称为补体。画面借两个相扣物件表达这种合作；物件形状、尺寸与颜色没有生物计量含义。短句为原创，不是博尔代引语。\n1919年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因与免疫有关的发现而获奖",
+          "en": "Bordet received the full 1919 Nobel Prize in Physiology or Medicine for discoveries relating to immunity. NobelPrize.org’s research introduction describes experiments showing that specific antibodies needed a heat-sensitive substance in blood, later called complement, to act together. Two fitted props are an original interpretation of this cooperation; their shapes, dimensions and colors carry no biological measurement meaning. The phrase is original, not a quotation.\n1919 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discoveries relating to immunity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1919 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1919/summary/",
+            "labelLocalized": {
+              "zh": "1919年生理学或医学奖｜官方记录",
+              "en": "1919 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1919/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-309",
+      "subject": "nobel-laureate-309",
+      "edition": "color",
+      "title": "朱尔·博尔代",
+      "titleEnglish": "Jules Bordet",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-309/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-309/color.jpg",
+      "sha256": "93cb3ae9309d7af9e8b6541c34e65294bd91c4c0e9876bdfdc8519ab95ea10ad",
+      "thumbnailSHA256": "c48e6dd401f2e8771a6e2d5642c5926ca914fdd81e981d0292a54d7ac411e56b",
+      "context": {
+        "phrase": {
+          "zh": "有些保护，需要彼此配合。",
+          "en": "Some defenses depend on working together."
+        },
+        "visual": {
+          "zh": "巨大的浅绿玻璃浅皿从左上裁切；右下较小的黄铜分叉物件与灰蓝开口圆环相扣，圆环的缺口保持清楚。彩色版区分玻璃、黄铜和冷色金属，黑白版保留布局。两个相配物件是对免疫合作的原创寓意，不是抗体或补体的分子结构，也不是博尔代实验装置的复原。",
+          "en": "An enormous pale green glass dish is cropped at upper left. At lower right, a smaller brass fork fits into a blue-gray open collar whose gap remains visible. Color distinguishes glass, brass and cool metal; monochrome keeps the layout. The fitted props are an original metaphor for cooperation in immunity, not molecular structures of antibodies or complement, or a reconstruction of Bordet’s experiment."
+        },
+        "background": {
+          "zh": "博尔代独享1919年诺贝尔生理学或医学奖，获奖理由是与免疫有关的发现。诺贝尔官网的研究介绍说明，他的实验揭示：特定抗体的作用需要血液中一种对热敏感的成分配合，后者后来被称为补体。画面借两个相扣物件表达这种合作；物件形状、尺寸与颜色没有生物计量含义。短句为原创，不是博尔代引语。\n1919年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因与免疫有关的发现而获奖",
+          "en": "Bordet received the full 1919 Nobel Prize in Physiology or Medicine for discoveries relating to immunity. NobelPrize.org’s research introduction describes experiments showing that specific antibodies needed a heat-sensitive substance in blood, later called complement, to act together. Two fitted props are an original interpretation of this cooperation; their shapes, dimensions and colors carry no biological measurement meaning. The phrase is original, not a quotation.\n1919 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discoveries relating to immunity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1919 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1919/summary/",
+            "labelLocalized": {
+              "zh": "1919年生理学或医学奖｜官方记录",
+              "en": "1919 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1919/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

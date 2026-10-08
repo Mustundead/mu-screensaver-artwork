@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-503",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-503",
+      "subject": "nobel-laureate-503",
+      "edition": "mono",
+      "title": "南森国际难民事务处",
+      "titleEnglish": "Nansen International Office for Refugees",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-503/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-503/mono.jpg",
+      "sha256": "1765a99b07f3a7becc0338469b982d6fd21d71ce99a843ceaebfefa29344cc71",
+      "thumbnailSHA256": "2eba8c9c8e6e19001aa6656dbe9dc3d16f750c5742a4def53e52990829719ab4",
+      "context": {
+        "phrase": {
+          "zh": "一份身份证明，为前行多一份可能。",
+          "en": "Proof of identity can open a way forward."
+        },
+        "visual": {
+          "zh": "低视角下，两扇铁门向外打开；一册摊开的薄证件册横跨前景石台之间的暗色间隙，远处地面从门间延伸。",
+          "en": "Two open iron gates frame a low viewpoint. An open thin booklet spans the dark gap between the foreground stone ledges, with the ground beyond extending through the gateway."
+        },
+        "background": {
+          "zh": "南森国际难民事务处获得1938年诺贝尔和平奖。诺贝尔奖官方资料介绍了该机构对难民的援助，以及南森护照作为身份证明的作用。画面让一册薄证件跨过石台间隙，远处两扇铁门打开，以此表达身份证明与通行机会的联系。这是原创寓意，不是真实护照样本，也不表示任何证件能够保证入境或获得安置；获奖者是机构，并非个人。短句为原创。\n1938年和平奖；独享本年度奖项。获奖理由（中文译述）：延续弗里乔夫·南森的工作，为欧洲难民提供援助",
+          "en": "The Nansen International Office for Refugees received the 1938 Nobel Peace Prize. Official Nobel sources describe its refugee assistance and the role of Nansen passports as identity documents. A thin booklet bridges a gap between stone ledges beneath open gates, an original metaphor for identity and opportunities to move forward. It is not a real passport design or a guarantee of entry or resettlement. The laureate is an organization, not an individual. The phrase is original.\n1938 — The Nobel Peace Prize. Received the full prize. Official motivation: for having carried on the work of Fridtjof Nansen to the benefit of refugees across Europe"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年和平奖｜官方记录",
+              "en": "1938 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1938/nansen/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-humanitarian-nobel-peace-prizes/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-503",
+      "subject": "nobel-laureate-503",
+      "edition": "color",
+      "title": "南森国际难民事务处",
+      "titleEnglish": "Nansen International Office for Refugees",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-503/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-503/color.jpg",
+      "sha256": "f6262b50cf40a70f387ab3485787eda6a21fe552d515f5b18c18202353cad5f5",
+      "thumbnailSHA256": "6f06279f766ae2626347cb8fb60c903c6beb54d8755f6a44bf7dc9c33b6effd5",
+      "context": {
+        "phrase": {
+          "zh": "一份身份证明，为前行多一份可能。",
+          "en": "Proof of identity can open a way forward."
+        },
+        "visual": {
+          "zh": "低视角下，两扇铁门向外打开；一册摊开的薄证件册横跨前景石台之间的暗色间隙，远处地面从门间延伸。",
+          "en": "Two open iron gates frame a low viewpoint. An open thin booklet spans the dark gap between the foreground stone ledges, with the ground beyond extending through the gateway."
+        },
+        "background": {
+          "zh": "南森国际难民事务处获得1938年诺贝尔和平奖。诺贝尔奖官方资料介绍了该机构对难民的援助，以及南森护照作为身份证明的作用。画面让一册薄证件跨过石台间隙，远处两扇铁门打开，以此表达身份证明与通行机会的联系。这是原创寓意，不是真实护照样本，也不表示任何证件能够保证入境或获得安置；获奖者是机构，并非个人。短句为原创。\n1938年和平奖；独享本年度奖项。获奖理由（中文译述）：延续弗里乔夫·南森的工作，为欧洲难民提供援助",
+          "en": "The Nansen International Office for Refugees received the 1938 Nobel Peace Prize. Official Nobel sources describe its refugee assistance and the role of Nansen passports as identity documents. A thin booklet bridges a gap between stone ledges beneath open gates, an original metaphor for identity and opportunities to move forward. It is not a real passport design or a guarantee of entry or resettlement. The laureate is an organization, not an individual. The phrase is original.\n1938 — The Nobel Peace Prize. Received the full prize. Official motivation: for having carried on the work of Fridtjof Nansen to the benefit of refugees across Europe"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年和平奖｜官方记录",
+              "en": "1938 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1938/nansen/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-humanitarian-nobel-peace-prizes/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

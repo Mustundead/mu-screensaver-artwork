@@ -1,0 +1,70 @@
+{
+  "subject": "060-quantum-interference",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:060-quantum-interference",
+      "subject": "060-quantum-interference",
+      "edition": "mono",
+      "title": "波与干涉",
+      "titleEnglish": "Waves and Interference",
+      "category": "自然科学",
+      "image": "Images/mono/060-quantum-interference.jpg",
+      "thumbnail": "Thumbs/mono/060-quantum-interference.jpg",
+      "sha256": "b5f85245ef2eca59defbedfa2b4421ef78c6297d5c18a6994c0f029504607900",
+      "thumbnailSHA256": "fdd91692525f04fae4547d3512137b531afe1d00c190d86db42108d3e0c7bbd7",
+      "context": {
+        "phrase": {
+          "zh": "微小粒子，也会留下波的图案。",
+          "en": "Tiny particles can leave wave patterns."
+        },
+        "visual": {
+          "zh": "一束束光线穿过狭缝后形成明暗交错的弧线，以舞台般的空间表现干涉。图案不是实验屏幕的真实计数分布。",
+          "en": "Beams pass a slit-like opening into alternating arcs, staging interference in space. The pattern is not a measured count distribution on an experiment screen."
+        },
+        "background": {
+          "zh": "电子在晶体上的衍射实验说明，电子也具有波动行为；戴维森和 G. P. 汤姆森因此获得 1937 年物理学诺贝尔奖。量子“波”描述的是可检验的概率规律，不能把画中的光带当作电子的肉眼轨迹。",
+          "en": "Electron diffraction from crystals demonstrated wave behavior in electrons; Davisson and G. P. Thomson received the 1937 Physics Nobel Prize for the experimental discovery. Quantum waves describe testable probability patterns, not naked-eye tracks like the painted bands."
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize · Physics 1937",
+            "url": "https://www.nobelprize.org/prizes/physics/1937/summary/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:060-quantum-interference",
+      "subject": "060-quantum-interference",
+      "edition": "color",
+      "title": "波与干涉",
+      "titleEnglish": "Waves and Interference",
+      "category": "自然科学",
+      "image": "Images/color/060-quantum-interference.jpg",
+      "thumbnail": "Thumbs/color/060-quantum-interference.jpg",
+      "sha256": "d6ba22d00ca6fa3526a00b118a809f24ba45c62dbf174eff0e15b93c1c163798",
+      "thumbnailSHA256": "bbd79ff35f730181949bf07d6d2592ab53b1de7c0cce5d5187cc9384b956312a",
+      "context": {
+        "phrase": {
+          "zh": "微小粒子，也会留下波的图案。",
+          "en": "Tiny particles can leave wave patterns."
+        },
+        "visual": {
+          "zh": "一束束光线穿过狭缝后形成明暗交错的弧线，以舞台般的空间表现干涉。图案不是实验屏幕的真实计数分布。",
+          "en": "Beams pass a slit-like opening into alternating arcs, staging interference in space. The pattern is not a measured count distribution on an experiment screen."
+        },
+        "background": {
+          "zh": "电子在晶体上的衍射实验说明，电子也具有波动行为；戴维森和 G. P. 汤姆森因此获得 1937 年物理学诺贝尔奖。量子“波”描述的是可检验的概率规律，不能把画中的光带当作电子的肉眼轨迹。",
+          "en": "Electron diffraction from crystals demonstrated wave behavior in electrons; Davisson and G. P. Thomson received the 1937 Physics Nobel Prize for the experimental discovery. Quantum waves describe testable probability patterns, not naked-eye tracks like the painted bands."
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize · Physics 1937",
+            "url": "https://www.nobelprize.org/prizes/physics/1937/summary/"
+          }
+        ]
+      }
+    }
+  }
+}

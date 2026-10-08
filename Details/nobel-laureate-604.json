@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-604",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-604",
+      "subject": "nobel-laureate-604",
+      "edition": "mono",
+      "title": "埃里克·阿克塞尔·卡尔费尔特",
+      "titleEnglish": "Erik Axel Karlfeldt",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-604/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-604/mono.jpg",
+      "sha256": "d37bb3d0a9b1e5e6836e2c7f28549fd3bea454459b437f0aa0594c277187dfc7",
+      "thumbnailSHA256": "43df5246101e0d995f4da50dd539d18222691d9428576d412fd32be816d7b41a",
+      "context": {
+        "phrase": {
+          "zh": "故乡的一片风景，也能容下辽阔的诗。",
+          "en": "A landscape of home can hold a world of poetry."
+        },
+        "visual": {
+          "zh": "左侧白桦树干在上下边缘裁切，枝叶从近处伸向画面上方；田野向远处林地铺开，右侧一座小木屋衬出近远尺度。细刻线表现树皮、草穗和屋顶的纹理。",
+          "en": "A birch trunk is cropped at the left and vertical edges, with a near branch reaching overhead. A field opens toward distant woodland, while a small wooden barn at right defines the near–far scale. Fine engraving follows the bark, grasses and roof."
+        },
+        "background": {
+          "zh": "卡尔费尔特因其诗歌获得1931年诺贝尔文学奖，这一奖项在他去世后授予。他的诗歌深植于瑞典达拉纳地区的自然、生活与传统，又把地方经验拓展为更普遍的感受。画面是对故乡与诗意想象的原创寓意，不是某首诗的插图、真实村庄或可核实地点的复原；短句为原创。\n1931年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰埃里克·阿克塞尔·卡尔费尔特的诗歌。",
+          "en": "Karlfeldt received the 1931 Nobel Prize in Literature for his poetry; the prize was awarded posthumously. His poems are rooted in the nature, life and traditions of Sweden's Dalarna region while extending local experience toward more universal feeling. This is an original metaphor for home and poetic imagination, not an illustration of a particular poem or a reconstruction of an identifiable village. The phrase is original.\n1931 — The Nobel Prize in Literature. Received the full prize. Official motivation: The poetry of Erik Axel Karlfeldt"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年文学奖｜官方记录",
+              "en": "1931 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1931/karlfeldt/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1931/karlfeldt/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-604",
+      "subject": "nobel-laureate-604",
+      "edition": "color",
+      "title": "埃里克·阿克塞尔·卡尔费尔特",
+      "titleEnglish": "Erik Axel Karlfeldt",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-604/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-604/color.jpg",
+      "sha256": "3cc5a788503e3376509233dc63945600defd8fa9af757a5db1000dbfc2b846dd",
+      "thumbnailSHA256": "f2783851fff4dfff3ecbd65e455e7077cce39e9784d78ba729bd895c6119d10a",
+      "context": {
+        "phrase": {
+          "zh": "故乡的一片风景，也能容下辽阔的诗。",
+          "en": "A landscape of home can hold a world of poetry."
+        },
+        "visual": {
+          "zh": "左侧白桦树干在上下边缘裁切，枝叶从近处伸向画面上方；田野向远处林地铺开，右侧一座小木屋衬出近远尺度。细刻线表现树皮、草穗和屋顶的纹理。",
+          "en": "A birch trunk is cropped at the left and vertical edges, with a near branch reaching overhead. A field opens toward distant woodland, while a small wooden barn at right defines the near–far scale. Fine engraving follows the bark, grasses and roof."
+        },
+        "background": {
+          "zh": "卡尔费尔特因其诗歌获得1931年诺贝尔文学奖，这一奖项在他去世后授予。他的诗歌深植于瑞典达拉纳地区的自然、生活与传统，又把地方经验拓展为更普遍的感受。画面是对故乡与诗意想象的原创寓意，不是某首诗的插图、真实村庄或可核实地点的复原；短句为原创。\n1931年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰埃里克·阿克塞尔·卡尔费尔特的诗歌。",
+          "en": "Karlfeldt received the 1931 Nobel Prize in Literature for his poetry; the prize was awarded posthumously. His poems are rooted in the nature, life and traditions of Sweden's Dalarna region while extending local experience toward more universal feeling. This is an original metaphor for home and poetic imagination, not an illustration of a particular poem or a reconstruction of an identifiable village. The phrase is original.\n1931 — The Nobel Prize in Literature. Received the full prize. Official motivation: The poetry of Erik Axel Karlfeldt"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年文学奖｜官方记录",
+              "en": "1931 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1931/karlfeldt/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1931/karlfeldt/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

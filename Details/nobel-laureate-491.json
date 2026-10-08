@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-491",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-491",
+      "subject": "nobel-laureate-491",
+      "edition": "mono",
+      "title": "古斯塔夫·施特雷泽曼",
+      "titleEnglish": "Gustav Stresemann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-491/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-491/mono.jpg",
+      "sha256": "4116482a1a9adfd9bf0960486d75fd2bab3fad00957b60d1e26812cf826367ba",
+      "thumbnailSHA256": "e3fbcc5f06543a2f200d8ac3b595c880c4c3d95e9bbca38630daa45fb602fded",
+      "context": {
+        "phrase": {
+          "zh": "从隔阂之间，找到还能连接的地方。",
+          "en": "Find a place to connect across a divide."
+        },
+        "visual": {
+          "zh": "两块厚实深棕木块分占左下和右上，沿画面边缘裁切；一枚展开的黄铜铰链跨过斜向缝隙，中央转轴与两侧六颗圆铆钉清楚可见。左侧小象牙色折卡远小于木块，左上留白。黑白版保留位置、裁切与连接结构，木纹和金属刻纹更强；铰链是合作寓意，不代表永久和平。",
+          "en": "Two thick dark walnut blocks occupy the lower left and upper right and extend past the frame. An open brass hinge spans their diagonal gap, with a central pin and six round rivets. A small folded ivory card sits at left, far smaller than the blocks, leaving the upper left quiet. The monochrome edition preserves position, crop and connection with stronger wood and metal texture; the hinge symbolizes cooperation rather than permanent peace."
+        },
+        "background": {
+          "zh": "施特雷泽曼与白里安各获1926年诺贝尔和平奖的一半。身为德国外长，他参与推动1925年《洛迦诺公约》，寻求德国与昔日对手的合作。木块之间的铰链是连接的原创寓意，不代表实际边界或不可破坏的和平；各国与其他参与者的贡献不归于一人。短句为原创。\n1926年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他与白里安在促成《洛迦诺公约》中的关键作用。",
+          "en": "Stresemann and Briand shared the 1926 Nobel Peace Prize equally. As German foreign minister, Stresemann helped advance the 1925 Locarno Treaty and cooperation with former opponents. The hinge between wooden blocks is an original metaphor for connection, not a real border or an unbreakable peace, and does not assign the international effort to one person. The phrase is original.\n1926 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their crucial role in bringing about the Locarno Treaty"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年和平奖｜官方记录",
+              "en": "1926 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1926/stresemann/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-491",
+      "subject": "nobel-laureate-491",
+      "edition": "color",
+      "title": "古斯塔夫·施特雷泽曼",
+      "titleEnglish": "Gustav Stresemann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-491/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-491/color.jpg",
+      "sha256": "f28ecc524ee031939e481a680b5e427e58cbd3875fd072599ca0abe57fbea142",
+      "thumbnailSHA256": "402ecb5123a7b81d2ea72b698fca83492d3db2707606be3bbbca299abd5e7e70",
+      "context": {
+        "phrase": {
+          "zh": "从隔阂之间，找到还能连接的地方。",
+          "en": "Find a place to connect across a divide."
+        },
+        "visual": {
+          "zh": "两块厚实深棕木块分占左下和右上，沿画面边缘裁切；一枚展开的黄铜铰链跨过斜向缝隙，中央转轴与两侧六颗圆铆钉清楚可见。左侧小象牙色折卡远小于木块，左上留白。黑白版保留位置、裁切与连接结构，木纹和金属刻纹更强；铰链是合作寓意，不代表永久和平。",
+          "en": "Two thick dark walnut blocks occupy the lower left and upper right and extend past the frame. An open brass hinge spans their diagonal gap, with a central pin and six round rivets. A small folded ivory card sits at left, far smaller than the blocks, leaving the upper left quiet. The monochrome edition preserves position, crop and connection with stronger wood and metal texture; the hinge symbolizes cooperation rather than permanent peace."
+        },
+        "background": {
+          "zh": "施特雷泽曼与白里安各获1926年诺贝尔和平奖的一半。身为德国外长，他参与推动1925年《洛迦诺公约》，寻求德国与昔日对手的合作。木块之间的铰链是连接的原创寓意，不代表实际边界或不可破坏的和平；各国与其他参与者的贡献不归于一人。短句为原创。\n1926年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他与白里安在促成《洛迦诺公约》中的关键作用。",
+          "en": "Stresemann and Briand shared the 1926 Nobel Peace Prize equally. As German foreign minister, Stresemann helped advance the 1925 Locarno Treaty and cooperation with former opponents. The hinge between wooden blocks is an original metaphor for connection, not a real border or an unbreakable peace, and does not assign the international effort to one person. The phrase is original.\n1926 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their crucial role in bringing about the Locarno Treaty"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年和平奖｜官方记录",
+              "en": "1926 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1926/stresemann/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

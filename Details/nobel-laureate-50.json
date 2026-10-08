@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-50",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-50",
+      "subject": "nobel-laureate-50",
+      "edition": "mono",
+      "title": "沃尔夫冈·泡利",
+      "titleEnglish": "Wolfgang Pauli",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-50/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-50/mono.jpg",
+      "sha256": "70c00f5d022121d5e618f9d07b2c74a1f03f8de5e5801b10fac1837f6107c443",
+      "thumbnailSHA256": "9eca6c081b4ceabd252601996b1ebe1218492728d8c0523c5766bb2d4518aa00",
+      "context": {
+        "phrase": {
+          "zh": "各占其位，才能组成世界。",
+          "en": "A place for each, a world together."
+        },
+        "visual": {
+          "zh": "弯曲的分格结构从近处伸向远处，每个小格容纳一颗球，细密刻线表现边缘与球面，弯道之间留出空隙。",
+          "en": "A curved compartmented strip recedes into depth, with one sphere in each cell; fine hatching shapes the edges and spheres around open gaps between bends."
+        },
+        "background": {
+          "zh": "泡利提出了不相容原理：同一系统中，两个电子不能处于完全相同的量子状态，也就是描述电子的全部状态条件都相同。他因此获得1945年诺贝尔物理学奖。画面以每个独立小格放一颗球表达各占其位，是原创寓意；小格不是电子轨道，球的数量与间距也不表示真实原子结构。短句为原创。\n1945年物理学奖；独享本年度奖项。获奖理由（中文译述）：发现不相容原理，又称泡利原理",
+          "en": "Pauli proposed the exclusion principle: two electrons in the same system cannot have identical quantum states, meaning all the conditions describing their states match. He received the 1945 Nobel Prize in Physics. One sphere in each separate compartment expresses distinct places in an original metaphor. The cells are not electron orbits; their count and spacing do not represent an atom. The phrase is original.\n1945 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the discovery of the Exclusion Principle, also called the Pauli Principle"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年物理学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-50",
+      "subject": "nobel-laureate-50",
+      "edition": "color",
+      "title": "沃尔夫冈·泡利",
+      "titleEnglish": "Wolfgang Pauli",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-50/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-50/color.jpg",
+      "sha256": "a89dfb04a9c7b042b847db859864b0c6f3493d37e3df9f2917a0be4e4926f57e",
+      "thumbnailSHA256": "1bae9183cdb733e085de7207ea129659978e559d58ab96ba1c87f4e588a9f50c",
+      "context": {
+        "phrase": {
+          "zh": "各占其位，才能组成世界。",
+          "en": "A place for each, a world together."
+        },
+        "visual": {
+          "zh": "弯曲的分格结构从近处伸向远处，每个小格容纳一颗球，细密刻线表现边缘与球面，弯道之间留出空隙。",
+          "en": "A curved compartmented strip recedes into depth, with one sphere in each cell; fine hatching shapes the edges and spheres around open gaps between bends."
+        },
+        "background": {
+          "zh": "泡利提出了不相容原理：同一系统中，两个电子不能处于完全相同的量子状态，也就是描述电子的全部状态条件都相同。他因此获得1945年诺贝尔物理学奖。画面以每个独立小格放一颗球表达各占其位，是原创寓意；小格不是电子轨道，球的数量与间距也不表示真实原子结构。短句为原创。\n1945年物理学奖；独享本年度奖项。获奖理由（中文译述）：发现不相容原理，又称泡利原理",
+          "en": "Pauli proposed the exclusion principle: two electrons in the same system cannot have identical quantum states, meaning all the conditions describing their states match. He received the 1945 Nobel Prize in Physics. One sphere in each separate compartment expresses distinct places in an original metaphor. The cells are not electron orbits; their count and spacing do not represent an atom. The phrase is original.\n1945 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the discovery of the Exclusion Principle, also called the Pauli Principle"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年物理学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

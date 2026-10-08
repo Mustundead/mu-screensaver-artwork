@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-034",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-034",
+      "subject": "oscar-best-picture-034",
+      "edition": "mono",
+      "title": "西区故事",
+      "titleEnglish": "West Side Story",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-034/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-034/mono.jpg",
+      "sha256": "f79640342c69a79ec1266b448b06c579726d2caabf3b51d98fc362f9946664f5",
+      "thumbnailSHA256": "dcb13ea30e81d775d23ed83863f076f0b8c8674d8860aa58e2b1718198d88797",
+      "context": {
+        "phrase": {
+          "zh": "在分隔的街区，仍想靠近彼此。",
+          "en": "Across a divided neighborhood, the wish to draw closer remains."
+        },
+        "visual": {
+          "zh": "仰视城市消防梯，斜向阶梯连接右上方带栏杆的平台，金属支撑固定在砖墙上；窗户明亮，左上方近处平台底部裁出画外，左侧留出浅色天空。黑白版保留台阶、栏杆、支撑、砖墙和空间层次。",
+          "en": "An upward view of a city fire escape follows diagonal stairs to a railed landing at upper right, supported by metal brackets on the brick wall. A pale window sits behind it; a nearer landing underside is cropped at upper left above open pale sky. The neutral edition retains treads, rails, brackets, brickwork and depth."
+        },
+        "background": {
+          "zh": "罗伯特·怀斯与杰罗姆·罗宾斯共同执导的《西区故事》于1961年上映，在1962年第34届奥斯卡获得最佳影片。托尼与玛丽亚的爱情置于纽约街区帮派的冲突之中，消防梯也是影片中两人相会的重要空间。画中的梯与平台取意于连接和隔阂，是原创场景，不是电影画面或布景复刻；短句为原创。\n第34届奥斯卡最佳影片：西区故事。颁奖年份 1962；参评年份 1961。",
+          "en": "Co-directed by Robert Wise and Jerome Robbins, West Side Story was released in 1961 and won Best Picture at the 34th Academy Awards in 1962. Tony and Maria’s love unfolds amid neighborhood gang conflict in New York; a fire escape is an important meeting place. The stairs and platform are an original scene about connection and division, not a copied film frame or set. The phrase is original.\nAcademy Awards ceremony 34 (1962), Best Picture: West Side Story. Eligibility year: 1961."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1962",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/23857-WEST-SIDE-STORY",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-034",
+      "subject": "oscar-best-picture-034",
+      "edition": "color",
+      "title": "西区故事",
+      "titleEnglish": "West Side Story",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-034/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-034/color.jpg",
+      "sha256": "8443d930a1d3330e6cbe09d551a6ac47cb20679cf2d170c7fde79fd88a95379c",
+      "thumbnailSHA256": "2a5bfbd5e9c038f46e4a609390201a08607697af0b896f273365f358ac032293",
+      "context": {
+        "phrase": {
+          "zh": "在分隔的街区，仍想靠近彼此。",
+          "en": "Across a divided neighborhood, the wish to draw closer remains."
+        },
+        "visual": {
+          "zh": "仰视城市消防梯，斜向阶梯连接右上方带栏杆的平台，金属支撑固定在砖墙上；窗户明亮，左上方近处平台底部裁出画外，左侧留出浅色天空。黑白版保留台阶、栏杆、支撑、砖墙和空间层次。",
+          "en": "An upward view of a city fire escape follows diagonal stairs to a railed landing at upper right, supported by metal brackets on the brick wall. A pale window sits behind it; a nearer landing underside is cropped at upper left above open pale sky. The neutral edition retains treads, rails, brackets, brickwork and depth."
+        },
+        "background": {
+          "zh": "罗伯特·怀斯与杰罗姆·罗宾斯共同执导的《西区故事》于1961年上映，在1962年第34届奥斯卡获得最佳影片。托尼与玛丽亚的爱情置于纽约街区帮派的冲突之中，消防梯也是影片中两人相会的重要空间。画中的梯与平台取意于连接和隔阂，是原创场景，不是电影画面或布景复刻；短句为原创。\n第34届奥斯卡最佳影片：西区故事。颁奖年份 1962；参评年份 1961。",
+          "en": "Co-directed by Robert Wise and Jerome Robbins, West Side Story was released in 1961 and won Best Picture at the 34th Academy Awards in 1962. Tony and Maria’s love unfolds amid neighborhood gang conflict in New York; a fire escape is an important meeting place. The stairs and platform are an original scene about connection and division, not a copied film frame or set. The phrase is original.\nAcademy Awards ceremony 34 (1962), Best Picture: West Side Story. Eligibility year: 1961."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1962",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/23857-WEST-SIDE-STORY",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

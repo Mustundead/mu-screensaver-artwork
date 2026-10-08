@@ -1,0 +1,70 @@
+{
+  "subject": "028-solar-fields",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:028-solar-fields",
+      "subject": "028-solar-fields",
+      "edition": "mono",
+      "title": "太阳磁场",
+      "titleEnglish": "Solar Magnetic Fields",
+      "category": "宇宙",
+      "image": "Images/mono/028-solar-fields.jpg",
+      "thumbnail": "Thumbs/mono/028-solar-fields.jpg",
+      "sha256": "db517f6747a51afff0bc6459bc56b720e43643f6a3391add769e25e34cff9613",
+      "thumbnailSHA256": "db43a9f6fbbc72d7135abd84695f890a0af91dfc868796237ab2fd3110ab68dd",
+      "context": {
+        "phrase": {
+          "zh": "磁场留下看不见的节奏。",
+          "en": "A magnetic rhythm shapes the Sun."
+        },
+        "visual": {
+          "zh": "发亮的太阳边缘伸出成束弧线，表现磁场与太阳物质的互动。弧线是视觉转译，不是某一天的磁场实测图。",
+          "en": "Bright arcs rise from the solar rim to suggest the interplay of magnetic fields and solar material. Their paths are visual interpretation, not a measured field map from a particular day."
+        },
+        "background": {
+          "zh": "太阳活动约每 11 年经历一个周期，太阳黑子、耀斑与日冕物质抛射的活跃程度随之变化。NASA 与 NOAA 说明，这个周期由太阳磁场的变化驱动；图像不能用于预测空间天气。",
+          "en": "Solar activity follows an approximately 11-year cycle, with changing levels of sunspots, flares and coronal mass ejections. NASA and NOAA link the cycle to changes in the Sun’s magnetic field; this picture cannot forecast space weather."
+        },
+        "sources": [
+          {
+            "label": "NASA · Solar cycle",
+            "url": "https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:028-solar-fields",
+      "subject": "028-solar-fields",
+      "edition": "color",
+      "title": "太阳磁场",
+      "titleEnglish": "Solar Magnetic Fields",
+      "category": "宇宙",
+      "image": "Images/color/028-solar-fields.jpg",
+      "thumbnail": "Thumbs/color/028-solar-fields.jpg",
+      "sha256": "019f03ef6ae1c41d30ea00e5c5aab97f0c46a7dd6d6a03286261ec3f7142c399",
+      "thumbnailSHA256": "c19b743c637d05335ea23b7abec66903672efc44fbc6faa69c2e53cf0bc6c1af",
+      "context": {
+        "phrase": {
+          "zh": "磁场留下看不见的节奏。",
+          "en": "A magnetic rhythm shapes the Sun."
+        },
+        "visual": {
+          "zh": "发亮的太阳边缘伸出成束弧线，表现磁场与太阳物质的互动。弧线是视觉转译，不是某一天的磁场实测图。",
+          "en": "Bright arcs rise from the solar rim to suggest the interplay of magnetic fields and solar material. Their paths are visual interpretation, not a measured field map from a particular day."
+        },
+        "background": {
+          "zh": "太阳活动约每 11 年经历一个周期，太阳黑子、耀斑与日冕物质抛射的活跃程度随之变化。NASA 与 NOAA 说明，这个周期由太阳磁场的变化驱动；图像不能用于预测空间天气。",
+          "en": "Solar activity follows an approximately 11-year cycle, with changing levels of sunspots, flares and coronal mass ejections. NASA and NOAA link the cycle to changes in the Sun’s magnetic field; this picture cannot forecast space weather."
+        },
+        "sources": [
+          {
+            "label": "NASA · Solar cycle",
+            "url": "https://science.nasa.gov/science-research/heliophysics/nasa-noaa-sun-reaches-maximum-phase-in-11-year-solar-cycle/"
+          }
+        ]
+      }
+    }
+  }
+}

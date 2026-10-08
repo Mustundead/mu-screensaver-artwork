@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-473",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-473",
+      "subject": "nobel-laureate-473",
+      "edition": "mono",
+      "title": "克拉斯·蓬图斯·阿诺尔德松",
+      "titleEnglish": "Klas Pontus Arnoldson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-473/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-473/mono.jpg",
+      "sha256": "27baa0ef424fc2a08f6d1bdff298dc296f36960372e91f8ee9eb42290511c7a0",
+      "thumbnailSHA256": "d59eab437ec20a52257e056cb3c2b925f2502592d4c7efa4b1d7f8bd2f1a86c4",
+      "context": {
+        "phrase": {
+          "zh": "隔着一片海，也可以选择理解。",
+          "en": "Across the water, choose understanding."
+        },
+        "visual": {
+          "zh": "放大的空白传单折面悬在水面上方，两处小港口退入远景，蓝色参与纸面的折叠结构。尺度与交叠借喻和平主张跨越分歧；港口为原创意象，不是具体地点、国界或历史外交文件。",
+          "en": "A huge blank folded handbill hangs above water while two small harbors recede into the distance. Blue participates in the paper’s structure. Scale and overlap suggest peace advocacy across divisions; these imagined harbors are not specific places, borders or diplomatic documents."
+        },
+        "background": {
+          "zh": "克拉斯·蓬图斯·阿诺尔德松是瑞典和平倡导者，与腓特烈·巴耶尔共同获得1908年诺贝尔和平奖，各占一半。他主张通过仲裁解决争端，反对以武力处理瑞典与挪威的分歧。1895年关系紧张时，他以传单呼吁无论两国联盟是否维持，都应与挪威和平相处。1905年联盟解体前后，他支持挪威独立与双方和解。获奖理由表彰两人长期作为政治人物、和平组织领导者、演说者和作者推动和平。\n1908年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们长期以政治人物、和平组织领导者、演说者和作者的身份推动和平事业",
+          "en": "Swedish peace advocate Klas Pontus Arnoldson shared the 1908 Nobel Peace Prize equally with Fredrik Bajer. He supported arbitration and opposed force in disagreements between Sweden and Norway. During tensions in 1895, a handbill urged peace with Norway whether or not their union continued. Around its dissolution in 1905, he supported Norwegian independence and reconciliation. The award recognized the two men’s sustained peace work as politicians, peace-society leaders, speakers and authors.\n1908 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their long time work for the cause of peace as politicians, peace society leaders, orators and authors"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年和平奖｜官方记录",
+              "en": "1908 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1908",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1908/arnoldson/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-473",
+      "subject": "nobel-laureate-473",
+      "edition": "color",
+      "title": "克拉斯·蓬图斯·阿诺尔德松",
+      "titleEnglish": "Klas Pontus Arnoldson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-473/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-473/color.jpg",
+      "sha256": "c25098681ea6e0b40ad4408e5431495aba60a9d7c9c3bc1e33163b8d96d96b06",
+      "thumbnailSHA256": "f6aedbad143cd0429fe3ad5387e31dc4f5ce440f169225bf554aa410110af733",
+      "context": {
+        "phrase": {
+          "zh": "隔着一片海，也可以选择理解。",
+          "en": "Across the water, choose understanding."
+        },
+        "visual": {
+          "zh": "放大的空白传单折面悬在水面上方，两处小港口退入远景，蓝色参与纸面的折叠结构。尺度与交叠借喻和平主张跨越分歧；港口为原创意象，不是具体地点、国界或历史外交文件。",
+          "en": "A huge blank folded handbill hangs above water while two small harbors recede into the distance. Blue participates in the paper’s structure. Scale and overlap suggest peace advocacy across divisions; these imagined harbors are not specific places, borders or diplomatic documents."
+        },
+        "background": {
+          "zh": "克拉斯·蓬图斯·阿诺尔德松是瑞典和平倡导者，与腓特烈·巴耶尔共同获得1908年诺贝尔和平奖，各占一半。他主张通过仲裁解决争端，反对以武力处理瑞典与挪威的分歧。1895年关系紧张时，他以传单呼吁无论两国联盟是否维持，都应与挪威和平相处。1905年联盟解体前后，他支持挪威独立与双方和解。获奖理由表彰两人长期作为政治人物、和平组织领导者、演说者和作者推动和平。\n1908年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们长期以政治人物、和平组织领导者、演说者和作者的身份推动和平事业",
+          "en": "Swedish peace advocate Klas Pontus Arnoldson shared the 1908 Nobel Peace Prize equally with Fredrik Bajer. He supported arbitration and opposed force in disagreements between Sweden and Norway. During tensions in 1895, a handbill urged peace with Norway whether or not their union continued. Around its dissolution in 1905, he supported Norwegian independence and reconciliation. The award recognized the two men’s sustained peace work as politicians, peace-society leaders, speakers and authors.\n1908 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their long time work for the cause of peace as politicians, peace society leaders, orators and authors"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年和平奖｜官方记录",
+              "en": "1908 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1908",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1908/arnoldson/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

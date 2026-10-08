@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-180",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-180",
+      "subject": "nobel-laureate-180",
+      "edition": "mono",
+      "title": "弗朗西斯·阿斯顿",
+      "titleEnglish": "Francis W. Aston",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-180/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-180/mono.jpg",
+      "sha256": "d02c8ebc6a26733a3cd27de2fb168a7ac301a0322b46772f5d44725183891599",
+      "thumbnailSHA256": "9f05baf2ac835ea0cacbf12b77006a370ff782c27382194b9bea3c3511ee92b9",
+      "context": {
+        "phrase": {
+          "zh": "相似之中，也有细微的不同。",
+          "en": "Similarity can hold subtle differences."
+        },
+        "visual": {
+          "zh": "巨大的深红马蹄形磁体从右上裁入，黄铜端面朝向左下的琥珀色玻璃；三条铜片以不同弧度弯曲。黑白版保留物件、位置与裁切。这是按质量区分的原创联想，不是真实仪器或粒子轨迹。",
+          "en": "A huge oxblood horseshoe magnet enters from upper right, with brass faces toward amber glass at lower left; three copper strips have different curvatures. Monochrome preserves objects, positions and crop. This is an original association with mass separation, not an actual instrument or particle trajectories."
+        },
+        "background": {
+          "zh": "阿斯顿独享1922年诺贝尔化学奖，因利用质谱仪发现许多非放射性元素的同位素，并提出整数规则。质谱仪是一种区分不同质量原子的工具；他1919年的装置利用电场和磁场使路径偏转。同位素属于同一种元素，却有不同质量。画中磁体、玻璃与弯曲铜条是原创联想，不是他的装置或测量结果；整数规则也不表示所有原子质量都精确等于整数。短句为原创。\n1922年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他利用质谱仪发现许多非放射性元素的同位素，并提出整数规则。",
+          "en": "Aston received the full 1922 Nobel Prize in Chemistry for finding isotopes of many nonradioactive elements with his mass spectrograph and stating the whole-number rule. A mass spectrograph separates atoms by mass; his 1919 instrument used electric and magnetic deflection. Isotopes belong to the same element but have different masses. The magnet, glass and copper strips are original associations, not his apparatus or measurements; the rule does not mean all atomic masses are exact integers. The phrase is original.\n1922 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年化学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1922/aston/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-180",
+      "subject": "nobel-laureate-180",
+      "edition": "color",
+      "title": "弗朗西斯·阿斯顿",
+      "titleEnglish": "Francis W. Aston",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-180/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-180/color.jpg",
+      "sha256": "9b87379425fefb62ce1a59d7924209bf3803fcff9a09583e669f14acbcfeb210",
+      "thumbnailSHA256": "28da6372c6dffa543b77f0bc0dc77614d443c4f217c285b1da6f50bd57b350f1",
+      "context": {
+        "phrase": {
+          "zh": "相似之中，也有细微的不同。",
+          "en": "Similarity can hold subtle differences."
+        },
+        "visual": {
+          "zh": "巨大的深红马蹄形磁体从右上裁入，黄铜端面朝向左下的琥珀色玻璃；三条铜片以不同弧度弯曲。黑白版保留物件、位置与裁切。这是按质量区分的原创联想，不是真实仪器或粒子轨迹。",
+          "en": "A huge oxblood horseshoe magnet enters from upper right, with brass faces toward amber glass at lower left; three copper strips have different curvatures. Monochrome preserves objects, positions and crop. This is an original association with mass separation, not an actual instrument or particle trajectories."
+        },
+        "background": {
+          "zh": "阿斯顿独享1922年诺贝尔化学奖，因利用质谱仪发现许多非放射性元素的同位素，并提出整数规则。质谱仪是一种区分不同质量原子的工具；他1919年的装置利用电场和磁场使路径偏转。同位素属于同一种元素，却有不同质量。画中磁体、玻璃与弯曲铜条是原创联想，不是他的装置或测量结果；整数规则也不表示所有原子质量都精确等于整数。短句为原创。\n1922年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他利用质谱仪发现许多非放射性元素的同位素，并提出整数规则。",
+          "en": "Aston received the full 1922 Nobel Prize in Chemistry for finding isotopes of many nonradioactive elements with his mass spectrograph and stating the whole-number rule. A mass spectrograph separates atoms by mass; his 1919 instrument used electric and magnetic deflection. Isotopes belong to the same element but have different masses. The magnet, glass and copper strips are original associations, not his apparatus or measurements; the rule does not mean all atomic masses are exact integers. The phrase is original.\n1922 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his discovery, by means of his mass spectrograph, of isotopes, in a large number of non-radioactive elements, and for his enunciation of the whole-number rule"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年化学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1922/aston/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

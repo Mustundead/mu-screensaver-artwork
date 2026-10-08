@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-018",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-018",
+      "subject": "oscar-best-picture-018",
+      "edition": "mono",
+      "title": "失去的周末",
+      "titleEnglish": "The Lost Weekend",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-018/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-018/mono.jpg",
+      "sha256": "c2ef54a13c7f8c7670075427929c1060ebaaede038ac118cd8ff640c3bb0783b",
+      "thumbnailSHA256": "9e4171d24ee22fa951792bfae06a571d72af495caa904ace3569a5132def47d4",
+      "context": {
+        "phrase": {
+          "zh": "再写一行，为明天留个开头。",
+          "en": "One more line can be a beginning."
+        },
+        "visual": {
+          "zh": "巨大的打字机从左侧和下方裁切，空白按键与金属机构层层展开；未写字的纸张从滚筒上升，右下只有一只小空杯。右侧深色桌面留出安静空间。彩色版使用黑色机壳、旧黄铜、奶油色纸张、红棕木纹和淡绿色玻璃；黑白版保留相同构图。道具为原创意象，不是电影场景或历史机器的复原。",
+          "en": "An enormous typewriter is cropped at left and below; blank keys and metal mechanisms overlap beneath an unwritten sheet rising from the roller. A small empty glass sits at lower right, separated by quiet dark desk space. Color uses black housing, aged brass, cream paper, reddish-brown wood and pale green glass; monochrome keeps the same composition. Props are original symbols, not a film frame or historic machine reconstruction."
+        },
+        "background": {
+          "zh": "比利·怀尔德执导的《失去的周末》是1945年影片，在1946年3月7日举行的第18届奥斯卡获得最佳影片；影片年份与领奖年份分别记录。美国电影学会的梗概围绕纽约的作家唐·伯纳姆展开：他希望写作，却受到酒精依赖困扰，哥哥和女友试图帮助他。配图用打字机、空白纸和空杯作原创解读，不展示演员肖像，不引用电影台词，也不提供治疗建议。短句为原创，不是影片对白。\n第18届奥斯卡最佳影片：失去的周末。颁奖年份 1946；参评年份 1945。",
+          "en": "Billy Wilder’s The Lost Weekend is a 1945 film that won Best Motion Picture at the 18th Academy Awards on March 7, 1946; film and ceremony years are recorded separately. AFI’s synopsis follows New York aspiring writer Don Birnam, his alcohol addiction and attempts by his brother and girlfriend to help. Typewriter, blank paper and empty glass are an original interpretation, without an actor likeness, quoted dialogue or treatment advice. The phrase is original, not film dialogue.\nAcademy Awards ceremony 18 (1946), Best Picture: The Lost Weekend. Eligibility year: 1945."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1946",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/24487-THE-LOST-WEEKEND",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-018",
+      "subject": "oscar-best-picture-018",
+      "edition": "color",
+      "title": "失去的周末",
+      "titleEnglish": "The Lost Weekend",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-018/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-018/color.jpg",
+      "sha256": "4f99b8498d8ac498bea80349963b9c9f0c00aa7493ff97a897a15e450abff41c",
+      "thumbnailSHA256": "8f5fad7172032c7d664e0de9034a45d1741bb8054393db4138398b3663b70aba",
+      "context": {
+        "phrase": {
+          "zh": "再写一行，为明天留个开头。",
+          "en": "One more line can be a beginning."
+        },
+        "visual": {
+          "zh": "巨大的打字机从左侧和下方裁切，空白按键与金属机构层层展开；未写字的纸张从滚筒上升，右下只有一只小空杯。右侧深色桌面留出安静空间。彩色版使用黑色机壳、旧黄铜、奶油色纸张、红棕木纹和淡绿色玻璃；黑白版保留相同构图。道具为原创意象，不是电影场景或历史机器的复原。",
+          "en": "An enormous typewriter is cropped at left and below; blank keys and metal mechanisms overlap beneath an unwritten sheet rising from the roller. A small empty glass sits at lower right, separated by quiet dark desk space. Color uses black housing, aged brass, cream paper, reddish-brown wood and pale green glass; monochrome keeps the same composition. Props are original symbols, not a film frame or historic machine reconstruction."
+        },
+        "background": {
+          "zh": "比利·怀尔德执导的《失去的周末》是1945年影片，在1946年3月7日举行的第18届奥斯卡获得最佳影片；影片年份与领奖年份分别记录。美国电影学会的梗概围绕纽约的作家唐·伯纳姆展开：他希望写作，却受到酒精依赖困扰，哥哥和女友试图帮助他。配图用打字机、空白纸和空杯作原创解读，不展示演员肖像，不引用电影台词，也不提供治疗建议。短句为原创，不是影片对白。\n第18届奥斯卡最佳影片：失去的周末。颁奖年份 1946；参评年份 1945。",
+          "en": "Billy Wilder’s The Lost Weekend is a 1945 film that won Best Motion Picture at the 18th Academy Awards on March 7, 1946; film and ceremony years are recorded separately. AFI’s synopsis follows New York aspiring writer Don Birnam, his alcohol addiction and attempts by his brother and girlfriend to help. Typewriter, blank paper and empty glass are an original interpretation, without an actor likeness, quoted dialogue or treatment advice. The phrase is original, not film dialogue.\nAcademy Awards ceremony 18 (1946), Best Picture: The Lost Weekend. Eligibility year: 1945."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1946",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/24487-THE-LOST-WEEKEND",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

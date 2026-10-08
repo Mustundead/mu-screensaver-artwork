@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-162",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-162",
+      "subject": "nobel-laureate-162",
+      "edition": "mono",
+      "title": "斯万特·阿伦尼乌斯",
+      "titleEnglish": "Svante Arrhenius",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-162/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-162/mono.jpg",
+      "sha256": "6e20ed3fab7c6a775f4d1160b9866a915097e028cc8ca1b8a106d4a6358b0c38",
+      "thumbnailSHA256": "aaca082b7fb40b3e5411108f9174b97e42ff9831a18d406277a31d57d8469ea9",
+      "context": {
+        "phrase": {
+          "zh": "把看似连续的现象，读成细微的变化。",
+          "en": "Read small changes within an apparently continuous whole."
+        },
+        "visual": {
+          "zh": "为阿伦尼乌斯独立创作的溶液导电拼贴，以溶液容器、电极、盐晶体和无刻度测量仪器呼应他的离解理论。画面不标注粒子数量、读数或电路连接，是艺术表达，不是实验示意图。",
+          "en": "An original solution-conduction collage for Arrhenius uses a liquid vessel, electrodes, salt crystals and an unmarked measuring instrument to evoke dissociation theory. It gives no particle counts, readings or circuit connections; this is art, not an experimental diagram."
+        },
+        "background": {
+          "zh": "阿伦尼乌斯获得1903年诺贝尔化学奖，表彰他的电解离解理论。以食盐溶于水为例，他解释化合物会分成带电的粒子，也就是离子；这些粒子使溶液能够传导电流。配图以材料和测量物件呼应这一研究，不用虚构的读数或粒子图替代理论。\n1903年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他的电解离解理论为化学发展作出的非凡贡献。",
+          "en": "Arrhenius received the 1903 Nobel Prize in Chemistry for his electrolytic dissociation theory. Using dissolved salt as an example, he explained that compounds split into electrically charged particles, or ions, which allow a solution to conduct electricity. The artwork evokes this research through materials and measurement objects without inventing readings or a particle diagram.\n1903 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of the extraordinary services he has rendered to the advancement of chemistry by his electrolytic theory of dissociation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年化学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1903/arrhenius/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-162",
+      "subject": "nobel-laureate-162",
+      "edition": "color",
+      "title": "斯万特·阿伦尼乌斯",
+      "titleEnglish": "Svante Arrhenius",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-162/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-162/color.jpg",
+      "sha256": "4760ece299c4f81df7d0fa7be57816cdf5ab263b46dfb75fb1414194cf594ae5",
+      "thumbnailSHA256": "32d36d783b5d352ef20c58f7ae8f86a1eb507ebbb072df5a3232d8fb4121b6df",
+      "context": {
+        "phrase": {
+          "zh": "把看似连续的现象，读成细微的变化。",
+          "en": "Read small changes within an apparently continuous whole."
+        },
+        "visual": {
+          "zh": "为阿伦尼乌斯独立创作的溶液导电拼贴，以溶液容器、电极、盐晶体和无刻度测量仪器呼应他的离解理论。画面不标注粒子数量、读数或电路连接，是艺术表达，不是实验示意图。",
+          "en": "An original solution-conduction collage for Arrhenius uses a liquid vessel, electrodes, salt crystals and an unmarked measuring instrument to evoke dissociation theory. It gives no particle counts, readings or circuit connections; this is art, not an experimental diagram."
+        },
+        "background": {
+          "zh": "阿伦尼乌斯获得1903年诺贝尔化学奖，表彰他的电解离解理论。以食盐溶于水为例，他解释化合物会分成带电的粒子，也就是离子；这些粒子使溶液能够传导电流。配图以材料和测量物件呼应这一研究，不用虚构的读数或粒子图替代理论。\n1903年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他的电解离解理论为化学发展作出的非凡贡献。",
+          "en": "Arrhenius received the 1903 Nobel Prize in Chemistry for his electrolytic dissociation theory. Using dissolved salt as an example, he explained that compounds split into electrically charged particles, or ions, which allow a solution to conduct electricity. The artwork evokes this research through materials and measurement objects without inventing readings or a particle diagram.\n1903 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of the extraordinary services he has rendered to the advancement of chemistry by his electrolytic theory of dissociation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年化学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1903/arrhenius/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

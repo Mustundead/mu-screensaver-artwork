@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-202",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-202",
+      "subject": "nobel-laureate-202",
+      "edition": "mono",
+      "title": "奥托·哈恩",
+      "titleEnglish": "Otto Hahn",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-202/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-202/mono.jpg",
+      "sha256": "eae48a5806d982298b2e40bd7225b6293d25ec90eec001448a07a4791cc8a2d9",
+      "thumbnailSHA256": "b1169adc0161d90584333250870146eff4b914ebc5083e292b6ff564152fd82c",
+      "context": {
+        "phrase": {
+          "zh": "看清分开的部分，重新理解整体。",
+          "en": "Look at the separated parts to understand the whole anew."
+        },
+        "visual": {
+          "zh": "两个大小不同的球簇向两侧分开，明暗相间的小球以细线塑形，中央留出清楚的间隙。",
+          "en": "Two differently sized bead clusters separate to either side. Light and dark beads carry fine hatching around a clear central gap."
+        },
+        "background": {
+          "zh": "哈恩与施特拉斯曼在中子照射铀后的产物中发现了钡。迈特纳与弗里施随后给出了核裂变的物理解释。哈恩获得1944年诺贝尔化学奖，该年度奖延至1945年授予。画面用两个分离的球簇表达重原子核分裂，是原创示意，球的数量与距离不表示真实核组成或测量结果。短句为原创。\n1944年化学奖；独享本年度奖项。获奖理由（中文译述）：发现重原子核的裂变",
+          "en": "Hahn and Strassmann found barium after neutron irradiation of uranium. Meitner and Frisch supplied the physical explanation of nuclear fission. Hahn received the 1944 Nobel Prize in Chemistry in 1945. Two separated bead clusters express the splitting of a heavy nucleus. Their counts and distances are illustrative, not a nuclear inventory or measurement. The phrase is original.\n1944 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his discovery of the fission of heavy nuclei"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年化学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "mpg.de",
+            "url": "https://www.mpg.de/18357917/otto-hahn-mainau-declaration",
+            "labelLocalized": {
+              "zh": "哈恩与核裂变研究｜马克斯·普朗克学会",
+              "en": "Hahn and nuclear fission research — Max Planck Society"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-202",
+      "subject": "nobel-laureate-202",
+      "edition": "color",
+      "title": "奥托·哈恩",
+      "titleEnglish": "Otto Hahn",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-202/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-202/color.jpg",
+      "sha256": "81404e77d9fd0f8e24b2edcdd1875dcbe13408a286370166977a22fe54d5d0b3",
+      "thumbnailSHA256": "fbc94faee39be610bf632eec77153626c34640ff0616fae344bdda0aa62fd946",
+      "context": {
+        "phrase": {
+          "zh": "看清分开的部分，重新理解整体。",
+          "en": "Look at the separated parts to understand the whole anew."
+        },
+        "visual": {
+          "zh": "两个大小不同的球簇向两侧分开，明暗相间的小球以细线塑形，中央留出清楚的间隙。",
+          "en": "Two differently sized bead clusters separate to either side. Light and dark beads carry fine hatching around a clear central gap."
+        },
+        "background": {
+          "zh": "哈恩与施特拉斯曼在中子照射铀后的产物中发现了钡。迈特纳与弗里施随后给出了核裂变的物理解释。哈恩获得1944年诺贝尔化学奖，该年度奖延至1945年授予。画面用两个分离的球簇表达重原子核分裂，是原创示意，球的数量与距离不表示真实核组成或测量结果。短句为原创。\n1944年化学奖；独享本年度奖项。获奖理由（中文译述）：发现重原子核的裂变",
+          "en": "Hahn and Strassmann found barium after neutron irradiation of uranium. Meitner and Frisch supplied the physical explanation of nuclear fission. Hahn received the 1944 Nobel Prize in Chemistry in 1945. Two separated bead clusters express the splitting of a heavy nucleus. Their counts and distances are illustrative, not a nuclear inventory or measurement. The phrase is original.\n1944 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his discovery of the fission of heavy nuclei"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年化学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "mpg.de",
+            "url": "https://www.mpg.de/18357917/otto-hahn-mainau-declaration",
+            "labelLocalized": {
+              "zh": "哈恩与核裂变研究｜马克斯·普朗克学会",
+              "en": "Hahn and nuclear fission research — Max Planck Society"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

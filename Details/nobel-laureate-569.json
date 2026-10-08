@@ -1,0 +1,102 @@
+{
+  "subject": "nobel-laureate-569",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-569",
+      "subject": "nobel-laureate-569",
+      "edition": "mono",
+      "title": "苏利·普吕多姆",
+      "titleEnglish": "Sully Prudhomme",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-569/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-569/mono.jpg",
+      "sha256": "37f3113c2ea1051ddf69db9e12325780aade6c686414b85d5a48690fcf914275",
+      "thumbnailSHA256": "5d9254b9ce91e6fa22d6c467293817aebd3bc439e0b9fc1df714138e60a17bd9",
+      "context": {
+        "phrase": {
+          "zh": "细小的裂痕，也值得温柔看见。",
+          "en": "Even the finest crack deserves a gentle gaze."
+        },
+        "visual": {
+          "zh": "为普吕多姆独立创作的诗歌拼贴，以带细裂纹的花瓶、花朵与书写工具回应《破碎的花瓶》的意象；画面不嵌入诗句。",
+          "en": "An original poetry collage for Prudhomme, with a hairline-cracked vase, flowers and writing tools responding to the imagery of The Broken Vase. No verses are embedded in the image."
+        },
+        "background": {
+          "zh": "普吕多姆获得1901年首届诺贝尔文学奖，获奖理由肯定他诗歌中的理想、艺术与情感和理智的结合。配图借用《破碎的花瓶》的意象，表达对细微伤痕的体察；这是艺术解读，并不表示他仅凭这一首诗获奖。\n1901年文学奖；独享本年度奖项。获奖理由（中文译述）：特别表彰他的诗歌创作：崇高的理想、精湛的艺术，以及情感与理智的罕见结合。",
+          "en": "Prudhomme received the first Nobel Prize in Literature in 1901, with recognition for poetry combining idealism, artistic accomplishment, feeling and intellect. The image draws on The Broken Vase to interpret attention to subtle wounds; it does not imply that the prize was awarded for this poem alone.\n1901 — The Nobel Prize in Literature. Received the full prize. Official motivation: in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年文学奖｜官方记录",
+              "en": "1901 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/ceremony/from-the-first-nobel-prize-award-ceremony-1901/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "academie-francaise.fr",
+            "url": "https://www.academie-francaise.fr/les-immortels/armand-prudhomme-dit-sully-prudhomme"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-569",
+      "subject": "nobel-laureate-569",
+      "edition": "color",
+      "title": "苏利·普吕多姆",
+      "titleEnglish": "Sully Prudhomme",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-569/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-569/color.jpg",
+      "sha256": "d37cf2b151a0743864bbcf4b89e6877db769d196d0f9e77f6864589160b592b7",
+      "thumbnailSHA256": "6edf3ff7501024ccd7bb9d66b1e9b28ddc25c39fd47b49dc0d78fcaae615ca51",
+      "context": {
+        "phrase": {
+          "zh": "细小的裂痕，也值得温柔看见。",
+          "en": "Even the finest crack deserves a gentle gaze."
+        },
+        "visual": {
+          "zh": "为普吕多姆独立创作的诗歌拼贴，以带细裂纹的花瓶、花朵与书写工具回应《破碎的花瓶》的意象；画面不嵌入诗句。",
+          "en": "An original poetry collage for Prudhomme, with a hairline-cracked vase, flowers and writing tools responding to the imagery of The Broken Vase. No verses are embedded in the image."
+        },
+        "background": {
+          "zh": "普吕多姆获得1901年首届诺贝尔文学奖，获奖理由肯定他诗歌中的理想、艺术与情感和理智的结合。配图借用《破碎的花瓶》的意象，表达对细微伤痕的体察；这是艺术解读，并不表示他仅凭这一首诗获奖。\n1901年文学奖；独享本年度奖项。获奖理由（中文译述）：特别表彰他的诗歌创作：崇高的理想、精湛的艺术，以及情感与理智的罕见结合。",
+          "en": "Prudhomme received the first Nobel Prize in Literature in 1901, with recognition for poetry combining idealism, artistic accomplishment, feeling and intellect. The image draws on The Broken Vase to interpret attention to subtle wounds; it does not imply that the prize was awarded for this poem alone.\n1901 — The Nobel Prize in Literature. Received the full prize. Official motivation: in special recognition of his poetic composition, which gives evidence of lofty idealism, artistic perfection and a rare combination of the qualities of both heart and intellect"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年文学奖｜官方记录",
+              "en": "1901 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/ceremony/from-the-first-nobel-prize-award-ceremony-1901/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "academie-francaise.fr",
+            "url": "https://www.academie-francaise.fr/les-immortels/armand-prudhomme-dit-sully-prudhomme"
+          }
+        ]
+      }
+    }
+  }
+}

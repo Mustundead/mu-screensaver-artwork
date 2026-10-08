@@ -1,0 +1,102 @@
+{
+  "subject": "nobel-laureate-328",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-328",
+      "subject": "nobel-laureate-328",
+      "edition": "mono",
+      "title": "威廉·墨菲",
+      "titleEnglish": "William P. Murphy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-328/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-328/mono.jpg",
+      "sha256": "cf44e78a6a7e3a50ca7e08df1b6728b14faf3901c117ea571a49add1c7f6c99b",
+      "thumbnailSHA256": "cd619f101e09e87892b8dd559bdd39588c5864d5cafae1e92e426ecb36ee1415",
+      "context": {
+        "phrase": {
+          "zh": "让每一次观察，都留下可以核对的线索。",
+          "en": "Let each observation leave a clue that can be checked."
+        },
+        "visual": {
+          "zh": "左上黄铜物镜位于水平载玻片的微小暗红样本上方，玻片平贴深色载台，两端夹片压住边缘，右侧深绿留白。中性黑白版以浅灰玻片、灰色样本与深色孔口保留连接和层次。",
+          "en": "At upper left a brass objective sits above a tiny dark-red sample on a horizontal glass slide. The slide lies flush on a dark stage and end clips secure its edges; deep-green space remains at right. Neutral monochrome preserves contacts and layers with pale-gray glass, a gray sample and a dark aperture."
+        },
+        "background": {
+          "zh": "墨菲与惠普尔、迈诺特共同获得1934年诺贝尔生理学或医学奖。他与迈诺特在1926年的临床研究中，把来自食物研究的线索用于恶性贫血患者，推动了当时的肝脏疗法。物镜与载玻片取意于医学观察，是原创场景，不是他使用过的仪器，也不表示某一步研究由他独自完成；历史饮食疗法不代表今天的治疗建议。短句为原创。\n1934年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：关于以肝脏疗法治疗贫血的发现。",
+          "en": "Murphy shared the 1934 Nobel Prize in Physiology or Medicine with Whipple and Minot. In clinical work published with Minot in 1926, dietary research informed their work with people who had pernicious anaemia and the development of liver therapy at that time. The objective and glass slide are an original metaphor for medical observation, not Murphy's own instrument or evidence of an exclusive research role. The historical diet is not present-day treatment advice. The phrase is original.\n1934 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for their discoveries concerning liver therapy in cases of anaemia"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年生理学或医学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "nhlbi.nih.gov",
+            "url": "https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-328",
+      "subject": "nobel-laureate-328",
+      "edition": "color",
+      "title": "威廉·墨菲",
+      "titleEnglish": "William P. Murphy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-328/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-328/color.jpg",
+      "sha256": "10e88e2911a01512aeade98deca425b81fb4d18f9284c7250124d5d441f9255a",
+      "thumbnailSHA256": "623c217e900002d07f27db7d076834c7d0fdd9092e00c1a715b359169e25447e",
+      "context": {
+        "phrase": {
+          "zh": "让每一次观察，都留下可以核对的线索。",
+          "en": "Let each observation leave a clue that can be checked."
+        },
+        "visual": {
+          "zh": "左上黄铜物镜位于水平载玻片的微小暗红样本上方，玻片平贴深色载台，两端夹片压住边缘，右侧深绿留白。中性黑白版以浅灰玻片、灰色样本与深色孔口保留连接和层次。",
+          "en": "At upper left a brass objective sits above a tiny dark-red sample on a horizontal glass slide. The slide lies flush on a dark stage and end clips secure its edges; deep-green space remains at right. Neutral monochrome preserves contacts and layers with pale-gray glass, a gray sample and a dark aperture."
+        },
+        "background": {
+          "zh": "墨菲与惠普尔、迈诺特共同获得1934年诺贝尔生理学或医学奖。他与迈诺特在1926年的临床研究中，把来自食物研究的线索用于恶性贫血患者，推动了当时的肝脏疗法。物镜与载玻片取意于医学观察，是原创场景，不是他使用过的仪器，也不表示某一步研究由他独自完成；历史饮食疗法不代表今天的治疗建议。短句为原创。\n1934年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：关于以肝脏疗法治疗贫血的发现。",
+          "en": "Murphy shared the 1934 Nobel Prize in Physiology or Medicine with Whipple and Minot. In clinical work published with Minot in 1926, dietary research informed their work with people who had pernicious anaemia and the development of liver therapy at that time. The objective and glass slide are an original metaphor for medical observation, not Murphy's own instrument or evidence of an exclusive research role. The historical diet is not present-day treatment advice. The phrase is original.\n1934 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for their discoveries concerning liver therapy in cases of anaemia"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年生理学或医学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "nhlbi.nih.gov",
+            "url": "https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia"
+          }
+        ]
+      }
+    }
+  }
+}

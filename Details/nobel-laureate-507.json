@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-507",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-507",
+      "subject": "nobel-laureate-507",
+      "edition": "mono",
+      "title": "约翰·莫特",
+      "titleEnglish": "John R. Mott",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-507/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-507/mono.jpg",
+      "sha256": "6220dadfb0215924f41efe7a1b3d3342b43a7a7c3ec9eae6a2001fe7f90d4fcf",
+      "thumbnailSHA256": "817b5940ffa10c5109cb6e22444d55521426d7b86fe78058c120c89065adfb65",
+      "context": {
+        "phrase": {
+          "zh": "让相遇，跨过边界。",
+          "en": "Let connection cross the boundary."
+        },
+        "visual": {
+          "zh": "一座窄木桥横跨画面中部，两端连接岩岸，栏杆与桥面清楚可见，岩面和植被向下延伸至深处。",
+          "en": "A narrow timber bridge crosses the center and joins rocky banks, its deck and rails clearly drawn; stone planes and vegetation descend into the deep gap."
+        },
+        "background": {
+          "zh": "莫特通过基督教青年组织建立跨国联系，推动青年之间的理解与合作。他因对建立跨越国界、促进和平的宗教兄弟情谊的贡献，与巴尔奇平分1946年诺贝尔和平奖。连接两岸的桥是原创寓意，不指代真实地点或组织建筑。短句为原创。\n1946年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：为建立跨越国界、促进和平的宗教兄弟情谊作出贡献。",
+          "en": "Mott built international connections through Christian youth organizations, encouraging understanding and cooperation among young people. He shared the 1946 Nobel Peace Prize equally with Balch for helping create a peace-promoting religious fellowship across national boundaries. A bridge joining two banks is an original metaphor, not a real site or an organizational building. The phrase is original.\n1946 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his contribution to the creation of a peace-promoting religious brotherhood across national boundaries"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年和平奖｜官方记录",
+              "en": "1946 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1946/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-507",
+      "subject": "nobel-laureate-507",
+      "edition": "color",
+      "title": "约翰·莫特",
+      "titleEnglish": "John R. Mott",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-507/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-507/color.jpg",
+      "sha256": "562ae8a57dc3e6468b1f5383ee4750438f2e780f901ae56ef9fdcb4db648ecb3",
+      "thumbnailSHA256": "71da9d7d763bd95208564a1b6f6eef8a4e1a2872200d9f4f5c3b7362653188f2",
+      "context": {
+        "phrase": {
+          "zh": "让相遇，跨过边界。",
+          "en": "Let connection cross the boundary."
+        },
+        "visual": {
+          "zh": "一座窄木桥横跨画面中部，两端连接岩岸，栏杆与桥面清楚可见，岩面和植被向下延伸至深处。",
+          "en": "A narrow timber bridge crosses the center and joins rocky banks, its deck and rails clearly drawn; stone planes and vegetation descend into the deep gap."
+        },
+        "background": {
+          "zh": "莫特通过基督教青年组织建立跨国联系，推动青年之间的理解与合作。他因对建立跨越国界、促进和平的宗教兄弟情谊的贡献，与巴尔奇平分1946年诺贝尔和平奖。连接两岸的桥是原创寓意，不指代真实地点或组织建筑。短句为原创。\n1946年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：为建立跨越国界、促进和平的宗教兄弟情谊作出贡献。",
+          "en": "Mott built international connections through Christian youth organizations, encouraging understanding and cooperation among young people. He shared the 1946 Nobel Peace Prize equally with Balch for helping create a peace-promoting religious fellowship across national boundaries. A bridge joining two banks is an original metaphor, not a real site or an organizational building. The phrase is original.\n1946 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his contribution to the creation of a peace-promoting religious brotherhood across national boundaries"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年和平奖｜官方记录",
+              "en": "1946 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1946/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

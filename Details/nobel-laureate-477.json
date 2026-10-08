@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-477",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-477",
+      "subject": "nobel-laureate-477",
+      "edition": "mono",
+      "title": "常设国际和平局",
+      "titleEnglish": "Permanent International Peace Bureau",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-477/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-477/mono.jpg",
+      "sha256": "b2b1c0e9ca8e12aca6d40ea221dc75a9f9040c744d59937433690f62f0706095",
+      "thumbnailSHA256": "4644f630d53eee96b734bd248666abbd9f1f05832b2d277928f74cb8b3803d6a",
+      "context": {
+        "phrase": {
+          "zh": "让各自的声音，保持联系。",
+          "en": "Keep separate voices in contact."
+        },
+        "visual": {
+          "zh": "巨幅交织绳结与大小不一的空白信封互相遮挡，暗示不同团体之间的联络。黑白与钴蓝版突出绳带结构；彩色版使用亚麻色与赭色绳索、乳白和灰绿色信封。它是原创视觉隐喻，不是组织标志、真实档案或统计网络图。",
+          "en": "An oversized woven knot overlaps differently scaled blank envelopes to suggest contact between organizations. Cobalt defines the monochrome structure; full color combines flax and ochre rope with cream and sage paper. This is an original metaphor, not an organization emblem, archival record or statistical network diagram."
+        },
+        "background": {
+          "zh": "常设国际和平局于1891年在瑞士伯尔尼成立，联系各国和平团体，并帮助组织国际和平运动的集会，因这些工作获得1910年诺贝尔和平奖。诺贝尔官方历史介绍将它视为当时民间和平运动的国际联络中心；该组织自身的历史资料也记录了成立地与获奖年份。这里表现的是持续联络和共同组织工作的意义，不暗示它拥有政府权力、能够保证和平或已经解决所有冲突。绳结与空白信封是原创隐喻，不复制其标志或具体文件；短句不是组织的正式口号。\n1910年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰它联系各国和平团体，并协助组织国际和平运动的世界性集会。",
+          "en": "The Permanent International Peace Bureau was founded in Bern, Switzerland, in 1891. It received the 1910 Nobel Peace Prize for linking peace societies across countries and assisting international gatherings. Nobel’s historical overview describes an international headquarters for this civil peace movement; the organization’s own history also records its founding place and award year. This artwork interprets continued contact and shared organization, without implying governmental authority, guaranteed peace or resolution of every conflict. The knot and blank envelopes are original metaphors, not copied logos or documents. The phrase is not an official slogan.\n1910 — The Nobel Peace Prize. Received the full prize. Official motivation: for acting as a link between the peace societies of the various countries, and helping them to organize the world rallies of the international peace movement"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年和平奖｜官方记录",
+              "en": "1910 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "ipb.org",
+            "url": "https://ipb.org/international-peace-bureau-peace-and-human-rights-archive-on-offer/",
+            "labelLocalized": {
+              "zh": "组织历史｜国际和平局",
+              "en": "Organization history — International Peace Bureau"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-477",
+      "subject": "nobel-laureate-477",
+      "edition": "color",
+      "title": "常设国际和平局",
+      "titleEnglish": "Permanent International Peace Bureau",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-477/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-477/color.jpg",
+      "sha256": "c885f09585c6552b63aa418e7a305563ddc631729a277ed89120a32381ada639",
+      "thumbnailSHA256": "3aac6ef6f3530adda009329c2dc6bb1b9fad1e5c7dc6899fd156a449395c4634",
+      "context": {
+        "phrase": {
+          "zh": "让各自的声音，保持联系。",
+          "en": "Keep separate voices in contact."
+        },
+        "visual": {
+          "zh": "巨幅交织绳结与大小不一的空白信封互相遮挡，暗示不同团体之间的联络。黑白与钴蓝版突出绳带结构；彩色版使用亚麻色与赭色绳索、乳白和灰绿色信封。它是原创视觉隐喻，不是组织标志、真实档案或统计网络图。",
+          "en": "An oversized woven knot overlaps differently scaled blank envelopes to suggest contact between organizations. Cobalt defines the monochrome structure; full color combines flax and ochre rope with cream and sage paper. This is an original metaphor, not an organization emblem, archival record or statistical network diagram."
+        },
+        "background": {
+          "zh": "常设国际和平局于1891年在瑞士伯尔尼成立，联系各国和平团体，并帮助组织国际和平运动的集会，因这些工作获得1910年诺贝尔和平奖。诺贝尔官方历史介绍将它视为当时民间和平运动的国际联络中心；该组织自身的历史资料也记录了成立地与获奖年份。这里表现的是持续联络和共同组织工作的意义，不暗示它拥有政府权力、能够保证和平或已经解决所有冲突。绳结与空白信封是原创隐喻，不复制其标志或具体文件；短句不是组织的正式口号。\n1910年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰它联系各国和平团体，并协助组织国际和平运动的世界性集会。",
+          "en": "The Permanent International Peace Bureau was founded in Bern, Switzerland, in 1891. It received the 1910 Nobel Peace Prize for linking peace societies across countries and assisting international gatherings. Nobel’s historical overview describes an international headquarters for this civil peace movement; the organization’s own history also records its founding place and award year. This artwork interprets continued contact and shared organization, without implying governmental authority, guaranteed peace or resolution of every conflict. The knot and blank envelopes are original metaphors, not copied logos or documents. The phrase is not an official slogan.\n1910 — The Nobel Peace Prize. Received the full prize. Official motivation: for acting as a link between the peace societies of the various countries, and helping them to organize the world rallies of the international peace movement"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年和平奖｜官方记录",
+              "en": "1910 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "ipb.org",
+            "url": "https://ipb.org/international-peace-bureau-peace-and-human-rights-archive-on-offer/",
+            "labelLocalized": {
+              "zh": "组织历史｜国际和平局",
+              "en": "Organization history — International Peace Bureau"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

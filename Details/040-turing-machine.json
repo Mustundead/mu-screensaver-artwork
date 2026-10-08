@@ -1,0 +1,70 @@
+{
+  "subject": "040-turing-machine",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:040-turing-machine",
+      "subject": "040-turing-machine",
+      "edition": "mono",
+      "title": "图灵与计算",
+      "titleEnglish": "Turing and Computation",
+      "category": "计算与人工智能",
+      "image": "Images/mono/040-turing-machine.jpg",
+      "thumbnail": "Thumbs/mono/040-turing-machine.jpg",
+      "sha256": "b9c07b3fc31ba21a1ec01ada86cdf236783bbc3ee9904347b3eabc9e6a79f901",
+      "thumbnailSHA256": "f4929d46ce73444647a81dbae3b8a480bab6907441708c57dfc832745b755771",
+      "context": {
+        "phrase": {
+          "zh": "简单规则，也能提出深的问题。",
+          "en": "Simple rules can ask deep questions."
+        },
+        "visual": {
+          "zh": "人物面前延伸出纸带和离散符号，用可触的物件表现抽象计算。人物是风格化肖像，纸带并非可运行的图灵机程序。",
+          "en": "A stylized figure faces a tape of discrete symbols, giving abstract computation a tangible form. The tape is not an executable Turing-machine program."
+        },
+        "background": {
+          "zh": "图灵在 1936 年的论文中提出一种读写符号的抽象机器，用它探讨什么可以由明确步骤计算。他还说明一台通用机器如何按描述模拟其他机器；理论模型不等于当时已造出的实体计算机。",
+          "en": "In a 1936 paper, Turing used an abstract symbol-reading and writing machine to examine what definite procedures can compute. He also described a universal machine able to simulate others from their descriptions; the model was not a physical computer built at that time."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Turing and digital computers",
+            "url": "https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-8-pdf/k-8-u2792-Turing-Digital-Computers.pdf"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:040-turing-machine",
+      "subject": "040-turing-machine",
+      "edition": "color",
+      "title": "图灵与计算",
+      "titleEnglish": "Turing and Computation",
+      "category": "计算与人工智能",
+      "image": "Images/color/040-turing-machine.jpg",
+      "thumbnail": "Thumbs/color/040-turing-machine.jpg",
+      "sha256": "b14fc91c61fcc88655ec1b35519b0655aff4b184cc2149c9cdbf78a8ac6261ba",
+      "thumbnailSHA256": "c0a3ad06cc2a838fab4f46ae7563f68f7c478397c1bac305a771e8c6ed443f56",
+      "context": {
+        "phrase": {
+          "zh": "简单规则，也能提出深的问题。",
+          "en": "Simple rules can ask deep questions."
+        },
+        "visual": {
+          "zh": "人物面前延伸出纸带和离散符号，用可触的物件表现抽象计算。人物是风格化肖像，纸带并非可运行的图灵机程序。",
+          "en": "A stylized figure faces a tape of discrete symbols, giving abstract computation a tangible form. The tape is not an executable Turing-machine program."
+        },
+        "background": {
+          "zh": "图灵在 1936 年的论文中提出一种读写符号的抽象机器，用它探讨什么可以由明确步骤计算。他还说明一台通用机器如何按描述模拟其他机器；理论模型不等于当时已造出的实体计算机。",
+          "en": "In a 1936 paper, Turing used an abstract symbol-reading and writing machine to examine what definite procedures can compute. He also described a universal machine able to simulate others from their descriptions; the model was not a physical computer built at that time."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Turing and digital computers",
+            "url": "https://archive.computerhistory.org/resources/text/Knuth_Don_X4100/PDF_index/k-8-pdf/k-8-u2792-Turing-Digital-Computers.pdf"
+          }
+        ]
+      }
+    }
+  }
+}

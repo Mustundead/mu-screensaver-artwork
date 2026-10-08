@@ -1,0 +1,86 @@
+{
+  "subject": "nobel-laureate-192",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-192",
+      "subject": "nobel-laureate-192",
+      "edition": "mono",
+      "title": "哈罗德·尤里",
+      "titleEnglish": "Harold C. Urey",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-192/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-192/mono.jpg",
+      "sha256": "ad318bf8356f24d1ac5f5f97178e48b087e38c10ab2dd8f3303219d2c491bfb0",
+      "thumbnailSHA256": "44a32b8b97906490e1a3e4a75e48344920132324e6dbf85ddb556c9488deedd6",
+      "context": {
+        "phrase": {
+          "zh": "细看那一点差别，世界便多了一种认识。",
+          "en": "A closer look at a small difference reveals something new."
+        },
+        "visual": {
+          "zh": "左侧立式铜色椭圆框包围一粗一细两条暗红竖线，右侧为大片深绿留白；细刻线沿框边排布。中性黑白版保留相同构图，以浅灰竖线区别暗色背景。",
+          "en": "At left an upright copper-colored oval frame surrounds one broad and one fine dark-red vertical mark; a broad deep-green field remains quiet at right. Fine hatching follows the frame. Neutral monochrome preserves the arrangement with pale-gray marks against a dark ground."
+        },
+        "background": {
+          "zh": "尤里因发现重氢获得1934年诺贝尔化学奖。重氢也叫氘，是氢的一种较重同位素：仍是氢，但原子核中多一个中子。1931年，他与合作者通过氢的光谱寻找这种差别。铜框内一粗一细的竖线取意于光谱辨认，是原创插画，不是实测光谱、波长刻度或原用仪器；短句为原创。\n1934年化学奖；独享本年度奖项。获奖理由（中文译述）：发现重氢。",
+          "en": "Urey received the 1934 Nobel Prize in Chemistry for discovering heavy hydrogen. Also called deuterium, it is a heavier isotope of hydrogen: still hydrogen, but with an additional neutron in its nucleus. In 1931 he and collaborators used hydrogen spectra to identify the difference. The broad and fine upright marks inside a copper frame draw on spectral observation. This is original artwork, not a measured spectrum, wavelength scale or historical instrument. The phrase is original.\n1934 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his discovery of heavy hydrogen"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年化学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "nist.gov",
+            "url": "https://www.nist.gov/nist-and-nobel/other-nist-connections-nobel-prize"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-192",
+      "subject": "nobel-laureate-192",
+      "edition": "color",
+      "title": "哈罗德·尤里",
+      "titleEnglish": "Harold C. Urey",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-192/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-192/color.jpg",
+      "sha256": "b4a59b5f22c85f63a9885ee8edc787d4bb784d4c919d6a3bc98d815e7229ce9b",
+      "thumbnailSHA256": "2ea10282055120499b36cc0797e83bde7145e26c87c746165d35ec0815c0a130",
+      "context": {
+        "phrase": {
+          "zh": "细看那一点差别，世界便多了一种认识。",
+          "en": "A closer look at a small difference reveals something new."
+        },
+        "visual": {
+          "zh": "左侧立式铜色椭圆框包围一粗一细两条暗红竖线，右侧为大片深绿留白；细刻线沿框边排布。中性黑白版保留相同构图，以浅灰竖线区别暗色背景。",
+          "en": "At left an upright copper-colored oval frame surrounds one broad and one fine dark-red vertical mark; a broad deep-green field remains quiet at right. Fine hatching follows the frame. Neutral monochrome preserves the arrangement with pale-gray marks against a dark ground."
+        },
+        "background": {
+          "zh": "尤里因发现重氢获得1934年诺贝尔化学奖。重氢也叫氘，是氢的一种较重同位素：仍是氢，但原子核中多一个中子。1931年，他与合作者通过氢的光谱寻找这种差别。铜框内一粗一细的竖线取意于光谱辨认，是原创插画，不是实测光谱、波长刻度或原用仪器；短句为原创。\n1934年化学奖；独享本年度奖项。获奖理由（中文译述）：发现重氢。",
+          "en": "Urey received the 1934 Nobel Prize in Chemistry for discovering heavy hydrogen. Also called deuterium, it is a heavier isotope of hydrogen: still hydrogen, but with an additional neutron in its nucleus. In 1931 he and collaborators used hydrogen spectra to identify the difference. The broad and fine upright marks inside a copper frame draw on spectral observation. This is original artwork, not a measured spectrum, wavelength scale or historical instrument. The phrase is original.\n1934 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his discovery of heavy hydrogen"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年化学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "nist.gov",
+            "url": "https://www.nist.gov/nist-and-nobel/other-nist-connections-nobel-prize"
+          }
+        ]
+      }
+    }
+  }
+}

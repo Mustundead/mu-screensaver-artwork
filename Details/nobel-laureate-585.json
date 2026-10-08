@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-585",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-585",
+      "subject": "nobel-laureate-585",
+      "edition": "mono",
+      "title": "魏尔纳·冯·海登斯塔姆",
+      "titleEnglish": "Verner von Heidenstam",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-585/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-585/mono.jpg",
+      "sha256": "dfad10cf5945fc3975e7ec86f5cede51253366f726b242615ae80b7039ae0947",
+      "thumbnailSHA256": "de049219ed5e21696908dfb33fc250560fd19be16092d5a8a8fc9e0479b6b8a1",
+      "context": {
+        "phrase": {
+          "zh": "走过的路，也会成为书页。",
+          "en": "The road can become a page."
+        },
+        "visual": {
+          "zh": "巨大的旧皮旅行箱从左侧裁切，空白折纸越过箱沿，斜向展开至右上；红棕书封压在纸下，右下小黄铜指南针与书保持距离。彩色版保留皮革、黄铜、奶油色纸张、暗红布封和灰石的材质差别；黑白版沿用构图。折纸没有路线、地名或文字，道具不是作家的真实行李、手稿或旅程地图。",
+          "en": "A giant worn leather trunk is cropped at left; blank folded paper crosses its rim and opens diagonally toward upper right. A burgundy book is partly beneath it, separated from a small brass compass. Color distinguishes leather, brass, cream paper, cloth and gray stone; monochrome preserves composition. The sheet has no routes, place names or writing. Props are neither the author’s belongings nor a manuscript or travel map."
+        },
+        "background": {
+          "zh": "海登斯塔姆独享1916年诺贝尔文学奖，获奖理由肯定他作为瑞典文学新时代重要代表的地位。瑞典学院记录他1876至1878年的旅行，以及此后在罗马、巴黎和瑞士的生活；他于1888年以诗集Vallfart och vandringsår进入文坛，作品还包括小说、历史叙事和随笔，1915年出版Nya dikter。配图以旅行箱、折纸与书表现旅行和写作的联系，属于原创解读，不复原任何旅程或作品内容。短句为原创，不是获奖者引语。\n1916年文学奖；独享本年度奖项。获奖理由（中文译述）：肯定他作为瑞典文学新时代重要代表的地位",
+          "en": "Heidenstam received the full 1916 Nobel Prize in Literature, recognized as a leading figure in a new era of Swedish literature. The Swedish Academy records travels in 1876–1878 and subsequent life in Rome, Paris and Switzerland. His 1888 poetry debut was Vallfart och vandringsår; novels, historical narratives and essays followed, with Nya dikter published in 1915. Trunk, folded paper and book are an original interpretation of travel and writing, not a reconstructed journey or text. The phrase is original, not a quotation.\n1916 — The Nobel Prize in Literature. Received the full prize. Official motivation: in recognition of his significance as the leading representative of a new era in our literature"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1916 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1916/summary/",
+            "labelLocalized": {
+              "zh": "1916年文学奖｜官方记录",
+              "en": "1916 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "svenskaakademien.se",
+            "url": "https://www.svenskaakademien.se/svenska-akademien/de-aderton/stol-nr-8-verner-von-heidenstam",
+            "labelLocalized": {
+              "zh": "作家资料｜瑞典学院",
+              "en": "Author profile — Swedish Academy"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-585",
+      "subject": "nobel-laureate-585",
+      "edition": "color",
+      "title": "魏尔纳·冯·海登斯塔姆",
+      "titleEnglish": "Verner von Heidenstam",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-585/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-585/color.jpg",
+      "sha256": "fdc1be59e6c3d7d6b0005a68a346d7c6ec0b3a0648cf4c657947ab494d8bc952",
+      "thumbnailSHA256": "25d7d415a410ac2300b4df1877385be0bd5e630d8aa64bd34bd2d98567823f0c",
+      "context": {
+        "phrase": {
+          "zh": "走过的路，也会成为书页。",
+          "en": "The road can become a page."
+        },
+        "visual": {
+          "zh": "巨大的旧皮旅行箱从左侧裁切，空白折纸越过箱沿，斜向展开至右上；红棕书封压在纸下，右下小黄铜指南针与书保持距离。彩色版保留皮革、黄铜、奶油色纸张、暗红布封和灰石的材质差别；黑白版沿用构图。折纸没有路线、地名或文字，道具不是作家的真实行李、手稿或旅程地图。",
+          "en": "A giant worn leather trunk is cropped at left; blank folded paper crosses its rim and opens diagonally toward upper right. A burgundy book is partly beneath it, separated from a small brass compass. Color distinguishes leather, brass, cream paper, cloth and gray stone; monochrome preserves composition. The sheet has no routes, place names or writing. Props are neither the author’s belongings nor a manuscript or travel map."
+        },
+        "background": {
+          "zh": "海登斯塔姆独享1916年诺贝尔文学奖，获奖理由肯定他作为瑞典文学新时代重要代表的地位。瑞典学院记录他1876至1878年的旅行，以及此后在罗马、巴黎和瑞士的生活；他于1888年以诗集Vallfart och vandringsår进入文坛，作品还包括小说、历史叙事和随笔，1915年出版Nya dikter。配图以旅行箱、折纸与书表现旅行和写作的联系，属于原创解读，不复原任何旅程或作品内容。短句为原创，不是获奖者引语。\n1916年文学奖；独享本年度奖项。获奖理由（中文译述）：肯定他作为瑞典文学新时代重要代表的地位",
+          "en": "Heidenstam received the full 1916 Nobel Prize in Literature, recognized as a leading figure in a new era of Swedish literature. The Swedish Academy records travels in 1876–1878 and subsequent life in Rome, Paris and Switzerland. His 1888 poetry debut was Vallfart och vandringsår; novels, historical narratives and essays followed, with Nya dikter published in 1915. Trunk, folded paper and book are an original interpretation of travel and writing, not a reconstructed journey or text. The phrase is original, not a quotation.\n1916 — The Nobel Prize in Literature. Received the full prize. Official motivation: in recognition of his significance as the leading representative of a new era in our literature"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1916 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1916/summary/",
+            "labelLocalized": {
+              "zh": "1916年文学奖｜官方记录",
+              "en": "1916 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "svenskaakademien.se",
+            "url": "https://www.svenskaakademien.se/svenska-akademien/de-aderton/stol-nr-8-verner-von-heidenstam",
+            "labelLocalized": {
+              "zh": "作家资料｜瑞典学院",
+              "en": "Author profile — Swedish Academy"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

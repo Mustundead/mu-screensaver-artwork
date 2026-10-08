@@ -1,0 +1,70 @@
+{
+  "subject": "043-shannon-information",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:043-shannon-information",
+      "subject": "043-shannon-information",
+      "edition": "mono",
+      "title": "香农与信息",
+      "titleEnglish": "Shannon and Information",
+      "category": "计算与人工智能",
+      "image": "Images/mono/043-shannon-information.jpg",
+      "thumbnail": "Thumbs/mono/043-shannon-information.jpg",
+      "sha256": "f925d27c47aac0c8acd3b6c145d20952d39674e32546aa58826f06bb73077442",
+      "thumbnailSHA256": "01e3bc0b2657b732f40e86588a4cf7332bd36db3dee61b274ce2062ecf251029",
+      "context": {
+        "phrase": {
+          "zh": "先问消息能传多少，再问它讲什么。",
+          "en": "First ask how much can be sent, then what it means."
+        },
+        "visual": {
+          "zh": "人物旁的曲线、线圈和离散标记，把通信表示成可分析的信号。图中的曲线不是香农原始论文的图表或可测数据。",
+          "en": "Curves, coils and discrete marks beside a stylized figure turn communication into an analyzable signal. They are not charts or measured data from Shannon’s paper."
+        },
+        "background": {
+          "zh": "香农于 1948 年发表《通信的数学理论》，研究在噪声和带宽限制下传送信息的问题。他用数学方式讨论消息的不确定性与信道容量；这不直接判断一条消息的文学价值或真假。",
+          "en": "Shannon published “A Mathematical Theory of Communication” in 1948, examining transmission under noise and channel limits. His mathematics concerns message uncertainty and channel capacity, not the literary value or truth of a message."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Shannon paper",
+            "url": "https://www.computerhistory.org/chess/doc-431614f68e1be/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:043-shannon-information",
+      "subject": "043-shannon-information",
+      "edition": "color",
+      "title": "香农与信息",
+      "titleEnglish": "Shannon and Information",
+      "category": "计算与人工智能",
+      "image": "Images/color/043-shannon-information.jpg",
+      "thumbnail": "Thumbs/color/043-shannon-information.jpg",
+      "sha256": "c066cb443f59e1de9a5349581e8d22462df4e9a8c394a1fb432f50c191b04a4f",
+      "thumbnailSHA256": "f929a6e0d78eeee986a2ebdb470c541f76313de1b86e2d00bcfda5f3412032d6",
+      "context": {
+        "phrase": {
+          "zh": "先问消息能传多少，再问它讲什么。",
+          "en": "First ask how much can be sent, then what it means."
+        },
+        "visual": {
+          "zh": "人物旁的曲线、线圈和离散标记，把通信表示成可分析的信号。图中的曲线不是香农原始论文的图表或可测数据。",
+          "en": "Curves, coils and discrete marks beside a stylized figure turn communication into an analyzable signal. They are not charts or measured data from Shannon’s paper."
+        },
+        "background": {
+          "zh": "香农于 1948 年发表《通信的数学理论》，研究在噪声和带宽限制下传送信息的问题。他用数学方式讨论消息的不确定性与信道容量；这不直接判断一条消息的文学价值或真假。",
+          "en": "Shannon published “A Mathematical Theory of Communication” in 1948, examining transmission under noise and channel limits. His mathematics concerns message uncertainty and channel capacity, not the literary value or truth of a message."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Shannon paper",
+            "url": "https://www.computerhistory.org/chess/doc-431614f68e1be/"
+          }
+        ]
+      }
+    }
+  }
+}

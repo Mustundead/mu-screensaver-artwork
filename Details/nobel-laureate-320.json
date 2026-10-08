@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-320",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-320",
+      "subject": "nobel-laureate-320",
+      "edition": "mono",
+      "title": "弗雷德里克·霍普金斯",
+      "titleEnglish": "Sir Frederick Hopkins",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-320/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-320/mono.jpg",
+      "sha256": "5538292bc877250522e01c58fa2f7848769177d38f61cd14381f56db5ec7f816",
+      "thumbnailSHA256": "fe2885ac37b291f42d4b41ed9c5b4aaecfedcd14b3e99dfc4b2e1a8421af48ac",
+      "context": {
+        "phrase": {
+          "zh": "少量，也能参与生长。",
+          "en": "A small contribution can support growth."
+        },
+        "visual": {
+          "zh": "大幅裁切的深绿陶碗在左侧碗沿托住一滴乳白色液体，浅绿内壁与左上浅色空白形成安静的对照。黑白版保持液滴与碗沿的接触以及大小关系。",
+          "en": "A small cream-white bead rests on the left rim of a large cropped dark green bowl. Its pale celadon interior contrasts with the quiet upper-left field. The neutral edition preserves the bead’s contact with the rim and the scale difference."
+        },
+        "background": {
+          "zh": "霍普金斯获1929年诺贝尔生理学或医学奖的一半，因发现促进生长的维生素。他的历史研究表明，食物的作用不能只由蛋白质、脂肪、碳水化合物等主要成分解释，还需少量附加因素。乳白液滴借用相关研究中的牛奶线索，表达少量因素的作用，并非维生素外形或现代饮食建议；短句为原创。\n1929年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现促进生长的维生素。",
+          "en": "Hopkins received half of the 1929 Nobel Prize in Physiology or Medicine for discovering growth-stimulating vitamins. His historical research showed that major food components alone did not explain growth; small accessory factors also mattered. The cream-white bead draws on milk used in that research as a metaphor for a small contribution, not the appearance of a vitamin or modern dietary advice. The phrase is original.\n1929 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of the growth-stimulating vitamins"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年生理学或医学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1929/hopkins/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-320",
+      "subject": "nobel-laureate-320",
+      "edition": "color",
+      "title": "弗雷德里克·霍普金斯",
+      "titleEnglish": "Sir Frederick Hopkins",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-320/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-320/color.jpg",
+      "sha256": "db50b9506408ec44b0f36f4031ae85d725e28dbf3b48ff36cb5dd0b9ae41551f",
+      "thumbnailSHA256": "c023caaac1b69379f971b227931843227c9d6e830d0521d103d83676c03ee053",
+      "context": {
+        "phrase": {
+          "zh": "少量，也能参与生长。",
+          "en": "A small contribution can support growth."
+        },
+        "visual": {
+          "zh": "大幅裁切的深绿陶碗在左侧碗沿托住一滴乳白色液体，浅绿内壁与左上浅色空白形成安静的对照。黑白版保持液滴与碗沿的接触以及大小关系。",
+          "en": "A small cream-white bead rests on the left rim of a large cropped dark green bowl. Its pale celadon interior contrasts with the quiet upper-left field. The neutral edition preserves the bead’s contact with the rim and the scale difference."
+        },
+        "background": {
+          "zh": "霍普金斯获1929年诺贝尔生理学或医学奖的一半，因发现促进生长的维生素。他的历史研究表明，食物的作用不能只由蛋白质、脂肪、碳水化合物等主要成分解释，还需少量附加因素。乳白液滴借用相关研究中的牛奶线索，表达少量因素的作用，并非维生素外形或现代饮食建议；短句为原创。\n1929年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现促进生长的维生素。",
+          "en": "Hopkins received half of the 1929 Nobel Prize in Physiology or Medicine for discovering growth-stimulating vitamins. His historical research showed that major food components alone did not explain growth; small accessory factors also mattered. The cream-white bead draws on milk used in that research as a metaphor for a small contribution, not the appearance of a vitamin or modern dietary advice. The phrase is original.\n1929 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of the growth-stimulating vitamins"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年生理学或医学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1929/hopkins/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

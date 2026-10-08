@@ -1,0 +1,70 @@
+{
+  "subject": "032-planetary-rings",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:032-planetary-rings",
+      "subject": "032-planetary-rings",
+      "edition": "mono",
+      "title": "行星环",
+      "titleEnglish": "Planetary Rings",
+      "category": "宇宙",
+      "image": "Images/mono/032-planetary-rings.jpg",
+      "thumbnail": "Thumbs/mono/032-planetary-rings.jpg",
+      "sha256": "13e1af489cba93db238e0f718c0da1a4d0258052ed2315119bdea9930ff90b73",
+      "thumbnailSHA256": "d9b8c92c665484a7910f3171fedd28354a21b5a287839b7405da383ed52749c3",
+      "context": {
+        "phrase": {
+          "zh": "无数微粒，合成一道光环。",
+          "en": "Countless pieces make a ring."
+        },
+        "visual": {
+          "zh": "细密的彩色带环绕暗色行星，强调环系由许多部分组成。带的厚度、颜色和排列经过艺术处理。",
+          "en": "Fine colored bands surround a dark planet, emphasizing that a ring system has many parts. Thickness, color and arrangement are artistic choices."
+        },
+        "background": {
+          "zh": "卡西尼号对土星的长期观测表明，土星环主要由冰质颗粒构成，颗粒大小跨度很大；环内也有空隙和结构。画里的连续色带不应理解成一整块坚硬圆盘。",
+          "en": "Cassini’s long study of Saturn showed rings made largely of icy particles of many sizes, with gaps and other structures. The continuous bands here are not a solid disc."
+        },
+        "sources": [
+          {
+            "label": "NASA · Cassini ring science",
+            "url": "https://science.nasa.gov/mission/cassini/science/rings/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:032-planetary-rings",
+      "subject": "032-planetary-rings",
+      "edition": "color",
+      "title": "行星环",
+      "titleEnglish": "Planetary Rings",
+      "category": "宇宙",
+      "image": "Images/color/032-planetary-rings.jpg",
+      "thumbnail": "Thumbs/color/032-planetary-rings.jpg",
+      "sha256": "509bb4eb3b3188f38347bdf50c8e4a16118c58eb7b725793709c3a7100094a14",
+      "thumbnailSHA256": "1b439d5719a13393e4c755827a3c96fe6663db7701e63c9bf10ccfee9776173f",
+      "context": {
+        "phrase": {
+          "zh": "无数微粒，合成一道光环。",
+          "en": "Countless pieces make a ring."
+        },
+        "visual": {
+          "zh": "细密的彩色带环绕暗色行星，强调环系由许多部分组成。带的厚度、颜色和排列经过艺术处理。",
+          "en": "Fine colored bands surround a dark planet, emphasizing that a ring system has many parts. Thickness, color and arrangement are artistic choices."
+        },
+        "background": {
+          "zh": "卡西尼号对土星的长期观测表明，土星环主要由冰质颗粒构成，颗粒大小跨度很大；环内也有空隙和结构。画里的连续色带不应理解成一整块坚硬圆盘。",
+          "en": "Cassini’s long study of Saturn showed rings made largely of icy particles of many sizes, with gaps and other structures. The continuous bands here are not a solid disc."
+        },
+        "sources": [
+          {
+            "label": "NASA · Cassini ring science",
+            "url": "https://science.nasa.gov/mission/cassini/science/rings/"
+          }
+        ]
+      }
+    }
+  }
+}

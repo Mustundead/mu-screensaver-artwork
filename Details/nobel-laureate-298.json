@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-298",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-298",
+      "subject": "nobel-laureate-298",
+      "edition": "mono",
+      "title": "卡米洛·戈尔吉",
+      "titleEnglish": "Camillo Golgi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-298/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-298/mono.jpg",
+      "sha256": "e8b41adfd5ff9fb108d6e33aaed4e7eb3d00aa81804465a3ae490525595c44c9",
+      "thumbnailSHA256": "cf38a7cc0b566e38bb801345e2a75a12c9cad9faa6a2307870411a64003af7ec",
+      "context": {
+        "phrase": {
+          "zh": "看清细微的分枝，才能理解更大的结构。",
+          "en": "Small branches reveal a larger structure."
+        },
+        "visual": {
+          "zh": "象征性的神经细胞分枝、玻璃片、密闭试剂瓶与放大的镜头组成独立拼贴，呼应戈尔吉的染色观察。细胞图形是原创艺术表达，不是显微照片、解剖图或真实实验记录。",
+          "en": "An original collage of symbolic nerve-cell branches, glass slides, a closed reagent bottle and a magnified lens evokes Golgi's staining work. The cell motif is artistic, not a micrograph, an anatomical plate or an experimental record."
+        },
+        "background": {
+          "zh": "戈尔吉与卡哈尔共同获得1906年诺贝尔生理学或医学奖，获奖理由是研究神经系统的结构。他发展的银染色方法让神经细胞的细长分枝更容易被观察，而不只是看见细胞主体。配图用分枝与光学器材表现观察的进展，不把艺术化细胞图当作医学资料。\n1906年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对神经系统结构的研究。",
+          "en": "Golgi shared the 1906 Nobel Prize in Physiology or Medicine with Cajal for work on the structure of the nervous system. His silver-staining method made the fine branches of nerve cells visible, beyond their cell bodies. The artwork interprets this advance through branching forms and optical equipment; its imagined cell is not medical reference material.\n1906 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: in recognition of their work on the structure of the nervous system"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年生理学或医学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1906/7606-the-black-reaction-la-reazione-nera/",
+            "labelLocalized": {
+              "zh": "神经细胞染色方法｜诺贝尔奖官网",
+              "en": "Nerve-cell staining explained — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-298",
+      "subject": "nobel-laureate-298",
+      "edition": "color",
+      "title": "卡米洛·戈尔吉",
+      "titleEnglish": "Camillo Golgi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-298/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-298/color.jpg",
+      "sha256": "d0c2dcfe997f38b8ca483e92edbc7f6e4be0d3f85b7dfa9742108ec9275ff2ee",
+      "thumbnailSHA256": "61d752b8dc9bb9b9aac367f6dfb937f162cb5c46a82c1b05423e549cb36ad25c",
+      "context": {
+        "phrase": {
+          "zh": "看清细微的分枝，才能理解更大的结构。",
+          "en": "Small branches reveal a larger structure."
+        },
+        "visual": {
+          "zh": "象征性的神经细胞分枝、玻璃片、密闭试剂瓶与放大的镜头组成独立拼贴，呼应戈尔吉的染色观察。细胞图形是原创艺术表达，不是显微照片、解剖图或真实实验记录。",
+          "en": "An original collage of symbolic nerve-cell branches, glass slides, a closed reagent bottle and a magnified lens evokes Golgi's staining work. The cell motif is artistic, not a micrograph, an anatomical plate or an experimental record."
+        },
+        "background": {
+          "zh": "戈尔吉与卡哈尔共同获得1906年诺贝尔生理学或医学奖，获奖理由是研究神经系统的结构。他发展的银染色方法让神经细胞的细长分枝更容易被观察，而不只是看见细胞主体。配图用分枝与光学器材表现观察的进展，不把艺术化细胞图当作医学资料。\n1906年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对神经系统结构的研究。",
+          "en": "Golgi shared the 1906 Nobel Prize in Physiology or Medicine with Cajal for work on the structure of the nervous system. His silver-staining method made the fine branches of nerve cells visible, beyond their cell bodies. The artwork interprets this advance through branching forms and optical equipment; its imagined cell is not medical reference material.\n1906 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: in recognition of their work on the structure of the nervous system"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年生理学或医学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1906/7606-the-black-reaction-la-reazione-nera/",
+            "labelLocalized": {
+              "zh": "神经细胞染色方法｜诺贝尔奖官网",
+              "en": "Nerve-cell staining explained — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

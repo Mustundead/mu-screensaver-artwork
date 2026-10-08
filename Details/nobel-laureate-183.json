@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-183",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-183",
+      "subject": "nobel-laureate-183",
+      "edition": "mono",
+      "title": "特奥多尔·斯韦德贝里",
+      "titleEnglish": "The Svedberg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-183/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-183/mono.jpg",
+      "sha256": "dc73d842f8a209f0ede888f0baa156ea6fd017961ff74b7b3ce28fcb41932183",
+      "thumbnailSHA256": "9e39e2f13e143829a91a24212eb20fc9082cfee4b074cc583ea5c0c183f1c790",
+      "context": {
+        "phrase": {
+          "zh": "让微小的差别有机会被看见。",
+          "en": "Give small differences a chance to be seen."
+        },
+        "visual": {
+          "zh": "银灰圆形转盘占据右下大部并沿右、下边缘裁切，黄铜色外圈围住两道凹槽，各嵌一支盛橄榄色液体的玻璃管。左上是一条带枝叶刻纹和小圆形嵌点的细长浅色片，右上留白。黑白版保留两支管、裁切和刻纹，底面印刷纹理更明显；装置为原创寓意，不是仪器复原。",
+          "en": "A large silver-gray circular rotor extends past the right and bottom, with a brass-colored rim and two recessed channels, each holding a tube of olive liquid. A narrow pale strip with engraved leaves and a small round inset lies at upper left, leaving the upper right quiet. The monochrome edition keeps both tubes, crop and engraving, with stronger printed ground texture; this is an original mechanism metaphor, not a replica."
+        },
+        "background": {
+          "zh": "斯韦德贝里独获1926年诺贝尔化学奖，获奖工作涉及分散体系，即微小颗粒分散在液体等介质中的系统。他研究布朗运动，并于1925年发展超高速旋转、用于研究混合物的超离心机。转子与玻璃管是原创研究寓意，不是可用仪器或测量结果；短句为原创。\n1926年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对分散体系的研究，即微小颗粒分散在介质中的系统。",
+          "en": "Svedberg alone received the 1926 Nobel Prize in Chemistry for work on disperse systems, where small particles are distributed in a medium. He studied Brownian motion and developed the ultracentrifuge in 1925, using very rapid rotation to investigate mixtures. The rotor and tubes are an original research metaphor, not a usable instrument or measured result. The phrase is original.\n1926 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his work on disperse systems"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年化学奖｜官方记录",
+              "en": "1926 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1926/svedberg/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-183",
+      "subject": "nobel-laureate-183",
+      "edition": "color",
+      "title": "特奥多尔·斯韦德贝里",
+      "titleEnglish": "The Svedberg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-183/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-183/color.jpg",
+      "sha256": "6bb04fede3304f17a8e4b32f632107a150aacff39a05b8616fa2799c1938c85a",
+      "thumbnailSHA256": "fb5c4f4a80a19806f17d9cf2fa23014f1385153b1d03197097e7938710cfa604",
+      "context": {
+        "phrase": {
+          "zh": "让微小的差别有机会被看见。",
+          "en": "Give small differences a chance to be seen."
+        },
+        "visual": {
+          "zh": "银灰圆形转盘占据右下大部并沿右、下边缘裁切，黄铜色外圈围住两道凹槽，各嵌一支盛橄榄色液体的玻璃管。左上是一条带枝叶刻纹和小圆形嵌点的细长浅色片，右上留白。黑白版保留两支管、裁切和刻纹，底面印刷纹理更明显；装置为原创寓意，不是仪器复原。",
+          "en": "A large silver-gray circular rotor extends past the right and bottom, with a brass-colored rim and two recessed channels, each holding a tube of olive liquid. A narrow pale strip with engraved leaves and a small round inset lies at upper left, leaving the upper right quiet. The monochrome edition keeps both tubes, crop and engraving, with stronger printed ground texture; this is an original mechanism metaphor, not a replica."
+        },
+        "background": {
+          "zh": "斯韦德贝里独获1926年诺贝尔化学奖，获奖工作涉及分散体系，即微小颗粒分散在液体等介质中的系统。他研究布朗运动，并于1925年发展超高速旋转、用于研究混合物的超离心机。转子与玻璃管是原创研究寓意，不是可用仪器或测量结果；短句为原创。\n1926年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对分散体系的研究，即微小颗粒分散在介质中的系统。",
+          "en": "Svedberg alone received the 1926 Nobel Prize in Chemistry for work on disperse systems, where small particles are distributed in a medium. He studied Brownian motion and developed the ultracentrifuge in 1925, using very rapid rotation to investigate mixtures. The rotor and tubes are an original research metaphor, not a usable instrument or measured result. The phrase is original.\n1926 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his work on disperse systems"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年化学奖｜官方记录",
+              "en": "1926 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1926/svedberg/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

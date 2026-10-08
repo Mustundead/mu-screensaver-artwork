@@ -1,0 +1,70 @@
+{
+  "subject": "037-gravity-assist",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:037-gravity-assist",
+      "subject": "037-gravity-assist",
+      "edition": "mono",
+      "title": "引力借力",
+      "titleEnglish": "Gravity Assists",
+      "category": "宇宙",
+      "image": "Images/mono/037-gravity-assist.jpg",
+      "thumbnail": "Thumbs/mono/037-gravity-assist.jpg",
+      "sha256": "11276f094758d34eed6e003397fab4075979f26abc178a3ff6fe5bc42920b9e9",
+      "thumbnailSHA256": "d4d3aedc4d5090e83c4271deb40f885bac95bbd37301938de4fa8e4335101fd4",
+      "context": {
+        "phrase": {
+          "zh": "借一次相遇，走向更远的地方。",
+          "en": "An encounter can carry a craft farther."
+        },
+        "visual": {
+          "zh": "飞行器的弧线从行星边掠过，表现轨道如何在相遇中改变。画中的路径是示意，不可用来规划航天任务。",
+          "en": "A spacecraft arcs past a planet to suggest an altered path. The trajectory is illustrative and cannot plan a mission."
+        },
+        "background": {
+          "zh": "航天器可以利用行星的运动和引力改变相对于太阳的速度与方向，这叫引力辅助。卡西尼号前往土星途中借助了金星、地球和木星；能量交换并非凭空增加能量。",
+          "en": "A spacecraft can use a moving planet’s gravity to change its speed and direction relative to the Sun: a gravity assist. Cassini used flybys of Venus, Earth and Jupiter on its way to Saturn; the energy comes from an exchange, not from nowhere."
+        },
+        "sources": [
+          {
+            "label": "NASA · Cassini gravity assists",
+            "url": "https://science.nasa.gov/mission/cassini/gravity-assists/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:037-gravity-assist",
+      "subject": "037-gravity-assist",
+      "edition": "color",
+      "title": "引力借力",
+      "titleEnglish": "Gravity Assists",
+      "category": "宇宙",
+      "image": "Images/color/037-gravity-assist.jpg",
+      "thumbnail": "Thumbs/color/037-gravity-assist.jpg",
+      "sha256": "6734b27dbabb30b2aa8ffd9643f392dc60ea59153075b562dee07abc31def88a",
+      "thumbnailSHA256": "a04f39a81eb9f1f99d969375523477abddfbd8c01c29493bac155ab1aed3162d",
+      "context": {
+        "phrase": {
+          "zh": "借一次相遇，走向更远的地方。",
+          "en": "An encounter can carry a craft farther."
+        },
+        "visual": {
+          "zh": "飞行器的弧线从行星边掠过，表现轨道如何在相遇中改变。画中的路径是示意，不可用来规划航天任务。",
+          "en": "A spacecraft arcs past a planet to suggest an altered path. The trajectory is illustrative and cannot plan a mission."
+        },
+        "background": {
+          "zh": "航天器可以利用行星的运动和引力改变相对于太阳的速度与方向，这叫引力辅助。卡西尼号前往土星途中借助了金星、地球和木星；能量交换并非凭空增加能量。",
+          "en": "A spacecraft can use a moving planet’s gravity to change its speed and direction relative to the Sun: a gravity assist. Cassini used flybys of Venus, Earth and Jupiter on its way to Saturn; the energy comes from an exchange, not from nowhere."
+        },
+        "sources": [
+          {
+            "label": "NASA · Cassini gravity assists",
+            "url": "https://science.nasa.gov/mission/cassini/gravity-assists/"
+          }
+        ]
+      }
+    }
+  }
+}

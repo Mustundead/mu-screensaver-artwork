@@ -1,0 +1,70 @@
+{
+  "subject": "051-learning-choice",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:051-learning-choice",
+      "subject": "051-learning-choice",
+      "edition": "mono",
+      "title": "学习与反馈",
+      "titleEnglish": "Learning and Feedback",
+      "category": "计算与人工智能",
+      "image": "Images/mono/051-learning-choice.jpg",
+      "thumbnail": "Thumbs/mono/051-learning-choice.jpg",
+      "sha256": "12322d3a9fedb52ec84a82c8a9561d53e3833fca046bda0da54ed5f094dfd4df",
+      "thumbnailSHA256": "193c2c267f6aa46170fcf7a799c163dea168b1e6a1adbe408805c3d87954ae51",
+      "context": {
+        "phrase": {
+          "zh": "一次反馈，改变下一次选择。",
+          "en": "Feedback changes the next choice."
+        },
+        "visual": {
+          "zh": "分岔道路和回环箭头围绕一个行动者，表现尝试、结果和调整。道路不是某个算法真实的决策轨迹。",
+          "en": "Forking paths and return arrows surround an agent, suggesting trial, outcome and adjustment. They are not a real algorithm’s decision trace."
+        },
+        "background": {
+          "zh": "强化学习研究行动者如何通过与环境互动、接收反馈来改进选择。2015 年的深度 Q 网络研究展示了从游戏画面和得分学习控制策略；游戏结果不能直接推断现实任务中的能力。",
+          "en": "Reinforcement learning studies how an agent improves choices through interaction and feedback. A 2015 deep Q-network study learned game-control policies from pixels and scores; game performance does not establish real-world ability."
+        },
+        "sources": [
+          {
+            "label": "Mnih et al. · Deep reinforcement learning",
+            "url": "https://www.nature.com/articles/nature14236"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:051-learning-choice",
+      "subject": "051-learning-choice",
+      "edition": "color",
+      "title": "学习与反馈",
+      "titleEnglish": "Learning and Feedback",
+      "category": "计算与人工智能",
+      "image": "Images/color/051-learning-choice.jpg",
+      "thumbnail": "Thumbs/color/051-learning-choice.jpg",
+      "sha256": "b0d1b7cef6e693236b3b0c7dbdd1cbcfcf8b7f7208c8637c69fc9fb83a811de6",
+      "thumbnailSHA256": "a7fc8cba0f55d1f7a5bbf69904ccacda3f4fe789969cdee4e1a3b6245fabc80f",
+      "context": {
+        "phrase": {
+          "zh": "一次反馈，改变下一次选择。",
+          "en": "Feedback changes the next choice."
+        },
+        "visual": {
+          "zh": "分岔道路和回环箭头围绕一个行动者，表现尝试、结果和调整。道路不是某个算法真实的决策轨迹。",
+          "en": "Forking paths and return arrows surround an agent, suggesting trial, outcome and adjustment. They are not a real algorithm’s decision trace."
+        },
+        "background": {
+          "zh": "强化学习研究行动者如何通过与环境互动、接收反馈来改进选择。2015 年的深度 Q 网络研究展示了从游戏画面和得分学习控制策略；游戏结果不能直接推断现实任务中的能力。",
+          "en": "Reinforcement learning studies how an agent improves choices through interaction and feedback. A 2015 deep Q-network study learned game-control policies from pixels and scores; game performance does not establish real-world ability."
+        },
+        "sources": [
+          {
+            "label": "Mnih et al. · Deep reinforcement learning",
+            "url": "https://www.nature.com/articles/nature14236"
+          }
+        ]
+      }
+    }
+  }
+}

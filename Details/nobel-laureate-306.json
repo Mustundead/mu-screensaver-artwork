@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-306",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-306",
+      "subject": "nobel-laureate-306",
+      "edition": "mono",
+      "title": "亚历克西·卡雷尔",
+      "titleEnglish": "Alexis Carrel",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-306/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-306/mono.jpg",
+      "sha256": "eafa82e6a537360ffe9da096afe03dc73e9eb9237cbec837f9f4c02a78deba52",
+      "thumbnailSHA256": "535aceb1ad7d8d29ac1ff77649f6aaf2d9958ecc07b2d317755527640772ad77",
+      "context": {
+        "phrase": {
+          "zh": "细致的连接，让流动继续。",
+          "en": "Careful joins let the flow continue."
+        },
+        "visual": {
+          "zh": "一根巨大的弯针从右上伸向左下的空心织物管，缝线在留白中形成弧线。黑白与钴蓝版突出织物；彩色版使用银色针、赤褐线与亚麻色织物。针线与布料只是呼应缝合研究的原创隐喻，不含人体组织，也不是手术步骤或医疗操作示意。",
+          "en": "A giant curved needle reaches from upper right toward a hollow woven tube at lower left, with thread arcing through the quiet background. Cobalt emphasizes cloth in monochrome; full color uses silvery steel, russet thread and flax textile. These inanimate props evoke suturing research without depicting tissue, surgical steps or a medical procedure."
+        },
+        "background": {
+          "zh": "卡雷尔获得1912年诺贝尔生理学或医学奖，官方理由是他在血管缝合以及血管和器官移植方面的工作。洛克菲勒大学的历史介绍说明，他研究用细针和细线连接血管，并研究组织保存与实验移植；后来的临床器官移植还依赖其他进展，不能把1912年的成果等同于今日技术或保证手术安全。同一历史介绍也指出他后来与维希政府支持的机构有关，其极端政治和宗教观点存在争议。这里介绍获奖研究，不把医学贡献当作对其全部立场的认可。画面只使用针、线与织物作原创隐喻，短句不是本人引语。\n1912年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在血管缝合，以及血管和器官移植方面的工作。",
+          "en": "Carrel received the 1912 Nobel Prize in Physiology or Medicine for vascular suturing and transplantation of blood vessels and organs. Rockefeller’s histories describe fine needles, threads, tissue preservation and experimental transplantation; later clinical organ transplantation required further advances, so the 1912 work is not today’s technique or a guarantee of safety. The same historical account notes his later association with a Vichy-supported institution and controversial extreme political and religious views. This entry concerns awarded research, not endorsement of every position. Needle, thread and cloth are an original metaphor; the phrase is not a quotation.\n1912 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his work on vascular suture and the transplantation of blood vessels and organs"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年生理学或医学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "centennial.rucares.org",
+            "url": "https://centennial.rucares.org/index.php?page=Repair_Blood_Vessels",
+            "labelLocalized": {
+              "zh": "血管修复研究历史｜洛克菲勒大学",
+              "en": "History of vessel repair — Rockefeller University"
+            }
+          },
+          {
+            "label": "rockefeller.edu",
+            "url": "https://www.rockefeller.edu/our-scientists/alexis-carrel/2565-nobel-prize/",
+            "labelLocalized": {
+              "zh": "研究与生平｜洛克菲勒大学",
+              "en": "Research and career — Rockefeller University"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-306",
+      "subject": "nobel-laureate-306",
+      "edition": "color",
+      "title": "亚历克西·卡雷尔",
+      "titleEnglish": "Alexis Carrel",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-306/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-306/color.jpg",
+      "sha256": "324ab618463fff188025516c88c1e450c6b2197022b2065e581117bea4ab4219",
+      "thumbnailSHA256": "89b7e45b2c06869cec17db43b7b1aefc20e65e615f0378407c294401c561ed70",
+      "context": {
+        "phrase": {
+          "zh": "细致的连接，让流动继续。",
+          "en": "Careful joins let the flow continue."
+        },
+        "visual": {
+          "zh": "一根巨大的弯针从右上伸向左下的空心织物管，缝线在留白中形成弧线。黑白与钴蓝版突出织物；彩色版使用银色针、赤褐线与亚麻色织物。针线与布料只是呼应缝合研究的原创隐喻，不含人体组织，也不是手术步骤或医疗操作示意。",
+          "en": "A giant curved needle reaches from upper right toward a hollow woven tube at lower left, with thread arcing through the quiet background. Cobalt emphasizes cloth in monochrome; full color uses silvery steel, russet thread and flax textile. These inanimate props evoke suturing research without depicting tissue, surgical steps or a medical procedure."
+        },
+        "background": {
+          "zh": "卡雷尔获得1912年诺贝尔生理学或医学奖，官方理由是他在血管缝合以及血管和器官移植方面的工作。洛克菲勒大学的历史介绍说明，他研究用细针和细线连接血管，并研究组织保存与实验移植；后来的临床器官移植还依赖其他进展，不能把1912年的成果等同于今日技术或保证手术安全。同一历史介绍也指出他后来与维希政府支持的机构有关，其极端政治和宗教观点存在争议。这里介绍获奖研究，不把医学贡献当作对其全部立场的认可。画面只使用针、线与织物作原创隐喻，短句不是本人引语。\n1912年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在血管缝合，以及血管和器官移植方面的工作。",
+          "en": "Carrel received the 1912 Nobel Prize in Physiology or Medicine for vascular suturing and transplantation of blood vessels and organs. Rockefeller’s histories describe fine needles, threads, tissue preservation and experimental transplantation; later clinical organ transplantation required further advances, so the 1912 work is not today’s technique or a guarantee of safety. The same historical account notes his later association with a Vichy-supported institution and controversial extreme political and religious views. This entry concerns awarded research, not endorsement of every position. Needle, thread and cloth are an original metaphor; the phrase is not a quotation.\n1912 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his work on vascular suture and the transplantation of blood vessels and organs"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年生理学或医学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "centennial.rucares.org",
+            "url": "https://centennial.rucares.org/index.php?page=Repair_Blood_Vessels",
+            "labelLocalized": {
+              "zh": "血管修复研究历史｜洛克菲勒大学",
+              "en": "History of vessel repair — Rockefeller University"
+            }
+          },
+          {
+            "label": "rockefeller.edu",
+            "url": "https://www.rockefeller.edu/our-scientists/alexis-carrel/2565-nobel-prize/",
+            "labelLocalized": {
+              "zh": "研究与生平｜洛克菲勒大学",
+              "en": "Research and career — Rockefeller University"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

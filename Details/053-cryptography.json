@@ -1,0 +1,70 @@
+{
+  "subject": "053-cryptography",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:053-cryptography",
+      "subject": "053-cryptography",
+      "edition": "mono",
+      "title": "密码与隐私",
+      "titleEnglish": "Cryptography and Privacy",
+      "category": "计算与人工智能",
+      "image": "Images/mono/053-cryptography.jpg",
+      "thumbnail": "Thumbs/mono/053-cryptography.jpg",
+      "sha256": "797dad4c2e0c36c429c03bc87d22b9b98659c2e67a73a72ecdf308c2bdfc3dab",
+      "thumbnailSHA256": "deb73b7c02a14c3aefbd036d408a91e99df029d9d5169546d53d67092e6a08af",
+      "context": {
+        "phrase": {
+          "zh": "让信息可传，也让边界可守。",
+          "en": "Share information while protecting its boundary."
+        },
+        "visual": {
+          "zh": "锁状结构、转盘和穿行其间的符号表现加密过程。图中的机械锁并非一套真实可用的密码系统。",
+          "en": "Lock-like forms, discs and passing symbols evoke encryption. The mechanical lock is not a working cryptographic system."
+        },
+        "background": {
+          "zh": "加密把可读的明文转换成需要相应密钥才能恢复的密文，主要用于保护保密性。密码学还有验证完整性和来源的技术；单有加密并不自动证明消息未被改动。",
+          "en": "Encryption turns readable plaintext into ciphertext that requires the appropriate key to recover, chiefly protecting confidentiality. Cryptography also has ways to verify integrity and origin; encryption alone does not prove a message was unchanged."
+        },
+        "sources": [
+          {
+            "label": "NIST · Cryptographic mechanisms",
+            "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-175b.pdf"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:053-cryptography",
+      "subject": "053-cryptography",
+      "edition": "color",
+      "title": "密码与隐私",
+      "titleEnglish": "Cryptography and Privacy",
+      "category": "计算与人工智能",
+      "image": "Images/color/053-cryptography.jpg",
+      "thumbnail": "Thumbs/color/053-cryptography.jpg",
+      "sha256": "3af968b2c540a9075399fc8cb177d5d704e200627065b1ebbc368f12229ecd64",
+      "thumbnailSHA256": "509c89f4fb7b06956a533d03423fdbaf0caacbe1991aadb27db5cab4a95e29db",
+      "context": {
+        "phrase": {
+          "zh": "让信息可传，也让边界可守。",
+          "en": "Share information while protecting its boundary."
+        },
+        "visual": {
+          "zh": "锁状结构、转盘和穿行其间的符号表现加密过程。图中的机械锁并非一套真实可用的密码系统。",
+          "en": "Lock-like forms, discs and passing symbols evoke encryption. The mechanical lock is not a working cryptographic system."
+        },
+        "background": {
+          "zh": "加密把可读的明文转换成需要相应密钥才能恢复的密文，主要用于保护保密性。密码学还有验证完整性和来源的技术；单有加密并不自动证明消息未被改动。",
+          "en": "Encryption turns readable plaintext into ciphertext that requires the appropriate key to recover, chiefly protecting confidentiality. Cryptography also has ways to verify integrity and origin; encryption alone does not prove a message was unchanged."
+        },
+        "sources": [
+          {
+            "label": "NIST · Cryptographic mechanisms",
+            "url": "https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-175b.pdf"
+          }
+        ]
+      }
+    }
+  }
+}

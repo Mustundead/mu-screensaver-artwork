@@ -1,0 +1,70 @@
+{
+  "subject": "097-hypatia",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:097-hypatia",
+      "subject": "097-hypatia",
+      "edition": "mono",
+      "title": "希帕蒂娅与天球",
+      "titleEnglish": "Hypatia and the Celestial Sphere",
+      "category": "艺术与人文",
+      "image": "Images/mono/097-hypatia.jpg",
+      "thumbnail": "Thumbs/mono/097-hypatia.jpg",
+      "sha256": "20e1e90f41689b3b96d53169bd671bd823de32b79e5986fc30d9a45b2f671fb0",
+      "thumbnailSHA256": "61680837dae4a3c6cebcd6ba12e6cbe44a5e3dc0f8f13851ac5952eff4fd3b69",
+      "context": {
+        "phrase": {
+          "zh": "知识的延续，需要讲授与追问。",
+          "en": "Knowledge continues through teaching and questions."
+        },
+        "visual": {
+          "zh": "希帕蒂娅的想象肖像与天球般的圆环并置，象征数学、天文和哲学教学。没有可靠照片可供还原，这里的容貌与仪器组合都不是历史证据。",
+          "en": "An imagined Hypatia portrait meets armillary-like rings to evoke mathematics, astronomy and philosophy. The likeness and instrument arrangement are not historical evidence."
+        },
+        "background": {
+          "zh": "圣安德鲁斯大学 MacTutor 资料记载，希帕蒂娅约在公元 400 年成为亚历山大学园的领袖，并教授哲学与数学。她的生年并不确定，因此这里不使用精确生日。主题关注知识传授，而不把后世的传奇细节当作已证实事实。",
+          "en": "The University of St Andrews’ MacTutor account places Hypatia at the head of Alexandria’s Platonist school around 400 CE, teaching philosophy and mathematics. Her birth date is uncertain, so no exact birthday is supplied. The theme is transmission of knowledge, not later legend treated as fact."
+        },
+        "sources": [
+          {
+            "label": "University of St Andrews · Hypatia",
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:097-hypatia",
+      "subject": "097-hypatia",
+      "edition": "color",
+      "title": "希帕蒂娅与天球",
+      "titleEnglish": "Hypatia and the Celestial Sphere",
+      "category": "艺术与人文",
+      "image": "Images/color/097-hypatia.jpg",
+      "thumbnail": "Thumbs/color/097-hypatia.jpg",
+      "sha256": "3cc62472f3e81d5e681fae0482f6b9b807e47f485fed45bcec1b97eb95ab1e71",
+      "thumbnailSHA256": "f09208935f175adad3910c9b67183e1089b297a0d7b83361d02eed877d6450b5",
+      "context": {
+        "phrase": {
+          "zh": "知识的延续，需要讲授与追问。",
+          "en": "Knowledge continues through teaching and questions."
+        },
+        "visual": {
+          "zh": "希帕蒂娅的想象肖像与天球般的圆环并置，象征数学、天文和哲学教学。没有可靠照片可供还原，这里的容貌与仪器组合都不是历史证据。",
+          "en": "An imagined Hypatia portrait meets armillary-like rings to evoke mathematics, astronomy and philosophy. The likeness and instrument arrangement are not historical evidence."
+        },
+        "background": {
+          "zh": "圣安德鲁斯大学 MacTutor 资料记载，希帕蒂娅约在公元 400 年成为亚历山大学园的领袖，并教授哲学与数学。她的生年并不确定，因此这里不使用精确生日。主题关注知识传授，而不把后世的传奇细节当作已证实事实。",
+          "en": "The University of St Andrews’ MacTutor account places Hypatia at the head of Alexandria’s Platonist school around 400 CE, teaching philosophy and mathematics. Her birth date is uncertain, so no exact birthday is supplied. The theme is transmission of knowledge, not later legend treated as fact."
+        },
+        "sources": [
+          {
+            "label": "University of St Andrews · Hypatia",
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hypatia/"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "076-radio-array",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:076-radio-array",
+      "subject": "076-radio-array",
+      "edition": "mono",
+      "title": "阵列与聆听",
+      "titleEnglish": "Arrays and Listening",
+      "category": "工程与制造",
+      "image": "Images/mono/076-radio-array.jpg",
+      "thumbnail": "Thumbs/mono/076-radio-array.jpg",
+      "sha256": "f07f33c23d67ce0267aaec7677372df7f2dcbb459b2cc5eedeb10b71987285ec",
+      "thumbnailSHA256": "4277496505d0624978f1b51281b9f747c3937e7686bd63a014ab608573d0d381",
+      "context": {
+        "phrase": {
+          "zh": "许多耳朵，合成一幅天空。",
+          "en": "Many dishes combine a view of the sky."
+        },
+        "visual": {
+          "zh": "数座碟形天线朝向夜空，弧线在其间汇聚，把看不见的无线电信号变成可见的连接。天线位置不是实际阵列坐标。",
+          "en": "Several dish antennas face the night sky while arcs converge between them, visualizing invisible radio signals. Their positions are not the coordinates of a real array."
+        },
+        "background": {
+          "zh": "美国甚大天线阵列由 27 座碟形天线共同观测自然无线电波。各天线收集的信号经计算合成，让阵列像一台更有分辨能力的望远镜；图片不表示真实接收波形。",
+          "en": "The Very Large Array uses 27 dishes to observe natural radio waves. Computer processing combines their signals so the array acts as a more resolving telescope; the painting does not show received waveforms."
+        },
+        "sources": [
+          {
+            "label": "NRAO · VLA walking tour",
+            "url": "https://public.nrao.edu/wp-content/uploads/2024/09/VLA-Walking-Tour-Brochure_MAR_2024.pdf"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:076-radio-array",
+      "subject": "076-radio-array",
+      "edition": "color",
+      "title": "阵列与聆听",
+      "titleEnglish": "Arrays and Listening",
+      "category": "工程与制造",
+      "image": "Images/color/076-radio-array.jpg",
+      "thumbnail": "Thumbs/color/076-radio-array.jpg",
+      "sha256": "eb9e64a1060b270f102f0de846c8900d0b73777f8372089264d9f20969a79a4b",
+      "thumbnailSHA256": "5bf1feb60a31c6f69137cf535766ca1bc6a5b0cdb0ede6de32414077882ae2d8",
+      "context": {
+        "phrase": {
+          "zh": "许多耳朵，合成一幅天空。",
+          "en": "Many dishes combine a view of the sky."
+        },
+        "visual": {
+          "zh": "数座碟形天线朝向夜空，弧线在其间汇聚，把看不见的无线电信号变成可见的连接。天线位置不是实际阵列坐标。",
+          "en": "Several dish antennas face the night sky while arcs converge between them, visualizing invisible radio signals. Their positions are not the coordinates of a real array."
+        },
+        "background": {
+          "zh": "美国甚大天线阵列由 27 座碟形天线共同观测自然无线电波。各天线收集的信号经计算合成，让阵列像一台更有分辨能力的望远镜；图片不表示真实接收波形。",
+          "en": "The Very Large Array uses 27 dishes to observe natural radio waves. Computer processing combines their signals so the array acts as a more resolving telescope; the painting does not show received waveforms."
+        },
+        "sources": [
+          {
+            "label": "NRAO · VLA walking tour",
+            "url": "https://public.nrao.edu/wp-content/uploads/2024/09/VLA-Walking-Tour-Brochure_MAR_2024.pdf"
+          }
+        ]
+      }
+    }
+  }
+}

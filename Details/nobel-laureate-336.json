@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-336",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-336",
+      "subject": "nobel-laureate-336",
+      "edition": "mono",
+      "title": "爱德华·多伊西",
+      "titleEnglish": "Edward A. Doisy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-336/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-336/mono.jpg",
+      "sha256": "8b4c81de0ca793640902f677448e1695cf1d02d7eb53804f160185317074b47b",
+      "thumbnailSHA256": "35648f82b84ef175939ea2fd9b8d50974b707e4ec7b47fd2f6d3fa67f9dfedc2",
+      "context": {
+        "phrase": {
+          "zh": "认出差异，才能把线索读清。",
+          "en": "Recognize differences to read the clues."
+        },
+        "visual": {
+          "zh": "俯视一张铺开的纸，一只手握铅笔靠近两组不带字母的连接草图，桌面只露出窄边。",
+          "en": "A top-down view shows a spread sheet of paper and a hand holding a pencil beside two unlettered connection sketches. Only a narrow desk edge remains visible."
+        },
+        "background": {
+          "zh": "多伊西因发现维生素K的化学性质获得1943年诺贝尔生理学或医学奖的一半，该年度奖于1944年颁发。他与团队研究维生素K的不同形式、辨明结构并发展合成方法。画面用手中铅笔和两幅连接方式不同的结构草图表达比较与辨认；草图不是可用于化学计算的分子式，也不是他的原始笔记或制药说明。短句为原创。\n1943年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现维生素K的化学性质",
+          "en": "Doisy received half of the 1943 Nobel Prize in Physiology or Medicine, awarded in 1944, for discovering the chemical nature of vitamin K. His team studied different forms, identified their structures and developed synthesis methods. A pencil held over two differently connected structural sketches expresses comparison and identification. The sketches are not chemical formulas for calculation, original notes or instructions for making medicine. The phrase is original.\n1943 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of the chemical nature of vitamin K"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1943 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1943/summary/",
+            "labelLocalized": {
+              "zh": "1943年生理学或医学奖｜官方记录",
+              "en": "1943 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "slu.edu",
+            "url": "https://www.slu.edu/news/2020/may/slu-legends-lore-edward-doisy.php",
+            "labelLocalized": {
+              "zh": "多伊西与维生素K研究｜圣路易斯大学",
+              "en": "Doisy and vitamin K research — Saint Louis University"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-336",
+      "subject": "nobel-laureate-336",
+      "edition": "color",
+      "title": "爱德华·多伊西",
+      "titleEnglish": "Edward A. Doisy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-336/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-336/color.jpg",
+      "sha256": "b9a29b4b4e8dfd0b3f0e079dc6bff39541a6100e12fcdb5d963b8061f6be74a9",
+      "thumbnailSHA256": "1c454de3b7e0d871ecdbeea8f7eff04d4ad3a133574cf0fa1ffc8e730b225fcb",
+      "context": {
+        "phrase": {
+          "zh": "认出差异，才能把线索读清。",
+          "en": "Recognize differences to read the clues."
+        },
+        "visual": {
+          "zh": "俯视一张铺开的纸，一只手握铅笔靠近两组不带字母的连接草图，桌面只露出窄边。",
+          "en": "A top-down view shows a spread sheet of paper and a hand holding a pencil beside two unlettered connection sketches. Only a narrow desk edge remains visible."
+        },
+        "background": {
+          "zh": "多伊西因发现维生素K的化学性质获得1943年诺贝尔生理学或医学奖的一半，该年度奖于1944年颁发。他与团队研究维生素K的不同形式、辨明结构并发展合成方法。画面用手中铅笔和两幅连接方式不同的结构草图表达比较与辨认；草图不是可用于化学计算的分子式，也不是他的原始笔记或制药说明。短句为原创。\n1943年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现维生素K的化学性质",
+          "en": "Doisy received half of the 1943 Nobel Prize in Physiology or Medicine, awarded in 1944, for discovering the chemical nature of vitamin K. His team studied different forms, identified their structures and developed synthesis methods. A pencil held over two differently connected structural sketches expresses comparison and identification. The sketches are not chemical formulas for calculation, original notes or instructions for making medicine. The phrase is original.\n1943 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of the chemical nature of vitamin K"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1943 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1943/summary/",
+            "labelLocalized": {
+              "zh": "1943年生理学或医学奖｜官方记录",
+              "en": "1943 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "slu.edu",
+            "url": "https://www.slu.edu/news/2020/may/slu-legends-lore-edward-doisy.php",
+            "labelLocalized": {
+              "zh": "多伊西与维生素K研究｜圣路易斯大学",
+              "en": "Doisy and vitamin K research — Saint Louis University"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

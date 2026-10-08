@@ -1,0 +1,70 @@
+{
+  "subject": "09-genome",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:09-genome",
+      "subject": "09-genome",
+      "edition": "mono",
+      "title": "生命：双螺旋与序列",
+      "titleEnglish": "DNA and Genetic Sequences",
+      "category": "自然科学",
+      "image": "Images/mono/09-genome.jpg",
+      "thumbnail": "Thumbs/mono/09-genome.jpg",
+      "sha256": "7150b28a792e661295290ff907b106bc4f6471cd36f2565febb6677611cf942f",
+      "thumbnailSHA256": "95cfa15b092e41d683ed7391d8820fd28a3763b9ffde83a5ab74ce27031d1358",
+      "context": {
+        "phrase": {
+          "zh": "生命的差异，写在相连的序列里。",
+          "en": "Life’s variation lives in connected sequences."
+        },
+        "visual": {
+          "zh": "双螺旋旁排列的色带将分子结构与序列阅读并置。颜色和比例用于帮助识别主题，不代表某个人的基因组、检测结论或真实分子尺度。",
+          "en": "A double helix sits beside ordered bands, connecting molecular structure with reading a sequence. Colors and scale identify the theme; they do not represent a person’s genome or a test result."
+        },
+        "background": {
+          "zh": "1953 年，沃森与克里克提出 DNA 双螺旋模型；富兰克林和威尔金斯的 X 射线衍射研究提供了关键结构线索。DNA 使用 A、T、C、G 四种碱基，模型中的特异配对为理解遗传信息的复制提供了基础。",
+          "en": "Watson and Crick described the DNA double helix in 1953, drawing on crucial X-ray diffraction evidence from Franklin and Wilkins. DNA uses four bases, A, T, C and G. Specific pairing in the model helped explain how genetic information could be copied."
+        },
+        "sources": [
+          {
+            "label": "NHGRI · 1953: DNA Double Helix",
+            "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:09-genome",
+      "subject": "09-genome",
+      "edition": "color",
+      "title": "生命：双螺旋与序列",
+      "titleEnglish": "DNA and Genetic Sequences",
+      "category": "自然科学",
+      "image": "Images/color/09-genome.jpg",
+      "thumbnail": "Thumbs/color/09-genome.jpg",
+      "sha256": "bda3eb09067b0533c1be5e708989addc0b97a4187e17a8623a13fc8ae03792c7",
+      "thumbnailSHA256": "536d13a19e95fe0a1efcf18716bbf62184749332f802467dbc50d83802803b06",
+      "context": {
+        "phrase": {
+          "zh": "生命的差异，写在相连的序列里。",
+          "en": "Life’s variation lives in connected sequences."
+        },
+        "visual": {
+          "zh": "双螺旋旁排列的色带将分子结构与序列阅读并置。颜色和比例用于帮助识别主题，不代表某个人的基因组、检测结论或真实分子尺度。",
+          "en": "A double helix sits beside ordered bands, connecting molecular structure with reading a sequence. Colors and scale identify the theme; they do not represent a person’s genome or a test result."
+        },
+        "background": {
+          "zh": "1953 年，沃森与克里克提出 DNA 双螺旋模型；富兰克林和威尔金斯的 X 射线衍射研究提供了关键结构线索。DNA 使用 A、T、C、G 四种碱基，模型中的特异配对为理解遗传信息的复制提供了基础。",
+          "en": "Watson and Crick described the DNA double helix in 1953, drawing on crucial X-ray diffraction evidence from Franklin and Wilkins. DNA uses four bases, A, T, C and G. Specific pairing in the model helped explain how genetic information could be copied."
+        },
+        "sources": [
+          {
+            "label": "NHGRI · 1953: DNA Double Helix",
+            "url": "https://www.genome.gov/25520255/online-education-kit-1953-dna-double-helix/"
+          }
+        ]
+      }
+    }
+  }
+}

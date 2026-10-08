@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-25",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-25",
+      "subject": "nobel-laureate-25",
+      "edition": "mono",
+      "title": "夏尔·爱德华·纪尧姆",
+      "titleEnglish": "Charles Edouard Guillaume",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-25/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-25/mono.jpg",
+      "sha256": "7602b31aa90049f54239f19b690ac5e145a28a0ac35e7fb7155db3fe4cfa3501",
+      "thumbnailSHA256": "72dcc15ccf7eb9adb7caad8034c450bef305844763487d8b87470ee3d4e42e4e",
+      "context": {
+        "phrase": {
+          "zh": "让微小变化，清楚可见。",
+          "en": "Make small changes visible."
+        },
+        "visual": {
+          "zh": "巨大的黄铜C形框架裁切于右侧，银灰色杆件与合金棒形成斜向交叠，蓝色握柄露出画面上缘。黑白版沿用物件、裁切和留白。千分尺造型只作为精密测量的原创寓意，接触关系不是可使用的测量结构，也不是纪尧姆的历史仪器复刻。",
+          "en": "An enormous brass C-frame is cropped on the right, with silver-gray rods and an alloy bar overlapping diagonally; a blue grip emerges at the top edge. Monochrome retains the objects, crop and quiet space. The micrometer form is an original metaphor for precision; its contact arrangement is not a usable measurement mechanism or a replica of Guillaume’s historical equipment."
+        },
+        "background": {
+          "zh": "纪尧姆独享1920年诺贝尔物理学奖，获奖理由是发现镍钢合金的异常特性，为物理学精密测量作出贡献。诺贝尔奖科普资料介绍了因瓦合金随温度变化时膨胀很小的特点，也明确说明它并未用作米原器（历史上用于确定一米长度的标准尺）。画中合金棒不是已辨认的实物，蓝色与比例没有计量含义。短句为原创，不是人物引语。\n1920年物理学奖；独享本年度奖项。获奖理由（中文译述）：发现镍钢合金的异常特性，为物理学精密测量作出贡献。",
+          "en": "Guillaume received the full 1920 Nobel Prize in Physics for discovering anomalies in nickel-steel alloys that served precision measurement. Nobel education describes Invar’s low thermal expansion and explicitly says it was never used for the prototype meter. The depicted alloy bar is not an identified artifact; its colors and proportions carry no measurement meaning. The phrase is original, not a quotation.\n1920 — The Nobel Prize in Physics. Received the full prize. Official motivation: in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1920 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1920/summary/",
+            "labelLocalized": {
+              "zh": "1920年物理学奖｜官方记录",
+              "en": "1920 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/steel/readmore.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-25",
+      "subject": "nobel-laureate-25",
+      "edition": "color",
+      "title": "夏尔·爱德华·纪尧姆",
+      "titleEnglish": "Charles Edouard Guillaume",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-25/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-25/color.jpg",
+      "sha256": "c34756e63a2eaeeb549329cec53005d85774bc9aaea00c4f129f8797708d6804",
+      "thumbnailSHA256": "e91dda56fde761c10eb233718b85ebcfe0c68cff4d85ac3dfe0547563b3fa35c",
+      "context": {
+        "phrase": {
+          "zh": "让微小变化，清楚可见。",
+          "en": "Make small changes visible."
+        },
+        "visual": {
+          "zh": "巨大的黄铜C形框架裁切于右侧，银灰色杆件与合金棒形成斜向交叠，蓝色握柄露出画面上缘。黑白版沿用物件、裁切和留白。千分尺造型只作为精密测量的原创寓意，接触关系不是可使用的测量结构，也不是纪尧姆的历史仪器复刻。",
+          "en": "An enormous brass C-frame is cropped on the right, with silver-gray rods and an alloy bar overlapping diagonally; a blue grip emerges at the top edge. Monochrome retains the objects, crop and quiet space. The micrometer form is an original metaphor for precision; its contact arrangement is not a usable measurement mechanism or a replica of Guillaume’s historical equipment."
+        },
+        "background": {
+          "zh": "纪尧姆独享1920年诺贝尔物理学奖，获奖理由是发现镍钢合金的异常特性，为物理学精密测量作出贡献。诺贝尔奖科普资料介绍了因瓦合金随温度变化时膨胀很小的特点，也明确说明它并未用作米原器（历史上用于确定一米长度的标准尺）。画中合金棒不是已辨认的实物，蓝色与比例没有计量含义。短句为原创，不是人物引语。\n1920年物理学奖；独享本年度奖项。获奖理由（中文译述）：发现镍钢合金的异常特性，为物理学精密测量作出贡献。",
+          "en": "Guillaume received the full 1920 Nobel Prize in Physics for discovering anomalies in nickel-steel alloys that served precision measurement. Nobel education describes Invar’s low thermal expansion and explicitly says it was never used for the prototype meter. The depicted alloy bar is not an identified artifact; its colors and proportions carry no measurement meaning. The phrase is original, not a quotation.\n1920 — The Nobel Prize in Physics. Received the full prize. Official motivation: in recognition of the service he has rendered to precision measurements in Physics by his discovery of anomalies in nickel steel alloys"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1920 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1920/summary/",
+            "labelLocalized": {
+              "zh": "1920年物理学奖｜官方记录",
+              "en": "1920 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/steel/readmore.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

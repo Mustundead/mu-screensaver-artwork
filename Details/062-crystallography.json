@@ -1,0 +1,70 @@
+{
+  "subject": "062-crystallography",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:062-crystallography",
+      "subject": "062-crystallography",
+      "edition": "mono",
+      "title": "晶体与衍射",
+      "titleEnglish": "Crystals and Diffraction",
+      "category": "自然科学",
+      "image": "Images/mono/062-crystallography.jpg",
+      "thumbnail": "Thumbs/mono/062-crystallography.jpg",
+      "sha256": "0b52748037b78539bf9f2792d51024f0193e98aee8e40fdb7c1c63c8340b2280",
+      "thumbnailSHA256": "57e1f77f007d6704553826406612d4df8eca777398ce21b5a26e725aa7efeabf",
+      "context": {
+        "phrase": {
+          "zh": "衍射的斑点，透露内部的排列。",
+          "en": "Diffraction spots hint at inner order."
+        },
+        "visual": {
+          "zh": "晶格般的结构与点阵光斑在画中重叠，表现从散射图样反推晶体排列。点位不是任何物质的衍射照片。",
+          "en": "Lattice-like forms overlap spot patterns, suggesting how diffraction informs crystal structure. The spots are not a diffraction photograph of any substance."
+        },
+        "background": {
+          "zh": "1912 年，晶体对 X 射线的衍射实验开启了用波来研究晶体内部排列的道路。随后布拉格父子发展了晶体结构分析；从斑点推断结构需要实验几何、数据和模型。",
+          "en": "X-ray diffraction experiments with crystals in 1912 opened a way to study inner atomic arrangements. The Braggs then advanced crystal-structure analysis; interpreting spots requires experimental geometry, data and models."
+        },
+        "sources": [
+          {
+            "label": "International Union of Crystallography · X-ray diffraction",
+            "url": "https://journals.iucr.org/a/issues/2012/01/00/wx0005/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:062-crystallography",
+      "subject": "062-crystallography",
+      "edition": "color",
+      "title": "晶体与衍射",
+      "titleEnglish": "Crystals and Diffraction",
+      "category": "自然科学",
+      "image": "Images/color/062-crystallography.jpg",
+      "thumbnail": "Thumbs/color/062-crystallography.jpg",
+      "sha256": "1e377c5e66389c05f2339e945d0de3ac9531b83b04baf4cfbc653fd1badfb06a",
+      "thumbnailSHA256": "62035ed6ee2d503d3ec399401f2745a01761fe489aa71781c585258d56ac16f6",
+      "context": {
+        "phrase": {
+          "zh": "衍射的斑点，透露内部的排列。",
+          "en": "Diffraction spots hint at inner order."
+        },
+        "visual": {
+          "zh": "晶格般的结构与点阵光斑在画中重叠，表现从散射图样反推晶体排列。点位不是任何物质的衍射照片。",
+          "en": "Lattice-like forms overlap spot patterns, suggesting how diffraction informs crystal structure. The spots are not a diffraction photograph of any substance."
+        },
+        "background": {
+          "zh": "1912 年，晶体对 X 射线的衍射实验开启了用波来研究晶体内部排列的道路。随后布拉格父子发展了晶体结构分析；从斑点推断结构需要实验几何、数据和模型。",
+          "en": "X-ray diffraction experiments with crystals in 1912 opened a way to study inner atomic arrangements. The Braggs then advanced crystal-structure analysis; interpreting spots requires experimental geometry, data and models."
+        },
+        "sources": [
+          {
+            "label": "International Union of Crystallography · X-ray diffraction",
+            "url": "https://journals.iucr.org/a/issues/2012/01/00/wx0005/"
+          }
+        ]
+      }
+    }
+  }
+}

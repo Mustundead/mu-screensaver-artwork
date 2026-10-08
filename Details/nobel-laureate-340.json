@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-340",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-340",
+      "subject": "nobel-laureate-340",
+      "edition": "mono",
+      "title": "恩斯特·钱恩",
+      "titleEnglish": "Ernst B. Chain",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-340/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-340/mono.jpg",
+      "sha256": "a5cfb4ea2b248299cf554760838de0eb24fc5f3899012aaeeee20fdc12ff857b",
+      "thumbnailSHA256": "72dfd04d94517da941733112068e3a5c91c67b0bd4356c5177aa3eef4cda38bf",
+      "context": {
+        "phrase": {
+          "zh": "从复杂之中，留下关键。",
+          "en": "Keep what matters from complexity."
+        },
+        "visual": {
+          "zh": "左侧玻璃容器内有上下两层液体，支架承托容器，底部旋塞下的一滴液体悬在小型收集瓶上方，右侧保留空处。",
+          "en": "A supported glass vessel at left contains two liquid layers; one drop hangs below its stopcock above a small collection vial, leaving open space to the right."
+        },
+        "background": {
+          "zh": "钱恩与弗洛里团队研究了青霉素的性质，并推动它的分离与提纯。这些工作帮助青霉素从早期发现走向进一步研究和应用。钱恩、弗莱明与弗洛里共同获得1945年诺贝尔生理学或医学奖，各占三分之一。画面以分层液体与收集瓶表达分离，是原创寓意，不是真实实验设备或提纯步骤。短句为原创。\n1945年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：发现青霉素及其对多种感染性疾病的治疗作用",
+          "en": "Chain and Florey’s team studied penicillin’s properties and advanced its isolation and purification, helping move an early discovery toward further research and use. Chain, Fleming and Florey shared the 1945 Nobel Prize in Physiology or Medicine, each receiving one third. Layered liquid and a collection vial express separation in an original metaphor, not historical apparatus or a purification procedure. The phrase is original.\n1945 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for the discovery of penicillin and its curative effect in various infectious diseases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年生理学或医学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/chain/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-340",
+      "subject": "nobel-laureate-340",
+      "edition": "color",
+      "title": "恩斯特·钱恩",
+      "titleEnglish": "Ernst B. Chain",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-340/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-340/color.jpg",
+      "sha256": "8ad861c05d5be05d01eb7deb95ab172e5a822fb05c8df152e241faff212e812d",
+      "thumbnailSHA256": "d6aecd875c55ad796f17cdfce4a02393afe9aa705df2cfed27337f03f01a9b67",
+      "context": {
+        "phrase": {
+          "zh": "从复杂之中，留下关键。",
+          "en": "Keep what matters from complexity."
+        },
+        "visual": {
+          "zh": "左侧玻璃容器内有上下两层液体，支架承托容器，底部旋塞下的一滴液体悬在小型收集瓶上方，右侧保留空处。",
+          "en": "A supported glass vessel at left contains two liquid layers; one drop hangs below its stopcock above a small collection vial, leaving open space to the right."
+        },
+        "background": {
+          "zh": "钱恩与弗洛里团队研究了青霉素的性质，并推动它的分离与提纯。这些工作帮助青霉素从早期发现走向进一步研究和应用。钱恩、弗莱明与弗洛里共同获得1945年诺贝尔生理学或医学奖，各占三分之一。画面以分层液体与收集瓶表达分离，是原创寓意，不是真实实验设备或提纯步骤。短句为原创。\n1945年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：发现青霉素及其对多种感染性疾病的治疗作用",
+          "en": "Chain and Florey’s team studied penicillin’s properties and advanced its isolation and purification, helping move an early discovery toward further research and use. Chain, Fleming and Florey shared the 1945 Nobel Prize in Physiology or Medicine, each receiving one third. Layered liquid and a collection vial express separation in an original metaphor, not historical apparatus or a purification procedure. The phrase is original.\n1945 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for the discovery of penicillin and its curative effect in various infectious diseases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年生理学或医学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/chain/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

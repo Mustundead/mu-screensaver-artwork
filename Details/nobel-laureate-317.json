@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-317",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-317",
+      "subject": "nobel-laureate-317",
+      "edition": "mono",
+      "title": "尤利乌斯·瓦格纳-尧雷格",
+      "titleEnglish": "Julius Wagner-Jauregg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-317/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-317/mono.jpg",
+      "sha256": "4fdb53f06908ff1b797d12bc5c56232fc98f6be5a1abae1d28782a6622c2b778",
+      "thumbnailSHA256": "aacc50af0cc7d5d6459cd58628f82654b17d1ad36224e1e7573382811170823e",
+      "context": {
+        "phrase": {
+          "zh": "记住探索，也记住它的边界。",
+          "en": "Remember the search and its limits."
+        },
+        "visual": {
+          "zh": "两组横向纸层之间留出一条暗色空隙，纸边的纤维和细线清楚可见，右下方接着暗红布料。黑白版保留纸层、空隙与布料边缘。这是重新审视历史记录的原创寓意，不是治疗说明。",
+          "en": "A dark horizontal gap separates two groups of layered paper. Fine lines and fibers define their edges, with dark red cloth attached at lower right. The neutral monochrome edition preserves the layers, gap and cloth edge. This is an original metaphor for reconsidering historical records, not treatment instructions."
+        },
+        "background": {
+          "zh": "瓦格纳-尧雷格独获1927年诺贝尔生理学或医学奖，获奖研究是以疟疾接种治疗麻痹性痴呆——梅毒造成的一种严重脑部疾病。这里记录医学史，不推荐这种历史方法；今天神经梅毒的推荐治疗以青霉素为主，须由医生诊治。分层纸张是重新审视记录的原创寓意，不是治疗说明；短句为原创。\n1927年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：当时因以疟疾接种治疗麻痹性痴呆的研究获奖；这是历史方法。",
+          "en": "Wagner-Jauregg alone received the 1927 Nobel Prize in Physiology or Medicine for historical work using malaria inoculation to treat dementia paralytica, a severe brain disease caused by syphilis. This records medical history and does not recommend that method. Current recommended neurosyphilis treatment is based on penicillin and requires medical care. The layered paper is an original metaphor for reconsidering records, not treatment instructions. The phrase is original.\n1927 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年生理学或医学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "cdc.gov",
+            "url": "https://www.cdc.gov/std/treatment-guidelines/neurosyphilis.htm",
+            "labelLocalized": {
+              "zh": "神经梅毒治疗指南｜美国疾控中心",
+              "en": "Neurosyphilis treatment guidelines — CDC"
+            }
+          },
+          {
+            "label": "cdc.gov",
+            "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm",
+            "labelLocalized": {
+              "zh": "梅毒与晚期并发症｜美国疾控中心",
+              "en": "Syphilis and late complications — CDC"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-317",
+      "subject": "nobel-laureate-317",
+      "edition": "color",
+      "title": "尤利乌斯·瓦格纳-尧雷格",
+      "titleEnglish": "Julius Wagner-Jauregg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-317/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-317/color.jpg",
+      "sha256": "a4487441b270888b4235924030b36c725f4cdf9efeb90f1f0a09dd8a4df5853d",
+      "thumbnailSHA256": "8c994f7b4f380c33b08d86164141310785e2656778a10dd8dae3ece8f5d68e58",
+      "context": {
+        "phrase": {
+          "zh": "记住探索，也记住它的边界。",
+          "en": "Remember the search and its limits."
+        },
+        "visual": {
+          "zh": "两组横向纸层之间留出一条暗色空隙，纸边的纤维和细线清楚可见，右下方接着暗红布料。黑白版保留纸层、空隙与布料边缘。这是重新审视历史记录的原创寓意，不是治疗说明。",
+          "en": "A dark horizontal gap separates two groups of layered paper. Fine lines and fibers define their edges, with dark red cloth attached at lower right. The neutral monochrome edition preserves the layers, gap and cloth edge. This is an original metaphor for reconsidering historical records, not treatment instructions."
+        },
+        "background": {
+          "zh": "瓦格纳-尧雷格独获1927年诺贝尔生理学或医学奖，获奖研究是以疟疾接种治疗麻痹性痴呆——梅毒造成的一种严重脑部疾病。这里记录医学史，不推荐这种历史方法；今天神经梅毒的推荐治疗以青霉素为主，须由医生诊治。分层纸张是重新审视记录的原创寓意，不是治疗说明；短句为原创。\n1927年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：当时因以疟疾接种治疗麻痹性痴呆的研究获奖；这是历史方法。",
+          "en": "Wagner-Jauregg alone received the 1927 Nobel Prize in Physiology or Medicine for historical work using malaria inoculation to treat dementia paralytica, a severe brain disease caused by syphilis. This records medical history and does not recommend that method. Current recommended neurosyphilis treatment is based on penicillin and requires medical care. The layered paper is an original metaphor for reconsidering records, not treatment instructions. The phrase is original.\n1927 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the therapeutic value of malaria inoculation in the treatment of dementia paralytica"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年生理学或医学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "cdc.gov",
+            "url": "https://www.cdc.gov/std/treatment-guidelines/neurosyphilis.htm",
+            "labelLocalized": {
+              "zh": "神经梅毒治疗指南｜美国疾控中心",
+              "en": "Neurosyphilis treatment guidelines — CDC"
+            }
+          },
+          {
+            "label": "cdc.gov",
+            "url": "https://www.cdc.gov/std/treatment-guidelines/syphilis.htm",
+            "labelLocalized": {
+              "zh": "梅毒与晚期并发症｜美国疾控中心",
+              "en": "Syphilis and late complications — CDC"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

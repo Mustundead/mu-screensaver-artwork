@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-20",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-20",
+      "subject": "nobel-laureate-20",
+      "edition": "mono",
+      "title": "威廉·亨利·布拉格",
+      "titleEnglish": "William Bragg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-20/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-20/mono.jpg",
+      "sha256": "81daf7cfb2a51f25e476c58b12a05bf02cd008ad80738cea0afb2ec5295ba3e2",
+      "thumbnailSHA256": "40813d569d16e9f0e49a8718276817b42e9c2436f1d8dd01686bc22afe97f4e6",
+      "context": {
+        "phrase": {
+          "zh": "把角度量清楚，结构就有了线索。",
+          "en": "Measure the angle, uncover a clue to structure."
+        },
+        "visual": {
+          "zh": "大圆盘从右下裁切，两条细长测量臂向左上伸出，小晶体靠近盘沿。黑白与钴蓝版突出圆盘；彩色版以黄铜圆盘、银灰测量臂和浅绿晶体区分材质。刻痕没有对应真实数据，这组原创道具也不是历史仪器的复原。",
+          "en": "A large disk is cropped at lower right, with two long arms reaching upper left and a small crystal near its rim. Cobalt emphasizes the disk in monochrome; full color distinguishes golden brass, silvery steel and a pale green crystal. The invented ticks do not encode real data, and these original props do not reconstruct historical apparatus."
+        },
+        "background": {
+          "zh": "威廉·亨利·布拉格与儿子威廉·劳伦斯·布拉格共同获得1915年诺贝尔物理学奖，两人各占一半份额，获奖理由是利用X射线分析晶体结构。英国皇家研究院收藏的资料记录了父亲设计的X射线分光仪，它为测量晶体与X射线的相互作用提供了工具。画面以刻痕圆盘和可调长臂表现测量过程，没有宣称复原该馆藏仪器。黑白与钴蓝版中的蓝色属于原创道具，不代表可见的X射线。短句为原创。\n1915年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：因利用X射线分析晶体结构所作的贡献。",
+          "en": "William Henry Bragg shared the 1915 Nobel Prize in Physics equally with his son William Lawrence Bragg for analyzing crystal structure using X-rays. The Royal Institution's collection documents the father's X-ray spectrometer, an instrument for studying the interaction of crystals and X-rays. The marked disk and adjustable arms evoke measurement without reconstructing that collection object. Blue in the monochrome edition belongs to the invented prop and does not depict visible X-rays. The phrase is original.\n1915 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their services in the analysis of crystal structure by means of X-rays"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1915 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1915/summary/",
+            "labelLocalized": {
+              "zh": "1915年物理学奖｜官方记录",
+              "en": "1915 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "rigb.org",
+            "url": "https://www.rigb.org/explore-science/explore/collection/william-braggs-spectrometer",
+            "labelLocalized": {
+              "zh": "仪器馆藏资料｜英国皇家研究院",
+              "en": "Instrument collection — Royal Institution"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1915/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-20",
+      "subject": "nobel-laureate-20",
+      "edition": "color",
+      "title": "威廉·亨利·布拉格",
+      "titleEnglish": "William Bragg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-20/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-20/color.jpg",
+      "sha256": "46a7c4bd95c0772c113fb1571e03eb2e510eb1cbd33a7fad0a56484a9d973be4",
+      "thumbnailSHA256": "c0692b5dbfd2cb4064f952c7861f2a9bfea074efe2506b9e54eaa28606f83b23",
+      "context": {
+        "phrase": {
+          "zh": "把角度量清楚，结构就有了线索。",
+          "en": "Measure the angle, uncover a clue to structure."
+        },
+        "visual": {
+          "zh": "大圆盘从右下裁切，两条细长测量臂向左上伸出，小晶体靠近盘沿。黑白与钴蓝版突出圆盘；彩色版以黄铜圆盘、银灰测量臂和浅绿晶体区分材质。刻痕没有对应真实数据，这组原创道具也不是历史仪器的复原。",
+          "en": "A large disk is cropped at lower right, with two long arms reaching upper left and a small crystal near its rim. Cobalt emphasizes the disk in monochrome; full color distinguishes golden brass, silvery steel and a pale green crystal. The invented ticks do not encode real data, and these original props do not reconstruct historical apparatus."
+        },
+        "background": {
+          "zh": "威廉·亨利·布拉格与儿子威廉·劳伦斯·布拉格共同获得1915年诺贝尔物理学奖，两人各占一半份额，获奖理由是利用X射线分析晶体结构。英国皇家研究院收藏的资料记录了父亲设计的X射线分光仪，它为测量晶体与X射线的相互作用提供了工具。画面以刻痕圆盘和可调长臂表现测量过程，没有宣称复原该馆藏仪器。黑白与钴蓝版中的蓝色属于原创道具，不代表可见的X射线。短句为原创。\n1915年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：因利用X射线分析晶体结构所作的贡献。",
+          "en": "William Henry Bragg shared the 1915 Nobel Prize in Physics equally with his son William Lawrence Bragg for analyzing crystal structure using X-rays. The Royal Institution's collection documents the father's X-ray spectrometer, an instrument for studying the interaction of crystals and X-rays. The marked disk and adjustable arms evoke measurement without reconstructing that collection object. Blue in the monochrome edition belongs to the invented prop and does not depict visible X-rays. The phrase is original.\n1915 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their services in the analysis of crystal structure by means of X-rays"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1915 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1915/summary/",
+            "labelLocalized": {
+              "zh": "1915年物理学奖｜官方记录",
+              "en": "1915 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "rigb.org",
+            "url": "https://www.rigb.org/explore-science/explore/collection/william-braggs-spectrometer",
+            "labelLocalized": {
+              "zh": "仪器馆藏资料｜英国皇家研究院",
+              "en": "Instrument collection — Royal Institution"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1915/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

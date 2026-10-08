@@ -1,0 +1,70 @@
+{
+  "subject": "078-bach",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:078-bach",
+      "subject": "078-bach",
+      "edition": "mono",
+      "title": "巴赫与复调",
+      "titleEnglish": "Bach and Polyphony",
+      "category": "艺术与人文",
+      "image": "Images/mono/078-bach.jpg",
+      "thumbnail": "Thumbs/mono/078-bach.jpg",
+      "sha256": "b4151782acef26ab3a7606bbc860bc11a69d4b66a7d0c6bcd58678d40f5d1778",
+      "thumbnailSHA256": "abadfe85b39f73cd0900100037fdea3804c4257e58c22fee7357a8072cbd9d5e",
+      "context": {
+        "phrase": {
+          "zh": "不同的声部，也能彼此成全。",
+          "en": "Distinct voices can complete one another."
+        },
+        "visual": {
+          "zh": "巴赫的生成肖像与交织带状线条把音乐声部画成并行的路径。线条的相遇暗示复调中的呼应，不是一份可演奏的乐谱，也不是巴赫原画。",
+          "en": "A generated portrait of Bach meets interwoven bands that suggest distinct musical voices. Their crossings evoke polyphony, not a playable score or an authentic portrait."
+        },
+        "background": {
+          "zh": "巴赫于 1722 年完成《平均律键盘曲集》第一卷，覆盖 24 个大小调，各有前奏曲与赋格。德国历史研究所的资料也提醒，彼时的“键盘”可以指羽管键琴、击弦古钢琴等乐器，不能直接等同于今天的钢琴。",
+          "en": "Bach’s first Well-Tempered Clavier book dates to 1722 and covers all 24 major and minor keys through preludes and fugues. The German Historical Institute notes that “clavier” could refer to several keyboard instruments, including harpsichord and clavichord, rather than only the modern piano."
+        },
+        "sources": [
+          {
+            "label": "German Historical Institute · The Well-Tempered Clavier",
+            "url": "https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/johann-sebastian-bach-the-well-tempered-clavier-1722"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:078-bach",
+      "subject": "078-bach",
+      "edition": "color",
+      "title": "巴赫与复调",
+      "titleEnglish": "Bach and Polyphony",
+      "category": "艺术与人文",
+      "image": "Images/color/078-bach.jpg",
+      "thumbnail": "Thumbs/color/078-bach.jpg",
+      "sha256": "b0b94c2632ca6b8966696331f972778252ee2ed31c793ceb56c65cacc2378154",
+      "thumbnailSHA256": "2ed18be8990c9d2fbf0b1a3a163269c42b9ae9fbd5646082ae5a522309339828",
+      "context": {
+        "phrase": {
+          "zh": "不同的声部，也能彼此成全。",
+          "en": "Distinct voices can complete one another."
+        },
+        "visual": {
+          "zh": "巴赫的生成肖像与交织带状线条把音乐声部画成并行的路径。线条的相遇暗示复调中的呼应，不是一份可演奏的乐谱，也不是巴赫原画。",
+          "en": "A generated portrait of Bach meets interwoven bands that suggest distinct musical voices. Their crossings evoke polyphony, not a playable score or an authentic portrait."
+        },
+        "background": {
+          "zh": "巴赫于 1722 年完成《平均律键盘曲集》第一卷，覆盖 24 个大小调，各有前奏曲与赋格。德国历史研究所的资料也提醒，彼时的“键盘”可以指羽管键琴、击弦古钢琴等乐器，不能直接等同于今天的钢琴。",
+          "en": "Bach’s first Well-Tempered Clavier book dates to 1722 and covers all 24 major and minor keys through preludes and fugues. The German Historical Institute notes that “clavier” could refer to several keyboard instruments, including harpsichord and clavichord, rather than only the modern piano."
+        },
+        "sources": [
+          {
+            "label": "German Historical Institute · The Well-Tempered Clavier",
+            "url": "https://germanhistorydocs.org/en/the-holy-roman-empire-1648-1815/johann-sebastian-bach-the-well-tempered-clavier-1722"
+          }
+        ]
+      }
+    }
+  }
+}

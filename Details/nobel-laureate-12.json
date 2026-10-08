@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-12",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-12",
+      "subject": "nobel-laureate-12",
+      "edition": "mono",
+      "title": "加布里埃尔·李普曼",
+      "titleEnglish": "Gabriel Lippmann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-12/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-12/mono.jpg",
+      "sha256": "c98c41a65a3d1b9e0d7b4fbc6c4d11565a7a3c00700b33f9ce9ecd1d53a4591e",
+      "thumbnailSHA256": "c4e23498b59333ad0c14a9a2958b8200f8008b0baa2200c67dc813f009db50e8",
+      "context": {
+        "phrase": {
+          "zh": "让光自己，留下颜色。",
+          "en": "Let light leave its own colors."
+        },
+        "visual": {
+          "zh": "摄影玻璃板从巨大的近景逐层退向远处，原创鸢尾影像与实物花朵交叠，蓝色参与玻璃反射的结构。画面借尺度和层次表现光与色彩，不是历史照片或真实实验图。",
+          "en": "Photographic glass plates shrink from a massive foreground into the distance. Original iris images overlap a flower, with blue integrated into glass reflections. Scale and layers suggest light and color; this is neither a historical photograph nor an experimental diagram."
+        },
+        "background": {
+          "zh": "加布里埃尔·李普曼获得1908年诺贝尔物理学奖，获奖工作是基于干涉现象的彩色摄影方法。干涉是光波相互叠加的现象。他使摄影乳剂与反射面相接，让入射光与反射光形成细密的层状记录，在合适的观看条件下再现颜色。这种方法需要较长曝光，与今天常见的数码彩色摄影不同。配图借相机、花朵与玻璃表现光和色彩的联系，不把原创花卉图案当成李普曼拍摄的作品。\n1908年物理学奖；独享本年度奖项。获奖理由（中文译述）：因其基于干涉现象再现摄影色彩的方法",
+          "en": "Gabriel Lippmann received the 1908 Nobel Prize in Physics for a color-photography method based on interference, the interaction of overlapping light waves. With a reflecting surface against a photographic emulsion, incoming and reflected light produced fine layered records that reproduced colors under suitable viewing conditions. The method required long exposures and differs from everyday digital color photography. The camera, flower and glass are symbolic; the imagined floral image is not attributed to Lippmann.\n1908 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his method of reproducing colours photographically based on the phenomenon of interference"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年物理学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-12",
+      "subject": "nobel-laureate-12",
+      "edition": "color",
+      "title": "加布里埃尔·李普曼",
+      "titleEnglish": "Gabriel Lippmann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-12/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-12/color.jpg",
+      "sha256": "8e2d586babec6d31c218761740b7acc6ed72919d4a09b0d1746d5aa265e84285",
+      "thumbnailSHA256": "0d51d6999548134a2220b3a82e4aa4e5de753c0ec142308fcfc4790bb6400ae8",
+      "context": {
+        "phrase": {
+          "zh": "让光自己，留下颜色。",
+          "en": "Let light leave its own colors."
+        },
+        "visual": {
+          "zh": "摄影玻璃板从巨大的近景逐层退向远处，原创鸢尾影像与实物花朵交叠，蓝色参与玻璃反射的结构。画面借尺度和层次表现光与色彩，不是历史照片或真实实验图。",
+          "en": "Photographic glass plates shrink from a massive foreground into the distance. Original iris images overlap a flower, with blue integrated into glass reflections. Scale and layers suggest light and color; this is neither a historical photograph nor an experimental diagram."
+        },
+        "background": {
+          "zh": "加布里埃尔·李普曼获得1908年诺贝尔物理学奖，获奖工作是基于干涉现象的彩色摄影方法。干涉是光波相互叠加的现象。他使摄影乳剂与反射面相接，让入射光与反射光形成细密的层状记录，在合适的观看条件下再现颜色。这种方法需要较长曝光，与今天常见的数码彩色摄影不同。配图借相机、花朵与玻璃表现光和色彩的联系，不把原创花卉图案当成李普曼拍摄的作品。\n1908年物理学奖；独享本年度奖项。获奖理由（中文译述）：因其基于干涉现象再现摄影色彩的方法",
+          "en": "Gabriel Lippmann received the 1908 Nobel Prize in Physics for a color-photography method based on interference, the interaction of overlapping light waves. With a reflecting surface against a photographic emulsion, incoming and reflected light produced fine layered records that reproduced colors under suitable viewing conditions. The method required long exposures and differs from everyday digital color photography. The camera, flower and glass are symbolic; the imagined floral image is not attributed to Lippmann.\n1908 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his method of reproducing colours photographically based on the phenomenon of interference"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年物理学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

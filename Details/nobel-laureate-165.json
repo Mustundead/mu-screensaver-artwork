@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-165",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-165",
+      "subject": "nobel-laureate-165",
+      "edition": "mono",
+      "title": "亨利·莫瓦桑",
+      "titleEnglish": "Henri Moissan",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-165/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-165/mono.jpg",
+      "sha256": "dcff8670997b792e13c5988f9c232a252b7707b434fe35df2f178dc426985592",
+      "thumbnailSHA256": "b1b1e6284c8e983debd135a66c344b577193c12c9b3d8e77adef2f4b19cb84df",
+      "context": {
+        "phrase": {
+          "zh": "新的工具，让原本难以探索的材料变得可研究。",
+          "en": "New tools bring difficult materials within reach."
+        },
+        "visual": {
+          "zh": "关闭的电炉、石墨棒、金属容器与坩埚组成独立拼贴，呼应莫瓦桑的氟研究和电炉工作。器材是艺术化组合，不是他的实验装置，也不提供实验操作方法。",
+          "en": "An original collage of a closed furnace, graphite rods, a metal vessel and crucibles evokes Moissan's fluorine research and electric-furnace work. The apparatus is an artistic interpretation, not his equipment or an experimental procedure."
+        },
+        "background": {
+          "zh": "莫瓦桑获得1906年诺贝尔化学奖，表彰他对氟的研究与分离，以及电炉在科学研究中的应用。他于1886年首次分离出氟，并在1892年发展电弧炉，用它研究高温下的材料。配图中的炉体和容器均处于关闭状态；没有把氟画成彩色气体，也没有展示操作步骤。\n1906年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对氟的研究与分离，以及他所提出的电炉在科学研究中的应用。",
+          "en": "Moissan received the 1906 Nobel Prize in Chemistry for his investigations and isolation of fluorine and for the electric furnace's use in scientific research. He first isolated fluorine in 1886 and developed an electric-arc furnace in 1892 for studying materials at high temperatures. The artwork shows closed, inactive apparatus, without depicting fluorine as a colored gas or presenting operating instructions.\n1906 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of the great services rendered by him in his investigation and isolation of the element fluorine, and for the adoption in the service of science of the electric furnace called after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年化学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1906/moissan/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-165",
+      "subject": "nobel-laureate-165",
+      "edition": "color",
+      "title": "亨利·莫瓦桑",
+      "titleEnglish": "Henri Moissan",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-165/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-165/color.jpg",
+      "sha256": "a24ccedece66c720b40c6da4165e12b9ad803905b380c834584712182fee5a3d",
+      "thumbnailSHA256": "475f8faa646154b7a5fbe6b4beaec98b86ed641a7bd8908a48d7d8fc0b559d88",
+      "context": {
+        "phrase": {
+          "zh": "新的工具，让原本难以探索的材料变得可研究。",
+          "en": "New tools bring difficult materials within reach."
+        },
+        "visual": {
+          "zh": "关闭的电炉、石墨棒、金属容器与坩埚组成独立拼贴，呼应莫瓦桑的氟研究和电炉工作。器材是艺术化组合，不是他的实验装置，也不提供实验操作方法。",
+          "en": "An original collage of a closed furnace, graphite rods, a metal vessel and crucibles evokes Moissan's fluorine research and electric-furnace work. The apparatus is an artistic interpretation, not his equipment or an experimental procedure."
+        },
+        "background": {
+          "zh": "莫瓦桑获得1906年诺贝尔化学奖，表彰他对氟的研究与分离，以及电炉在科学研究中的应用。他于1886年首次分离出氟，并在1892年发展电弧炉，用它研究高温下的材料。配图中的炉体和容器均处于关闭状态；没有把氟画成彩色气体，也没有展示操作步骤。\n1906年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对氟的研究与分离，以及他所提出的电炉在科学研究中的应用。",
+          "en": "Moissan received the 1906 Nobel Prize in Chemistry for his investigations and isolation of fluorine and for the electric furnace's use in scientific research. He first isolated fluorine in 1886 and developed an electric-arc furnace in 1892 for studying materials at high temperatures. The artwork shows closed, inactive apparatus, without depicting fluorine as a colored gas or presenting operating instructions.\n1906 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of the great services rendered by him in his investigation and isolation of the element fluorine, and for the adoption in the service of science of the electric furnace called after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年化学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1906/moissan/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

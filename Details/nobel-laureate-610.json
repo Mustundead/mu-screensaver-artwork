@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-610",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-610",
+      "subject": "nobel-laureate-610",
+      "edition": "mono",
+      "title": "赛珍珠",
+      "titleEnglish": "Pearl Buck",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-610/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-610/mono.jpg",
+      "sha256": "f8c2f373ab741f69ec6b64d8286ff15111fbb6aba2ab63ee2203d4ced715abfc",
+      "thumbnailSHA256": "3ecf12fd6da23e4f8d520c8c49b99aa48f69837f13a24f28757d04a1a5e890dd",
+      "context": {
+        "phrase": {
+          "zh": "故事从脚下的土地开始。",
+          "en": "Stories begin with the land beneath our feet."
+        },
+        "visual": {
+          "zh": "大幅钢笔尖从左上角进入，在前景土壤处落笔；田垄向右侧远处延伸，右下角有麦穗，远景仅保留树木与低丘。黑白版保留金属刻线、土块和田垄的材质差异。",
+          "en": "A large steel pen nib enters from upper left and meets foreground soil. Furrows sweep right into trees and low hills; wheat sits at lower right. Neutral monochrome distinguishes the metal nib, earth and field rows."
+        },
+        "background": {
+          "zh": "赛珍珠获得1938年诺贝尔文学奖，获奖理由包括她对中国农民生活丰富而真实的史诗般描写，以及传记作品。她在诺贝尔演讲中谈到中国小说传统。画面让钢笔尖接触翻耕的土壤，麦穗与田垄把写作和土地上的生活联系起来。这是原创寓意，不是小说中的具体场景，也不声称重现某地农田；配图不能代表她全部作品或获奖理由。短句为原创。\n1938年文学奖；独享本年度奖项。获奖理由（中文译述）：对中国农民生活作出丰富而真实的史诗般描写，并创作杰出的传记作品",
+          "en": "Pearl Buck received the 1938 Nobel Prize in Literature for rich, epic portrayals of Chinese peasant life and her biographical masterpieces. Her Nobel lecture discussed the Chinese novel tradition. A pen nib touches tilled soil while wheat and furrows connect writing with life on the land. This is an original metaphor, not a scene from a novel or a reconstruction of a particular farm. The image does not represent all her works or the entire award motivation. The phrase is original.\n1938 — The Nobel Prize in Literature. Received the full prize. Official motivation: for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年文学奖｜官方记录",
+              "en": "1938 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1938/buck/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/nobel_prizes/literature/laureates/1938/buck-bio.html",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-610",
+      "subject": "nobel-laureate-610",
+      "edition": "color",
+      "title": "赛珍珠",
+      "titleEnglish": "Pearl Buck",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-610/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-610/color.jpg",
+      "sha256": "4f39f9d226ea552e628a8e536210f1bb71f7c0b40cd81707c50d86a2c5eeedb5",
+      "thumbnailSHA256": "b0f2c37ed4e42fa2a8b61853bac649ffe52815fc58f9776d0034daa98bd583ff",
+      "context": {
+        "phrase": {
+          "zh": "故事从脚下的土地开始。",
+          "en": "Stories begin with the land beneath our feet."
+        },
+        "visual": {
+          "zh": "大幅钢笔尖从左上角进入，在前景土壤处落笔；田垄向右侧远处延伸，右下角有麦穗，远景仅保留树木与低丘。黑白版保留金属刻线、土块和田垄的材质差异。",
+          "en": "A large steel pen nib enters from upper left and meets foreground soil. Furrows sweep right into trees and low hills; wheat sits at lower right. Neutral monochrome distinguishes the metal nib, earth and field rows."
+        },
+        "background": {
+          "zh": "赛珍珠获得1938年诺贝尔文学奖，获奖理由包括她对中国农民生活丰富而真实的史诗般描写，以及传记作品。她在诺贝尔演讲中谈到中国小说传统。画面让钢笔尖接触翻耕的土壤，麦穗与田垄把写作和土地上的生活联系起来。这是原创寓意，不是小说中的具体场景，也不声称重现某地农田；配图不能代表她全部作品或获奖理由。短句为原创。\n1938年文学奖；独享本年度奖项。获奖理由（中文译述）：对中国农民生活作出丰富而真实的史诗般描写，并创作杰出的传记作品",
+          "en": "Pearl Buck received the 1938 Nobel Prize in Literature for rich, epic portrayals of Chinese peasant life and her biographical masterpieces. Her Nobel lecture discussed the Chinese novel tradition. A pen nib touches tilled soil while wheat and furrows connect writing with life on the land. This is an original metaphor, not a scene from a novel or a reconstruction of a particular farm. The image does not represent all her works or the entire award motivation. The phrase is original.\n1938 — The Nobel Prize in Literature. Received the full prize. Official motivation: for her rich and truly epic descriptions of peasant life in China and for her biographical masterpieces"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年文学奖｜官方记录",
+              "en": "1938 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1938/buck/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/nobel_prizes/literature/laureates/1938/buck-bio.html",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

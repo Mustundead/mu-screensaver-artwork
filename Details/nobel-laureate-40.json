@@ -1,0 +1,102 @@
+{
+  "subject": "nobel-laureate-40",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-40",
+      "subject": "nobel-laureate-40",
+      "edition": "mono",
+      "title": "保罗·狄拉克",
+      "titleEnglish": "Paul A.M. Dirac",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-40/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-40/mono.jpg",
+      "sha256": "477e7631aa774e37b8088e59d7617fdf21657277910b7409be0b690629dcd942",
+      "thumbnailSHA256": "fc3e9924901a888819cb134523b72b9ab95f624e4d09015dab46b3c632a8bfdb",
+      "context": {
+        "phrase": {
+          "zh": "顺着理论，也能找到未曾见过的对应。",
+          "en": "Follow a theory toward a counterpart not yet seen."
+        },
+        "visual": {
+          "zh": "深绿背景上，两枚同等大小的铜色球体由各自的细绳悬挂，一高一低；两球明暗半面的方向相反，刻线沿圆弧塑形。中性黑白版保留球体、绳索、位置与明暗对应。",
+          "en": "Against deep green, two equally sized copper-colored spheres hang from separate fine cords at different heights. Their light-dark hemispheres face opposite ways, with engraved lines shaping their curves. The neutral monochrome edition preserves the spheres, cords, placement and tonal correspondence."
+        },
+        "background": {
+          "zh": "狄拉克与薛定谔共同获得1933年诺贝尔物理学奖。1928年，狄拉克把量子理论与相对论结合，理论预示了与电子质量相同、电荷相反的对应粒子。安德森在1932年发现了这种粒子——正电子。两枚同等大小的球体是对对应关系的原创寓意，不是粒子的真实外观、实测轨迹或狄拉克的实验；短句为原创。\n1933年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们开创富有成效的原子理论新形式。",
+          "en": "Dirac shared the 1933 Nobel Prize in Physics with Schrödinger. In 1928 he combined quantum theory and relativity; the theory predicted a counterpart of the electron with the same mass and opposite charge. Anderson discovered this particle, the positron, in 1932. Two equally sized spheres are an original metaphor for this correspondence, not the appearance of particles, measured tracks or an experiment performed by Dirac. The phrase is original.\n1933 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for the discovery of new productive forms of atomic theory"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年物理学奖｜官方记录",
+              "en": "1933 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1933/dirac/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "home.web.cern.ch",
+            "url": "https://home.web.cern.ch/science/physics/antimatter/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-40",
+      "subject": "nobel-laureate-40",
+      "edition": "color",
+      "title": "保罗·狄拉克",
+      "titleEnglish": "Paul A.M. Dirac",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-40/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-40/color.jpg",
+      "sha256": "50d4b5bcebb61eb4e12577d9972ecd57173387a4bab35745bc2f2e56d9bbbe64",
+      "thumbnailSHA256": "91d22bce630878ebc2f1af2da1fa122e21544a62ed513cc29361b940c6e62be9",
+      "context": {
+        "phrase": {
+          "zh": "顺着理论，也能找到未曾见过的对应。",
+          "en": "Follow a theory toward a counterpart not yet seen."
+        },
+        "visual": {
+          "zh": "深绿背景上，两枚同等大小的铜色球体由各自的细绳悬挂，一高一低；两球明暗半面的方向相反，刻线沿圆弧塑形。中性黑白版保留球体、绳索、位置与明暗对应。",
+          "en": "Against deep green, two equally sized copper-colored spheres hang from separate fine cords at different heights. Their light-dark hemispheres face opposite ways, with engraved lines shaping their curves. The neutral monochrome edition preserves the spheres, cords, placement and tonal correspondence."
+        },
+        "background": {
+          "zh": "狄拉克与薛定谔共同获得1933年诺贝尔物理学奖。1928年，狄拉克把量子理论与相对论结合，理论预示了与电子质量相同、电荷相反的对应粒子。安德森在1932年发现了这种粒子——正电子。两枚同等大小的球体是对对应关系的原创寓意，不是粒子的真实外观、实测轨迹或狄拉克的实验；短句为原创。\n1933年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们开创富有成效的原子理论新形式。",
+          "en": "Dirac shared the 1933 Nobel Prize in Physics with Schrödinger. In 1928 he combined quantum theory and relativity; the theory predicted a counterpart of the electron with the same mass and opposite charge. Anderson discovered this particle, the positron, in 1932. Two equally sized spheres are an original metaphor for this correspondence, not the appearance of particles, measured tracks or an experiment performed by Dirac. The phrase is original.\n1933 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for the discovery of new productive forms of atomic theory"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年物理学奖｜官方记录",
+              "en": "1933 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1933/dirac/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "home.web.cern.ch",
+            "url": "https://home.web.cern.ch/science/physics/antimatter/"
+          }
+        ]
+      }
+    }
+  }
+}

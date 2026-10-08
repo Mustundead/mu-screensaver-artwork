@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-032",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-032",
+      "subject": "oscar-best-picture-032",
+      "edition": "mono",
+      "title": "宾虚",
+      "titleEnglish": "Ben-Hur",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-032/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-032/mono.jpg",
+      "sha256": "31d111d178c9bf25c8f98d748594fcec38c53ed30ce3a53f9a4f08779762a1b1",
+      "thumbnailSHA256": "797d4505b02ada63fd5ead57e7002406717df07fd12c9c0f8538f163b205d35e",
+      "context": {
+        "phrase": {
+          "zh": "复仇的路，也可以在这里停下。",
+          "en": "Even a road of revenge can end."
+        },
+        "visual": {
+          "zh": "左侧静止的木轮被上方与左边缘裁切，辐条与铜色轮毂相连；一条暗红皮缰从前景松弛地起伏，在右侧回环。木轮的规整径向线与缰绳的柔软曲线形成对照。黑白版保留同一轮与缰绳。",
+          "en": "A resting wooden wheel is cropped at the top and left, with radial spokes connected to a copper-colored hub. A slack burgundy leather rein curves across the foreground and loops at right. Rigid spoke geometry contrasts with loose curves. The neutral edition preserves the same wheel and rein."
+        },
+        "background": {
+          "zh": "威廉·惠勒执导的《宾虚》是1959年影片，在1960年第32届奥斯卡典礼获得最佳影片。犹大·宾虚因友人的背叛遭受苦难，重返家乡寻求复仇，最终逐渐走向宽恕。静止木轮与松弛缰绳借用战车意象，表达停止被复仇牵引的原创寓意；不是电影截图、海报、实际道具或布景复刻。短句为原创，不是影片对白。\n第32届奥斯卡最佳影片：宾虚。颁奖年份 1960；参评年份 1959。",
+          "en": "William Wyler’s Ben-Hur is a 1959 film that won Best Picture at the 32nd Academy Awards in 1960. Betrayed by a friend, Judah Ben-Hur suffers and returns seeking revenge, before ultimately turning toward forgiveness. A resting wheel and slack rein draw on chariot imagery as an original metaphor for ceasing to be driven by revenge, not a film frame, poster, actual prop or set replica. The phrase is original, not film dialogue.\nAcademy Awards ceremony 32 (1960), Best Picture: Ben-Hur. Eligibility year: 1959."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1960",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/52827-BEN-HUR",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-032",
+      "subject": "oscar-best-picture-032",
+      "edition": "color",
+      "title": "宾虚",
+      "titleEnglish": "Ben-Hur",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-032/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-032/color.jpg",
+      "sha256": "2fe1008fc01edab01ca7164ca29cb5c2c80ff5d8c889fbff9ffae7c0e2ee35ae",
+      "thumbnailSHA256": "d43d7c6384b54b19beb284be6750ee2fcc791ead0b4d319d7de7772ed400c69d",
+      "context": {
+        "phrase": {
+          "zh": "复仇的路，也可以在这里停下。",
+          "en": "Even a road of revenge can end."
+        },
+        "visual": {
+          "zh": "左侧静止的木轮被上方与左边缘裁切，辐条与铜色轮毂相连；一条暗红皮缰从前景松弛地起伏，在右侧回环。木轮的规整径向线与缰绳的柔软曲线形成对照。黑白版保留同一轮与缰绳。",
+          "en": "A resting wooden wheel is cropped at the top and left, with radial spokes connected to a copper-colored hub. A slack burgundy leather rein curves across the foreground and loops at right. Rigid spoke geometry contrasts with loose curves. The neutral edition preserves the same wheel and rein."
+        },
+        "background": {
+          "zh": "威廉·惠勒执导的《宾虚》是1959年影片，在1960年第32届奥斯卡典礼获得最佳影片。犹大·宾虚因友人的背叛遭受苦难，重返家乡寻求复仇，最终逐渐走向宽恕。静止木轮与松弛缰绳借用战车意象，表达停止被复仇牵引的原创寓意；不是电影截图、海报、实际道具或布景复刻。短句为原创，不是影片对白。\n第32届奥斯卡最佳影片：宾虚。颁奖年份 1960；参评年份 1959。",
+          "en": "William Wyler’s Ben-Hur is a 1959 film that won Best Picture at the 32nd Academy Awards in 1960. Betrayed by a friend, Judah Ben-Hur suffers and returns seeking revenge, before ultimately turning toward forgiveness. A resting wheel and slack rein draw on chariot imagery as an original metaphor for ceasing to be driven by revenge, not a film frame, poster, actual prop or set replica. The phrase is original, not film dialogue.\nAcademy Awards ceremony 32 (1960), Best Picture: Ben-Hur. Eligibility year: 1959."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1960",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/52827-BEN-HUR",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

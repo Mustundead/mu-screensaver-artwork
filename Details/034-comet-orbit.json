@@ -1,0 +1,70 @@
+{
+  "subject": "034-comet-orbit",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:034-comet-orbit",
+      "subject": "034-comet-orbit",
+      "edition": "mono",
+      "title": "彗星与轨道",
+      "titleEnglish": "Comets and Orbits",
+      "category": "宇宙",
+      "image": "Images/mono/034-comet-orbit.jpg",
+      "thumbnail": "Thumbs/mono/034-comet-orbit.jpg",
+      "sha256": "2b06e0348ef218493af5f086298141772d0e0f14c24a5e44f720f603fb2ab8e0",
+      "thumbnailSHA256": "b1eff987032edf0b3bc8948627c42a1325c51992096309c1bd064c120bf9f15d",
+      "context": {
+        "phrase": {
+          "zh": "靠近太阳，冰尘便留下长尾。",
+          "en": "Near the Sun, ice and dust draw a tail."
+        },
+        "visual": {
+          "zh": "彗核拖着明亮的弧形尾迹掠过太阳旁，强调升温与运动。画出的单一尾巴并不展示彗星可能同时具有的尘尾和离子尾。",
+          "en": "A comet sweeps past the Sun with a luminous arc, emphasizing warmth and motion. Its single drawn tail does not show the distinct dust and ion tails a comet can develop."
+        },
+        "background": {
+          "zh": "彗星由冰、尘埃和岩石组成。靠近太阳时，冰升华，释放气体和尘埃形成彗发；太阳光和太阳风可把这些物质推向背离太阳的方向，形成尾巴。",
+          "en": "Comets contain ice, dust and rock. Near the Sun, ice turns to gas and releases dust to form a coma; sunlight and the solar wind can push material away from the Sun to make tails."
+        },
+        "sources": [
+          {
+            "label": "NASA · Comet facts",
+            "url": "https://science.nasa.gov/solar-system/comets/facts/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:034-comet-orbit",
+      "subject": "034-comet-orbit",
+      "edition": "color",
+      "title": "彗星与轨道",
+      "titleEnglish": "Comets and Orbits",
+      "category": "宇宙",
+      "image": "Images/color/034-comet-orbit.jpg",
+      "thumbnail": "Thumbs/color/034-comet-orbit.jpg",
+      "sha256": "2df05c658f710284f2d657c01ace6e2cfd4d2bedf87e8e7c52efe18a3fd57748",
+      "thumbnailSHA256": "d8e991c6db63f32790e9c1226ec368e1548412912de2ce6d273c1ea7b72a95f3",
+      "context": {
+        "phrase": {
+          "zh": "靠近太阳，冰尘便留下长尾。",
+          "en": "Near the Sun, ice and dust draw a tail."
+        },
+        "visual": {
+          "zh": "彗核拖着明亮的弧形尾迹掠过太阳旁，强调升温与运动。画出的单一尾巴并不展示彗星可能同时具有的尘尾和离子尾。",
+          "en": "A comet sweeps past the Sun with a luminous arc, emphasizing warmth and motion. Its single drawn tail does not show the distinct dust and ion tails a comet can develop."
+        },
+        "background": {
+          "zh": "彗星由冰、尘埃和岩石组成。靠近太阳时，冰升华，释放气体和尘埃形成彗发；太阳光和太阳风可把这些物质推向背离太阳的方向，形成尾巴。",
+          "en": "Comets contain ice, dust and rock. Near the Sun, ice turns to gas and releases dust to form a coma; sunlight and the solar wind can push material away from the Sun to make tails."
+        },
+        "sources": [
+          {
+            "label": "NASA · Comet facts",
+            "url": "https://science.nasa.gov/solar-system/comets/facts/"
+          }
+        ]
+      }
+    }
+  }
+}

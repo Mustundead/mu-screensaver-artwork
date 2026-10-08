@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-031",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-031",
+      "subject": "oscar-best-picture-031",
+      "edition": "mono",
+      "title": "金粉世界",
+      "titleEnglish": "Gigi",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-031/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-031/mono.jpg",
+      "sha256": "9a11d2010c152e345834fb1cc1a83b7c7790ed3521c945d6d6b4a1c7cc67af43",
+      "thumbnailSHA256": "98d37d6cd7a2ee107d129b8259b643c20a940972c86adb6bea9a3d9af9c87ef4",
+      "context": {
+        "phrase": {
+          "zh": "学会礼仪，也保留自己的选择。",
+          "en": "Learn the manners; keep your own choice."
+        },
+        "visual": {
+          "zh": "俯视餐桌上，右侧象牙白餐盘以暗红细边形成大幅圆弧裁切，中间银色刀叉平行排列，左侧餐巾的松弛折线偏离规整方向。黑白版保留同一餐盘、刀叉与折叠关系。",
+          "en": "An overhead place setting has a large cropped ivory plate with a burgundy rim on the right. Silver cutlery stands parallel at the center; the loose napkin folds at left break the ordered direction. The neutral edition preserves this arrangement."
+        },
+        "background": {
+          "zh": "《金粉世界》是文森特·明奈利执导的1958年音乐片，在1959年第31届奥斯卡典礼获得最佳影片。故事中的吉吉接受社交与餐桌礼仪训练，却拒绝别人为她安排的人生角色。规整刀叉与松弛餐巾表现礼仪和个人选择的原创寓意，并非影片截图、海报或布景复刻；短句为原创。\n第31届奥斯卡最佳影片：金粉世界。颁奖年份 1959；参评年份 1958。",
+          "en": "Gigi is Vincente Minnelli’s 1958 musical and won Best Picture at the 31st Academy Awards in 1959. Gigi receives social and dining training but rejects the role prescribed for her. Ordered cutlery and a loose napkin are an original metaphor for manners and personal choice, not a film still, poster or set replica. The phrase is original.\nAcademy Awards ceremony 31 (1959), Best Picture: Gigi. Eligibility year: 1958."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1959",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/52564-GIGI",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-031",
+      "subject": "oscar-best-picture-031",
+      "edition": "color",
+      "title": "金粉世界",
+      "titleEnglish": "Gigi",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-031/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-031/color.jpg",
+      "sha256": "a1a027bd938240fc8936a609a0609950bbb06e5c494d8e597cb470e06aa9037e",
+      "thumbnailSHA256": "4361a2f396aa4268baee54e69d8c96dcbb9dc5dea94ca26b21673e0a1d5dfc8e",
+      "context": {
+        "phrase": {
+          "zh": "学会礼仪，也保留自己的选择。",
+          "en": "Learn the manners; keep your own choice."
+        },
+        "visual": {
+          "zh": "俯视餐桌上，右侧象牙白餐盘以暗红细边形成大幅圆弧裁切，中间银色刀叉平行排列，左侧餐巾的松弛折线偏离规整方向。黑白版保留同一餐盘、刀叉与折叠关系。",
+          "en": "An overhead place setting has a large cropped ivory plate with a burgundy rim on the right. Silver cutlery stands parallel at the center; the loose napkin folds at left break the ordered direction. The neutral edition preserves this arrangement."
+        },
+        "background": {
+          "zh": "《金粉世界》是文森特·明奈利执导的1958年音乐片，在1959年第31届奥斯卡典礼获得最佳影片。故事中的吉吉接受社交与餐桌礼仪训练，却拒绝别人为她安排的人生角色。规整刀叉与松弛餐巾表现礼仪和个人选择的原创寓意，并非影片截图、海报或布景复刻；短句为原创。\n第31届奥斯卡最佳影片：金粉世界。颁奖年份 1959；参评年份 1958。",
+          "en": "Gigi is Vincente Minnelli’s 1958 musical and won Best Picture at the 31st Academy Awards in 1959. Gigi receives social and dining training but rejects the role prescribed for her. Ordered cutlery and a loose napkin are an original metaphor for manners and personal choice, not a film still, poster or set replica. The phrase is original.\nAcademy Awards ceremony 31 (1959), Best Picture: Gigi. Eligibility year: 1958."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1959",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/52564-GIGI",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

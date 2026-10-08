@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-615",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-615",
+      "subject": "nobel-laureate-615",
+      "edition": "mono",
+      "title": "加夫列拉·米斯特拉尔",
+      "titleEnglish": "Gabriela Mistral",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-615/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-615/mono.jpg",
+      "sha256": "20aa922f06c063d2555db03c72f8e95f9a5f5caac97c9e61a1ce9f29e3ab166e",
+      "thumbnailSHA256": "6f18fc6c6f450e086add8e73b5f8518e803cf39e930b2a689b1160965522696e",
+      "context": {
+        "phrase": {
+          "zh": "平常事物，也有深长回声。",
+          "en": "Ordinary things carry lasting echoes."
+        },
+        "visual": {
+          "zh": "右侧水罐与展开苞叶的玉米立在铺布的台沿上，罐口可见水面；左侧山谷层层伸远，细刻线区分罐身、籽粒、布纹与山脊。",
+          "en": "A water jug and partially husked maize stand on a cloth-covered ledge at right, with water visible at the lip; layered valleys recede leftward, etched lines distinguishing clay, kernels, fabric and ridges."
+        },
+        "background": {
+          "zh": "米斯特拉尔的抒情诗关注情感、自然与日常事物。她的《塔拉》写到面包、盐、玉米和水等生活主题。她获得1945年诺贝尔文学奖。画面把水罐、玉米与远处山谷并置，表达日常事物里的诗意，是原创寓意，不是诗集插图、故乡实景或诗句引用。短句为原创。\n1945年文学奖；独享本年度奖项。获奖理由（中文译述）：以强烈情感推动的抒情诗，使她的名字成为整个拉丁美洲理想追求的象征",
+          "en": "Mistral’s lyric poetry explores emotion, nature and ordinary things. Her collection Tala includes everyday themes such as bread, salt, maize and water. She received the 1945 Nobel Prize in Literature. A water jug, maize and a distant valley express poetry in daily life through an original metaphor, not a book illustration, an exact place or a quoted verse. The phrase is original.\n1945 — The Nobel Prize in Literature. Received the full prize. Official motivation: for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年文学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1945/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-615",
+      "subject": "nobel-laureate-615",
+      "edition": "color",
+      "title": "加夫列拉·米斯特拉尔",
+      "titleEnglish": "Gabriela Mistral",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-615/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-615/color.jpg",
+      "sha256": "e136326d1da158fe3caa27a9b3593901f349721e91b44831c22519a499b50c00",
+      "thumbnailSHA256": "90722bdbb5efb82687414c473d73b061f38d7165980cbb44741f6f621132a51b",
+      "context": {
+        "phrase": {
+          "zh": "平常事物，也有深长回声。",
+          "en": "Ordinary things carry lasting echoes."
+        },
+        "visual": {
+          "zh": "右侧水罐与展开苞叶的玉米立在铺布的台沿上，罐口可见水面；左侧山谷层层伸远，细刻线区分罐身、籽粒、布纹与山脊。",
+          "en": "A water jug and partially husked maize stand on a cloth-covered ledge at right, with water visible at the lip; layered valleys recede leftward, etched lines distinguishing clay, kernels, fabric and ridges."
+        },
+        "background": {
+          "zh": "米斯特拉尔的抒情诗关注情感、自然与日常事物。她的《塔拉》写到面包、盐、玉米和水等生活主题。她获得1945年诺贝尔文学奖。画面把水罐、玉米与远处山谷并置，表达日常事物里的诗意，是原创寓意，不是诗集插图、故乡实景或诗句引用。短句为原创。\n1945年文学奖；独享本年度奖项。获奖理由（中文译述）：以强烈情感推动的抒情诗，使她的名字成为整个拉丁美洲理想追求的象征",
+          "en": "Mistral’s lyric poetry explores emotion, nature and ordinary things. Her collection Tala includes everyday themes such as bread, salt, maize and water. She received the 1945 Nobel Prize in Literature. A water jug, maize and a distant valley express poetry in daily life through an original metaphor, not a book illustration, an exact place or a quoted verse. The phrase is original.\n1945 — The Nobel Prize in Literature. Received the full prize. Official motivation: for her lyric poetry which, inspired by powerful emotions, has made her name a symbol of the idealistic aspirations of the entire Latin American world"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年文学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1945/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-303",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-303",
+      "subject": "nobel-laureate-303",
+      "edition": "mono",
+      "title": "埃米尔·西奥多·科赫尔",
+      "titleEnglish": "Theodor Kocher",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-303/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-303/mono.jpg",
+      "sha256": "7dbd78e2945868346e0d5f0936d1b793bf264733954e95dae582ba4ae2f2fa6b",
+      "thumbnailSHA256": "952a0e53ea38b09a405f9da927f149a41859190ec742c011531a0a38cc707e5c",
+      "context": {
+        "phrase": {
+          "zh": "把细小之处，看得更清楚。",
+          "en": "Look closely at what is easily overlooked."
+        },
+        "visual": {
+          "zh": "甲状腺的雕塑式研究模型与放大的器械环柄交叠，蓝色织物连接层次。模型帮助识别研究对象，器械静置而未作用于它；画面不是患者照片、精确解剖图或手术步骤。",
+          "en": "A sculptural thyroid study overlaps an enlarged instrument loop and cobalt fabric. The model identifies the subject; the closed instrument is at rest and does not act on it. This is not a patient photograph, exact anatomical plate or surgical procedure."
+        },
+        "background": {
+          "zh": "埃米尔·西奥多·科赫尔获得1909年诺贝尔生理学或医学奖，获奖工作是甲状腺的生理、病理和外科研究。生理关注器官如何工作，病理关注疾病怎样影响它，外科则涉及手术治疗。诺贝尔颁奖词回顾了他对甲状腺功能、疾病及手术后变化的持续研究，这些工作帮助当时的医学更清楚地认识这一器官。这里呈现的是医学史中的研究主题，配图借模型、器械与织物表达观察和谨慎，不描绘具体治疗方法；短句为原创，不是科赫尔的引语。\n1909年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因其关于甲状腺生理、病理和外科的研究",
+          "en": "Emil Theodor Kocher received the 1909 Nobel Prize in Physiology or Medicine for research on the physiology, pathology and surgery of the thyroid gland. Physiology concerns how an organ functions, pathology how disease affects it, and surgery operative treatment. The Nobel presentation speech describes his sustained investigations into thyroid function, disease and changes after operations, helping medicine better understand the organ. The artwork addresses that historical research through a study model and resting instruments, without depicting a treatment method. Its phrase is original, not a Kocher quotation.\n1909 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on the physiology, pathology and surgery of the thyroid gland"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年生理学或医学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1909/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1909/kocher/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-303",
+      "subject": "nobel-laureate-303",
+      "edition": "color",
+      "title": "埃米尔·西奥多·科赫尔",
+      "titleEnglish": "Theodor Kocher",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-303/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-303/color.jpg",
+      "sha256": "c6502a4fd449f9a5438ad71e5094c1ad0f8e729466538720e9bc7340d3df1113",
+      "thumbnailSHA256": "3cf755c48d6235a9c8d1e3095ed77ecde64b324c79db279472bfb15f9c6457bb",
+      "context": {
+        "phrase": {
+          "zh": "把细小之处，看得更清楚。",
+          "en": "Look closely at what is easily overlooked."
+        },
+        "visual": {
+          "zh": "甲状腺的雕塑式研究模型与放大的器械环柄交叠，蓝色织物连接层次。模型帮助识别研究对象，器械静置而未作用于它；画面不是患者照片、精确解剖图或手术步骤。",
+          "en": "A sculptural thyroid study overlaps an enlarged instrument loop and cobalt fabric. The model identifies the subject; the closed instrument is at rest and does not act on it. This is not a patient photograph, exact anatomical plate or surgical procedure."
+        },
+        "background": {
+          "zh": "埃米尔·西奥多·科赫尔获得1909年诺贝尔生理学或医学奖，获奖工作是甲状腺的生理、病理和外科研究。生理关注器官如何工作，病理关注疾病怎样影响它，外科则涉及手术治疗。诺贝尔颁奖词回顾了他对甲状腺功能、疾病及手术后变化的持续研究，这些工作帮助当时的医学更清楚地认识这一器官。这里呈现的是医学史中的研究主题，配图借模型、器械与织物表达观察和谨慎，不描绘具体治疗方法；短句为原创，不是科赫尔的引语。\n1909年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因其关于甲状腺生理、病理和外科的研究",
+          "en": "Emil Theodor Kocher received the 1909 Nobel Prize in Physiology or Medicine for research on the physiology, pathology and surgery of the thyroid gland. Physiology concerns how an organ functions, pathology how disease affects it, and surgery operative treatment. The Nobel presentation speech describes his sustained investigations into thyroid function, disease and changes after operations, helping medicine better understand the organ. The artwork addresses that historical research through a study model and resting instruments, without depicting a treatment method. Its phrase is original, not a Kocher quotation.\n1909 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on the physiology, pathology and surgery of the thyroid gland"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年生理学或医学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1909/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1909/kocher/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

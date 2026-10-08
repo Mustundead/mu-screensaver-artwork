@@ -1,0 +1,70 @@
+{
+  "subject": "091-nietzsche",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:091-nietzsche",
+      "subject": "091-nietzsche",
+      "edition": "mono",
+      "title": "尼采与山峰",
+      "titleEnglish": "Nietzsche and Mountains",
+      "category": "艺术与人文",
+      "image": "Images/mono/091-nietzsche.jpg",
+      "thumbnail": "Thumbs/mono/091-nietzsche.jpg",
+      "sha256": "1c55be1b338a166753ea6774f0834b9f6f89d7064bfa66b9092f7340809151ec",
+      "thumbnailSHA256": "d88ed7a7c61947e7fd98af78925dd293656c3969a04a305cce631ccb1504d068",
+      "context": {
+        "phrase": {
+          "zh": "登高之后，也重新审视脚下的路。",
+          "en": "A higher view can question the path below."
+        },
+        "visual": {
+          "zh": "尼采的生成形象与山峰、曲折路线形成向上的构图。登山在这里是重新评价的隐喻，不意味着哲学只属于强者，也不是他的真实旅行纪录。",
+          "en": "A generated Nietzsche figure, peaks and winding paths form an upward composition. Climbing is a metaphor for re-evaluation, not a claim that philosophy belongs only to the strong or a travel record."
+        },
+        "background": {
+          "zh": "《斯坦福哲学百科全书》把《查拉图斯特拉如是说》列于 1883—1885 年的创作序列中，并将尼采的工作联系到对道德及其心理基础的追问。画面所表达的自我检视只是一个阅读入口，不能替代其复杂思想。",
+          "en": "The Stanford Encyclopedia of Philosophy dates Thus Spoke Zarathustra to 1883–1885 and situates Nietzsche’s work within questions about morality and its psychological foundations. The image’s self-examination is an entry point into that work, not a substitute for its complexity."
+        },
+        "sources": [
+          {
+            "label": "Stanford Encyclopedia of Philosophy · Nietzsche",
+            "url": "https://plato.stanford.edu/entries/nietzsche/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:091-nietzsche",
+      "subject": "091-nietzsche",
+      "edition": "color",
+      "title": "尼采与山峰",
+      "titleEnglish": "Nietzsche and Mountains",
+      "category": "艺术与人文",
+      "image": "Images/color/091-nietzsche.jpg",
+      "thumbnail": "Thumbs/color/091-nietzsche.jpg",
+      "sha256": "b658675090233d821f0e8331a18d92ccd7019aca18eeb26c004f90ccb748dbb0",
+      "thumbnailSHA256": "a681fa20e5adf8e60e369e6ccc873681026de16436c13a913496a80c5a08b9a0",
+      "context": {
+        "phrase": {
+          "zh": "登高之后，也重新审视脚下的路。",
+          "en": "A higher view can question the path below."
+        },
+        "visual": {
+          "zh": "尼采的生成形象与山峰、曲折路线形成向上的构图。登山在这里是重新评价的隐喻，不意味着哲学只属于强者，也不是他的真实旅行纪录。",
+          "en": "A generated Nietzsche figure, peaks and winding paths form an upward composition. Climbing is a metaphor for re-evaluation, not a claim that philosophy belongs only to the strong or a travel record."
+        },
+        "background": {
+          "zh": "《斯坦福哲学百科全书》把《查拉图斯特拉如是说》列于 1883—1885 年的创作序列中，并将尼采的工作联系到对道德及其心理基础的追问。画面所表达的自我检视只是一个阅读入口，不能替代其复杂思想。",
+          "en": "The Stanford Encyclopedia of Philosophy dates Thus Spoke Zarathustra to 1883–1885 and situates Nietzsche’s work within questions about morality and its psychological foundations. The image’s self-examination is an entry point into that work, not a substitute for its complexity."
+        },
+        "sources": [
+          {
+            "label": "Stanford Encyclopedia of Philosophy · Nietzsche",
+            "url": "https://plato.stanford.edu/entries/nietzsche/"
+          }
+        ]
+      }
+    }
+  }
+}

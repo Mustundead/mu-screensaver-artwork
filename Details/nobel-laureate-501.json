@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-501",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-501",
+      "subject": "nobel-laureate-501",
+      "edition": "mono",
+      "title": "卡洛斯·萨韦德拉·拉马斯",
+      "titleEnglish": "Carlos Saavedra Lamas",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-501/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-501/mono.jpg",
+      "sha256": "b7f2fa5d3dd6515e9c538767f2f7b1347d0130e62d46cf44356ee8785ce0a449",
+      "thumbnailSHA256": "7a867ba148ad2b73c94f2790eef97f8743de0b38a8aed05f23e98b36447adc76",
+      "context": {
+        "phrase": {
+          "zh": "愿分歧的两端，都为和平留下位置。",
+          "en": "May both sides of a disagreement leave room for peace."
+        },
+        "visual": {
+          "zh": "两支银色钢笔尖从左右伸入，在折纸中央上方留出间隙；暗红笔杆与黄铜连接环裁在边缘，深绿背景上方留白。细刻线塑造金属和纸面，中性黑白保留相同结构。",
+          "en": "Two silver steel nibs enter from opposite sides, separated above the center ridge of a blank folded page. Burgundy bodies and brass collars are cropped at the edges beneath a quiet deep-green upper field. Fine engraving shapes metal and paper; neutral monochrome preserves the composition."
+        },
+        "background": {
+          "zh": "拉马斯获得1936年诺贝尔和平奖，表彰他推动1933年反战公约，以及在1935年巴拉圭与玻利维亚之间的和平调停。画面以相向的两支笔尖和同一张空白折纸表达协商，是原创寓意，不是某次签约现场，也不将和平归功于单个人；短句为原创。\n1936年和平奖；独享本年度奖项。获奖理由（中文译述）：推动1933年阿根廷反战公约，并借此调停1935年巴拉圭与玻利维亚之间的和平",
+          "en": "Saavedra Lamas received the 1936 Nobel Peace Prize for his work on the 1933 antiwar pact and mediation between Paraguay and Bolivia in 1935. Two opposing nibs over one folded blank page form an original metaphor for negotiation, not an actual signing scene or a claim that one person alone achieved peace. The phrase is original.\n1936 — The Nobel Peace Prize. Received the full prize. Official motivation: for his role as father of the Argentine Antiwar Pact of 1933, which he also used as a means to mediate peace between Paraguay and Bolivia in 1935"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年和平奖｜官方记录",
+              "en": "1936 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1936/lamas/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-501",
+      "subject": "nobel-laureate-501",
+      "edition": "color",
+      "title": "卡洛斯·萨韦德拉·拉马斯",
+      "titleEnglish": "Carlos Saavedra Lamas",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-501/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-501/color.jpg",
+      "sha256": "d25feab5d9d9ac834cdee25030d475958a1084f410d91b29e38e4ec80906c1be",
+      "thumbnailSHA256": "882fe561081010b29d4337fadb13a0cc8550eaa95a5f5a5c29778b62ce08a774",
+      "context": {
+        "phrase": {
+          "zh": "愿分歧的两端，都为和平留下位置。",
+          "en": "May both sides of a disagreement leave room for peace."
+        },
+        "visual": {
+          "zh": "两支银色钢笔尖从左右伸入，在折纸中央上方留出间隙；暗红笔杆与黄铜连接环裁在边缘，深绿背景上方留白。细刻线塑造金属和纸面，中性黑白保留相同结构。",
+          "en": "Two silver steel nibs enter from opposite sides, separated above the center ridge of a blank folded page. Burgundy bodies and brass collars are cropped at the edges beneath a quiet deep-green upper field. Fine engraving shapes metal and paper; neutral monochrome preserves the composition."
+        },
+        "background": {
+          "zh": "拉马斯获得1936年诺贝尔和平奖，表彰他推动1933年反战公约，以及在1935年巴拉圭与玻利维亚之间的和平调停。画面以相向的两支笔尖和同一张空白折纸表达协商，是原创寓意，不是某次签约现场，也不将和平归功于单个人；短句为原创。\n1936年和平奖；独享本年度奖项。获奖理由（中文译述）：推动1933年阿根廷反战公约，并借此调停1935年巴拉圭与玻利维亚之间的和平",
+          "en": "Saavedra Lamas received the 1936 Nobel Peace Prize for his work on the 1933 antiwar pact and mediation between Paraguay and Bolivia in 1935. Two opposing nibs over one folded blank page form an original metaphor for negotiation, not an actual signing scene or a claim that one person alone achieved peace. The phrase is original.\n1936 — The Nobel Peace Prize. Received the full prize. Official motivation: for his role as father of the Argentine Antiwar Pact of 1933, which he also used as a means to mediate peace between Paraguay and Bolivia in 1935"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年和平奖｜官方记录",
+              "en": "1936 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1936/lamas/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

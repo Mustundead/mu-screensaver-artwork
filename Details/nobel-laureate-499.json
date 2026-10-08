@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-499",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-499",
+      "subject": "nobel-laureate-499",
+      "edition": "mono",
+      "title": "阿瑟·亨德森",
+      "titleEnglish": "Arthur Henderson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-499/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-499/mono.jpg",
+      "sha256": "0bd893ccc0f2bb9785083c64d15c681f6d0e47d41755a1c933cc59c784a1d47a",
+      "thumbnailSHA256": "ed272b19017118bb252a5e4053e673c8f5a2176e6313734bd8e15e2d5cc7f0b0",
+      "context": {
+        "phrase": {
+          "zh": "共同的安全，需要各方坐下来谈。",
+          "en": "Shared security needs everyone at the table."
+        },
+        "visual": {
+          "zh": "近处浅木色圆桌横贯下半幅，远侧五把深木色空椅分列中央空位两边，深绿背景安静；细刻线描绘桌面和椅背。中性黑白版保留弧形、间距和桌椅的明暗差别。",
+          "en": "A pale wooden round table fills the foreground; five dark wooden empty chairs flank an open central place along the far arc, against quiet deep green. Fine engraving describes tabletop and chair backs. Neutral monochrome preserves the curve, spacing and tonal separation of chairs and table."
+        },
+        "background": {
+          "zh": "亨德森因推动裁军、担任国际联盟裁军会议主席的努力获得1934年诺贝尔和平奖。会议于1932年在日内瓦开幕；他在获奖演讲中讨论了裁军与共同安全的关系。空椅围绕圆桌的画面取意于需要各方参与的谈判，是原创寓意，不是历史会议现场，也不表示谈判已达成协议。短句为原创。\n1934年和平奖；独享本年度奖项。获奖理由（中文译述）：担任国际联盟裁军会议主席期间，为裁军付出的不懈而勇敢的努力。",
+          "en": "Henderson received the 1934 Nobel Peace Prize for his efforts toward disarmament as chairman of the League of Nations Disarmament Conference. The conference opened in Geneva in 1932; his Nobel lecture discussed the connection between disarmament and collective security. Empty chairs around a round table are an original metaphor for negotiations that need every side to participate. They do not reproduce the historical venue or imply a concluded agreement. The phrase is original.\n1934 — The Nobel Peace Prize. Received the full prize. Official motivation: for his untiring struggle and his courageous efforts as Chairman of the League of Nations Disarmament Conference 1931-34"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年和平奖｜官方记录",
+              "en": "1934 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1934/henderson/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-499",
+      "subject": "nobel-laureate-499",
+      "edition": "color",
+      "title": "阿瑟·亨德森",
+      "titleEnglish": "Arthur Henderson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-499/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-499/color.jpg",
+      "sha256": "037f4839a42cc3dca80c9480e407bc4034429e7fe1fe45bf860e41de8e11a050",
+      "thumbnailSHA256": "d23ba247965138526feab35490ab785e55b29edc6839a25dbc5352a29574a535",
+      "context": {
+        "phrase": {
+          "zh": "共同的安全，需要各方坐下来谈。",
+          "en": "Shared security needs everyone at the table."
+        },
+        "visual": {
+          "zh": "近处浅木色圆桌横贯下半幅，远侧五把深木色空椅分列中央空位两边，深绿背景安静；细刻线描绘桌面和椅背。中性黑白版保留弧形、间距和桌椅的明暗差别。",
+          "en": "A pale wooden round table fills the foreground; five dark wooden empty chairs flank an open central place along the far arc, against quiet deep green. Fine engraving describes tabletop and chair backs. Neutral monochrome preserves the curve, spacing and tonal separation of chairs and table."
+        },
+        "background": {
+          "zh": "亨德森因推动裁军、担任国际联盟裁军会议主席的努力获得1934年诺贝尔和平奖。会议于1932年在日内瓦开幕；他在获奖演讲中讨论了裁军与共同安全的关系。空椅围绕圆桌的画面取意于需要各方参与的谈判，是原创寓意，不是历史会议现场，也不表示谈判已达成协议。短句为原创。\n1934年和平奖；独享本年度奖项。获奖理由（中文译述）：担任国际联盟裁军会议主席期间，为裁军付出的不懈而勇敢的努力。",
+          "en": "Henderson received the 1934 Nobel Peace Prize for his efforts toward disarmament as chairman of the League of Nations Disarmament Conference. The conference opened in Geneva in 1932; his Nobel lecture discussed the connection between disarmament and collective security. Empty chairs around a round table are an original metaphor for negotiations that need every side to participate. They do not reproduce the historical venue or imply a concluded agreement. The phrase is original.\n1934 — The Nobel Peace Prize. Received the full prize. Official motivation: for his untiring struggle and his courageous efforts as Chairman of the League of Nations Disarmament Conference 1931-34"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年和平奖｜官方记录",
+              "en": "1934 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1934/henderson/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

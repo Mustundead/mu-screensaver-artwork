@@ -1,0 +1,126 @@
+{
+  "subject": "nobel-laureate-200",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-200",
+      "subject": "nobel-laureate-200",
+      "edition": "mono",
+      "title": "利奥波德·鲁齐卡",
+      "titleEnglish": "Leopold Ruzicka",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-200/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-200/mono.jpg",
+      "sha256": "bacc9ef0e9c8fa354b99fa0379aa3ff70c651f52da5e7e6a555ffb4c0ad05f2b",
+      "thumbnailSHA256": "c2ba98797c07109e146ca11ff6bd4cdda8876e7fdde97e411178a5fc5fddc066",
+      "context": {
+        "phrase": {
+          "zh": "看不见的结构，也在塑造感受。",
+          "en": "Unseen structures shape what we sense."
+        },
+        "visual": {
+          "zh": "深色珠与细杆组成透视椭圆闭环，前低后高，中央放小型琥珀液玻璃瓶；紫褐背景与暖纸前景区分空间。",
+          "en": "A closed perspective ellipse of dark beads and rods rises behind a small amber-liquid glass bottle. Plum background and pale foreground separate the space."
+        },
+        "background": {
+          "zh": "鲁齐卡因多亚甲基化合物和高等萜类研究共同获得1939年诺贝尔化学奖。他对麝香类香气物质的大碳环结构的研究，拓展了当时对有机环状化合物的认识。画面把细杆连接的深色珠环放大香水瓶周围，表达气味背后的结构。珠数、大小和连接只是原创示意，不是某种物质的准确分子模型，也不能概括他的全部研究。短句为原创。\n1939年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：研究多亚甲基化合物和高等萜类",
+          "en": "Ruzicka shared the 1939 Nobel Prize in Chemistry for work on polymethylenes and higher terpenes. His study of large carbon rings in musk-related scent compounds broadened understanding of organic ring compounds. An enlarged loop of dark beads joined by slender rods surrounds a small perfume bottle, expressing structure behind scent. The bead count, scale and connections are an original illustration rather than an exact molecular model or a summary of all his research. The phrase is original.\n1939 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his work on polymethylenes and higher terpenes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年化学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1939/ruzicka/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/ruzicka-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "uzh.ch",
+            "url": "https://www.uzh.ch/en/researchinnovation/excellence/nobelprize/ruzicka.html",
+            "labelLocalized": {
+              "zh": "研究历史｜苏黎世大学",
+              "en": "Research history — University of Zurich"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-200",
+      "subject": "nobel-laureate-200",
+      "edition": "color",
+      "title": "利奥波德·鲁齐卡",
+      "titleEnglish": "Leopold Ruzicka",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-200/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-200/color.jpg",
+      "sha256": "45ba8f6f3ddb26402fd0f693c772df5d1b156d5e7d291bdc80c82619a05a9c9d",
+      "thumbnailSHA256": "408c68161cbc2f09e6a96f0cd2e90d09ac7e722cbd0b82b28f391aa1fd1f86bf",
+      "context": {
+        "phrase": {
+          "zh": "看不见的结构，也在塑造感受。",
+          "en": "Unseen structures shape what we sense."
+        },
+        "visual": {
+          "zh": "深色珠与细杆组成透视椭圆闭环，前低后高，中央放小型琥珀液玻璃瓶；紫褐背景与暖纸前景区分空间。",
+          "en": "A closed perspective ellipse of dark beads and rods rises behind a small amber-liquid glass bottle. Plum background and pale foreground separate the space."
+        },
+        "background": {
+          "zh": "鲁齐卡因多亚甲基化合物和高等萜类研究共同获得1939年诺贝尔化学奖。他对麝香类香气物质的大碳环结构的研究，拓展了当时对有机环状化合物的认识。画面把细杆连接的深色珠环放大香水瓶周围，表达气味背后的结构。珠数、大小和连接只是原创示意，不是某种物质的准确分子模型，也不能概括他的全部研究。短句为原创。\n1939年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：研究多亚甲基化合物和高等萜类",
+          "en": "Ruzicka shared the 1939 Nobel Prize in Chemistry for work on polymethylenes and higher terpenes. His study of large carbon rings in musk-related scent compounds broadened understanding of organic ring compounds. An enlarged loop of dark beads joined by slender rods surrounds a small perfume bottle, expressing structure behind scent. The bead count, scale and connections are an original illustration rather than an exact molecular model or a summary of all his research. The phrase is original.\n1939 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his work on polymethylenes and higher terpenes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年化学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1939/ruzicka/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/ruzicka-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "uzh.ch",
+            "url": "https://www.uzh.ch/en/researchinnovation/excellence/nobelprize/ruzicka.html",
+            "labelLocalized": {
+              "zh": "研究历史｜苏黎世大学",
+              "en": "Research history — University of Zurich"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-033",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-033",
+      "subject": "oscar-best-picture-033",
+      "edition": "mono",
+      "title": "公寓",
+      "titleEnglish": "The Apartment",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-033/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-033/mono.jpg",
+      "sha256": "f6d6a4de5b06c59eeb4e265f364762d70474c28afa88bde5211f59cae82fa392",
+      "thumbnailSHA256": "1755ba5beb8c295f1451625e29725b685c30e679b6dfc7057fb84f9e579f9e72",
+      "context": {
+        "phrase": {
+          "zh": "把门留给自己，也是一种选择。",
+          "en": "Keeping the door for yourself is a choice, too."
+        },
+        "visual": {
+          "zh": "一把黄铜色钥匙斜放在浅色桌面上，圆形钥匙柄、连续长柄与短齿端清楚相连；右上方木质挂架被裁切，金属挂钩全部空着。黑白版保留钥匙、挂钩、桌面接触阴影与构图。",
+          "en": "A brass-colored key lies diagonally on a pale tabletop, with its circular bow, continuous shaft and short toothed bit clearly joined. A cropped wooden rack at upper right carries empty metal hooks. The neutral edition retains the key, hooks, contact shadow and layout."
+        },
+        "background": {
+          "zh": "比利·怀尔德执导的《公寓》于1960年上映，并在1961年第33届奥斯卡获得最佳影片。职员巴克斯特为升职把自己的公寓借给上司，却失去对私人空间的掌控；他后来拒绝继续交出钥匙。钥匙与空位是对个人边界的原创寓意，不是影片画面、海报或道具复刻；短句为原创。\n第33届奥斯卡最佳影片：公寓。颁奖年份 1961；参评年份 1960。",
+          "en": "Billy Wilder's The Apartment was released in 1960 and won Best Motion Picture at the 33rd Academy Awards in 1961. Office worker Baxter lends his apartment to executives for advancement and loses control of his private space; he later refuses to surrender the key again. The key and empty place are an original metaphor for personal boundaries, not a film still, poster or prop replica. The phrase is original.\nAcademy Awards ceremony 33 (1961), Best Picture: The Apartment. Eligibility year: 1960."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1961",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/53080-THE-APARTMENT",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-033",
+      "subject": "oscar-best-picture-033",
+      "edition": "color",
+      "title": "公寓",
+      "titleEnglish": "The Apartment",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-033/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-033/color.jpg",
+      "sha256": "7dc100b200951eac46cd8333c656f7ca415499d6887eda2e64f3b2f19fde1425",
+      "thumbnailSHA256": "30e5d2afa5384b08613be0287ebb2ab3f15f450d6675d429864581baf535ca2e",
+      "context": {
+        "phrase": {
+          "zh": "把门留给自己，也是一种选择。",
+          "en": "Keeping the door for yourself is a choice, too."
+        },
+        "visual": {
+          "zh": "一把黄铜色钥匙斜放在浅色桌面上，圆形钥匙柄、连续长柄与短齿端清楚相连；右上方木质挂架被裁切，金属挂钩全部空着。黑白版保留钥匙、挂钩、桌面接触阴影与构图。",
+          "en": "A brass-colored key lies diagonally on a pale tabletop, with its circular bow, continuous shaft and short toothed bit clearly joined. A cropped wooden rack at upper right carries empty metal hooks. The neutral edition retains the key, hooks, contact shadow and layout."
+        },
+        "background": {
+          "zh": "比利·怀尔德执导的《公寓》于1960年上映，并在1961年第33届奥斯卡获得最佳影片。职员巴克斯特为升职把自己的公寓借给上司，却失去对私人空间的掌控；他后来拒绝继续交出钥匙。钥匙与空位是对个人边界的原创寓意，不是影片画面、海报或道具复刻；短句为原创。\n第33届奥斯卡最佳影片：公寓。颁奖年份 1961；参评年份 1960。",
+          "en": "Billy Wilder's The Apartment was released in 1960 and won Best Motion Picture at the 33rd Academy Awards in 1961. Office worker Baxter lends his apartment to executives for advancement and loses control of his private space; he later refuses to surrender the key again. The key and empty place are an original metaphor for personal boundaries, not a film still, poster or prop replica. The phrase is original.\nAcademy Awards ceremony 33 (1961), Best Picture: The Apartment. Eligibility year: 1960."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1961",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/53080-THE-APARTMENT",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

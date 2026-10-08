@@ -1,0 +1,70 @@
+{
+  "subject": "093-paul-klee",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:093-paul-klee",
+      "subject": "093-paul-klee",
+      "edition": "mono",
+      "title": "保罗·克利与线",
+      "titleEnglish": "Paul Klee and the Line",
+      "category": "艺术与人文",
+      "image": "Images/mono/093-paul-klee.jpg",
+      "thumbnail": "Thumbs/mono/093-paul-klee.jpg",
+      "sha256": "7ef9d7df246bc79fd98fc35df6fc47920c7d4e6ec5f71286dfde5f9a555de07f",
+      "thumbnailSHA256": "0a707e412d9d1a36f04b04b6bac9013295eb9ec6cf675f84ddc5e1accdea0a40",
+      "context": {
+        "phrase": {
+          "zh": "一条线，也能试探一个世界。",
+          "en": "A line can explore a world."
+        },
+        "visual": {
+          "zh": "克利的生成肖像与细线、几何块面组成尚在生长的图形。画面把线条当作探索的路径，不是克利原作，短句也不是他的名言。",
+          "en": "A generated Klee portrait, fine lines and geometric planes form a growing visual structure. Lines become paths of exploration. This is neither an original Klee work nor a quotation from him."
+        },
+        "background": {
+          "zh": "保罗·克利中心的研究档案包含他的日记、手写作品目录和包豪斯教学笔记。这些不同材料说明，绘画创作、记录与教学可以彼此联系。读一条线的意义时，也可以把它放回长期练习和研究的过程。",
+          "en": "The Zentrum Paul Klee archive includes diaries, a handwritten catalogue of works and Bauhaus teaching notes. These materials connect making, recording and teaching. A line can thus be considered within an extended practice of experimentation rather than only as a finished decorative mark."
+        },
+        "sources": [
+          {
+            "label": "Zentrum Paul Klee · Archive and research",
+            "url": "https://www.zpk.org/de/forschung"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:093-paul-klee",
+      "subject": "093-paul-klee",
+      "edition": "color",
+      "title": "保罗·克利与线",
+      "titleEnglish": "Paul Klee and the Line",
+      "category": "艺术与人文",
+      "image": "Images/color/093-paul-klee.jpg",
+      "thumbnail": "Thumbs/color/093-paul-klee.jpg",
+      "sha256": "09548b937d22244601d527d254a1d4777bbd43cfd5f763597d35e6a976cbeb80",
+      "thumbnailSHA256": "57f46e0b31ef22442465b11fa20243cdd4a1ea6f1d5bfcaa232ed76bd01c2210",
+      "context": {
+        "phrase": {
+          "zh": "一条线，也能试探一个世界。",
+          "en": "A line can explore a world."
+        },
+        "visual": {
+          "zh": "克利的生成肖像与细线、几何块面组成尚在生长的图形。画面把线条当作探索的路径，不是克利原作，短句也不是他的名言。",
+          "en": "A generated Klee portrait, fine lines and geometric planes form a growing visual structure. Lines become paths of exploration. This is neither an original Klee work nor a quotation from him."
+        },
+        "background": {
+          "zh": "保罗·克利中心的研究档案包含他的日记、手写作品目录和包豪斯教学笔记。这些不同材料说明，绘画创作、记录与教学可以彼此联系。读一条线的意义时，也可以把它放回长期练习和研究的过程。",
+          "en": "The Zentrum Paul Klee archive includes diaries, a handwritten catalogue of works and Bauhaus teaching notes. These materials connect making, recording and teaching. A line can thus be considered within an extended practice of experimentation rather than only as a finished decorative mark."
+        },
+        "sources": [
+          {
+            "label": "Zentrum Paul Klee · Archive and research",
+            "url": "https://www.zpk.org/de/forschung"
+          }
+        ]
+      }
+    }
+  }
+}

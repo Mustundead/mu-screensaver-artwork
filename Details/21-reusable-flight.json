@@ -1,0 +1,70 @@
+{
+  "subject": "21-reusable-flight",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:21-reusable-flight",
+      "subject": "21-reusable-flight",
+      "edition": "mono",
+      "title": "航天：回收与再次出发",
+      "titleEnglish": "Reusable Spaceflight",
+      "category": "工程与制造",
+      "image": "Images/mono/21-reusable-flight.jpg",
+      "thumbnail": "Thumbs/mono/21-reusable-flight.jpg",
+      "sha256": "9af82813e573e112bb8dabd63ca91e1ecff29e067b885b0175ec00ba76840b04",
+      "thumbnailSHA256": "9ec7acedc3598110c06c9f2564244ec4fb0a33e0b16403de08d7b4794e4a8f1b",
+      "context": {
+        "phrase": {
+          "zh": "一次归来，为下一次出发。",
+          "en": "A return can begin another journey."
+        },
+        "visual": {
+          "zh": "地球边缘、飞行器与展开的结构表达离开、返回和再次使用。它是对可重复航天的艺术想象，不对应某次任务或特定型号的技术方案。",
+          "en": "Earth’s edge, a vehicle and unfolding structures evoke departure, return and reuse. This is an artistic interpretation, not a mission record or a technical design for a particular spacecraft."
+        },
+        "background": {
+          "zh": "NASA 航天飞机计划的最后一次任务 STS-135 于 2011 年 7 月 8 日发射，是该计划第 135 次飞行。可重复使用意味着部分硬件返回后可再次飞行，并不表示无需检查、维护或更换部件；画面用“归来”强调工程循环。",
+          "en": "STS-135 launched on July 8, 2011 as the Space Shuttle program’s 135th and final flight. Reuse means that some hardware can fly again after returning, not that inspection, maintenance or replacement is unnecessary. Return serves here as a metaphor for an engineering cycle."
+        },
+        "sources": [
+          {
+            "label": "NASA · The Space Shuttle",
+            "url": "https://www.nasa.gov/reference/the-space-shuttle/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:21-reusable-flight",
+      "subject": "21-reusable-flight",
+      "edition": "color",
+      "title": "航天：回收与再次出发",
+      "titleEnglish": "Reusable Spaceflight",
+      "category": "工程与制造",
+      "image": "Images/color/21-reusable-flight.jpg",
+      "thumbnail": "Thumbs/color/21-reusable-flight.jpg",
+      "sha256": "8f08e1e8b2f8f3b6a9d668530529cb0a7da843310bdcb55b4e3fd917c47f5f2a",
+      "thumbnailSHA256": "ee726af6b7d17338744888d066a9acba67c3bea223adef478670d23ee3ea4e9e",
+      "context": {
+        "phrase": {
+          "zh": "一次归来，为下一次出发。",
+          "en": "A return can begin another journey."
+        },
+        "visual": {
+          "zh": "地球边缘、飞行器与展开的结构表达离开、返回和再次使用。它是对可重复航天的艺术想象，不对应某次任务或特定型号的技术方案。",
+          "en": "Earth’s edge, a vehicle and unfolding structures evoke departure, return and reuse. This is an artistic interpretation, not a mission record or a technical design for a particular spacecraft."
+        },
+        "background": {
+          "zh": "NASA 航天飞机计划的最后一次任务 STS-135 于 2011 年 7 月 8 日发射，是该计划第 135 次飞行。可重复使用意味着部分硬件返回后可再次飞行，并不表示无需检查、维护或更换部件；画面用“归来”强调工程循环。",
+          "en": "STS-135 launched on July 8, 2011 as the Space Shuttle program’s 135th and final flight. Reuse means that some hardware can fly again after returning, not that inspection, maintenance or replacement is unnecessary. Return serves here as a metaphor for an engineering cycle."
+        },
+        "sources": [
+          {
+            "label": "NASA · The Space Shuttle",
+            "url": "https://www.nasa.gov/reference/the-space-shuttle/"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-49",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-49",
+      "subject": "nobel-laureate-49",
+      "edition": "mono",
+      "title": "伊西多·艾萨克·拉比",
+      "titleEnglish": "Isidor Isaac Rabi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-49/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-49/mono.jpg",
+      "sha256": "00090e6bdb83e8d65ffa3c882d23cb04a817d1ef80f9dcbad4b9794c5ff36f96",
+      "thumbnailSHA256": "bfc73c11acb96ffb028a551a3dd66ac9cedfa2eb05c07638011d2b783891284e",
+      "context": {
+        "phrase": {
+          "zh": "调准频率，听见微小的回应。",
+          "en": "Tune the frequency to hear a small response."
+        },
+        "visual": {
+          "zh": "近景铜线圈从画面边缘环绕，中央放置小型球簇，细密刻线表现线圈转折，周围留出安静的空间。",
+          "en": "A close copper coil curves in from the edges around a small bead cluster. Fine hatching follows each turn, with quiet space around the center."
+        },
+        "background": {
+          "zh": "拉比用无线电波研究原子核的磁性。1938年的分子束实验利用磁场与无线电频率观察共振，他因此获得1944年诺贝尔物理学奖。画面以铜线圈包围小型核模型，表达频率与响应的关系；它是原创示意，不是历史设备或实测数据。短句为原创。\n1944年物理学奖；独享本年度奖项。获奖理由（中文译述）：使用共振方法测定原子核的磁性",
+          "en": "Rabi used radio waves to measure nuclear magnetism. His 1938 molecular-beam work used magnetic fields and radio frequencies to study resonance, earning the 1944 Nobel Prize in Physics. A copper coil around a small model of a nucleus expresses frequency and response. This is an original illustration, not a historical apparatus or measured data. The phrase is original.\n1944 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his resonance method for recording the magnetic properties of atomic nuclei"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年物理学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1944/rabi/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-49",
+      "subject": "nobel-laureate-49",
+      "edition": "color",
+      "title": "伊西多·艾萨克·拉比",
+      "titleEnglish": "Isidor Isaac Rabi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-49/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-49/color.jpg",
+      "sha256": "ade8e9e307575316c1a332fd7c385333924359d9f7d2bb73eb1ce408f5ade175",
+      "thumbnailSHA256": "9c38406bda99417e549feb4c99839630b2f0bc19ba263780e0b3f996ba597fcd",
+      "context": {
+        "phrase": {
+          "zh": "调准频率，听见微小的回应。",
+          "en": "Tune the frequency to hear a small response."
+        },
+        "visual": {
+          "zh": "近景铜线圈从画面边缘环绕，中央放置小型球簇，细密刻线表现线圈转折，周围留出安静的空间。",
+          "en": "A close copper coil curves in from the edges around a small bead cluster. Fine hatching follows each turn, with quiet space around the center."
+        },
+        "background": {
+          "zh": "拉比用无线电波研究原子核的磁性。1938年的分子束实验利用磁场与无线电频率观察共振，他因此获得1944年诺贝尔物理学奖。画面以铜线圈包围小型核模型，表达频率与响应的关系；它是原创示意，不是历史设备或实测数据。短句为原创。\n1944年物理学奖；独享本年度奖项。获奖理由（中文译述）：使用共振方法测定原子核的磁性",
+          "en": "Rabi used radio waves to measure nuclear magnetism. His 1938 molecular-beam work used magnetic fields and radio frequencies to study resonance, earning the 1944 Nobel Prize in Physics. A copper coil around a small model of a nucleus expresses frequency and response. This is an original illustration, not a historical apparatus or measured data. The phrase is original.\n1944 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his resonance method for recording the magnetic properties of atomic nuclei"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年物理学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1944/rabi/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

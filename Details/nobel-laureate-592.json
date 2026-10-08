@@ -1,0 +1,78 @@
+{
+  "subject": "nobel-laureate-592",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-592",
+      "subject": "nobel-laureate-592",
+      "edition": "mono",
+      "title": "哈辛托·贝纳文特",
+      "titleEnglish": "Jacinto Benavente",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-592/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-592/mono.jpg",
+      "sha256": "003f690d5962fb1cfe72bdd80a3e18af263e623240a16ba1028b3b6345f4783e",
+      "thumbnailSHA256": "957af7d331a6e883483e4cdb4629d3e9e653be4ffb258eae221531e0899580e9",
+      "context": {
+        "phrase": {
+          "zh": "帷幕之间，故事继续生长。",
+          "en": "Between the curtains, stories keep growing."
+        },
+        "visual": {
+          "zh": "酒红色帷幕占据左侧，褶皱间露出黄铜挂钩；右下木质台沿上放着一本小小的空白剧本。黑白版保留布料层次、挂钩与裁切。这是戏剧创作的原创联想，不对应某部剧作或作者私人物品。",
+          "en": "A wine-red curtain fills the left, with a brass hook among its folds; a small blank script lies on the wooden stage edge at lower right. Monochrome preserves fabric layers, hook and crop. This is an original association with dramatic writing, not a particular play or the author's belongings."
+        },
+        "background": {
+          "zh": "贝纳文特独享1922年诺贝尔文学奖，获奖理由表彰他延续西班牙戏剧传统的方式。画中帷幕、木质台沿与空白剧本是对戏剧创作的原创联想，不对应某一部剧作，也不是他的个人物品。短句为原创，不是剧中对白或人物引语。\n1922年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他以出色的方式延续西班牙戏剧的光辉传统。",
+          "en": "Benavente received the full 1922 Nobel Prize in Literature for the way he continued the traditions of Spanish drama. The curtain, wooden stage edge and blank script are original associations with dramatic writing, not a particular play or his personal belongings. The phrase is original, not dialogue or a quotation.\n1922 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the happy manner in which he has continued the illustrious traditions of the Spanish drama"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年文学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-592",
+      "subject": "nobel-laureate-592",
+      "edition": "color",
+      "title": "哈辛托·贝纳文特",
+      "titleEnglish": "Jacinto Benavente",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-592/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-592/color.jpg",
+      "sha256": "7d16c96149e4779f6035c7faab8d5cf126f935ad7673f7db1fda6f4d9c86c772",
+      "thumbnailSHA256": "afdfdc30c6be4016bb34ed52a8900ae1f710c4fcc2b8ed5c66124a2b25eb11dc",
+      "context": {
+        "phrase": {
+          "zh": "帷幕之间，故事继续生长。",
+          "en": "Between the curtains, stories keep growing."
+        },
+        "visual": {
+          "zh": "酒红色帷幕占据左侧，褶皱间露出黄铜挂钩；右下木质台沿上放着一本小小的空白剧本。黑白版保留布料层次、挂钩与裁切。这是戏剧创作的原创联想，不对应某部剧作或作者私人物品。",
+          "en": "A wine-red curtain fills the left, with a brass hook among its folds; a small blank script lies on the wooden stage edge at lower right. Monochrome preserves fabric layers, hook and crop. This is an original association with dramatic writing, not a particular play or the author's belongings."
+        },
+        "background": {
+          "zh": "贝纳文特独享1922年诺贝尔文学奖，获奖理由表彰他延续西班牙戏剧传统的方式。画中帷幕、木质台沿与空白剧本是对戏剧创作的原创联想，不对应某一部剧作，也不是他的个人物品。短句为原创，不是剧中对白或人物引语。\n1922年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他以出色的方式延续西班牙戏剧的光辉传统。",
+          "en": "Benavente received the full 1922 Nobel Prize in Literature for the way he continued the traditions of Spanish drama. The curtain, wooden stage edge and blank script are original associations with dramatic writing, not a particular play or his personal belongings. The phrase is original, not dialogue or a quotation.\n1922 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the happy manner in which he has continued the illustrious traditions of the Spanish drama"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年文学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

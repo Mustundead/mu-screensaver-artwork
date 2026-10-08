@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-189",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-189",
+      "subject": "nobel-laureate-189",
+      "edition": "mono",
+      "title": "卡尔·博施",
+      "titleEnglish": "Carl Bosch",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-189/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-189/mono.jpg",
+      "sha256": "0b22a890f006785e8661d18ae3665d908f067458835e374dc40401577e69aa98",
+      "thumbnailSHA256": "a5391c999095a771300c6cfe126b1b66da86638c22a428f66b5dec3b0e923163",
+      "context": {
+        "phrase": {
+          "zh": "厚厚的钢壁，让实验走向工厂。",
+          "en": "Thick steel walls carry an experiment into industry."
+        },
+        "visual": {
+          "zh": "右侧巨大的钢制装置开口在画面边缘裁切，厚外壁包住浅色内套筒与深暗腔体；左侧留出平静空间。固定件沿圆形边缘排列，细刻线顺着金属曲面延伸。",
+          "en": "A huge steel vessel mouth is cropped at right. Thick outer walls surround a pale inner sleeve and deep dark chamber, leaving quiet space at left. Attached fasteners follow the circular rim, with fine engraving tracing the curved metal surfaces."
+        },
+        "background": {
+          "zh": "博施与弗里德里希·贝吉乌斯共同获得1931年诺贝尔化学奖，表彰他们对化学高压方法的发明与发展所作的贡献。在哈伯从氮和氢合成氨的研究基础上，博施发展了能承受高压和高温的钢制装置，使工艺走向大规模工业生产。画中厚壁与套筒是原创寓意，不是历史装置复原、工程图或实际尺寸示意；短句为原创。\n1931年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对化学高压方法的发明和发展所作的贡献。",
+          "en": "Bosch shared the 1931 Nobel Prize in Chemistry with Friedrich Bergius for contributions to inventing and developing chemical high-pressure methods. Building on Haber's synthesis of ammonia from nitrogen and hydrogen, Bosch developed steel apparatus able to withstand pressure and heat, enabling large-scale industrial production. The thick walls and sleeves are an original metaphor, not a reconstructed historic apparatus, engineering drawing or scale diagram. The phrase is original.\n1931 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: in recognition of their contributions to the invention and development of chemical high pressure methods"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年化学奖｜官方记录",
+              "en": "1931 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1931/bosch/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-189",
+      "subject": "nobel-laureate-189",
+      "edition": "color",
+      "title": "卡尔·博施",
+      "titleEnglish": "Carl Bosch",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-189/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-189/color.jpg",
+      "sha256": "5d83862376066a492123bfaec55cbac16aa80252866583e8ef682f2bd384aa10",
+      "thumbnailSHA256": "6443e4362d8f5ebe7dd09c038a1ab794b11e23d4801b1951ed8834b993496d5f",
+      "context": {
+        "phrase": {
+          "zh": "厚厚的钢壁，让实验走向工厂。",
+          "en": "Thick steel walls carry an experiment into industry."
+        },
+        "visual": {
+          "zh": "右侧巨大的钢制装置开口在画面边缘裁切，厚外壁包住浅色内套筒与深暗腔体；左侧留出平静空间。固定件沿圆形边缘排列，细刻线顺着金属曲面延伸。",
+          "en": "A huge steel vessel mouth is cropped at right. Thick outer walls surround a pale inner sleeve and deep dark chamber, leaving quiet space at left. Attached fasteners follow the circular rim, with fine engraving tracing the curved metal surfaces."
+        },
+        "background": {
+          "zh": "博施与弗里德里希·贝吉乌斯共同获得1931年诺贝尔化学奖，表彰他们对化学高压方法的发明与发展所作的贡献。在哈伯从氮和氢合成氨的研究基础上，博施发展了能承受高压和高温的钢制装置，使工艺走向大规模工业生产。画中厚壁与套筒是原创寓意，不是历史装置复原、工程图或实际尺寸示意；短句为原创。\n1931年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对化学高压方法的发明和发展所作的贡献。",
+          "en": "Bosch shared the 1931 Nobel Prize in Chemistry with Friedrich Bergius for contributions to inventing and developing chemical high-pressure methods. Building on Haber's synthesis of ammonia from nitrogen and hydrogen, Bosch developed steel apparatus able to withstand pressure and heat, enabling large-scale industrial production. The thick walls and sleeves are an original metaphor, not a reconstructed historic apparatus, engineering drawing or scale diagram. The phrase is original.\n1931 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: in recognition of their contributions to the invention and development of chemical high pressure methods"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年化学奖｜官方记录",
+              "en": "1931 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1931/bosch/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

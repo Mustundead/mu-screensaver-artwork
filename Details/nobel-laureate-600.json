@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-600",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-600",
+      "subject": "nobel-laureate-600",
+      "edition": "mono",
+      "title": "亨利·柏格森",
+      "titleEnglish": "Henri Bergson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-600/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-600/mono.jpg",
+      "sha256": "705514e5f78e77b7d1af0ddecbc2b95f5f9132cede1d955b57713ba46fbe1ebb",
+      "thumbnailSHA256": "5d3375fc4425a07c89644059052b84a92c7b717292c776c66176127a2caae4e8",
+      "context": {
+        "phrase": {
+          "zh": "给想法一点空间，让它慢慢展开。",
+          "en": "Give an idea room to unfold."
+        },
+        "visual": {
+          "zh": "一条连续宽带从下方伸入，经过两次弯转向右上升起；刻线沿带面延伸，明暗交替衬出卷曲与带面之间的空隙。这是思绪展开的原创比喻，不是时间的科学示意图。",
+          "en": "One continuous broad strip enters from below and rises toward the upper right through two turns. Hatching follows the surface, with alternating light and shadow defining the curves and gaps. This original metaphor for unfolding thought is not a scientific diagram of time."
+        },
+        "background": {
+          "zh": "柏格森独获1927年诺贝尔文学奖，实际于1928年领受。获奖理由赞赏他丰富、富有启发的思想及卓越表达。他以哲学写作探讨人的经验。悬空纸带是思想展开的原创寓意，不是他的遗物、手稿或关于时间的科学图示；短句为原创。\n1927年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他丰富而富有启发的思想，以及卓越的表达技巧。",
+          "en": "Bergson alone received the 1927 Nobel Prize in Literature in 1928. The award honored his rich, stimulating ideas and skill in expressing them. His philosophical writing explored human experience. The suspended ribbon is an original metaphor for ideas unfolding, not his belongings, manuscript or a scientific diagram of time. The phrase is original.\n1927 — The Nobel Prize in Literature. Received the full prize. Official motivation: in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年文学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1927/bergson/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-600",
+      "subject": "nobel-laureate-600",
+      "edition": "color",
+      "title": "亨利·柏格森",
+      "titleEnglish": "Henri Bergson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-600/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-600/color.jpg",
+      "sha256": "62fd34ba206d1bd417daaa30c4d41cddbd94c821df3b6becf81e8856ae1e080f",
+      "thumbnailSHA256": "51b1c3743027d65c70b3485fd260684ba9cef27ca807c23e4c196700149cf941",
+      "context": {
+        "phrase": {
+          "zh": "给想法一点空间，让它慢慢展开。",
+          "en": "Give an idea room to unfold."
+        },
+        "visual": {
+          "zh": "一条连续宽带从下方伸入，经过两次弯转向右上升起；刻线沿带面延伸，明暗交替衬出卷曲与带面之间的空隙。这是思绪展开的原创比喻，不是时间的科学示意图。",
+          "en": "One continuous broad strip enters from below and rises toward the upper right through two turns. Hatching follows the surface, with alternating light and shadow defining the curves and gaps. This original metaphor for unfolding thought is not a scientific diagram of time."
+        },
+        "background": {
+          "zh": "柏格森独获1927年诺贝尔文学奖，实际于1928年领受。获奖理由赞赏他丰富、富有启发的思想及卓越表达。他以哲学写作探讨人的经验。悬空纸带是思想展开的原创寓意，不是他的遗物、手稿或关于时间的科学图示；短句为原创。\n1927年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他丰富而富有启发的思想，以及卓越的表达技巧。",
+          "en": "Bergson alone received the 1927 Nobel Prize in Literature in 1928. The award honored his rich, stimulating ideas and skill in expressing them. His philosophical writing explored human experience. The suspended ribbon is an original metaphor for ideas unfolding, not his belongings, manuscript or a scientific diagram of time. The phrase is original.\n1927 — The Nobel Prize in Literature. Received the full prize. Official motivation: in recognition of his rich and vitalizing ideas and the brilliant skill with which they have been presented"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年文学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1927/bergson/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

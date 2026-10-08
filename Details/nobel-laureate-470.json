@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-470",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-470",
+      "subject": "nobel-laureate-470",
+      "edition": "mono",
+      "title": "西奥多·罗斯福",
+      "titleEnglish": "Theodore Roosevelt",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-470/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-470/mono.jpg",
+      "sha256": "59dc95fac253efe077f7d38a658bb897d7743c620f900c5ce420d8c153f63b95",
+      "thumbnailSHA256": "82ef7484aa79628ef88da26d98c761a69171d0584260f55face58e7ec154c0b0",
+      "context": {
+        "phrase": {
+          "zh": "谈判为冲突留出另一条路。",
+          "en": "Negotiation opens another path through conflict."
+        },
+        "visual": {
+          "zh": "空置的谈判桌、相对的椅子、无字文件与海港组成独立拼贴，呼应罗斯福调停日俄战争的获奖背景。场景是想象中的象征，不是历史会谈地点或真实文件的复原。",
+          "en": "An original collage of an empty negotiation table, opposing chairs, blank documents and a harbor evokes Roosevelt's mediation of the Russo-Japanese War. The scene is symbolic, not a reconstruction of a historical meeting site or its documents."
+        },
+        "background": {
+          "zh": "罗斯福获得1906年诺贝尔和平奖，主要获奖贡献是调停1904至1905年的日俄战争，促成和平。他是首位获得和平奖的国家政治领导人。诺贝尔委员会的介绍也记录了当年的争议：他的军事和帝国扩张政策遭到批评。因此，这一配图只表现具体的谈判贡献，不把获奖等同于对其全部政治生涯的肯定。\n1906年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他为结束日本与俄国之间的战争所发挥的作用。",
+          "en": "Roosevelt received the 1906 Nobel Peace Prize for mediating peace in the Russo-Japanese War of 1904–1905. He was the first statesman to receive the prize. The Nobel Committee's account also records contemporary controversy over his military and imperial policies. The artwork interprets the specific act of mediation, without treating the award as an endorsement of his entire political career.\n1906 — The Nobel Peace Prize. Received the full prize. Official motivation: for his role in bringing to an end the bloody war recently waged between two of the world's great powers, Japan and Russia"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年和平奖｜官方记录",
+              "en": "1906 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1906",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-470",
+      "subject": "nobel-laureate-470",
+      "edition": "color",
+      "title": "西奥多·罗斯福",
+      "titleEnglish": "Theodore Roosevelt",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-470/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-470/color.jpg",
+      "sha256": "fb481f0534420e17b6d4197cc79e399c7b84a829b8334ebdb07f7f5e4dcaced2",
+      "thumbnailSHA256": "ade04f63ace829f0814356505bf044bc02b8340385b45bf38bd16cddaacd6eb3",
+      "context": {
+        "phrase": {
+          "zh": "谈判为冲突留出另一条路。",
+          "en": "Negotiation opens another path through conflict."
+        },
+        "visual": {
+          "zh": "空置的谈判桌、相对的椅子、无字文件与海港组成独立拼贴，呼应罗斯福调停日俄战争的获奖背景。场景是想象中的象征，不是历史会谈地点或真实文件的复原。",
+          "en": "An original collage of an empty negotiation table, opposing chairs, blank documents and a harbor evokes Roosevelt's mediation of the Russo-Japanese War. The scene is symbolic, not a reconstruction of a historical meeting site or its documents."
+        },
+        "background": {
+          "zh": "罗斯福获得1906年诺贝尔和平奖，主要获奖贡献是调停1904至1905年的日俄战争，促成和平。他是首位获得和平奖的国家政治领导人。诺贝尔委员会的介绍也记录了当年的争议：他的军事和帝国扩张政策遭到批评。因此，这一配图只表现具体的谈判贡献，不把获奖等同于对其全部政治生涯的肯定。\n1906年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他为结束日本与俄国之间的战争所发挥的作用。",
+          "en": "Roosevelt received the 1906 Nobel Peace Prize for mediating peace in the Russo-Japanese War of 1904–1905. He was the first statesman to receive the prize. The Nobel Committee's account also records contemporary controversy over his military and imperial policies. The artwork interprets the specific act of mediation, without treating the award as an endorsement of his entire political career.\n1906 — The Nobel Peace Prize. Received the full prize. Official motivation: for his role in bringing to an end the bloody war recently waged between two of the world's great powers, Japan and Russia"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年和平奖｜官方记录",
+              "en": "1906 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1906",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-342",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-342",
+      "subject": "nobel-laureate-342",
+      "edition": "mono",
+      "title": "赫尔曼·穆勒",
+      "titleEnglish": "Hermann J. Muller",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-342/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-342/mono.jpg",
+      "sha256": "372474b846bb2577d1e8983c11e1e175f7295165b84c11de9bdb51175a960d47",
+      "thumbnailSHA256": "2340776c378689626b76a18767ebf6c9bff60fa7cb64803b6d53384eaa41567c",
+      "context": {
+        "phrase": {
+          "zh": "微小的变化，也有长远的回声。",
+          "en": "Small changes can echo far."
+        },
+        "visual": {
+          "zh": "果蝇身体居中，双翅向左右展开，翅脉、分节身体与六条细腿以刻线和点描塑形，周围保留安静背景。",
+          "en": "A centered fly spreads two wings across the image; engraved lines and stippling shape the veins, segmented body and six slender legs against a quiet field."
+        },
+        "background": {
+          "zh": "穆勒研究果蝇的遗传特征，发现X射线照射能够增加遗传突变。他因发现通过X射线照射产生突变，获得1946年诺贝尔生理学或医学奖。画面的放大果蝇指代研究对象，是原创标本式插画，不复原某一只实验果蝇，也不把翅形或颜色变化当作他的实验结果。短句为原创。\n1946年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：发现可以通过X射线照射产生突变。",
+          "en": "Muller studied fruit-fly heredity and found that X-ray exposure increased genetic mutations. He received the 1946 Nobel Prize in Physiology or Medicine for discovering the production of mutations by X-ray irradiation. The enlarged fly is an original specimen-style illustration of the research organism, not a reconstruction of an experimental fly or a claim that its wing shape or color is a reported mutation. The phrase is original.\n1946 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for the discovery of the production of mutations by means of X-ray irradiation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年生理学或医学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1946/muller/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-342",
+      "subject": "nobel-laureate-342",
+      "edition": "color",
+      "title": "赫尔曼·穆勒",
+      "titleEnglish": "Hermann J. Muller",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-342/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-342/color.jpg",
+      "sha256": "0c609815bb970913ca6589f620126ebd427ff132a6dcd89e1b5efda5b7914b36",
+      "thumbnailSHA256": "340db4dab6d43c9f6fa1f2e62098ca18f17de3adee11b86f718d5de0565a04d4",
+      "context": {
+        "phrase": {
+          "zh": "微小的变化，也有长远的回声。",
+          "en": "Small changes can echo far."
+        },
+        "visual": {
+          "zh": "果蝇身体居中，双翅向左右展开，翅脉、分节身体与六条细腿以刻线和点描塑形，周围保留安静背景。",
+          "en": "A centered fly spreads two wings across the image; engraved lines and stippling shape the veins, segmented body and six slender legs against a quiet field."
+        },
+        "background": {
+          "zh": "穆勒研究果蝇的遗传特征，发现X射线照射能够增加遗传突变。他因发现通过X射线照射产生突变，获得1946年诺贝尔生理学或医学奖。画面的放大果蝇指代研究对象，是原创标本式插画，不复原某一只实验果蝇，也不把翅形或颜色变化当作他的实验结果。短句为原创。\n1946年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：发现可以通过X射线照射产生突变。",
+          "en": "Muller studied fruit-fly heredity and found that X-ray exposure increased genetic mutations. He received the 1946 Nobel Prize in Physiology or Medicine for discovering the production of mutations by X-ray irradiation. The enlarged fly is an original specimen-style illustration of the research organism, not a reconstruction of an experimental fly or a claim that its wing shape or color is a reported mutation. The phrase is original.\n1946 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for the discovery of the production of mutations by means of X-ray irradiation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年生理学或医学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1946/muller/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-34",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-34",
+      "subject": "nobel-laureate-34",
+      "edition": "mono",
+      "title": "查尔斯·威尔逊",
+      "titleEnglish": "C.T.R. Wilson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-34/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-34/mono.jpg",
+      "sha256": "2262cc52ca763999f26b47450bbfe9b4f2c65e2ad1b85cacc30390ed2353888e",
+      "thumbnailSHA256": "a4b03dfd46217235e5684b493c9c89c1594b2d78b09fc8e47f82c74348b123ef",
+      "context": {
+        "phrase": {
+          "zh": "看不见的经过，也会留下痕迹。",
+          "en": "An unseen passage can still leave a trace."
+        },
+        "visual": {
+          "zh": "透过大幅裁切的圆形腔体，能看到薄雾和两条浅色凝结路径。铜色边缘与深绿玻璃围住内部空间，细刻线保留透明材料的层次。黑白版保留路径与边缘；这是使运动痕迹可见的原创寓意，不是粒子测量图。",
+          "en": "A closely cropped circular chamber encloses fine mist and two pale condensation paths. A copper rim and deep green glass frame the interior, with fine engraving separating transparent layers. The neutral monochrome edition preserves the paths and rim. This is an original metaphor for making motion visible, not a particle measurement."
+        },
+        "background": {
+          "zh": "威尔逊与康普顿各获1927年诺贝尔物理学奖的一半。他发展云室，利用水汽在带电粒子留下的离子周围凝结，让粒子的路径可以被看见和拍摄。玻璃室与雾中细线是原创寓意，不是实际粒子照片、可用装置或测量数据；短句为原创。\n1927年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他利用水汽凝结使带电粒子的运动路径可见的方法。",
+          "en": "Wilson and Compton shared the 1927 Nobel Prize in Physics equally. Wilson developed the cloud chamber, where vapor condenses around ions left by charged particles, making their paths visible and photographable. The glass chamber and fine mist trails are an original metaphor, not actual particle photographs, an operable device or measured data. The phrase is original.\n1927 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for his method of making the paths of electrically charged particles visible by condensation of vapour"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年物理学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/laureate/34",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-34",
+      "subject": "nobel-laureate-34",
+      "edition": "color",
+      "title": "查尔斯·威尔逊",
+      "titleEnglish": "C.T.R. Wilson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-34/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-34/color.jpg",
+      "sha256": "e0caae72cbfba91cfcf9158e9d6c15fb14f5bcdd9111fe8d64a411d5ea6e9ab1",
+      "thumbnailSHA256": "472240a9564692eaef6a08bdfade33863abc5c8bb98207faac259e347e0932d9",
+      "context": {
+        "phrase": {
+          "zh": "看不见的经过，也会留下痕迹。",
+          "en": "An unseen passage can still leave a trace."
+        },
+        "visual": {
+          "zh": "透过大幅裁切的圆形腔体，能看到薄雾和两条浅色凝结路径。铜色边缘与深绿玻璃围住内部空间，细刻线保留透明材料的层次。黑白版保留路径与边缘；这是使运动痕迹可见的原创寓意，不是粒子测量图。",
+          "en": "A closely cropped circular chamber encloses fine mist and two pale condensation paths. A copper rim and deep green glass frame the interior, with fine engraving separating transparent layers. The neutral monochrome edition preserves the paths and rim. This is an original metaphor for making motion visible, not a particle measurement."
+        },
+        "background": {
+          "zh": "威尔逊与康普顿各获1927年诺贝尔物理学奖的一半。他发展云室，利用水汽在带电粒子留下的离子周围凝结，让粒子的路径可以被看见和拍摄。玻璃室与雾中细线是原创寓意，不是实际粒子照片、可用装置或测量数据；短句为原创。\n1927年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他利用水汽凝结使带电粒子的运动路径可见的方法。",
+          "en": "Wilson and Compton shared the 1927 Nobel Prize in Physics equally. Wilson developed the cloud chamber, where vapor condenses around ions left by charged particles, making their paths visible and photographable. The glass chamber and fine mist trails are an original metaphor, not actual particle photographs, an operable device or measured data. The phrase is original.\n1927 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for his method of making the paths of electrically charged particles visible by condensation of vapour"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年物理学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/laureate/34",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

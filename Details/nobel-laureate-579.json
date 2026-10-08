@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-579",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-579",
+      "subject": "nobel-laureate-579",
+      "edition": "mono",
+      "title": "塞尔玛·拉格洛夫",
+      "titleEnglish": "Selma Lagerlöf",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-579/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-579/mono.jpg",
+      "sha256": "2ab71f40999865275b5649ec1727048ff6998abb83c54b76740b89302c431029",
+      "thumbnailSHA256": "4d53cacf658a0c0461c15cee6da96dfb50aba3b2568c85ccbea93967998facc7",
+      "context": {
+        "phrase": {
+          "zh": "换一个高度，重新看见世界。",
+          "en": "See the world from another height."
+        },
+        "visual": {
+          "zh": "从斜上方看去，白鹅的一侧翅膀大幅切出画面，背上的小人物指向《尼尔斯骑鹅旅行记》中的尼尔斯；远下方的河流与田野形成尺度反差。画面为原创文学意象，不复刻已有书籍插画或动画形象。",
+          "en": "Viewed obliquely from above, a white goose's wing extends beyond the frame, with the small story character Nils on its back. River and fields far below contrast in scale. This is an original literary interpretation, not a reproduction of an existing illustration or adaptation."
+        },
+        "background": {
+          "zh": "塞尔玛·拉格洛夫获得1909年诺贝尔文学奖，官方获奖理由赞赏她作品中的崇高理想、生动想象力与精神洞察。瑞典学院的作者档案记载，《尼尔斯骑鹅旅行记》于1906至1907年分两卷出版，原本作为小学读物；诺贝尔传记也介绍了这部从学校读物发展而来的儿童文学作品。这里以飞行、俯瞰和大小反差选取一部代表作品的想象视角，帮助观众进入她的文学世界。文学奖针对她的创作，并不是只授予这一本书；配图是原创解读，短句也不是她或书中人物的引语。\n1909年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰她作品中的崇高理想、生动想象力与精神洞察。",
+          "en": "Selma Lagerlof received the 1909 Nobel Prize in Literature, whose citation praised her lofty idealism, vivid imagination and spiritual perception. The Swedish Academy's author record dates The Wonderful Adventures of Nils to two volumes in 1906–1907, intended as an elementary-school reader; the Nobel biography also describes its origin as a primer. Flight, an aerial viewpoint and contrasting scales interpret a representative work to introduce her literary imagination. Her prize recognized her writing rather than this single book alone. The image and phrase are original interpretations, not quotations or existing illustrations.\n1909 — The Nobel Prize in Literature. Received the full prize. Official motivation: in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年文学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1909/lagerlof/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "svenskaakademien.se",
+            "url": "https://www.svenskaakademien.se/svenska-akademien/ledamotsregister/selma-lagerl%C3%B6f",
+            "labelLocalized": {
+              "zh": "作家资料｜瑞典学院",
+              "en": "Author profile — Swedish Academy"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-579",
+      "subject": "nobel-laureate-579",
+      "edition": "color",
+      "title": "塞尔玛·拉格洛夫",
+      "titleEnglish": "Selma Lagerlöf",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-579/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-579/color.jpg",
+      "sha256": "179cb073106bf5285e89fcfed9ca8843316f7400b748c352305ee2069c9d919d",
+      "thumbnailSHA256": "ee34f1b06ee639608474fec621b4f44bdc5cd4c9194d631a362d790e58052a60",
+      "context": {
+        "phrase": {
+          "zh": "换一个高度，重新看见世界。",
+          "en": "See the world from another height."
+        },
+        "visual": {
+          "zh": "从斜上方看去，白鹅的一侧翅膀大幅切出画面，背上的小人物指向《尼尔斯骑鹅旅行记》中的尼尔斯；远下方的河流与田野形成尺度反差。画面为原创文学意象，不复刻已有书籍插画或动画形象。",
+          "en": "Viewed obliquely from above, a white goose's wing extends beyond the frame, with the small story character Nils on its back. River and fields far below contrast in scale. This is an original literary interpretation, not a reproduction of an existing illustration or adaptation."
+        },
+        "background": {
+          "zh": "塞尔玛·拉格洛夫获得1909年诺贝尔文学奖，官方获奖理由赞赏她作品中的崇高理想、生动想象力与精神洞察。瑞典学院的作者档案记载，《尼尔斯骑鹅旅行记》于1906至1907年分两卷出版，原本作为小学读物；诺贝尔传记也介绍了这部从学校读物发展而来的儿童文学作品。这里以飞行、俯瞰和大小反差选取一部代表作品的想象视角，帮助观众进入她的文学世界。文学奖针对她的创作，并不是只授予这一本书；配图是原创解读，短句也不是她或书中人物的引语。\n1909年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰她作品中的崇高理想、生动想象力与精神洞察。",
+          "en": "Selma Lagerlof received the 1909 Nobel Prize in Literature, whose citation praised her lofty idealism, vivid imagination and spiritual perception. The Swedish Academy's author record dates The Wonderful Adventures of Nils to two volumes in 1906–1907, intended as an elementary-school reader; the Nobel biography also describes its origin as a primer. Flight, an aerial viewpoint and contrasting scales interpret a representative work to introduce her literary imagination. Her prize recognized her writing rather than this single book alone. The image and phrase are original interpretations, not quotations or existing illustrations.\n1909 — The Nobel Prize in Literature. Received the full prize. Official motivation: in appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年文学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1909/lagerlof/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "svenskaakademien.se",
+            "url": "https://www.svenskaakademien.se/svenska-akademien/ledamotsregister/selma-lagerl%C3%B6f",
+            "labelLocalized": {
+              "zh": "作家资料｜瑞典学院",
+              "en": "Author profile — Swedish Academy"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

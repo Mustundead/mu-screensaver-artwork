@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-463",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-463",
+      "subject": "nobel-laureate-463",
+      "edition": "mono",
+      "title": "弗雷德里克·帕西",
+      "titleEnglish": "Frédéric Passy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-463/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-463/mono.jpg",
+      "sha256": "cfc11f35afb436be1c3a44e78d11e22fcf114ed29e6d61072a047047351b104b",
+      "thumbnailSHA256": "0b857e71e0686d061d8f675ad43588822541875b665538870b6c84ba00fba914",
+      "context": {
+        "phrase": {
+          "zh": "让分歧来到桌前，让和平留在桌外。",
+          "en": "Bring differences to the table and let peace endure beyond it."
+        },
+        "visual": {
+          "zh": "为帕西独立创作的和平协商拼贴，以空会议桌、座椅、文书与天平表达对话和仲裁；不重现某次具体会议。",
+          "en": "An original peace-negotiation collage for Passy, with an empty conference table, chairs, a folio and scales evoking dialogue and arbitration. Not a reconstruction of a particular meeting."
+        },
+        "background": {
+          "zh": "帕西毕生推动和平会议、外交和仲裁，并与杜南分享1901年首届诺贝尔和平奖。他参与组织跨国议会人士的交流，主张通过协商处理国家间的分歧。画面中的会议桌与天平，分别是对话和仲裁的艺术象征。\n1901年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他毕生致力于国际和平会议、外交与仲裁的工作。",
+          "en": "Passy devoted his life to peace conferences, diplomacy and arbitration, sharing the first Nobel Peace Prize in 1901 with Dunant. He helped organize exchanges between parliamentarians across borders and advocated resolving international disputes through negotiation. The conference table and scales are artistic symbols of dialogue and arbitration.\n1901 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his lifelong work for international peace conferences, diplomacy and arbitration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年和平奖｜官方记录",
+              "en": "1901 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1901/passy/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-463",
+      "subject": "nobel-laureate-463",
+      "edition": "color",
+      "title": "弗雷德里克·帕西",
+      "titleEnglish": "Frédéric Passy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-463/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-463/color.jpg",
+      "sha256": "8adcc65802c6cddf2a17dae17b49c6edb58f036b697cadc2f24218b7243d23a4",
+      "thumbnailSHA256": "916b8fd44019ba42dd42738683d3e1ed5e939266d3d2c1f7e96fd5f67830b804",
+      "context": {
+        "phrase": {
+          "zh": "让分歧来到桌前，让和平留在桌外。",
+          "en": "Bring differences to the table and let peace endure beyond it."
+        },
+        "visual": {
+          "zh": "为帕西独立创作的和平协商拼贴，以空会议桌、座椅、文书与天平表达对话和仲裁；不重现某次具体会议。",
+          "en": "An original peace-negotiation collage for Passy, with an empty conference table, chairs, a folio and scales evoking dialogue and arbitration. Not a reconstruction of a particular meeting."
+        },
+        "background": {
+          "zh": "帕西毕生推动和平会议、外交和仲裁，并与杜南分享1901年首届诺贝尔和平奖。他参与组织跨国议会人士的交流，主张通过协商处理国家间的分歧。画面中的会议桌与天平，分别是对话和仲裁的艺术象征。\n1901年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他毕生致力于国际和平会议、外交与仲裁的工作。",
+          "en": "Passy devoted his life to peace conferences, diplomacy and arbitration, sharing the first Nobel Peace Prize in 1901 with Dunant. He helped organize exchanges between parliamentarians across borders and advocated resolving international disputes through negotiation. The conference table and scales are artistic symbols of dialogue and arbitration.\n1901 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his lifelong work for international peace conferences, diplomacy and arbitration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年和平奖｜官方记录",
+              "en": "1901 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1901/passy/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

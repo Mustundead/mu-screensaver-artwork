@@ -1,0 +1,70 @@
+{
+  "subject": "02-cosmos",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:02-cosmos",
+      "subject": "02-cosmos",
+      "edition": "mono",
+      "title": "宇宙：引力与光的路径",
+      "titleEnglish": "Gravity and the Paths of Light",
+      "category": "宇宙",
+      "image": "Images/mono/02-cosmos.jpg",
+      "thumbnail": "Thumbs/mono/02-cosmos.jpg",
+      "sha256": "5d11d16e947ce07b195dcffbebe5576e88581d8e7430678b29e6fcb6f47e5590",
+      "thumbnailSHA256": "61404872fc672018633c39fa2d7b43e9ed3f9f25ad31f89070c3fccd4a942eb2",
+      "context": {
+        "phrase": {
+          "zh": "光的弯曲，显出看不见的引力。",
+          "en": "Bent light reveals unseen gravity."
+        },
+        "visual": {
+          "zh": "弧线、球体与弯曲的带状结构，把引力对光传播的影响转化为可观看的空间。它们不是宇宙中的实体轨道，也不是某次观测的精确重建。",
+          "en": "Arcs, spheres and curved bands turn gravity’s effect on light into a visible space. They are neither physical rails in the universe nor a reconstruction of a particular observation."
+        },
+        "background": {
+          "zh": "爱因斯坦在 1915 年完成广义相对论的关键工作，将引力与时空几何联系起来。质量会影响周围的时空，光的路径也随之改变。常见的弯曲平面只是帮助理解的类比，真实理论描述的是四维时空。",
+          "en": "Einstein completed the crucial work on general relativity in 1915, connecting gravity with the geometry of spacetime. Mass affects the surrounding spacetime and the paths followed by light. A curved surface is a teaching analogy for a theory of four-dimensional spacetime."
+        },
+        "sources": [
+          {
+            "label": "NASA · 100 Years of General Relativity",
+            "url": "https://asd.gsfc.nasa.gov/blueshift/index.php/2015/11/25/100-years-of-general-relativity/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:02-cosmos",
+      "subject": "02-cosmos",
+      "edition": "color",
+      "title": "宇宙：引力与光的路径",
+      "titleEnglish": "Gravity and the Paths of Light",
+      "category": "宇宙",
+      "image": "Images/color/02-cosmos.jpg",
+      "thumbnail": "Thumbs/color/02-cosmos.jpg",
+      "sha256": "2b46f75e8418aa5a0a7df7cbb6f91f4e2c9fc8810716d7436896ec08448217a7",
+      "thumbnailSHA256": "98148da6a43a1cd34d392dcafc11ba2f8437b4cd3db9dfa33c666b0d6c4c9b2f",
+      "context": {
+        "phrase": {
+          "zh": "光的弯曲，显出看不见的引力。",
+          "en": "Bent light reveals unseen gravity."
+        },
+        "visual": {
+          "zh": "弧线、球体与弯曲的带状结构，把引力对光传播的影响转化为可观看的空间。它们不是宇宙中的实体轨道，也不是某次观测的精确重建。",
+          "en": "Arcs, spheres and curved bands turn gravity’s effect on light into a visible space. They are neither physical rails in the universe nor a reconstruction of a particular observation."
+        },
+        "background": {
+          "zh": "爱因斯坦在 1915 年完成广义相对论的关键工作，将引力与时空几何联系起来。质量会影响周围的时空，光的路径也随之改变。常见的弯曲平面只是帮助理解的类比，真实理论描述的是四维时空。",
+          "en": "Einstein completed the crucial work on general relativity in 1915, connecting gravity with the geometry of spacetime. Mass affects the surrounding spacetime and the paths followed by light. A curved surface is a teaching analogy for a theory of four-dimensional spacetime."
+        },
+        "sources": [
+          {
+            "label": "NASA · 100 Years of General Relativity",
+            "url": "https://asd.gsfc.nasa.gov/blueshift/index.php/2015/11/25/100-years-of-general-relativity/"
+          }
+        ]
+      }
+    }
+  }
+}

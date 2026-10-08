@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-15",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-15",
+      "subject": "nobel-laureate-15",
+      "edition": "mono",
+      "title": "约翰内斯·迪德里克·范德瓦耳斯",
+      "titleEnglish": "Johannes Diderik van der Waals",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-15/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-15/mono.jpg",
+      "sha256": "eff161b903ff57a901e04a1d73ec7368413057f043c3711e314e8e085cb41327",
+      "thumbnailSHA256": "3999002f41421b2e750a6fea97bc9bb86343b946cf0b315954ac4ea9698aaf1c",
+      "context": {
+        "phrase": {
+          "zh": "微小的吸引，改变整体的状态。",
+          "en": "Small attractions change a larger state."
+        },
+        "visual": {
+          "zh": "倾斜的大玻璃筒压过近处球体，分散小球与下方液体形成疏密变化。黑白与钴蓝版强调液面；彩色版以黄铜、浅绿玻璃、蓝绿色液体和暖棕球体区分材质。所有颜色与道具都是原创隐喻，小球没有连接成分子模型，也不对应某种真实物质。",
+          "en": "A large tilted glass cylinder overlaps a close sphere, with scattered beads above a denser liquid region. The monochrome/cobalt edition emphasizes the liquid; full color differentiates brass, green-tinted glass, teal liquid and warm umber. These are original props and colors, not a particular substance or bonded molecular model."
+        },
+        "background": {
+          "zh": "范德瓦耳斯因研究气体与液体的状态方程获得1910年诺贝尔物理学奖。状态方程描述压力、体积和温度之间的关系；诺贝尔官方介绍指出，他在1873年的方程中考虑分子之间的吸引，用来解释高压下气体偏离简单规律的行为，随后继续研究气液状态之间的联系。这项工作使气体与液体能够在共同的物理框架中讨论。配图以液面和疏密球体表达这种思路，不表示真实分子的外观、尺寸、轨迹或实验数据；短句为原创概括，不是本人引语。\n1910年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对气体和液体状态方程的研究。",
+          "en": "Van der Waals received the 1910 Nobel Prize in Physics for work on the equation of state for gases and liquids. Such an equation relates pressure, volume and temperature. Nobel’s account explains that his 1873 treatment included attraction between molecules to account for gas behavior at high pressure, and he continued studying the relation between gaseous and liquid states. The image interprets this connection through a meniscus and differently spaced spheres; it does not show measured molecular appearances, sizes, trajectories or experimental data. The phrase is an original summary, not a quotation.\n1910 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the equation of state for gases and liquids"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年物理学奖｜官方记录",
+              "en": "1910 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1910/waals/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/waals-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-15",
+      "subject": "nobel-laureate-15",
+      "edition": "color",
+      "title": "约翰内斯·迪德里克·范德瓦耳斯",
+      "titleEnglish": "Johannes Diderik van der Waals",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-15/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-15/color.jpg",
+      "sha256": "06c7d56f6b083b169cc6ffad89aecd573609f42921549f5631246830929b1f19",
+      "thumbnailSHA256": "966bb76d382867762e782b254b38520585da5018718840aa4012e90b28405cf7",
+      "context": {
+        "phrase": {
+          "zh": "微小的吸引，改变整体的状态。",
+          "en": "Small attractions change a larger state."
+        },
+        "visual": {
+          "zh": "倾斜的大玻璃筒压过近处球体，分散小球与下方液体形成疏密变化。黑白与钴蓝版强调液面；彩色版以黄铜、浅绿玻璃、蓝绿色液体和暖棕球体区分材质。所有颜色与道具都是原创隐喻，小球没有连接成分子模型，也不对应某种真实物质。",
+          "en": "A large tilted glass cylinder overlaps a close sphere, with scattered beads above a denser liquid region. The monochrome/cobalt edition emphasizes the liquid; full color differentiates brass, green-tinted glass, teal liquid and warm umber. These are original props and colors, not a particular substance or bonded molecular model."
+        },
+        "background": {
+          "zh": "范德瓦耳斯因研究气体与液体的状态方程获得1910年诺贝尔物理学奖。状态方程描述压力、体积和温度之间的关系；诺贝尔官方介绍指出，他在1873年的方程中考虑分子之间的吸引，用来解释高压下气体偏离简单规律的行为，随后继续研究气液状态之间的联系。这项工作使气体与液体能够在共同的物理框架中讨论。配图以液面和疏密球体表达这种思路，不表示真实分子的外观、尺寸、轨迹或实验数据；短句为原创概括，不是本人引语。\n1910年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对气体和液体状态方程的研究。",
+          "en": "Van der Waals received the 1910 Nobel Prize in Physics for work on the equation of state for gases and liquids. Such an equation relates pressure, volume and temperature. Nobel’s account explains that his 1873 treatment included attraction between molecules to account for gas behavior at high pressure, and he continued studying the relation between gaseous and liquid states. The image interprets this connection through a meniscus and differently spaced spheres; it does not show measured molecular appearances, sizes, trajectories or experimental data. The phrase is an original summary, not a quotation.\n1910 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the equation of state for gases and liquids"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年物理学奖｜官方记录",
+              "en": "1910 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1910/waals/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/waals-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

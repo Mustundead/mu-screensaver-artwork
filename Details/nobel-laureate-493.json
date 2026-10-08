@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-493",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-493",
+      "subject": "nobel-laureate-493",
+      "edition": "mono",
+      "title": "路德维希·奎德",
+      "titleEnglish": "Ludwig Quidde",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-493/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-493/mono.jpg",
+      "sha256": "530156dbb27c3b2bceaa2f63868f9800eb5633a8803745c3a77c31ca83bfb2f9",
+      "thumbnailSHA256": "ffa3eba99847c62542e00560243af42a086b7c3303b23b4e0eb5a8ff3f411115",
+      "context": {
+        "phrase": {
+          "zh": "让和平成为更多人愿意讨论的事。",
+          "en": "Give more people a voice in the case for peace."
+        },
+        "visual": {
+          "zh": "横向铜色滚筒占据画面上部，浅色纸张在下方形成宽大的圆弧垂面，两侧回折处露出暗色空隙。细刻线沿着铜面与纸张转折。黑白版保留滚筒、垂面和两侧回折；这是公共讨论的原创寓意，不是印刷机复原。",
+          "en": "A horizontal copper roller spans the upper field above a broad rounded hanging sheet, with dark gaps beside its two side returns. Fine engraving follows the copper and paper turns. The neutral monochrome edition retains the roller, hanging belly and side returns. This is an original metaphor for public discussion, not a reconstructed printing press."
+        },
+        "background": {
+          "zh": "奎德与比松各获1927年诺贝尔和平奖的一半。他长期参与和平运动，反对德国战争政策与重新扩军，并推动法德相互理解。印刷滚筒与空白纸张是公共讨论的原创寓意，不是他的真实印刷物，也不把共同努力归给一人；短句为原创。\n1927年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他与比松推动法国和德国民众支持和平国际合作。",
+          "en": "Quidde and Buisson shared the 1927 Nobel Peace Prize equally. Quidde worked in the peace movement, opposed German war policy and rearmament, and encouraged Franco-German understanding. The printing roller and blank paper are an original metaphor for public discussion, not his actual publications, and do not assign the shared effort to one person. The phrase is original.\n1927 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年和平奖｜官方记录",
+              "en": "1927 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1927",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1927/quidde/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-493",
+      "subject": "nobel-laureate-493",
+      "edition": "color",
+      "title": "路德维希·奎德",
+      "titleEnglish": "Ludwig Quidde",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-493/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-493/color.jpg",
+      "sha256": "fe6e53701b5db98417d6667aec825442aa9898d2ac50ada5a1d87625b1b3e5a9",
+      "thumbnailSHA256": "078c6f669ec9447b63a48a073c06dac6c66276beeefc7363330f260a40294b49",
+      "context": {
+        "phrase": {
+          "zh": "让和平成为更多人愿意讨论的事。",
+          "en": "Give more people a voice in the case for peace."
+        },
+        "visual": {
+          "zh": "横向铜色滚筒占据画面上部，浅色纸张在下方形成宽大的圆弧垂面，两侧回折处露出暗色空隙。细刻线沿着铜面与纸张转折。黑白版保留滚筒、垂面和两侧回折；这是公共讨论的原创寓意，不是印刷机复原。",
+          "en": "A horizontal copper roller spans the upper field above a broad rounded hanging sheet, with dark gaps beside its two side returns. Fine engraving follows the copper and paper turns. The neutral monochrome edition retains the roller, hanging belly and side returns. This is an original metaphor for public discussion, not a reconstructed printing press."
+        },
+        "background": {
+          "zh": "奎德与比松各获1927年诺贝尔和平奖的一半。他长期参与和平运动，反对德国战争政策与重新扩军，并推动法德相互理解。印刷滚筒与空白纸张是公共讨论的原创寓意，不是他的真实印刷物，也不把共同努力归给一人；短句为原创。\n1927年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他与比松推动法国和德国民众支持和平国际合作。",
+          "en": "Quidde and Buisson shared the 1927 Nobel Peace Prize equally. Quidde worked in the peace movement, opposed German war policy and rearmament, and encouraged Franco-German understanding. The printing roller and blank paper are an original metaphor for public discussion, not his actual publications, and do not assign the shared effort to one person. The phrase is original.\n1927 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年和平奖｜官方记录",
+              "en": "1927 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1927",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1927/quidde/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

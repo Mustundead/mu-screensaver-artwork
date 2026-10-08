@@ -1,0 +1,78 @@
+{
+  "subject": "046-packet-network",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:046-packet-network",
+      "subject": "046-packet-network",
+      "edition": "mono",
+      "title": "分组交换",
+      "titleEnglish": "Packet Switching",
+      "category": "计算与人工智能",
+      "image": "Images/mono/046-packet-network.jpg",
+      "thumbnail": "Thumbs/mono/046-packet-network.jpg",
+      "sha256": "ecc023c186e41271556e9e9fa15632215451d492b219ffa142a6863b6c4200aa",
+      "thumbnailSHA256": "30cf936b8f04d89bc72509646f82ba03d6b0e5f2a644391be643da16f41e1415",
+      "context": {
+        "phrase": {
+          "zh": "把消息拆开，仍能送到一起。",
+          "en": "Split a message, then bring it together."
+        },
+        "visual": {
+          "zh": "小块数据穿行于交错的线路和节点之间，表现网络不依赖一根专用长线。线路是艺术示意，不是实际网络拓扑。",
+          "en": "Small blocks travel between crossing lines and nodes, suggesting communication without one dedicated end-to-end wire. The links are not a real network topology."
+        },
+        "background": {
+          "zh": "分组交换将数据拆成较小的“包”送过共享网络。计算机历史博物馆记载，巴兰与戴维斯等人在 20 世纪 60 年代独立提出相关方案；ARPANET 后来采用了分组交换技术。",
+          "en": "Packet switching divides data into smaller packets for a shared network. The Computer History Museum describes independent proposals by Baran, Davies and others in the 1960s; ARPANET later used packet-switching techniques."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Global networks",
+            "url": "https://www.computerhistory.org/revolution/networking/19/374"
+          },
+          {
+            "label": "Computer History Museum · ARPANET",
+            "url": "https://www.computerhistory.org/revolution/story/407"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:046-packet-network",
+      "subject": "046-packet-network",
+      "edition": "color",
+      "title": "分组交换",
+      "titleEnglish": "Packet Switching",
+      "category": "计算与人工智能",
+      "image": "Images/color/046-packet-network.jpg",
+      "thumbnail": "Thumbs/color/046-packet-network.jpg",
+      "sha256": "9f3981bf96b0a11c3262a33630abd5d2e5d1cd80868480ea91944605b660ea03",
+      "thumbnailSHA256": "5226616084d94ce3dd8caab2228982208b038c35fd3d1ff68922b5b17ed543b2",
+      "context": {
+        "phrase": {
+          "zh": "把消息拆开，仍能送到一起。",
+          "en": "Split a message, then bring it together."
+        },
+        "visual": {
+          "zh": "小块数据穿行于交错的线路和节点之间，表现网络不依赖一根专用长线。线路是艺术示意，不是实际网络拓扑。",
+          "en": "Small blocks travel between crossing lines and nodes, suggesting communication without one dedicated end-to-end wire. The links are not a real network topology."
+        },
+        "background": {
+          "zh": "分组交换将数据拆成较小的“包”送过共享网络。计算机历史博物馆记载，巴兰与戴维斯等人在 20 世纪 60 年代独立提出相关方案；ARPANET 后来采用了分组交换技术。",
+          "en": "Packet switching divides data into smaller packets for a shared network. The Computer History Museum describes independent proposals by Baran, Davies and others in the 1960s; ARPANET later used packet-switching techniques."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Global networks",
+            "url": "https://www.computerhistory.org/revolution/networking/19/374"
+          },
+          {
+            "label": "Computer History Museum · ARPANET",
+            "url": "https://www.computerhistory.org/revolution/story/407"
+          }
+        ]
+      }
+    }
+  }
+}

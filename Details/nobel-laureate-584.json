@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-584",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-584",
+      "subject": "nobel-laureate-584",
+      "edition": "mono",
+      "title": "罗曼·罗兰",
+      "titleEnglish": "Romain Rolland",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-584/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-584/mono.jpg",
+      "sha256": "5b781cfbe396f0fc1cbd69330d8bae23eabdf04570560f4e285266b55d1cc24f",
+      "thumbnailSHA256": "d164b9271c76e78dc153cc64a45f2c9faf51731bb88743df49ac5d193119a7e0",
+      "context": {
+        "phrase": {
+          "zh": "为每一种声音，留一个位置。",
+          "en": "Leave room for every voice."
+        },
+        "visual": {
+          "zh": "近距离裁切的钢琴横过下方，琴键斜向展开，红棕木质边沿向右上弯起；左上小书翻起一页，音叉横放在旁边。书页空白，没有乐谱或文字。彩色版保留木色、象牙色、绿布书封与钢色；黑白版沿用相同位置和真实的两键、三键交替排列。书、钢琴和音叉为原创意象，不是罗兰真实物件或小说场景。",
+          "en": "A closely cropped piano crosses the lower frame, its diagonal keys beneath a reddish-brown rim rising at right. A smaller open book lifts a blank page beside a tuning fork. There is no notation or writing. Color retains wood, ivory, green cloth and steel; monochrome preserves positions and the correct alternating two/three black-key groups. Objects are original symbols, not Rolland’s possessions or a novel scene."
+        },
+        "background": {
+          "zh": "罗曼·罗兰获得1915年诺贝尔文学奖，独享奖金份额；诺贝尔官方记录他在1916年领取这个1915年度奖项。获奖理由肯定其文学中的理想、同情，以及描绘不同人物时对真实的重视。官方介绍指出，他的写作关注人对幸福、意义和真理的追求；1915年的作品介绍也记载他研究文学、音乐与哲学。书、钢琴与音叉是本作的原创解读，不引用小说、乐谱或获奖者的话。短句为原创。\n1915年文学奖；独享本年度奖项。获奖理由（中文译述）：肯定其文学创作的崇高理想，以及描绘不同人物时展现的同情与对真实的热爱",
+          "en": "Romain Rolland received the 1915 Nobel Prize in Literature with the full share; Nobel’s record distinguishes that award year from receipt in 1916. The motivation recognizes idealism, sympathy and truthfulness in his portrayal of varied people. The official facts describe a search for happiness, meaning and truth; the 1915 account also records his study of literature, music and philosophy. Book, piano and tuning fork are an original interpretation, without copied prose, notation or a quotation. The phrase is original.\n1915 — The Nobel Prize in Literature. Received the full prize. Official motivation: as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1915 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1915/summary/",
+            "labelLocalized": {
+              "zh": "1915年文学奖｜官方记录",
+              "en": "1915 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1915/rolland/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1915/press-release/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-584",
+      "subject": "nobel-laureate-584",
+      "edition": "color",
+      "title": "罗曼·罗兰",
+      "titleEnglish": "Romain Rolland",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-584/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-584/color.jpg",
+      "sha256": "7ed73853fc487f75669b00308aac8f0ff981d6e4b4b08c582e3bd0c4afa5a587",
+      "thumbnailSHA256": "7823b1418c608894cc577b31efcb1ee15073ade618127915a73003e1d93ea64a",
+      "context": {
+        "phrase": {
+          "zh": "为每一种声音，留一个位置。",
+          "en": "Leave room for every voice."
+        },
+        "visual": {
+          "zh": "近距离裁切的钢琴横过下方，琴键斜向展开，红棕木质边沿向右上弯起；左上小书翻起一页，音叉横放在旁边。书页空白，没有乐谱或文字。彩色版保留木色、象牙色、绿布书封与钢色；黑白版沿用相同位置和真实的两键、三键交替排列。书、钢琴和音叉为原创意象，不是罗兰真实物件或小说场景。",
+          "en": "A closely cropped piano crosses the lower frame, its diagonal keys beneath a reddish-brown rim rising at right. A smaller open book lifts a blank page beside a tuning fork. There is no notation or writing. Color retains wood, ivory, green cloth and steel; monochrome preserves positions and the correct alternating two/three black-key groups. Objects are original symbols, not Rolland’s possessions or a novel scene."
+        },
+        "background": {
+          "zh": "罗曼·罗兰获得1915年诺贝尔文学奖，独享奖金份额；诺贝尔官方记录他在1916年领取这个1915年度奖项。获奖理由肯定其文学中的理想、同情，以及描绘不同人物时对真实的重视。官方介绍指出，他的写作关注人对幸福、意义和真理的追求；1915年的作品介绍也记载他研究文学、音乐与哲学。书、钢琴与音叉是本作的原创解读，不引用小说、乐谱或获奖者的话。短句为原创。\n1915年文学奖；独享本年度奖项。获奖理由（中文译述）：肯定其文学创作的崇高理想，以及描绘不同人物时展现的同情与对真实的热爱",
+          "en": "Romain Rolland received the 1915 Nobel Prize in Literature with the full share; Nobel’s record distinguishes that award year from receipt in 1916. The motivation recognizes idealism, sympathy and truthfulness in his portrayal of varied people. The official facts describe a search for happiness, meaning and truth; the 1915 account also records his study of literature, music and philosophy. Book, piano and tuning fork are an original interpretation, without copied prose, notation or a quotation. The phrase is original.\n1915 — The Nobel Prize in Literature. Received the full prize. Official motivation: as a tribute to the lofty idealism of his literary production and to the sympathy and love of truth with which he has described different types of human beings"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1915 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1915/summary/",
+            "labelLocalized": {
+              "zh": "1915年文学奖｜官方记录",
+              "en": "1915 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1915/rolland/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1915/press-release/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

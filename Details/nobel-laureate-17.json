@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-17",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-17",
+      "subject": "nobel-laureate-17",
+      "edition": "mono",
+      "title": "古斯塔夫·达伦",
+      "titleEnglish": "Gustaf Dalén",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-17/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-17/mono.jpg",
+      "sha256": "34907d7bfcc4fbc14f27e60c95249e4d9dc17a142bf4c22d80c3fefaeedba8a9",
+      "thumbnailSHA256": "29719f3d1f15f6fcc1cd6018cf665b6c41eef15e3e306d3a0e7dc20a4145a1be",
+      "context": {
+        "phrase": {
+          "zh": "可靠的指引，来自细小的调节。",
+          "en": "Reliable guidance begins with small adjustments."
+        },
+        "visual": {
+          "zh": "右侧大幅裁切的玻璃阀门装置与左侧小浮标形成尺度对照，斜管把两者联系起来。黑白与钴蓝版突出金属基座；彩色版使用黄铜、氧化铜、青绿管道和浅赭浮标，并保留玻璃的透明感。这是对自动照明主题的原创解读，不是太阳阀或历史航标的精确工程图。",
+          "en": "A greatly cropped glass valve assembly contrasts with a tiny buoy at left, linked visually by a diagonal pipe. Cobalt emphasizes the metal base in monochrome; brass, oxidized copper, teal pipe and ochre buoy distinguish full color while the glass stays transparent. This is an original interpretation of automatic lighting, not an exact sun-valve or historical navigation drawing."
+        },
+        "background": {
+          "zh": "古斯塔夫·达伦独享1912年诺贝尔物理学奖。官方获奖理由肯定他发明与储气装置配合使用的自动调节器，用于灯塔和航标浮标的照明。诺贝尔物理学百年回顾将太阳阀列为这一早期奖项的技术应用实例，强调其用于灯标和灯浮标。这里以放大的阀体、玻璃杆件和小型航标表达调节装置与航行指引之间的联系；画面不说明具体杆数、材料、尺寸或内部气路，也不把缩小的浮标当作设备安装比例。短句为原创，不是本人引语。\n1912年物理学奖；独享本年度奖项。获奖理由（中文译述）：发明与储气装置配合使用的自动调节器，用于灯塔和航标浮标的照明。",
+          "en": "Gustaf Dalén received the sole 1912 Nobel Prize in Physics for automatic regulators used with gas accumulators to illuminate lighthouses and buoys. Nobel’s century review of physics highlights the sun valve as an early technological application for beacons and light buoys. Enlarged apparatus and a smaller buoy connect regulation with navigation guidance. The illustration does not specify rod count, materials, dimensions or internal gas routing, and the relative scales do not represent an installation. The phrase is original, not a quotation.\n1912 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年物理学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-17",
+      "subject": "nobel-laureate-17",
+      "edition": "color",
+      "title": "古斯塔夫·达伦",
+      "titleEnglish": "Gustaf Dalén",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-17/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-17/color.jpg",
+      "sha256": "8a9ab942e6bd93386eed7ba2dc5a71359f277507f84bc0ec99f571c9150e64a6",
+      "thumbnailSHA256": "4cf8ebecf03f1d96b08ee6f47bf7812c52d0486dca440ec0292f81f836ff3415",
+      "context": {
+        "phrase": {
+          "zh": "可靠的指引，来自细小的调节。",
+          "en": "Reliable guidance begins with small adjustments."
+        },
+        "visual": {
+          "zh": "右侧大幅裁切的玻璃阀门装置与左侧小浮标形成尺度对照，斜管把两者联系起来。黑白与钴蓝版突出金属基座；彩色版使用黄铜、氧化铜、青绿管道和浅赭浮标，并保留玻璃的透明感。这是对自动照明主题的原创解读，不是太阳阀或历史航标的精确工程图。",
+          "en": "A greatly cropped glass valve assembly contrasts with a tiny buoy at left, linked visually by a diagonal pipe. Cobalt emphasizes the metal base in monochrome; brass, oxidized copper, teal pipe and ochre buoy distinguish full color while the glass stays transparent. This is an original interpretation of automatic lighting, not an exact sun-valve or historical navigation drawing."
+        },
+        "background": {
+          "zh": "古斯塔夫·达伦独享1912年诺贝尔物理学奖。官方获奖理由肯定他发明与储气装置配合使用的自动调节器，用于灯塔和航标浮标的照明。诺贝尔物理学百年回顾将太阳阀列为这一早期奖项的技术应用实例，强调其用于灯标和灯浮标。这里以放大的阀体、玻璃杆件和小型航标表达调节装置与航行指引之间的联系；画面不说明具体杆数、材料、尺寸或内部气路，也不把缩小的浮标当作设备安装比例。短句为原创，不是本人引语。\n1912年物理学奖；独享本年度奖项。获奖理由（中文译述）：发明与储气装置配合使用的自动调节器，用于灯塔和航标浮标的照明。",
+          "en": "Gustaf Dalén received the sole 1912 Nobel Prize in Physics for automatic regulators used with gas accumulators to illuminate lighthouses and buoys. Nobel’s century review of physics highlights the sun valve as an early technological application for beacons and light buoys. Enlarged apparatus and a smaller buoy connect regulation with navigation guidance. The illustration does not specify rod count, materials, dimensions or internal gas routing, and the relative scales do not represent an installation. The phrase is original, not a quotation.\n1912 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his invention of automatic regulators for use in conjunction with gas accumulators for illuminating lighthouses and buoys"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年物理学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

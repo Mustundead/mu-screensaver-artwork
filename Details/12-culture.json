@@ -1,0 +1,70 @@
+{
+  "subject": "12-culture",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:12-culture",
+      "subject": "12-culture",
+      "edition": "mono",
+      "title": "文化：手、弦与共鸣",
+      "titleEnglish": "Strings and Resonance",
+      "category": "艺术与人文",
+      "image": "Images/mono/12-culture.jpg",
+      "thumbnail": "Thumbs/mono/12-culture.jpg",
+      "sha256": "338754b76bddcd86c8d2870ce009fc471bd63351622cd1c92bf4141b36c86180",
+      "thumbnailSHA256": "6c63269cd1806c358f4cd10d5c9424f5c3352bfd3361965e406751b995f7b300",
+      "context": {
+        "phrase": {
+          "zh": "手与弦之间，经验成为共鸣。",
+          "en": "Between hand and string, experience becomes resonance."
+        },
+        "visual": {
+          "zh": "弓、琴弦与手部动作突出弦乐演奏的身体经验。色块把声音转为形状，不对应一段能按图还原的乐谱，也不指认某位演奏家。",
+          "en": "Bow, strings and hands emphasize the physical experience of string playing. Shapes translate sound into form, without encoding a recoverable score or depicting a named performer."
+        },
+        "background": {
+          "zh": "弦乐器的形制并非始终固定。大都会艺术博物馆介绍其 1693 年斯特拉迪瓦里“古尔德”小提琴时指出，许多十七、十八世纪乐器后来经历改造，以适应更大的演出空间和更广的音域需求。文化传承也包含工具随演奏实践改变。",
+          "en": "Instrument design is not fixed. In discussing its 1693 Stradivari “Gould” violin, the Met notes that many seventeenth- and eighteenth-century instruments were modified for larger venues and greater range. Cultural continuity includes tools changing alongside performance practice."
+        },
+        "sources": [
+          {
+            "label": "The Met · Gould Violin",
+            "url": "https://www.metmuseum.org/art/collection/search/503045/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:12-culture",
+      "subject": "12-culture",
+      "edition": "color",
+      "title": "文化：手、弦与共鸣",
+      "titleEnglish": "Strings and Resonance",
+      "category": "艺术与人文",
+      "image": "Images/color/12-culture.jpg",
+      "thumbnail": "Thumbs/color/12-culture.jpg",
+      "sha256": "a4e7e4c170d6003fb4a38c6961f569c1b2814273cc25436771c42672406ed6e7",
+      "thumbnailSHA256": "67e5ccdc99fb15c5fa932d8524eecca78783afa2c38d437c1f13ea0aae375374",
+      "context": {
+        "phrase": {
+          "zh": "手与弦之间，经验成为共鸣。",
+          "en": "Between hand and string, experience becomes resonance."
+        },
+        "visual": {
+          "zh": "弓、琴弦与手部动作突出弦乐演奏的身体经验。色块把声音转为形状，不对应一段能按图还原的乐谱，也不指认某位演奏家。",
+          "en": "Bow, strings and hands emphasize the physical experience of string playing. Shapes translate sound into form, without encoding a recoverable score or depicting a named performer."
+        },
+        "background": {
+          "zh": "弦乐器的形制并非始终固定。大都会艺术博物馆介绍其 1693 年斯特拉迪瓦里“古尔德”小提琴时指出，许多十七、十八世纪乐器后来经历改造，以适应更大的演出空间和更广的音域需求。文化传承也包含工具随演奏实践改变。",
+          "en": "Instrument design is not fixed. In discussing its 1693 Stradivari “Gould” violin, the Met notes that many seventeenth- and eighteenth-century instruments were modified for larger venues and greater range. Cultural continuity includes tools changing alongside performance practice."
+        },
+        "sources": [
+          {
+            "label": "The Met · Gould Violin",
+            "url": "https://www.metmuseum.org/art/collection/search/503045/"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-321",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-321",
+      "subject": "nobel-laureate-321",
+      "edition": "mono",
+      "title": "卡尔·兰德施泰纳",
+      "titleEnglish": "Karl Landsteiner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-321/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-321/mono.jpg",
+      "sha256": "5b4abedd8a016822426b05784dba9040e5216b50b8aa9ed36489c0e1dfae1a57",
+      "thumbnailSHA256": "2411664c971d221f135a956cd826772ef3a53be47e88e2e0ade0cfa957e8de28",
+      "context": {
+        "phrase": {
+          "zh": "看似相同，也要辨认差异。",
+          "en": "Recognize differences within apparent sameness."
+        },
+        "visual": {
+          "zh": "一圈玻璃弧边围住放大的双凹圆盘；左上圆盘密集相叠，右下沿弧线疏散。细刻线顺着凹面塑形，聚散与重叠构成画面层次。",
+          "en": "A curved glass rim encloses enlarged biconcave disc motifs. A dense overlapping cluster at upper left contrasts with a loose curved sweep at lower right. Fine engraving follows the shallow depressions and distinguishes the overlapping layers."
+        },
+        "background": {
+          "zh": "兰德施泰纳因发现人类血型，获得1930年诺贝尔生理学或医学奖。他观察到不同人的血液混合后，有时会使红细胞聚集；血型知识让相容性检查成为可能，为更安全的输血奠定基础。画面用圆盘的聚散表现辨认差异的原创寓意，不是显微照片、血型检测结果或输血建议；短句为原创。\n1930年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因发现人类血型。",
+          "en": "Landsteiner received the 1930 Nobel Prize in Physiology or Medicine for discovering human blood groups. He observed that mixing blood from different people could cause red cells to clump. Knowledge of blood groups made compatibility testing possible and helped lay the foundation for safer transfusion. The disc arrangements are an original metaphor for recognizing differences, not a microscopy photograph, blood-typing result or transfusion advice. The phrase is original.\n1930 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of human blood groups"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年生理学或医学奖｜官方记录",
+              "en": "1930 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/landsteiner/readmore.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-321",
+      "subject": "nobel-laureate-321",
+      "edition": "color",
+      "title": "卡尔·兰德施泰纳",
+      "titleEnglish": "Karl Landsteiner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-321/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-321/color.jpg",
+      "sha256": "70514d19a83e7d74f5f5f171cdf93e40a110abf79d01d2e1d3151636346186a2",
+      "thumbnailSHA256": "6713ace0bc23ae443edc674706a0246010d29fa1d0ecc1af92f8d1b1e79a2599",
+      "context": {
+        "phrase": {
+          "zh": "看似相同，也要辨认差异。",
+          "en": "Recognize differences within apparent sameness."
+        },
+        "visual": {
+          "zh": "一圈玻璃弧边围住放大的双凹圆盘；左上圆盘密集相叠，右下沿弧线疏散。细刻线顺着凹面塑形，聚散与重叠构成画面层次。",
+          "en": "A curved glass rim encloses enlarged biconcave disc motifs. A dense overlapping cluster at upper left contrasts with a loose curved sweep at lower right. Fine engraving follows the shallow depressions and distinguishes the overlapping layers."
+        },
+        "background": {
+          "zh": "兰德施泰纳因发现人类血型，获得1930年诺贝尔生理学或医学奖。他观察到不同人的血液混合后，有时会使红细胞聚集；血型知识让相容性检查成为可能，为更安全的输血奠定基础。画面用圆盘的聚散表现辨认差异的原创寓意，不是显微照片、血型检测结果或输血建议；短句为原创。\n1930年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因发现人类血型。",
+          "en": "Landsteiner received the 1930 Nobel Prize in Physiology or Medicine for discovering human blood groups. He observed that mixing blood from different people could cause red cells to clump. Knowledge of blood groups made compatibility testing possible and helped lay the foundation for safer transfusion. The disc arrangements are an original metaphor for recognizing differences, not a microscopy photograph, blood-typing result or transfusion advice. The phrase is original.\n1930 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of human blood groups"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年生理学或医学奖｜官方记录",
+              "en": "1930 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/landsteiner/readmore.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1930/landsteiner/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

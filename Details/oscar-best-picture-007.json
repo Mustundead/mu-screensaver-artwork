@@ -1,0 +1,102 @@
+{
+  "subject": "oscar-best-picture-007",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-007",
+      "subject": "oscar-best-picture-007",
+      "edition": "mono",
+      "title": "一夜风流",
+      "titleEnglish": "It Happened One Night",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-007/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-007/mono.jpg",
+      "sha256": "641ac9dcb157f3809a8b7ab5166e1540fe592fc44ba78708b4fd53425b6c124c",
+      "thumbnailSHA256": "70ce53ca7113388043136819f4f7c7b60d9a1d19c24cefb37511d7cb924331a6",
+      "context": {
+        "phrase": {
+          "zh": "一段意外的旅程，让陌生人慢慢靠近。",
+          "en": "An unexpected journey brings strangers closer."
+        },
+        "visual": {
+          "zh": "为《一夜风流》独立创作的旅途拼贴，以旧式长途巴士、行李箱、毯子、鞋和乡间道路呼应两位主角相伴赶路的故事。车辆、地貌和物件均为艺术想象，不复制影片镜头，也不是实际拍摄道具。",
+          "en": "An original journey collage for It Happened One Night uses an early intercity bus, suitcase, blanket, shoes and country road to evoke its shared journey. The vehicle, terrain and objects are imagined interpretations, not copied scenes or actual film props."
+        },
+        "background": {
+          "zh": "1934年的《一夜风流》由弗兰克·卡普拉执导，获得第七届奥斯卡最佳影片奖。故事围绕离家出走的富家女埃莉与记者彼得展开，两人在旅途中相遇，并在共同赶路时逐渐建立感情。配图以巴士和旅行物件表现旅程，不将想象的道路指认为影片的真实取景地。\n第7届奥斯卡最佳影片：一夜风流。颁奖年份 1935；参评年份 1934。",
+          "en": "Directed by Frank Capra, the 1934 film It Happened One Night won Best Picture at the seventh Academy Awards. Runaway heiress Ellie meets reporter Peter while travelling, and their shared journey develops into a romance. The bus and travel objects interpret that journey without identifying the imagined road as an actual filming location.\nAcademy Awards ceremony 7 (1935), Best Picture: It Happened One Night. Eligibility year: 1934."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1935",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/6316-IT-HAPPENED-ONE-NIGHT",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          },
+          {
+            "label": "sonypictures.com",
+            "url": "https://www.sonypictures.com/movies/ithappenedonenight"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-007",
+      "subject": "oscar-best-picture-007",
+      "edition": "color",
+      "title": "一夜风流",
+      "titleEnglish": "It Happened One Night",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-007/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-007/color.jpg",
+      "sha256": "6bd8fae4c0e1df6f390fadb3e2c019e4033f449977232aadcfbabfe87a8ca534",
+      "thumbnailSHA256": "090f538a7e5a5ea7222b7302a4fab2605c32a21ecde862db7f3a10a04883344b",
+      "context": {
+        "phrase": {
+          "zh": "一段意外的旅程，让陌生人慢慢靠近。",
+          "en": "An unexpected journey brings strangers closer."
+        },
+        "visual": {
+          "zh": "为《一夜风流》独立创作的旅途拼贴，以旧式长途巴士、行李箱、毯子、鞋和乡间道路呼应两位主角相伴赶路的故事。车辆、地貌和物件均为艺术想象，不复制影片镜头，也不是实际拍摄道具。",
+          "en": "An original journey collage for It Happened One Night uses an early intercity bus, suitcase, blanket, shoes and country road to evoke its shared journey. The vehicle, terrain and objects are imagined interpretations, not copied scenes or actual film props."
+        },
+        "background": {
+          "zh": "1934年的《一夜风流》由弗兰克·卡普拉执导，获得第七届奥斯卡最佳影片奖。故事围绕离家出走的富家女埃莉与记者彼得展开，两人在旅途中相遇，并在共同赶路时逐渐建立感情。配图以巴士和旅行物件表现旅程，不将想象的道路指认为影片的真实取景地。\n第7届奥斯卡最佳影片：一夜风流。颁奖年份 1935；参评年份 1934。",
+          "en": "Directed by Frank Capra, the 1934 film It Happened One Night won Best Picture at the seventh Academy Awards. Runaway heiress Ellie meets reporter Peter while travelling, and their shared journey develops into a romance. The bus and travel objects interpret that journey without identifying the imagined road as an actual filming location.\nAcademy Awards ceremony 7 (1935), Best Picture: It Happened One Night. Eligibility year: 1934."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1935",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/6316-IT-HAPPENED-ONE-NIGHT",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          },
+          {
+            "label": "sonypictures.com",
+            "url": "https://www.sonypictures.com/movies/ithappenedonenight"
+          }
+        ]
+      }
+    }
+  }
+}

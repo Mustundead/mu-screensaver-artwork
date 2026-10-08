@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-325",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-325",
+      "subject": "nobel-laureate-325",
+      "edition": "mono",
+      "title": "托马斯·亨特·摩尔根",
+      "titleEnglish": "Thomas H. Morgan",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-325/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-325/mono.jpg",
+      "sha256": "9e8f7721b4335674831785192114268b5e9684897ae586890568ca3770ae7b7e",
+      "thumbnailSHA256": "5a7911adaefe61fc54b83f6b1f669d4084605fae8567375483c16e347f7dbcef",
+      "context": {
+        "phrase": {
+          "zh": "细小的差别，留下遗传的线索。",
+          "en": "A small difference leaves a clue to inheritance."
+        },
+        "visual": {
+          "zh": "左侧两幅较小的红眼果蝇头部纵向排列，右侧放大浅色复眼头部，边缘裁出画外；触角与细毛以精细墨线描绘。中性黑白版让小复眼呈深灰、大复眼保持浅色，不以数量表示遗传比例。",
+          "en": "Two smaller red-eyed fruit-fly head studies are stacked at left; a much larger pale-eyed head fills the right and extends beyond the crop. Fine ink lines describe antennae and hairs. In neutral monochrome the small eyes are dark gray and the large eye remains pale; the counts do not express inheritance ratios."
+        },
+        "background": {
+          "zh": "摩尔根因发现染色体在遗传中的作用获得1933年诺贝尔生理学或医学奖。1910年发现的白眼果蝇成为他研究的重要线索；随后，他与团队持续研究性状如何遗传。果蝇头部的红眼与浅色眼对照取意于这段研究，是放大的原创插画，不是实验记录或遗传比例图；短句为原创。\n1933年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对染色体在遗传中所起作用的发现。",
+          "en": "Morgan received the 1933 Nobel Prize in Physiology or Medicine for discoveries concerning the role of chromosomes in heredity. A white-eyed fruit fly found in 1910 became an important clue; he and his team continued studying how traits are inherited. The contrast between red and pale eyes in fruit-fly heads draws on this work. It is enlarged original artwork, not an experimental record or a diagram of inheritance ratios. The phrase is original.\n1933 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discoveries concerning the role played by the chromosome in heredity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年生理学或医学奖｜官方记录",
+              "en": "1933 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1933/morgan/article/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-325",
+      "subject": "nobel-laureate-325",
+      "edition": "color",
+      "title": "托马斯·亨特·摩尔根",
+      "titleEnglish": "Thomas H. Morgan",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-325/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-325/color.jpg",
+      "sha256": "1fbf02fdfdad1253319fdf89ea3cb8262d4bd121cd09473cd8ced4fdd4afc6f0",
+      "thumbnailSHA256": "d6cc6294e4295333d3b2b9ee1193bd03ce9aa49855a12bb71c1d3bbf8ad5c578",
+      "context": {
+        "phrase": {
+          "zh": "细小的差别，留下遗传的线索。",
+          "en": "A small difference leaves a clue to inheritance."
+        },
+        "visual": {
+          "zh": "左侧两幅较小的红眼果蝇头部纵向排列，右侧放大浅色复眼头部，边缘裁出画外；触角与细毛以精细墨线描绘。中性黑白版让小复眼呈深灰、大复眼保持浅色，不以数量表示遗传比例。",
+          "en": "Two smaller red-eyed fruit-fly head studies are stacked at left; a much larger pale-eyed head fills the right and extends beyond the crop. Fine ink lines describe antennae and hairs. In neutral monochrome the small eyes are dark gray and the large eye remains pale; the counts do not express inheritance ratios."
+        },
+        "background": {
+          "zh": "摩尔根因发现染色体在遗传中的作用获得1933年诺贝尔生理学或医学奖。1910年发现的白眼果蝇成为他研究的重要线索；随后，他与团队持续研究性状如何遗传。果蝇头部的红眼与浅色眼对照取意于这段研究，是放大的原创插画，不是实验记录或遗传比例图；短句为原创。\n1933年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对染色体在遗传中所起作用的发现。",
+          "en": "Morgan received the 1933 Nobel Prize in Physiology or Medicine for discoveries concerning the role of chromosomes in heredity. A white-eyed fruit fly found in 1910 became an important clue; he and his team continued studying how traits are inherited. The contrast between red and pale eyes in fruit-fly heads draws on this work. It is enlarged original artwork, not an experimental record or a diagram of inheritance ratios. The phrase is original.\n1933 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discoveries concerning the role played by the chromosome in heredity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年生理学或医学奖｜官方记录",
+              "en": "1933 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1933/morgan/article/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

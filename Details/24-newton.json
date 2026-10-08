@@ -1,0 +1,70 @@
+{
+  "subject": "24-newton",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:24-newton",
+      "subject": "24-newton",
+      "edition": "mono",
+      "title": "科学：牛顿与自然规律",
+      "titleEnglish": "Newton and the Laws of Nature",
+      "category": "自然科学",
+      "image": "Images/mono/24-newton.jpg",
+      "thumbnail": "Thumbs/mono/24-newton.jpg",
+      "sha256": "c7592b297a3d3ce208d817261bae08d10ec348cd8b86675134e9de8bbd859036",
+      "thumbnailSHA256": "f5d2483ab0bafbef59a6e4b56aab99f0deb4494faf16c00705f9ba69a04f5fcf",
+      "context": {
+        "phrase": {
+          "zh": "用同一条规律，连接苹果与月亮。",
+          "en": "One law can connect an apple and the Moon."
+        },
+        "visual": {
+          "zh": "牛顿形象、仪器与轨迹将日常物体和天体运动放在一起。这里没有重现苹果落下的历史现场，线条是关于自然规律的象征。",
+          "en": "Newton, instruments and trajectories place everyday objects beside celestial motion. The scene does not reconstruct a historical falling apple; its lines symbolize natural laws."
+        },
+        "background": {
+          "zh": "NASA 的引力教学资料以 1687 年的牛顿引力定律为重要起点：两物体间的引力与质量乘积成正比，与中心距离平方成反比。在许多日常与工程条件下，这一描述仍很有用；它不是相对论已经“作废”的旧知识。",
+          "en": "NASA’s gravity guide highlights Newton’s 1687 law: gravitational force is proportional to the product of the masses and inversely proportional to the square of the distance between their centers. It remains a useful approximation in many everyday and engineering conditions, rather than knowledge simply discarded by relativity."
+        },
+        "sources": [
+          {
+            "label": "NASA · A Key to Discovery: Gravity",
+            "url": "https://www.nasa.gov/wp-content/uploads/2009/07/139707main_A_Key_to_Discovery.pdf"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:24-newton",
+      "subject": "24-newton",
+      "edition": "color",
+      "title": "科学：牛顿与自然规律",
+      "titleEnglish": "Newton and the Laws of Nature",
+      "category": "自然科学",
+      "image": "Images/color/24-newton.jpg",
+      "thumbnail": "Thumbs/color/24-newton.jpg",
+      "sha256": "c410bd23707a6bb55105f37c91e598253fe125af53e2108afa3b88630a79b4ce",
+      "thumbnailSHA256": "8fb685beea981f8f01126d41dd4969156860776ff5fec32303275c61a92394a9",
+      "context": {
+        "phrase": {
+          "zh": "用同一条规律，连接苹果与月亮。",
+          "en": "One law can connect an apple and the Moon."
+        },
+        "visual": {
+          "zh": "牛顿形象、仪器与轨迹将日常物体和天体运动放在一起。这里没有重现苹果落下的历史现场，线条是关于自然规律的象征。",
+          "en": "Newton, instruments and trajectories place everyday objects beside celestial motion. The scene does not reconstruct a historical falling apple; its lines symbolize natural laws."
+        },
+        "background": {
+          "zh": "NASA 的引力教学资料以 1687 年的牛顿引力定律为重要起点：两物体间的引力与质量乘积成正比，与中心距离平方成反比。在许多日常与工程条件下，这一描述仍很有用；它不是相对论已经“作废”的旧知识。",
+          "en": "NASA’s gravity guide highlights Newton’s 1687 law: gravitational force is proportional to the product of the masses and inversely proportional to the square of the distance between their centers. It remains a useful approximation in many everyday and engineering conditions, rather than knowledge simply discarded by relativity."
+        },
+        "sources": [
+          {
+            "label": "NASA · A Key to Discovery: Gravity",
+            "url": "https://www.nasa.gov/wp-content/uploads/2009/07/139707main_A_Key_to_Discovery.pdf"
+          }
+        ]
+      }
+    }
+  }
+}

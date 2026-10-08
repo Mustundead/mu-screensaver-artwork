@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-594",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-594",
+      "subject": "nobel-laureate-594",
+      "edition": "mono",
+      "title": "瓦迪斯瓦夫·莱蒙特",
+      "titleEnglish": "Władysław Reymont",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-594/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-594/mono.jpg",
+      "sha256": "974c67d7d15d5b310e407bdb142c78592b23a27a30fd334f9994d5fd2f839e32",
+      "thumbnailSHA256": "5c45127b3cc6b00ec3f668e65611d6d630a235f6fcb75720be57f520ba88bcf1",
+      "context": {
+        "phrase": {
+          "zh": "四季轮转，土地记着日常。",
+          "en": "Seasons turn; the land keeps daily life."
+        },
+        "visual": {
+          "zh": "金色麦束从左下斜伸至右上，深绿色绑绳绕在中间，锈红、灰白、苔绿与赭黄布片在下方自然重叠。黑白版保留麦穗、绑绳与裁切，细密刻纹更明显。这是四季与乡村劳动的原创寓意。",
+          "en": "Golden wheat runs from lower left to upper right, tied with dark green cord over overlapping rust, pale gray, moss and ochre cloth. Monochrome retains the grain heads, cord and crop, with stronger fine hatching. This is an original metaphor for seasons and rural work."
+        },
+        "background": {
+          "zh": "莱蒙特独享1924年诺贝尔文学奖，获奖理由是民族史诗《农民》。这部小说以秋、冬、春、夏组织叙事，通过乡村生活、劳动与人与自然的关系呈现群像。麦束与不同颜色的布片是四季和日常劳动的原创寓意，不是小说原文配图，也不复刻电影改编画面。短句为原创。\n1924年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他的伟大民族史诗《农民》。",
+          "en": "Reymont received the full 1924 Nobel Prize in Literature for his national epic The Peasants. Its narrative follows autumn, winter, spring and summer, portraying rural lives, labor and the relationship between people and nature. Wheat and varied cloth fragments are an original metaphor for seasons and daily work, not an illustration of a quoted passage or a recreation of a film adaptation. The phrase is original.\n1924 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his great national epic, The Peasants"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1924 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1924/summary/",
+            "labelLocalized": {
+              "zh": "1924年文学奖｜官方记录",
+              "en": "1924 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1924/reymont/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-594",
+      "subject": "nobel-laureate-594",
+      "edition": "color",
+      "title": "瓦迪斯瓦夫·莱蒙特",
+      "titleEnglish": "Władysław Reymont",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-594/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-594/color.jpg",
+      "sha256": "2da873113d75f3dbe39f94e62d1405f8a75448b525a390dc2a6b7b20c8574f79",
+      "thumbnailSHA256": "8e44f2fc437087b473e1cffb2e25c61ed0ea6f383e7895d81679c4c3f1eca588",
+      "context": {
+        "phrase": {
+          "zh": "四季轮转，土地记着日常。",
+          "en": "Seasons turn; the land keeps daily life."
+        },
+        "visual": {
+          "zh": "金色麦束从左下斜伸至右上，深绿色绑绳绕在中间，锈红、灰白、苔绿与赭黄布片在下方自然重叠。黑白版保留麦穗、绑绳与裁切，细密刻纹更明显。这是四季与乡村劳动的原创寓意。",
+          "en": "Golden wheat runs from lower left to upper right, tied with dark green cord over overlapping rust, pale gray, moss and ochre cloth. Monochrome retains the grain heads, cord and crop, with stronger fine hatching. This is an original metaphor for seasons and rural work."
+        },
+        "background": {
+          "zh": "莱蒙特独享1924年诺贝尔文学奖，获奖理由是民族史诗《农民》。这部小说以秋、冬、春、夏组织叙事，通过乡村生活、劳动与人与自然的关系呈现群像。麦束与不同颜色的布片是四季和日常劳动的原创寓意，不是小说原文配图，也不复刻电影改编画面。短句为原创。\n1924年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他的伟大民族史诗《农民》。",
+          "en": "Reymont received the full 1924 Nobel Prize in Literature for his national epic The Peasants. Its narrative follows autumn, winter, spring and summer, portraying rural lives, labor and the relationship between people and nature. Wheat and varied cloth fragments are an original metaphor for seasons and daily work, not an illustration of a quoted passage or a recreation of a film adaptation. The phrase is original.\n1924 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his great national epic, The Peasants"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1924 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1924/summary/",
+            "labelLocalized": {
+              "zh": "1924年文学奖｜官方记录",
+              "en": "1924 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1924/reymont/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

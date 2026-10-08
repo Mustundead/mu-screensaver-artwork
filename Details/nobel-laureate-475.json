@@ -1,0 +1,86 @@
+{
+  "subject": "nobel-laureate-475",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-475",
+      "subject": "nobel-laureate-475",
+      "edition": "mono",
+      "title": "奥古斯特·贝尔纳尔特",
+      "titleEnglish": "Auguste Beernaert",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-475/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-475/mono.jpg",
+      "sha256": "40188035497d4a01dc2cfc3b164dca1e53cec82e2f5be9b94c56b8ea24cb8825",
+      "thumbnailSHA256": "89295293ff518f4d5418c57687fa4e3fa36aaf15b2e498cb5b2d3d7e2d814eb3",
+      "context": {
+        "phrase": {
+          "zh": "让分歧，有继续商谈的位置。",
+          "en": "Leave room to keep talking."
+        },
+        "visual": {
+          "zh": "巨大的环形桌面从画面边缘切入，空椅沿远端排列，蓝色桌面织物上放着未署名的文件夹与笔。曲线将不同座位联系起来，以原创空间隐喻表达协商与仲裁；它不是某次会议的现场复原。",
+          "en": "A monumental cropped round table links empty chairs through a blue felt inset, with unmarked folders and a resting pen. This original spatial metaphor evokes negotiation and arbitration rather than reconstructing a particular meeting."
+        },
+        "background": {
+          "zh": "奥古斯特·贝尔纳尔特与保罗·亨利·德斯图内勒·德贡斯当共同获得1909年诺贝尔和平奖，两人各获一半奖金，获奖理由是他们在国际和平与仲裁运动中的重要地位。贝尔纳尔特是一位比利时政治家和律师，曾任比利时首相。各国议会联盟的历史资料记录了他在该组织和海牙和平会议中的参与，以及对小国中立和国际仲裁的支持。仲裁是将争端交由各方同意的第三方裁断，以规则和协商寻找解决办法。这里用共同桌面和空席表达继续对话的可能，不把象征性画面当作历史照片；短句为原创，并非他的引语。\n1909年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们在国际和平与仲裁运动中的重要地位。",
+          "en": "Auguste Beernaert shared the 1909 Nobel Peace Prize equally with Paul Henri d'Estournelles de Constant for their prominent position in the international movement for peace and arbitration. A Belgian politician and lawyer who served as prime minister, Beernaert participated in the Inter-Parliamentary Union and the Hague peace conferences. The IPU's historical account records his support for small-state neutrality and international arbitration. Arbitration submits a dispute to a third party agreed upon by the parties. The shared table and empty seats are a visual metaphor for continued deliberation, not historical documentation. The phrase is original, not a quotation.\n1909 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their prominent position in the international movement for peace and arbitration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年和平奖｜官方记录",
+              "en": "1909 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "ipu.org",
+            "url": "https://www.ipu.org/about-ipu/history-ipu/ipu-and-nobel-peace-prize"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-475",
+      "subject": "nobel-laureate-475",
+      "edition": "color",
+      "title": "奥古斯特·贝尔纳尔特",
+      "titleEnglish": "Auguste Beernaert",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-475/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-475/color.jpg",
+      "sha256": "cb652f81f277606fff6e79018a642b1713d0b012cbae4cf72ad986c2b4655bcd",
+      "thumbnailSHA256": "5519e9a6b2006581585e16048532e3936e3200537d3b6fc14bae4cd2b139741c",
+      "context": {
+        "phrase": {
+          "zh": "让分歧，有继续商谈的位置。",
+          "en": "Leave room to keep talking."
+        },
+        "visual": {
+          "zh": "巨大的环形桌面从画面边缘切入，空椅沿远端排列，蓝色桌面织物上放着未署名的文件夹与笔。曲线将不同座位联系起来，以原创空间隐喻表达协商与仲裁；它不是某次会议的现场复原。",
+          "en": "A monumental cropped round table links empty chairs through a blue felt inset, with unmarked folders and a resting pen. This original spatial metaphor evokes negotiation and arbitration rather than reconstructing a particular meeting."
+        },
+        "background": {
+          "zh": "奥古斯特·贝尔纳尔特与保罗·亨利·德斯图内勒·德贡斯当共同获得1909年诺贝尔和平奖，两人各获一半奖金，获奖理由是他们在国际和平与仲裁运动中的重要地位。贝尔纳尔特是一位比利时政治家和律师，曾任比利时首相。各国议会联盟的历史资料记录了他在该组织和海牙和平会议中的参与，以及对小国中立和国际仲裁的支持。仲裁是将争端交由各方同意的第三方裁断，以规则和协商寻找解决办法。这里用共同桌面和空席表达继续对话的可能，不把象征性画面当作历史照片；短句为原创，并非他的引语。\n1909年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们在国际和平与仲裁运动中的重要地位。",
+          "en": "Auguste Beernaert shared the 1909 Nobel Peace Prize equally with Paul Henri d'Estournelles de Constant for their prominent position in the international movement for peace and arbitration. A Belgian politician and lawyer who served as prime minister, Beernaert participated in the Inter-Parliamentary Union and the Hague peace conferences. The IPU's historical account records his support for small-state neutrality and international arbitration. Arbitration submits a dispute to a third party agreed upon by the parties. The shared table and empty seats are a visual metaphor for continued deliberation, not historical documentation. The phrase is original, not a quotation.\n1909 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their prominent position in the international movement for peace and arbitration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年和平奖｜官方记录",
+              "en": "1909 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "ipu.org",
+            "url": "https://www.ipu.org/about-ipu/history-ipu/ipu-and-nobel-peace-prize"
+          }
+        ]
+      }
+    }
+  }
+}

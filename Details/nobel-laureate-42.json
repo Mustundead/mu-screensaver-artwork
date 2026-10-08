@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-42",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-42",
+      "subject": "nobel-laureate-42",
+      "edition": "mono",
+      "title": "维克托·赫斯",
+      "titleEnglish": "Victor F. Hess",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-42/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-42/mono.jpg",
+      "sha256": "e871f6a423062e6cd6f9fde0bf548ee7aedadb4ad7d095c457d71e3f7cb13023",
+      "thumbnailSHA256": "5e8d229dbe55ed3dd675555c388b2cc2757a68bf6b5b4f74c7621d1f00344517",
+      "context": {
+        "phrase": {
+          "zh": "升高一些，才能看见原先解释不了的迹象。",
+          "en": "Climb higher, and evidence beyond the old explanation comes into view."
+        },
+        "visual": {
+          "zh": "巨大浅杏色气球从上方和左边裁出，网绳与四条吊绳连到左下编织吊篮，篮里一只铜色封闭测量筒；下方象牙云层，右半深蓝绿天空留白。细刻线塑造布面和藤编，黑白版保留同一关系。",
+          "en": "An enormous pale-apricot balloon crops beyond the top and left; net and four suspension ropes connect to a lower-left wicker basket holding one enclosed copper cylinder. Ivory engraved clouds below and quiet deep-teal sky at right; neutral monochrome preserves the relationship."
+        },
+        "background": {
+          "zh": "赫斯因发现宇宙辐射，与安德森分享1936年诺贝尔物理学奖，两人各获一半。1912年的气球飞行观察支持一种穿透性辐射来自地球大气之外。画面让气球把吊篮和封闭测量筒带到云层上方，表达改变观察高度的意义；气球与仪器是原创寓意，不是赫斯实际设备的复原，也没有呈现测量数据。短句为原创。\n1936年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现宇宙射线",
+          "en": "Hess shared the 1936 Nobel Prize in Physics with Anderson, each receiving half, for his discovery of cosmic radiation. His 1912 balloon observations supported penetrating radiation arriving from beyond Earth’s atmosphere. The balloon lifts a basket and enclosed measuring cylinder above clouds as an original metaphor for changing the height of observation. It is not a reconstruction of Hess’s actual equipment and contains no measurement data. The phrase is original.\n1936 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for his discovery of cosmic radiation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年物理学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/blackett-lecture.pdf",
+            "labelLocalized": {
+              "zh": "宇宙射线研究｜布莱克特演讲",
+              "en": "Cosmic-ray research — Blackett’s lecture"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-42",
+      "subject": "nobel-laureate-42",
+      "edition": "color",
+      "title": "维克托·赫斯",
+      "titleEnglish": "Victor F. Hess",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-42/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-42/color.jpg",
+      "sha256": "babc9f99124e3c49d110b39d25ca77cffeec2a0dc53dfe152708e3ef85844066",
+      "thumbnailSHA256": "c2a52b0cff360cb3c560bb5d054f86ed68fc047849194a3a39e03bdae664d03a",
+      "context": {
+        "phrase": {
+          "zh": "升高一些，才能看见原先解释不了的迹象。",
+          "en": "Climb higher, and evidence beyond the old explanation comes into view."
+        },
+        "visual": {
+          "zh": "巨大浅杏色气球从上方和左边裁出，网绳与四条吊绳连到左下编织吊篮，篮里一只铜色封闭测量筒；下方象牙云层，右半深蓝绿天空留白。细刻线塑造布面和藤编，黑白版保留同一关系。",
+          "en": "An enormous pale-apricot balloon crops beyond the top and left; net and four suspension ropes connect to a lower-left wicker basket holding one enclosed copper cylinder. Ivory engraved clouds below and quiet deep-teal sky at right; neutral monochrome preserves the relationship."
+        },
+        "background": {
+          "zh": "赫斯因发现宇宙辐射，与安德森分享1936年诺贝尔物理学奖，两人各获一半。1912年的气球飞行观察支持一种穿透性辐射来自地球大气之外。画面让气球把吊篮和封闭测量筒带到云层上方，表达改变观察高度的意义；气球与仪器是原创寓意，不是赫斯实际设备的复原，也没有呈现测量数据。短句为原创。\n1936年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现宇宙射线",
+          "en": "Hess shared the 1936 Nobel Prize in Physics with Anderson, each receiving half, for his discovery of cosmic radiation. His 1912 balloon observations supported penetrating radiation arriving from beyond Earth’s atmosphere. The balloon lifts a basket and enclosed measuring cylinder above clouds as an original metaphor for changing the height of observation. It is not a reconstruction of Hess’s actual equipment and contains no measurement data. The phrase is original.\n1936 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for his discovery of cosmic radiation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年物理学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/blackett-lecture.pdf",
+            "labelLocalized": {
+              "zh": "宇宙射线研究｜布莱克特演讲",
+              "en": "Cosmic-ray research — Blackett’s lecture"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "061-particle-chamber",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:061-particle-chamber",
+      "subject": "061-particle-chamber",
+      "edition": "mono",
+      "title": "粒子的轨迹",
+      "titleEnglish": "Particle Tracks",
+      "category": "自然科学",
+      "image": "Images/mono/061-particle-chamber.jpg",
+      "thumbnail": "Thumbs/mono/061-particle-chamber.jpg",
+      "sha256": "4304138d5216c814c8f10b7c53258133d26fea188822cf8865337a9ec953004e",
+      "thumbnailSHA256": "b28dde16c78febcb917047bbfabfaa515ef1b3099ff31e76c0c900f32a8a65cb",
+      "context": {
+        "phrase": {
+          "zh": "留下轨迹，才有线索辨认粒子。",
+          "en": "A trace gives clues to a particle."
+        },
+        "visual": {
+          "zh": "环状探测装置里有细线弯曲穿行，把短暂碰撞变成可追踪的痕迹。图中的线路不是某次粒子实验的数据。",
+          "en": "Fine curves run through a circular detector-like structure, giving a fleeting collision a trace. The tracks are not data from an experiment."
+        },
+        "background": {
+          "zh": "粒子探测器通过不同层记录粒子经过时产生的信号。在磁场中，带电粒子的路径会弯曲，物理学家可由曲率估计动量；真正的分析还需综合多种探测信息。",
+          "en": "Particle detectors record signals as particles pass through layers. Charged tracks curve in a magnetic field, allowing momentum estimates from curvature; real identification combines several kinds of detector information."
+        },
+        "sources": [
+          {
+            "label": "CERN · How a detector works",
+            "url": "https://home.cern/how-detector-works/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:061-particle-chamber",
+      "subject": "061-particle-chamber",
+      "edition": "color",
+      "title": "粒子的轨迹",
+      "titleEnglish": "Particle Tracks",
+      "category": "自然科学",
+      "image": "Images/color/061-particle-chamber.jpg",
+      "thumbnail": "Thumbs/color/061-particle-chamber.jpg",
+      "sha256": "0337b86f05e80167e35595896522a0084fb3641baf5dd5b8d6ebea0b97cc4051",
+      "thumbnailSHA256": "7052b8de508d22c64f5fa370ba37f296483e3bc13aa091a9bcafb9512018fe15",
+      "context": {
+        "phrase": {
+          "zh": "留下轨迹，才有线索辨认粒子。",
+          "en": "A trace gives clues to a particle."
+        },
+        "visual": {
+          "zh": "环状探测装置里有细线弯曲穿行，把短暂碰撞变成可追踪的痕迹。图中的线路不是某次粒子实验的数据。",
+          "en": "Fine curves run through a circular detector-like structure, giving a fleeting collision a trace. The tracks are not data from an experiment."
+        },
+        "background": {
+          "zh": "粒子探测器通过不同层记录粒子经过时产生的信号。在磁场中，带电粒子的路径会弯曲，物理学家可由曲率估计动量；真正的分析还需综合多种探测信息。",
+          "en": "Particle detectors record signals as particles pass through layers. Charged tracks curve in a magnetic field, allowing momentum estimates from curvature; real identification combines several kinds of detector information."
+        },
+        "sources": [
+          {
+            "label": "CERN · How a detector works",
+            "url": "https://home.cern/how-detector-works/"
+          }
+        ]
+      }
+    }
+  }
+}

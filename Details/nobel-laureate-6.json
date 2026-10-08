@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-6",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-6",
+      "subject": "nobel-laureate-6",
+      "edition": "mono",
+      "title": "玛丽·居里",
+      "titleEnglish": "Marie Curie",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-6/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-6/mono.jpg",
+      "sha256": "e3df35c2909ca1f4a310c8b3c2b3a4596d1b33a0cce92ec51445de878979e043",
+      "thumbnailSHA256": "d6a53e093cb496e9b228078252cd80266850ce0dfb1961c31a9cd28ba3c5fbe9",
+      "context": {
+        "phrase": {
+          "zh": "一次次分离与测量，让未知逐渐清楚。",
+          "en": "Repeated separation and measurement bring the unknown into focus."
+        },
+        "visual": {
+          "zh": "为玛丽·居里独立创作的研究材料拼贴，以矿石、无标签玻璃瓶、处理容器和记录本呼应长期的分离与研究。画面没有发光的放射线，也不展示真实样品、她的原装器材或具体实验步骤。",
+          "en": "An original research-material collage for Marie Curie combines mineral, unlabelled glass bottles, processing vessels and a notebook to evoke sustained separation and study. It shows no glowing radiation and does not depict actual samples, her equipment or experimental procedures."
+        },
+        "background": {
+          "zh": "玛丽·居里先后获得两项诺贝尔奖。1903年，她与皮埃尔·居里共同研究贝克勒尔发现的辐射现象，分享诺贝尔物理学奖中的另一半，各获四分之一。1911年，她独获诺贝尔化学奖，表彰发现镭和钋、分离镭以及研究镭的性质与化合物。两次获奖理由不同，配图以材料和长期研究呼应这些工作，不把象征性物件当作历史实物。\n1903年物理学奖；获得本年度奖项的四分之一。获奖理由（中文译述）：表彰他们共同研究贝克勒尔教授发现的辐射现象所作出的非凡贡献。\n1911年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰她通过发现镭和钋、分离镭，以及研究这一重要元素的性质和化合物，为化学发展作出的贡献。",
+          "en": "Marie Curie received two Nobel Prizes. In 1903, she and Pierre Curie shared the other half of the Nobel Prize in Physics for joint research on radiation discovered by Becquerel, receiving a quarter each. In 1911, she alone received the Chemistry Prize for discovering radium and polonium, isolating radium, and studying its nature and compounds. The citations are distinct; the artwork evokes materials and sustained research without presenting symbolic objects as historical artifacts.\n1903 — The Nobel Prize in Physics. Received one-quarter of the prize. Official motivation: in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel\n1911 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年物理学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize 1911 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年化学奖｜官方记录",
+              "en": "1911 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-6",
+      "subject": "nobel-laureate-6",
+      "edition": "color",
+      "title": "玛丽·居里",
+      "titleEnglish": "Marie Curie",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-6/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-6/color.jpg",
+      "sha256": "09feef8ff60b73a2a085fbeb0e25246825ce8bf9c5048849b10bad91b3980127",
+      "thumbnailSHA256": "5d2300fccdcc11ab13fd3284efc824254e5ff795854ec6d464954ca697dcac67",
+      "context": {
+        "phrase": {
+          "zh": "一次次分离与测量，让未知逐渐清楚。",
+          "en": "Repeated separation and measurement bring the unknown into focus."
+        },
+        "visual": {
+          "zh": "为玛丽·居里独立创作的研究材料拼贴，以矿石、无标签玻璃瓶、处理容器和记录本呼应长期的分离与研究。画面没有发光的放射线，也不展示真实样品、她的原装器材或具体实验步骤。",
+          "en": "An original research-material collage for Marie Curie combines mineral, unlabelled glass bottles, processing vessels and a notebook to evoke sustained separation and study. It shows no glowing radiation and does not depict actual samples, her equipment or experimental procedures."
+        },
+        "background": {
+          "zh": "玛丽·居里先后获得两项诺贝尔奖。1903年，她与皮埃尔·居里共同研究贝克勒尔发现的辐射现象，分享诺贝尔物理学奖中的另一半，各获四分之一。1911年，她独获诺贝尔化学奖，表彰发现镭和钋、分离镭以及研究镭的性质与化合物。两次获奖理由不同，配图以材料和长期研究呼应这些工作，不把象征性物件当作历史实物。\n1903年物理学奖；获得本年度奖项的四分之一。获奖理由（中文译述）：表彰他们共同研究贝克勒尔教授发现的辐射现象所作出的非凡贡献。\n1911年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰她通过发现镭和钋、分离镭，以及研究这一重要元素的性质和化合物，为化学发展作出的贡献。",
+          "en": "Marie Curie received two Nobel Prizes. In 1903, she and Pierre Curie shared the other half of the Nobel Prize in Physics for joint research on radiation discovered by Becquerel, receiving a quarter each. In 1911, she alone received the Chemistry Prize for discovering radium and polonium, isolating radium, and studying its nature and compounds. The citations are distinct; the artwork evokes materials and sustained research without presenting symbolic objects as historical artifacts.\n1903 — The Nobel Prize in Physics. Received one-quarter of the prize. Official motivation: in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel\n1911 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of her services to the advancement of chemistry by the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年物理学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize 1911 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年化学奖｜官方记录",
+              "en": "1911 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

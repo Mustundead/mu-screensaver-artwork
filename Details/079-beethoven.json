@@ -1,0 +1,70 @@
+{
+  "subject": "079-beethoven",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:079-beethoven",
+      "subject": "079-beethoven",
+      "edition": "mono",
+      "title": "贝多芬与聆听",
+      "titleEnglish": "Beethoven and Listening",
+      "category": "艺术与人文",
+      "image": "Images/mono/079-beethoven.jpg",
+      "thumbnail": "Thumbs/mono/079-beethoven.jpg",
+      "sha256": "15d5ee63ca6f07f3ca683da2f52f5c3ffb4f944276c1662b21a4e063e4c730f7",
+      "thumbnailSHA256": "4a3b08dcdfd08f54f7b2e12bcc78f9144ce4dc786283ad6576de401a7efccb1a",
+      "context": {
+        "phrase": {
+          "zh": "聆听，也发生在想象之中。",
+          "en": "Listening also happens in imagination."
+        },
+        "visual": {
+          "zh": "贝多芬形象、管状结构与山峰般的波形将音乐的力量转成空间。肖像与声音形状是艺术想象，不用于推断他的听觉状态或某段音乐的真实声波。",
+          "en": "Beethoven, tube-like structures and mountain-like waveforms translate musical force into space. The likeness and shapes are artistic interpretations, not evidence of his hearing or an actual waveform."
+        },
+        "background": {
+          "zh": "贝多芬故居资料记载，《第九交响曲》于 1824 年 5 月 7 日在维也纳首演。其听力持续衰退确实影响了公开演出，但不能据此把创作说成不需要训练或合作的奇迹；作品仍经历写作、排练与众多演奏者的共同实现。",
+          "en": "The Beethoven-Haus dates the Ninth Symphony’s premiere in Vienna to May 7, 1824. Progressive hearing loss affected Beethoven’s public performances. This does not make composition a miracle detached from training or collaboration: the work still required writing, rehearsal and performers."
+        },
+        "sources": [
+          {
+            "label": "Beethoven-Haus · Heard with Beethoven’s ear",
+            "url": "https://www.beethoven.de/en/g/mit-beethovens-ohr-gehoert"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:079-beethoven",
+      "subject": "079-beethoven",
+      "edition": "color",
+      "title": "贝多芬与聆听",
+      "titleEnglish": "Beethoven and Listening",
+      "category": "艺术与人文",
+      "image": "Images/color/079-beethoven.jpg",
+      "thumbnail": "Thumbs/color/079-beethoven.jpg",
+      "sha256": "4248f32d2beaf9adcef998e3cceab7b4e9869688aafc9fac099d6790ef902e38",
+      "thumbnailSHA256": "87ef391c6749535806e28447dc6364a092b4ff9c38a6e627b761917935730b1b",
+      "context": {
+        "phrase": {
+          "zh": "聆听，也发生在想象之中。",
+          "en": "Listening also happens in imagination."
+        },
+        "visual": {
+          "zh": "贝多芬形象、管状结构与山峰般的波形将音乐的力量转成空间。肖像与声音形状是艺术想象，不用于推断他的听觉状态或某段音乐的真实声波。",
+          "en": "Beethoven, tube-like structures and mountain-like waveforms translate musical force into space. The likeness and shapes are artistic interpretations, not evidence of his hearing or an actual waveform."
+        },
+        "background": {
+          "zh": "贝多芬故居资料记载，《第九交响曲》于 1824 年 5 月 7 日在维也纳首演。其听力持续衰退确实影响了公开演出，但不能据此把创作说成不需要训练或合作的奇迹；作品仍经历写作、排练与众多演奏者的共同实现。",
+          "en": "The Beethoven-Haus dates the Ninth Symphony’s premiere in Vienna to May 7, 1824. Progressive hearing loss affected Beethoven’s public performances. This does not make composition a miracle detached from training or collaboration: the work still required writing, rehearsal and performers."
+        },
+        "sources": [
+          {
+            "label": "Beethoven-Haus · Heard with Beethoven’s ear",
+            "url": "https://www.beethoven.de/en/g/mit-beethovens-ohr-gehoert"
+          }
+        ]
+      }
+    }
+  }
+}

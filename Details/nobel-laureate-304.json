@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-304",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-304",
+      "subject": "nobel-laureate-304",
+      "edition": "mono",
+      "title": "阿尔布雷希特·科塞尔",
+      "titleEnglish": "Albrecht Kossel",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-304/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-304/mono.jpg",
+      "sha256": "88101854f2c93b2537e1032a314cd4136d1ebc94ce4558a369a466234b960ff0",
+      "thumbnailSHA256": "f86d33b78912a89ef575c2091aec3fc7e363eb5ffc1e48561d5053ee9472dcec",
+      "context": {
+        "phrase": {
+          "zh": "理解整体，也要辨认组成。",
+          "en": "Understanding a whole begins with its parts."
+        },
+        "visual": {
+          "zh": "巨幅剖开的球壳从右侧裁切，长玻片把细小晶体带入近景。黑白与钴蓝版突出内部纤维；彩色版以暖象牙色外壳、青绿色纤维、灰紫色小球和浅绿玻璃区分层次。画面借细胞核与化学分析表达研究方向，是原创示意，不是显微照片、精确结构或按物质种类着色的图谱。",
+          "en": "An enormous cropped shell contrasts with tiny crystals on a long glass slide. Cobalt emphasizes the internal fibers in the monochrome edition; ivory, teal, dusty plum and pale-green glass separate the full-color materials. This original nucleus-and-analysis metaphor is not microscopy, a precise structure or a chemically color-coded diagram."
+        },
+        "background": {
+          "zh": "科塞尔因研究蛋白质和核物质、增进人们对细胞化学的认识获得1910年诺贝尔生理学或医学奖。在同年的诺贝尔演讲中，他讨论细胞核的化学组成，以及如何把复杂物质分离为较小的化学成分；其中列出胞嘧啶、胸腺嘧啶、腺嘌呤和鸟嘌呤等含氮成分，也讨论核物质与蛋白质的联系。他的工作属于细胞核化学的早期研究，不能等同于后来对DNA双螺旋结构的发现。配图把分离与组成转化为原创模型和晶片，不呈现真实实验数据；短句不是本人引语。\n1910年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他通过研究蛋白质（包括核物质）对细胞化学认识所作的贡献。",
+          "en": "Kossel received the 1910 Nobel Prize in Physiology or Medicine for protein and nucleic-substance research that advanced cell chemistry. His Nobel lecture discusses nuclear composition and the separation of complex material into chemical constituents, including cytosine, thymine, adenine and guanine, together with relationships to proteins. This is early nucleus chemistry; it must not be equated with the later discovery of the DNA double helix. The image interprets separation and composition with an original model and crystalline fragments rather than experimental data. The phrase is original, not a quotation.\n1910 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年生理学或医学奖｜官方记录",
+              "en": "1910 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1910/kossel/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1910/kossel/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-304",
+      "subject": "nobel-laureate-304",
+      "edition": "color",
+      "title": "阿尔布雷希特·科塞尔",
+      "titleEnglish": "Albrecht Kossel",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-304/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-304/color.jpg",
+      "sha256": "501fb35fd23af6288b2e5c8a8ffded5c1659acfb57cc1649ce9c405851d2e207",
+      "thumbnailSHA256": "122bc1a9baa93cd7f74f4915ee6b69cf8bb723c73a8a266e739f9cf17077be90",
+      "context": {
+        "phrase": {
+          "zh": "理解整体，也要辨认组成。",
+          "en": "Understanding a whole begins with its parts."
+        },
+        "visual": {
+          "zh": "巨幅剖开的球壳从右侧裁切，长玻片把细小晶体带入近景。黑白与钴蓝版突出内部纤维；彩色版以暖象牙色外壳、青绿色纤维、灰紫色小球和浅绿玻璃区分层次。画面借细胞核与化学分析表达研究方向，是原创示意，不是显微照片、精确结构或按物质种类着色的图谱。",
+          "en": "An enormous cropped shell contrasts with tiny crystals on a long glass slide. Cobalt emphasizes the internal fibers in the monochrome edition; ivory, teal, dusty plum and pale-green glass separate the full-color materials. This original nucleus-and-analysis metaphor is not microscopy, a precise structure or a chemically color-coded diagram."
+        },
+        "background": {
+          "zh": "科塞尔因研究蛋白质和核物质、增进人们对细胞化学的认识获得1910年诺贝尔生理学或医学奖。在同年的诺贝尔演讲中，他讨论细胞核的化学组成，以及如何把复杂物质分离为较小的化学成分；其中列出胞嘧啶、胸腺嘧啶、腺嘌呤和鸟嘌呤等含氮成分，也讨论核物质与蛋白质的联系。他的工作属于细胞核化学的早期研究，不能等同于后来对DNA双螺旋结构的发现。配图把分离与组成转化为原创模型和晶片，不呈现真实实验数据；短句不是本人引语。\n1910年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他通过研究蛋白质（包括核物质）对细胞化学认识所作的贡献。",
+          "en": "Kossel received the 1910 Nobel Prize in Physiology or Medicine for protein and nucleic-substance research that advanced cell chemistry. His Nobel lecture discusses nuclear composition and the separation of complex material into chemical constituents, including cytosine, thymine, adenine and guanine, together with relationships to proteins. This is early nucleus chemistry; it must not be equated with the later discovery of the DNA double helix. The image interprets separation and composition with an original model and crystalline fragments rather than experimental data. The phrase is original, not a quotation.\n1910 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of the contributions to our knowledge of cell chemistry made through his work on proteins, including the nucleic substances"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年生理学或医学奖｜官方记录",
+              "en": "1910 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1910/kossel/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1910/kossel/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

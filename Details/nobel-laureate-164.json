@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-164",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-164",
+      "subject": "nobel-laureate-164",
+      "edition": "mono",
+      "title": "阿道夫·冯·拜耳",
+      "titleEnglish": "Adolf von Baeyer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-164/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-164/mono.jpg",
+      "sha256": "b6ec13b0dce0ccbd89307bb8909a5e5dc34035fae47573d32148b4ab7be810e2",
+      "thumbnailSHA256": "2f35d84dc82563f27f207eee63b19c3bd09f71f325a739ae2f1a1ac6a15a3c70",
+      "context": {
+        "phrase": {
+          "zh": "颜色背后，也有结构与发现。",
+          "en": "Behind color lie structure and discovery."
+        },
+        "visual": {
+          "zh": "独立配图把织物、染料瓶、粉末碗与线轴组合成版画式拼贴。物件和颜色呼应染料研究，不是拜耳的真实实验台；瓶中的颜色不代表特定化学品或配方。",
+          "en": "An original engraved collage combines woven fabric, dye bottles, a powder bowl and a textile spool. The objects and colors evoke dye research, not Baeyer's actual laboratory; bottle colors do not identify specific chemicals or recipes."
+        },
+        "background": {
+          "zh": "拜耳获得1905年诺贝尔化学奖，表彰他通过有机染料和氢化芳香族化合物研究，对有机化学与化学工业作出的贡献。他研究了靛蓝的结构与合成，也研究了其他染料。配图从织物与颜色出发，表现这些研究与日常材料的联系。\n1905年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他通过有机染料和氢化芳香族化合物研究，对有机化学与化学工业作出的贡献。",
+          "en": "Baeyer received the 1905 Nobel Prize in Chemistry for advancing organic chemistry and the chemical industry through work on organic dyes and hydroaromatic compounds. He studied indigo's structure and synthesis, as well as other dyes. The artwork uses textiles and color to interpret the connection with everyday materials.\n1905 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his services in the advancement of organic chemistry and the chemical industry, through his work on organic dyes and hydroaromatic compounds"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年化学奖｜官方记录",
+              "en": "1905 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1905/baeyer/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1905/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-164",
+      "subject": "nobel-laureate-164",
+      "edition": "color",
+      "title": "阿道夫·冯·拜耳",
+      "titleEnglish": "Adolf von Baeyer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-164/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-164/color.jpg",
+      "sha256": "e0a9dfc4bcd4688992acb0eb2497a6badb929227243e4d31c5a53b65c77c0695",
+      "thumbnailSHA256": "eac18381af9a900329913ad1e4f733f5718f25490a944ff35eedee141b2e7cf9",
+      "context": {
+        "phrase": {
+          "zh": "颜色背后，也有结构与发现。",
+          "en": "Behind color lie structure and discovery."
+        },
+        "visual": {
+          "zh": "独立配图把织物、染料瓶、粉末碗与线轴组合成版画式拼贴。物件和颜色呼应染料研究，不是拜耳的真实实验台；瓶中的颜色不代表特定化学品或配方。",
+          "en": "An original engraved collage combines woven fabric, dye bottles, a powder bowl and a textile spool. The objects and colors evoke dye research, not Baeyer's actual laboratory; bottle colors do not identify specific chemicals or recipes."
+        },
+        "background": {
+          "zh": "拜耳获得1905年诺贝尔化学奖，表彰他通过有机染料和氢化芳香族化合物研究，对有机化学与化学工业作出的贡献。他研究了靛蓝的结构与合成，也研究了其他染料。配图从织物与颜色出发，表现这些研究与日常材料的联系。\n1905年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他通过有机染料和氢化芳香族化合物研究，对有机化学与化学工业作出的贡献。",
+          "en": "Baeyer received the 1905 Nobel Prize in Chemistry for advancing organic chemistry and the chemical industry through work on organic dyes and hydroaromatic compounds. He studied indigo's structure and synthesis, as well as other dyes. The artwork uses textiles and color to interpret the connection with everyday materials.\n1905 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his services in the advancement of organic chemistry and the chemical industry, through his work on organic dyes and hydroaromatic compounds"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年化学奖｜官方记录",
+              "en": "1905 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1905/baeyer/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1905/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

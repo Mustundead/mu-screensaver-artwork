@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-021",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-021",
+      "subject": "oscar-best-picture-021",
+      "edition": "mono",
+      "title": "哈姆雷特",
+      "titleEnglish": "Hamlet",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-021/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-021/mono.jpg",
+      "sha256": "c1b0d6a8e4442e627a69674daa7f917edb6d618a93d0a46be225ed649e829be4",
+      "thumbnailSHA256": "e5e48f617a41681b28583ba4488e3222e350f853809a110bbb26ea2df1db2f15",
+      "context": {
+        "phrase": {
+          "zh": "迟疑之间，仍要作出选择。",
+          "en": "A choice still waits within doubt."
+        },
+        "visual": {
+          "zh": "巨大的骨色头骨裁切于左侧与下缘，右上斜放着较小的黄铜王冠；酒红绒带从头骨上缘绕向王冠，穿过画面中部。黑白版保留构图。三件物件借死亡、权力与牵连表达影片主题，是原创静物，并非电影道具或真实画面复刻。",
+          "en": "An enormous bone-colored skull is cropped at left and bottom, with a smaller tilted brass crown at upper right. A wine velvet ribbon runs from the skull’s upper edge toward the crown through the middle of the image. Monochrome retains the composition. Death, power and entanglement are original still-life metaphors, not film props or replicas of actual frames."
+        },
+        "background": {
+          "zh": "《哈姆雷特》由劳伦斯·奥利维尔执导并主演，1948年上映，在1949年第21届奥斯卡获最佳影片。英国电影协会的影片介绍记录了黑白影像、城堡走廊与楼梯，以及怀疑和死亡构成的氛围。插画用头骨、王冠与绒带作原创解读，彩色版的材质颜色不表示原片为彩色，也不声称使用了真实道具。短句为原创，不是莎士比亚台词或影片引语。\n第21届奥斯卡最佳影片：哈姆雷特。颁奖年份 1949；参评年份 1948。",
+          "en": "Laurence Olivier directed and starred in Hamlet, released in 1948 and awarded Best Motion Picture at the 21st Academy Awards in 1949. BFI describes the stark black-and-white castle corridors and staircases, and the atmosphere of doubt and mortality. Skull, crown and ribbon form an original interpretation; the illustration’s material colors do not imply the film was in color or that these are actual props. The phrase is original, neither Shakespeare dialogue nor a film quotation.\nAcademy Awards ceremony 21 (1949), Best Picture: Hamlet. Eligibility year: 1948."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1949",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "bfi.org.uk",
+            "url": "https://www.bfi.org.uk/film/0f1a5830-5ccf-555e-a1d7-d6bebc12b9d8/hamlet",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-021",
+      "subject": "oscar-best-picture-021",
+      "edition": "color",
+      "title": "哈姆雷特",
+      "titleEnglish": "Hamlet",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-021/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-021/color.jpg",
+      "sha256": "5f86d6a319d584192b289ec56ea04e8a66e9841ebb39b3f466ac95141b471cea",
+      "thumbnailSHA256": "567255d278bbed385179683de26206ca4d2a470240567efcbbd40f7b37c3ec61",
+      "context": {
+        "phrase": {
+          "zh": "迟疑之间，仍要作出选择。",
+          "en": "A choice still waits within doubt."
+        },
+        "visual": {
+          "zh": "巨大的骨色头骨裁切于左侧与下缘，右上斜放着较小的黄铜王冠；酒红绒带从头骨上缘绕向王冠，穿过画面中部。黑白版保留构图。三件物件借死亡、权力与牵连表达影片主题，是原创静物，并非电影道具或真实画面复刻。",
+          "en": "An enormous bone-colored skull is cropped at left and bottom, with a smaller tilted brass crown at upper right. A wine velvet ribbon runs from the skull’s upper edge toward the crown through the middle of the image. Monochrome retains the composition. Death, power and entanglement are original still-life metaphors, not film props or replicas of actual frames."
+        },
+        "background": {
+          "zh": "《哈姆雷特》由劳伦斯·奥利维尔执导并主演，1948年上映，在1949年第21届奥斯卡获最佳影片。英国电影协会的影片介绍记录了黑白影像、城堡走廊与楼梯，以及怀疑和死亡构成的氛围。插画用头骨、王冠与绒带作原创解读，彩色版的材质颜色不表示原片为彩色，也不声称使用了真实道具。短句为原创，不是莎士比亚台词或影片引语。\n第21届奥斯卡最佳影片：哈姆雷特。颁奖年份 1949；参评年份 1948。",
+          "en": "Laurence Olivier directed and starred in Hamlet, released in 1948 and awarded Best Motion Picture at the 21st Academy Awards in 1949. BFI describes the stark black-and-white castle corridors and staircases, and the atmosphere of doubt and mortality. Skull, crown and ribbon form an original interpretation; the illustration’s material colors do not imply the film was in color or that these are actual props. The phrase is original, neither Shakespeare dialogue nor a film quotation.\nAcademy Awards ceremony 21 (1949), Best Picture: Hamlet. Eligibility year: 1948."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1949",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "bfi.org.uk",
+            "url": "https://www.bfi.org.uk/film/0f1a5830-5ccf-555e-a1d7-d6bebc12b9d8/hamlet",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-506",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-506",
+      "subject": "nobel-laureate-506",
+      "edition": "mono",
+      "title": "艾米莉·格林·巴尔奇",
+      "titleEnglish": "Emily Greene Balch",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-506/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-506/mono.jpg",
+      "sha256": "5dabad2a2b493d78847424ec121e070a90d2f01bae142e92025d523d0557877d",
+      "thumbnailSHA256": "a426d218553dc7e257d35d353f3e4b4db76b2c96b281c9d40167d11f0a41945d",
+      "context": {
+        "phrase": {
+          "zh": "为彼此留一个位置。",
+          "en": "Leave a place for one another."
+        },
+        "visual": {
+          "zh": "六把不同靠背的木椅围成开放圆弧，前侧留出入口，椅面和长影以细刻线塑形，共同的中央空间保持空白。",
+          "en": "Six wooden chairs with varied backs form an open arc with a gap toward the viewer; fine hatching shapes seats and long shadows around an empty shared center."
+        },
+        "background": {
+          "zh": "巴尔奇长期从事和平工作，并参与妇女国际和平与自由联盟的国际合作。她因毕生为和平事业工作，与莫特平分1946年诺贝尔和平奖。开放的椅子圆弧是倾听与合作的原创寓意，不复原具体会议，座位数量也不表示组织成员人数。短句为原创。\n1946年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：毕生为和平事业工作。",
+          "en": "Balch worked for peace over many years and supported international cooperation through the Women’s International League for Peace and Freedom. She shared the 1946 Nobel Peace Prize equally with Mott for her lifelong work for peace. An open arc of chairs is an original metaphor for listening and cooperation, not a specific conference or membership count. The phrase is original.\n1946 — The Nobel Peace Prize. Received half of the prize. Official motivation: for her lifelong work for the cause of peace"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年和平奖｜官方记录",
+              "en": "1946 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1946/balch/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-506",
+      "subject": "nobel-laureate-506",
+      "edition": "color",
+      "title": "艾米莉·格林·巴尔奇",
+      "titleEnglish": "Emily Greene Balch",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-506/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-506/color.jpg",
+      "sha256": "645d46db8d5bcca1d0f44a9f04854a9ea7d512fc44881e545bfe097ac4d85f6c",
+      "thumbnailSHA256": "3a52d7f40ad49d5037ac14893e538aac00c471fee69af2310d64809e9df9af6c",
+      "context": {
+        "phrase": {
+          "zh": "为彼此留一个位置。",
+          "en": "Leave a place for one another."
+        },
+        "visual": {
+          "zh": "六把不同靠背的木椅围成开放圆弧，前侧留出入口，椅面和长影以细刻线塑形，共同的中央空间保持空白。",
+          "en": "Six wooden chairs with varied backs form an open arc with a gap toward the viewer; fine hatching shapes seats and long shadows around an empty shared center."
+        },
+        "background": {
+          "zh": "巴尔奇长期从事和平工作，并参与妇女国际和平与自由联盟的国际合作。她因毕生为和平事业工作，与莫特平分1946年诺贝尔和平奖。开放的椅子圆弧是倾听与合作的原创寓意，不复原具体会议，座位数量也不表示组织成员人数。短句为原创。\n1946年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：毕生为和平事业工作。",
+          "en": "Balch worked for peace over many years and supported international cooperation through the Women’s International League for Peace and Freedom. She shared the 1946 Nobel Peace Prize equally with Mott for her lifelong work for peace. An open arc of chairs is an original metaphor for listening and cooperation, not a specific conference or membership count. The phrase is original.\n1946 — The Nobel Peace Prize. Received half of the prize. Official motivation: for her lifelong work for the cause of peace"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年和平奖｜官方记录",
+              "en": "1946 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1946/balch/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

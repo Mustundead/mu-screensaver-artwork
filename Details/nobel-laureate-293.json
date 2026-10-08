@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-293",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-293",
+      "subject": "nobel-laureate-293",
+      "edition": "mono",
+      "title": "埃米尔·冯·贝林",
+      "titleEnglish": "Emil von Behring",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-293/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-293/mono.jpg",
+      "sha256": "2a62febe6c4f246402bc3c797e7a12cb5c88d4254617957207805d768248b588",
+      "thumbnailSHA256": "871bd98b451a08b6c7294561a1f4c4ef421db38adaed71d184ec0f5595d7a339",
+      "context": {
+        "phrase": {
+          "zh": "让一滴研究，成为守护生命的力量。",
+          "en": "Let a drop of research become a means to protect life."
+        },
+        "visual": {
+          "zh": "为贝林独立创作的血清疗法拼贴，以玻璃容器、实验器具与马的形象回顾早期研究；是艺术解读，不是实验操作图。",
+          "en": "An original serum-therapy collage for Behring, with glass vessels, laboratory tools and a horse recalling early research. An artistic interpretation, not an experimental procedure diagram."
+        },
+        "background": {
+          "zh": "贝林获得1901年首届诺贝尔生理学或医学奖，获奖工作是血清疗法，尤其是对白喉的应用。他与其他研究者发现，含有抗毒素的血清能够提供被动免疫；马血清后来成为这一历史疗法的重要来源。配图借实验器具与马的形象回顾这段研究。\n1901年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在血清疗法，尤其是对白喉的应用方面的工作；这些工作为医学开辟了新道路，提供了对抗疾病与死亡的有力方法。",
+          "en": "Behring received the first Nobel Prize in Physiology or Medicine in 1901 for serum therapy, especially its use against diphtheria. He and fellow researchers showed that antitoxin-containing serum could provide passive immunity, and horse serum became an important source for this historical therapy. The image recalls this research through laboratory objects and a horse.\n1901 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年生理学或医学奖｜官方记录",
+              "en": "1901 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1901/behring/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1901/behring/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-293",
+      "subject": "nobel-laureate-293",
+      "edition": "color",
+      "title": "埃米尔·冯·贝林",
+      "titleEnglish": "Emil von Behring",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-293/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-293/color.jpg",
+      "sha256": "08e2253a539a4fbe74cc1b1893468e2b45f33d341ed778c6a4db90b0635b477c",
+      "thumbnailSHA256": "8f6535c841bfc1cb9750e250b1843e8471561809e90b37e0856a7c286e30dc9a",
+      "context": {
+        "phrase": {
+          "zh": "让一滴研究，成为守护生命的力量。",
+          "en": "Let a drop of research become a means to protect life."
+        },
+        "visual": {
+          "zh": "为贝林独立创作的血清疗法拼贴，以玻璃容器、实验器具与马的形象回顾早期研究；是艺术解读，不是实验操作图。",
+          "en": "An original serum-therapy collage for Behring, with glass vessels, laboratory tools and a horse recalling early research. An artistic interpretation, not an experimental procedure diagram."
+        },
+        "background": {
+          "zh": "贝林获得1901年首届诺贝尔生理学或医学奖，获奖工作是血清疗法，尤其是对白喉的应用。他与其他研究者发现，含有抗毒素的血清能够提供被动免疫；马血清后来成为这一历史疗法的重要来源。配图借实验器具与马的形象回顾这段研究。\n1901年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在血清疗法，尤其是对白喉的应用方面的工作；这些工作为医学开辟了新道路，提供了对抗疾病与死亡的有力方法。",
+          "en": "Behring received the first Nobel Prize in Physiology or Medicine in 1901 for serum therapy, especially its use against diphtheria. He and fellow researchers showed that antitoxin-containing serum could provide passive immunity, and horse serum became an important source for this historical therapy. The image recalls this research through laboratory objects and a horse.\n1901 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on serum therapy, especially its application against diphtheria, by which he has opened a new road in the domain of medical science and thereby placed in the hands of the physician a victorious weapon against illness and deaths"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年生理学或医学奖｜官方记录",
+              "en": "1901 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1901/behring/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1901/behring/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

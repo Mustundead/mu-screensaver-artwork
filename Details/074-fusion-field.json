@@ -1,0 +1,70 @@
+{
+  "subject": "074-fusion-field",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:074-fusion-field",
+      "subject": "074-fusion-field",
+      "edition": "mono",
+      "title": "聚变与磁约束",
+      "titleEnglish": "Fusion and Magnetic Confinement",
+      "category": "工程与制造",
+      "image": "Images/mono/074-fusion-field.jpg",
+      "thumbnail": "Thumbs/mono/074-fusion-field.jpg",
+      "sha256": "5a0167193d3d02ba3f070051bfc742470035fdc647f2b02bda1fa9527b820407",
+      "thumbnailSHA256": "d0c28187794f3adfd0a593375e661f71d7eeb2aea3f6ec748d944dc42a7e5358",
+      "context": {
+        "phrase": {
+          "zh": "把炽热的等离子体留在磁场里。",
+          "en": "Hold a hot plasma with magnetic fields."
+        },
+        "visual": {
+          "zh": "环形装置与内部光带形成受约束的旋转空间，表现托卡马克的磁约束思路。图中装置不是某台设备的工程图。",
+          "en": "A circular machine and inner glow evoke magnetic confinement in a tokamak. It is not an engineering drawing of a particular device."
+        },
+        "background": {
+          "zh": "核聚变需要足够高的温度、粒子密度和约束时间。ITER 采用托卡马克方案，用磁场约束和控制高温等离子体；这是一项实验工程，画面不表示已实现商业供电。",
+          "en": "Fusion requires sufficiently high temperature, particle density and confinement time. ITER is an experimental tokamak designed to use magnetic fields to confine and control hot plasma; the image does not imply commercial power has been delivered."
+        },
+        "sources": [
+          {
+            "label": "ITER · Making fusion work",
+            "url": "https://www.iter.org/fusion-energy/making-it-work"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:074-fusion-field",
+      "subject": "074-fusion-field",
+      "edition": "color",
+      "title": "聚变与磁约束",
+      "titleEnglish": "Fusion and Magnetic Confinement",
+      "category": "工程与制造",
+      "image": "Images/color/074-fusion-field.jpg",
+      "thumbnail": "Thumbs/color/074-fusion-field.jpg",
+      "sha256": "cf1fbf91c3f2ce058af881c55264aa42edda191169d3811f25a49232d1002b63",
+      "thumbnailSHA256": "d3dbf55cd8d3101385322ac7dc80f1f20c3556b74cc3bbfeb49e6463fc77f003",
+      "context": {
+        "phrase": {
+          "zh": "把炽热的等离子体留在磁场里。",
+          "en": "Hold a hot plasma with magnetic fields."
+        },
+        "visual": {
+          "zh": "环形装置与内部光带形成受约束的旋转空间，表现托卡马克的磁约束思路。图中装置不是某台设备的工程图。",
+          "en": "A circular machine and inner glow evoke magnetic confinement in a tokamak. It is not an engineering drawing of a particular device."
+        },
+        "background": {
+          "zh": "核聚变需要足够高的温度、粒子密度和约束时间。ITER 采用托卡马克方案，用磁场约束和控制高温等离子体；这是一项实验工程，画面不表示已实现商业供电。",
+          "en": "Fusion requires sufficiently high temperature, particle density and confinement time. ITER is an experimental tokamak designed to use magnetic fields to confine and control hot plasma; the image does not imply commercial power has been delivered."
+        },
+        "sources": [
+          {
+            "label": "ITER · Making fusion work",
+            "url": "https://www.iter.org/fusion-energy/making-it-work"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-468",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-468",
+      "subject": "nobel-laureate-468",
+      "edition": "mono",
+      "title": "贝尔塔·冯·苏特纳",
+      "titleEnglish": "Bertha von Suttner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-468/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-468/mono.jpg",
+      "sha256": "6460edfc01f70de8ac4e8db9093b3a5f2109102207aa5771e197905cc98664b1",
+      "thumbnailSHA256": "737ee7071c68eb87da13569cf42599bf7e500bdf34a19bd909a068ad1763b10e",
+      "context": {
+        "phrase": {
+          "zh": "写下反对战争的话，也让更多人听见。",
+          "en": "Words against war can reach more people."
+        },
+        "visual": {
+          "zh": "以空白书页、通信、会议讲台和橄榄枝组成的独立拼贴，呼应苏特纳的反战写作与和平运动。书与会场是想象性的组合，不是《放下武器》的真实版本或某次会议的重现。",
+          "en": "An original collage of blank books, correspondence, a congress lectern and an olive branch evokes Suttner's anti-war writing and peace organizing. The books and meeting space are imagined, not an actual edition of Lay Down Your Arms or a reconstructed congress."
+        },
+        "background": {
+          "zh": "苏特纳获得1905年诺贝尔和平奖，成为首位获得这一奖项的女性。她的反战小说《放下武器》出版于1889年，并在1891年创立奥地利和平协会。配图把阅读、通信与发言放在一起，表现她通过写作和组织活动反对战争的工作。\n1905年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰她勇于反对战争恐怖的行动。",
+          "en": "Suttner received the 1905 Nobel Peace Prize, becoming its first woman laureate. Her anti-war novel Lay Down Your Arms appeared in 1889, and she founded the Austrian Peace Society in 1891. The artwork combines reading, correspondence and public speaking to interpret her writing and organizing against war.\n1905 — The Nobel Peace Prize. Received the full prize. Official motivation: for her audacity to oppose the horrors of war"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年和平奖｜官方记录",
+              "en": "1905 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1905",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-468",
+      "subject": "nobel-laureate-468",
+      "edition": "color",
+      "title": "贝尔塔·冯·苏特纳",
+      "titleEnglish": "Bertha von Suttner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-468/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-468/color.jpg",
+      "sha256": "3982bef7129d1c3f5225089dae009407076417cb3d2e126d9ae3897f79c2d482",
+      "thumbnailSHA256": "38e187191921ff6a11d0bc765a945565ca9c6e79ff6bafe40cbccb88a8544e62",
+      "context": {
+        "phrase": {
+          "zh": "写下反对战争的话，也让更多人听见。",
+          "en": "Words against war can reach more people."
+        },
+        "visual": {
+          "zh": "以空白书页、通信、会议讲台和橄榄枝组成的独立拼贴，呼应苏特纳的反战写作与和平运动。书与会场是想象性的组合，不是《放下武器》的真实版本或某次会议的重现。",
+          "en": "An original collage of blank books, correspondence, a congress lectern and an olive branch evokes Suttner's anti-war writing and peace organizing. The books and meeting space are imagined, not an actual edition of Lay Down Your Arms or a reconstructed congress."
+        },
+        "background": {
+          "zh": "苏特纳获得1905年诺贝尔和平奖，成为首位获得这一奖项的女性。她的反战小说《放下武器》出版于1889年，并在1891年创立奥地利和平协会。配图把阅读、通信与发言放在一起，表现她通过写作和组织活动反对战争的工作。\n1905年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰她勇于反对战争恐怖的行动。",
+          "en": "Suttner received the 1905 Nobel Peace Prize, becoming its first woman laureate. Her anti-war novel Lay Down Your Arms appeared in 1889, and she founded the Austrian Peace Society in 1891. The artwork combines reading, correspondence and public speaking to interpret her writing and organizing against war.\n1905 — The Nobel Peace Prize. Received the full prize. Official motivation: for her audacity to oppose the horrors of war"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年和平奖｜官方记录",
+              "en": "1905 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1905",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-465",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-465",
+      "subject": "nobel-laureate-465",
+      "edition": "mono",
+      "title": "阿尔贝特·戈巴",
+      "titleEnglish": "Albert Gobat",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-465/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-465/mono.jpg",
+      "sha256": "d9fceae2da360953de3aafd95222fcb098e48f855bb4defd7610b3babf08d377",
+      "thumbnailSHA256": "32931d0ae854f066544fdc9889b34d1dc39f2c8f118d66332c720404148a2815",
+      "context": {
+        "phrase": {
+          "zh": "让对话有序开始，也让它继续下去。",
+          "en": "Give dialogue a way to begin and continue."
+        },
+        "visual": {
+          "zh": "为戈巴独立创作的会议组织拼贴，以讲台、空椅、议程夹和沙漏呼应跨国议会代表之间的会面。画面不是特定议会建筑，也不描绘他的私人遗物。",
+          "en": "An original conference-organizing collage for Gobat uses a lectern, empty chairs, agenda folio and hourglass to evoke meetings among representatives from different countries. It does not depict a particular parliament or his belongings."
+        },
+        "background": {
+          "zh": "戈巴与迪科曼分享1902年诺贝尔和平奖。他的获奖理由强调对各国议会联盟的务实管理；他组织会议、准备议程与决议，并推动各国议会代表交流。配图把使对话能够开展的具体组织工作作为主题，没有复刻任何一次会议。\n1902年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他对各国议会联盟卓有成效的务实管理。",
+          "en": "Gobat shared the 1902 Nobel Peace Prize with Ducommun. His citation emphasized practical administration of the Inter-Parliamentary Union. He organized meetings, prepared agendas and resolutions, and promoted contact among representatives. The artwork interprets the work that makes dialogue possible without reconstructing a particular congress.\n1902 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his eminently practical administration of the Inter-Parliamentary Union"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年和平奖｜官方记录",
+              "en": "1902 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1902",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-465",
+      "subject": "nobel-laureate-465",
+      "edition": "color",
+      "title": "阿尔贝特·戈巴",
+      "titleEnglish": "Albert Gobat",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-465/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-465/color.jpg",
+      "sha256": "2ddb327d7f0c3a6b8a5aedf67def0cc5d86ce4133616fabdbde40ebea13b486a",
+      "thumbnailSHA256": "ddd9c7c82f0f06fdc2717b934fc47ce314c2de3ea3f6a2242324440731fb84b8",
+      "context": {
+        "phrase": {
+          "zh": "让对话有序开始，也让它继续下去。",
+          "en": "Give dialogue a way to begin and continue."
+        },
+        "visual": {
+          "zh": "为戈巴独立创作的会议组织拼贴，以讲台、空椅、议程夹和沙漏呼应跨国议会代表之间的会面。画面不是特定议会建筑，也不描绘他的私人遗物。",
+          "en": "An original conference-organizing collage for Gobat uses a lectern, empty chairs, agenda folio and hourglass to evoke meetings among representatives from different countries. It does not depict a particular parliament or his belongings."
+        },
+        "background": {
+          "zh": "戈巴与迪科曼分享1902年诺贝尔和平奖。他的获奖理由强调对各国议会联盟的务实管理；他组织会议、准备议程与决议，并推动各国议会代表交流。配图把使对话能够开展的具体组织工作作为主题，没有复刻任何一次会议。\n1902年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他对各国议会联盟卓有成效的务实管理。",
+          "en": "Gobat shared the 1902 Nobel Peace Prize with Ducommun. His citation emphasized practical administration of the Inter-Parliamentary Union. He organized meetings, prepared agendas and resolutions, and promoted contact among representatives. The artwork interprets the work that makes dialogue possible without reconstructing a particular congress.\n1902 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his eminently practical administration of the Inter-Parliamentary Union"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年和平奖｜官方记录",
+              "en": "1902 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1902",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

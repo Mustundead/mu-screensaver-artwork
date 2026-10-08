@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-187",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-187",
+      "subject": "nobel-laureate-187",
+      "edition": "mono",
+      "title": "汉斯·冯·欧拉-切尔平",
+      "titleEnglish": "Hans von Euler-Chelpin",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-187/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-187/mono.jpg",
+      "sha256": "70e23d5f3592fee7b0632a514c0aecbe95e5a93b1513c7cd17f0fc4c4cd7ee13",
+      "thumbnailSHA256": "4f87eba45343f97683af68f206d9e9f3b74e30b5446e05f0cef520e20e630019",
+      "context": {
+        "phrase": {
+          "zh": "契合，让变化成为可能。",
+          "en": "A fit makes change possible."
+        },
+        "visual": {
+          "zh": "深棕木质凹面与铜色凸面放大至画面之外，两者之间留出连续的浅色弯隙；细刻线分别顺着木纹与铜面走向。黑白版保留左深右浅的材质差异和间隙。",
+          "en": "An enlarged dark walnut concavity faces a copper convexity across a continuous pale curved gap. Fine engraving follows each surface. The neutral edition preserves the gap and the darker-left, lighter-right contrast."
+        },
+        "background": {
+          "zh": "欧拉-切尔平与阿瑟·哈登共享1929年诺贝尔化学奖，各占一半，因研究糖的发酵及发酵酶。他进一步研究辅酶的化学性质与结构；这种小分子帮助发酵反应发生。凹凸两面是共同作用的原创寓意，不是辅酶或酶的真实形状、分子结构或机械装置；短句为原创。\n1929年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对糖的发酵与发酵酶的研究。",
+          "en": "Euler-Chelpin shared the 1929 Nobel Prize in Chemistry equally with Arthur Harden for work on sugar fermentation and fermentative enzymes. He further studied the chemistry and structure of the helper co-zymase. The complementary surfaces are an original metaphor for cooperation, not the real shape of an enzyme or coenzyme, a molecular structure or a mechanism. The phrase is original.\n1929 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for their investigations on the fermentation of sugar and fermentative enzymes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年化学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-187",
+      "subject": "nobel-laureate-187",
+      "edition": "color",
+      "title": "汉斯·冯·欧拉-切尔平",
+      "titleEnglish": "Hans von Euler-Chelpin",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-187/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-187/color.jpg",
+      "sha256": "2f03add44fb1bf44e163efecab3894be4afdee6fc0471abf5f1033f9d363e314",
+      "thumbnailSHA256": "01436fcaed8786654e60c22066ffdc3a0ab1d0d2baf64eebeda6756a5f87b8e9",
+      "context": {
+        "phrase": {
+          "zh": "契合，让变化成为可能。",
+          "en": "A fit makes change possible."
+        },
+        "visual": {
+          "zh": "深棕木质凹面与铜色凸面放大至画面之外，两者之间留出连续的浅色弯隙；细刻线分别顺着木纹与铜面走向。黑白版保留左深右浅的材质差异和间隙。",
+          "en": "An enlarged dark walnut concavity faces a copper convexity across a continuous pale curved gap. Fine engraving follows each surface. The neutral edition preserves the gap and the darker-left, lighter-right contrast."
+        },
+        "background": {
+          "zh": "欧拉-切尔平与阿瑟·哈登共享1929年诺贝尔化学奖，各占一半，因研究糖的发酵及发酵酶。他进一步研究辅酶的化学性质与结构；这种小分子帮助发酵反应发生。凹凸两面是共同作用的原创寓意，不是辅酶或酶的真实形状、分子结构或机械装置；短句为原创。\n1929年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对糖的发酵与发酵酶的研究。",
+          "en": "Euler-Chelpin shared the 1929 Nobel Prize in Chemistry equally with Arthur Harden for work on sugar fermentation and fermentative enzymes. He further studied the chemistry and structure of the helper co-zymase. The complementary surfaces are an original metaphor for cooperation, not the real shape of an enzyme or coenzyme, a molecular structure or a mechanism. The phrase is original.\n1929 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for their investigations on the fermentation of sugar and fermentative enzymes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年化学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

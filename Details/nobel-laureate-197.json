@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-197",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-197",
+      "subject": "nobel-laureate-197",
+      "edition": "mono",
+      "title": "保罗·卡雷尔",
+      "titleEnglish": "Paul Karrer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-197/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-197/mono.jpg",
+      "sha256": "6b9992413c6beedbcc3144e1e685efa08b03e86b97b198d34d6a2d88bbdbfd69",
+      "thumbnailSHA256": "e13305cc2b8e96df458e358cbcc3ada327049eb0eecd4e59b757a5a04ba8db32",
+      "context": {
+        "phrase": {
+          "zh": "从颜色里，辨认看不见的组成。",
+          "en": "Within color, discover the unseen components."
+        },
+        "visual": {
+          "zh": "放大的胡萝卜横切面从左侧越出画面，一条带状形态从切面延伸并向右分成两股；细刻线保留切面的放射纹理。",
+          "en": "An enlarged carrot cross-section crops at the left. A ribbon-like form extends from its face and divides into two strands toward the right; fine lines preserve the radial texture of the cut surface."
+        },
+        "background": {
+          "zh": "卡雷尔因研究类胡萝卜素、黄素以及维生素A和B2，获得1937年诺贝尔化学奖的一半，另一半授予霍沃思。他研究植物色素的化学结构及其与维生素的关系。画面让胡萝卜横切面延伸出一条分为两股的色素带，表达辨认成分；这不是准确的分子结构、真实分离方法或测量图，也不表达营养治疗效果。短句为原创。\n1937年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：研究类胡萝卜素、黄素以及维生素A和B2",
+          "en": "Karrer received half the 1937 Nobel Prize in Chemistry for investigating carotenoids, flavins and vitamins A and B2; Haworth received the other half. He studied plant pigment structures and their relation to vitamins. A pigment ribbon separating into two strands from a carrot cross-section symbolizes identifying components. It is not a molecular structure, actual separation procedure or measured graph, and makes no nutritional treatment claim. The phrase is original.\n1937 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his investigations on carotenoids, flavins and vitamins A and B2"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年化学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/karrer/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-197",
+      "subject": "nobel-laureate-197",
+      "edition": "color",
+      "title": "保罗·卡雷尔",
+      "titleEnglish": "Paul Karrer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-197/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-197/color.jpg",
+      "sha256": "e44605dd5ffa05bfeaa5968be37268bc5e525fda6c1f6d7c534a7089a7ada014",
+      "thumbnailSHA256": "c606d1091a2541940054be2c75a07ee3899ecc2023c4b34fd48ca09ecf9fb1e7",
+      "context": {
+        "phrase": {
+          "zh": "从颜色里，辨认看不见的组成。",
+          "en": "Within color, discover the unseen components."
+        },
+        "visual": {
+          "zh": "放大的胡萝卜横切面从左侧越出画面，一条带状形态从切面延伸并向右分成两股；细刻线保留切面的放射纹理。",
+          "en": "An enlarged carrot cross-section crops at the left. A ribbon-like form extends from its face and divides into two strands toward the right; fine lines preserve the radial texture of the cut surface."
+        },
+        "background": {
+          "zh": "卡雷尔因研究类胡萝卜素、黄素以及维生素A和B2，获得1937年诺贝尔化学奖的一半，另一半授予霍沃思。他研究植物色素的化学结构及其与维生素的关系。画面让胡萝卜横切面延伸出一条分为两股的色素带，表达辨认成分；这不是准确的分子结构、真实分离方法或测量图，也不表达营养治疗效果。短句为原创。\n1937年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：研究类胡萝卜素、黄素以及维生素A和B2",
+          "en": "Karrer received half the 1937 Nobel Prize in Chemistry for investigating carotenoids, flavins and vitamins A and B2; Haworth received the other half. He studied plant pigment structures and their relation to vitamins. A pigment ribbon separating into two strands from a carrot cross-section symbolizes identifying components. It is not a molecular structure, actual separation procedure or measured graph, and makes no nutritional treatment claim. The phrase is original.\n1937 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his investigations on carotenoids, flavins and vitamins A and B2"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年化学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1937/karrer/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

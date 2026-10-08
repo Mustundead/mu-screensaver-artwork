@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-48",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-48",
+      "subject": "nobel-laureate-48",
+      "edition": "mono",
+      "title": "奥托·斯特恩",
+      "titleEnglish": "Otto Stern",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-48/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-48/mono.jpg",
+      "sha256": "f74ee31ead54a5758ad2bb6c358463da5112d8ae7cbf47a7af1cfb55ff5f4233",
+      "thumbnailSHA256": "8819386eda238f0e8dfd511eb6a683713fe045df91a46576f4e1d6e46eeaadc3",
+      "context": {
+        "phrase": {
+          "zh": "让微小的偏移，回答更大的问题。",
+          "en": "Let a small deflection answer a larger question."
+        },
+        "visual": {
+          "zh": "束源、狭缝、磁极和接收面横向排列，由金属支架连接；一条细线穿过装置，在磁极间隙内轻微偏转。",
+          "en": "A beam source, slits, magnet poles and a receiving surface form a horizontal sequence on metal supports. One fine trace passes through the apparatus and bends slightly inside the magnet gap."
+        },
+        "background": {
+          "zh": "斯特恩因发展分子束方法并发现质子的磁矩获得1943年诺贝尔物理学奖，该年度奖于1944年颁发。分子束把原子或分子的运动限制在可研究的方向，磁场中的偏移可帮助测量它们的磁性。画面以狭缝、两块磁极和接收面表达这种测量关系，是简化的原创构图，不是历史设备复原、实测轨迹或1922年银原子实验的数据图。短句为原创。\n1943年物理学奖；独享本年度奖项。获奖理由（中文译述）：发展分子束方法，并发现质子的磁矩",
+          "en": "Stern received the 1943 Nobel Prize in Physics, awarded in 1944, for developing the molecular beam method and discovering the magnetic moment of the proton. Directed atomic or molecular beams and their deflection in magnetic fields allow magnetic properties to be studied. Slits, magnet pole faces and a receiving surface express this measurement relationship in an original simplified composition, not a historical apparatus, measured trajectory or data from the 1922 silver-atom experiment. The phrase is original.\n1943 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his contribution to the development of the molecular ray method and his discovery of the magnetic moment of the proton"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1943 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1943/summary/",
+            "labelLocalized": {
+              "zh": "1943年物理学奖｜官方记录",
+              "en": "1943 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "nasonline.org",
+            "url": "https://www.nasonline.org/wp-content/uploads/2024/10/Stern_Otto.pdf",
+            "labelLocalized": {
+              "zh": "斯特恩生平与研究｜美国国家科学院",
+              "en": "Stern life and research — National Academy of Sciences"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-48",
+      "subject": "nobel-laureate-48",
+      "edition": "color",
+      "title": "奥托·斯特恩",
+      "titleEnglish": "Otto Stern",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-48/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-48/color.jpg",
+      "sha256": "5485c934f76bfc9922b59939edc2fd7b683decaa80a3e6bc740ca5446845ac54",
+      "thumbnailSHA256": "73990f1fcf1c0c0a7798b2f74d8df17e1ef01c0eadb729495f35d3f38ca9a9dc",
+      "context": {
+        "phrase": {
+          "zh": "让微小的偏移，回答更大的问题。",
+          "en": "Let a small deflection answer a larger question."
+        },
+        "visual": {
+          "zh": "束源、狭缝、磁极和接收面横向排列，由金属支架连接；一条细线穿过装置，在磁极间隙内轻微偏转。",
+          "en": "A beam source, slits, magnet poles and a receiving surface form a horizontal sequence on metal supports. One fine trace passes through the apparatus and bends slightly inside the magnet gap."
+        },
+        "background": {
+          "zh": "斯特恩因发展分子束方法并发现质子的磁矩获得1943年诺贝尔物理学奖，该年度奖于1944年颁发。分子束把原子或分子的运动限制在可研究的方向，磁场中的偏移可帮助测量它们的磁性。画面以狭缝、两块磁极和接收面表达这种测量关系，是简化的原创构图，不是历史设备复原、实测轨迹或1922年银原子实验的数据图。短句为原创。\n1943年物理学奖；独享本年度奖项。获奖理由（中文译述）：发展分子束方法，并发现质子的磁矩",
+          "en": "Stern received the 1943 Nobel Prize in Physics, awarded in 1944, for developing the molecular beam method and discovering the magnetic moment of the proton. Directed atomic or molecular beams and their deflection in magnetic fields allow magnetic properties to be studied. Slits, magnet pole faces and a receiving surface express this measurement relationship in an original simplified composition, not a historical apparatus, measured trajectory or data from the 1922 silver-atom experiment. The phrase is original.\n1943 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his contribution to the development of the molecular ray method and his discovery of the magnetic moment of the proton"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1943 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1943/summary/",
+            "labelLocalized": {
+              "zh": "1943年物理学奖｜官方记录",
+              "en": "1943 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "nasonline.org",
+            "url": "https://www.nasonline.org/wp-content/uploads/2024/10/Stern_Otto.pdf",
+            "labelLocalized": {
+              "zh": "斯特恩生平与研究｜美国国家科学院",
+              "en": "Stern life and research — National Academy of Sciences"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

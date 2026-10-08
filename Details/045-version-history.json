@@ -1,0 +1,70 @@
+{
+  "subject": "045-version-history",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:045-version-history",
+      "subject": "045-version-history",
+      "edition": "mono",
+      "title": "软件的分支与合并",
+      "titleEnglish": "Software Branches and Merges",
+      "category": "计算与人工智能",
+      "image": "Images/mono/045-version-history.jpg",
+      "thumbnail": "Thumbs/mono/045-version-history.jpg",
+      "sha256": "072904c8b90c161f87f8c67838b5b5e21c2262f5a722e543b6cb59e90749109d",
+      "thumbnailSHA256": "a9de4fa617fb89c96cbc757450ef4d723e880c8ff8885278c1e9a82c92bf70bf",
+      "context": {
+        "phrase": {
+          "zh": "每条分支，都保存一次选择。",
+          "en": "Each branch preserves a choice."
+        },
+        "visual": {
+          "zh": "多条彩色路径从同一处发散又汇合，借空间路线表现版本演进。它不是任何真实项目的提交历史。",
+          "en": "Colored paths split and meet, turning version history into routes through space. This is not the commit graph of a real project."
+        },
+        "background": {
+          "zh": "在 Git 中，一次提交保存内容快照并指向先前提交；普通提交通常有一个父提交，合并提交可以有多个。分支让不同工作沿各自路径发展，再选择是否合并。",
+          "en": "In Git, a commit points to a content snapshot and earlier commits; an ordinary commit normally has one parent, while a merge commit can have more. Branches let lines of work develop separately before a possible merge."
+        },
+        "sources": [
+          {
+            "label": "Git · Branches in a Nutshell",
+            "url": "https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:045-version-history",
+      "subject": "045-version-history",
+      "edition": "color",
+      "title": "软件的分支与合并",
+      "titleEnglish": "Software Branches and Merges",
+      "category": "计算与人工智能",
+      "image": "Images/color/045-version-history.jpg",
+      "thumbnail": "Thumbs/color/045-version-history.jpg",
+      "sha256": "d81227e1b622929ff122f62e3f66a4feeacfdc5ff4b74bae6e234419f6e16c5e",
+      "thumbnailSHA256": "0dfc4516a1a61e044305ecaed7df1581442e7d2c6e2be8e5389c5e70ecc57503",
+      "context": {
+        "phrase": {
+          "zh": "每条分支，都保存一次选择。",
+          "en": "Each branch preserves a choice."
+        },
+        "visual": {
+          "zh": "多条彩色路径从同一处发散又汇合，借空间路线表现版本演进。它不是任何真实项目的提交历史。",
+          "en": "Colored paths split and meet, turning version history into routes through space. This is not the commit graph of a real project."
+        },
+        "background": {
+          "zh": "在 Git 中，一次提交保存内容快照并指向先前提交；普通提交通常有一个父提交，合并提交可以有多个。分支让不同工作沿各自路径发展，再选择是否合并。",
+          "en": "In Git, a commit points to a content snapshot and earlier commits; an ordinary commit normally has one parent, while a merge commit can have more. Branches let lines of work develop separately before a possible merge."
+        },
+        "sources": [
+          {
+            "label": "Git · Branches in a Nutshell",
+            "url": "https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-476",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-476",
+      "subject": "nobel-laureate-476",
+      "edition": "mono",
+      "title": "保罗·亨利·德斯图内勒·德贡斯当",
+      "titleEnglish": "Paul Henri d'Estournelles de Constant",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-476/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-476/mono.jpg",
+      "sha256": "8216c18cb5303ab9a1c93a5ff8da4230ac276a34f57bf2ee9aecba2a4e4f669c",
+      "thumbnailSHA256": "9983ebe9cf9769620fcf9eb66632d7c6c6fe03ec721655b0025f7dd1c9dc60e9",
+      "context": {
+        "phrase": {
+          "zh": "让规则，成为连接的办法。",
+          "en": "Let shared rules make a connection."
+        },
+        "visual": {
+          "zh": "放大的钢笔尖斜切画面，两张未署名的折叠纸张由蓝色织物相连，远处的小桥延续连接的意象。画面用书写与连接表达国际仲裁的主张，没有复制真实条约或某次签署现场。",
+          "en": "An enlarged diagonal pen nib overlaps two unmarked folded sheets linked by cobalt cloth. A distant small bridge echoes the connection. The objects evoke written agreement and arbitration without reproducing a treaty or signing ceremony."
+        },
+        "background": {
+          "zh": "保罗·亨利·德斯图内勒·德贡斯当与奥古斯特·贝尔纳尔特共同获得1909年诺贝尔和平奖，两人各获一半奖金，获奖理由是他们在国际和平与仲裁运动中的重要地位。诺贝尔提名档案记录了他代表法国参加1899年海牙和平会议、随后推动常设仲裁法院，以及1903年创办法国仲裁团体的活动。仲裁意味着各方同意将争端交给第三方裁断，是他推动国际和平的重要办法。配图中的笔、纸和桥是原创象征，没有将某份条约或一场会议当作获奖工作的全部；短句为原创，并非他的引语。\n1909年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们在国际和平与仲裁运动中的重要地位。",
+          "en": "Paul Henri d'Estournelles de Constant shared the 1909 Nobel Peace Prize equally with Auguste Beernaert for their prominent position in the international movement for peace and arbitration. The Nobel nomination archive records his representation of France at the 1899 Hague Peace Conference, subsequent advocacy of the Permanent Court of Arbitration, and founding of the French Groupe de l'Arbitrage in 1903. Arbitration submits a dispute to a third party agreed upon by the parties. Pen, paper and bridge are original symbols of his advocacy, not reproductions of a specific treaty or event. The phrase is original, not a quotation.\n1909 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their prominent position in the international movement for peace and arbitration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年和平奖｜官方记录",
+              "en": "1909 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/nomination/archive/show.php?id=2634",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-476",
+      "subject": "nobel-laureate-476",
+      "edition": "color",
+      "title": "保罗·亨利·德斯图内勒·德贡斯当",
+      "titleEnglish": "Paul Henri d'Estournelles de Constant",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-476/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-476/color.jpg",
+      "sha256": "3056a533763dbe240bbed8b2ad1b9d8fa00740d270b2cee5fb0641518dd02185",
+      "thumbnailSHA256": "1869ba42bf818318c8cb04afef2f3f33d48ad3171e4bd9ddeb6d6e74c84f6c71",
+      "context": {
+        "phrase": {
+          "zh": "让规则，成为连接的办法。",
+          "en": "Let shared rules make a connection."
+        },
+        "visual": {
+          "zh": "放大的钢笔尖斜切画面，两张未署名的折叠纸张由蓝色织物相连，远处的小桥延续连接的意象。画面用书写与连接表达国际仲裁的主张，没有复制真实条约或某次签署现场。",
+          "en": "An enlarged diagonal pen nib overlaps two unmarked folded sheets linked by cobalt cloth. A distant small bridge echoes the connection. The objects evoke written agreement and arbitration without reproducing a treaty or signing ceremony."
+        },
+        "background": {
+          "zh": "保罗·亨利·德斯图内勒·德贡斯当与奥古斯特·贝尔纳尔特共同获得1909年诺贝尔和平奖，两人各获一半奖金，获奖理由是他们在国际和平与仲裁运动中的重要地位。诺贝尔提名档案记录了他代表法国参加1899年海牙和平会议、随后推动常设仲裁法院，以及1903年创办法国仲裁团体的活动。仲裁意味着各方同意将争端交给第三方裁断，是他推动国际和平的重要办法。配图中的笔、纸和桥是原创象征，没有将某份条约或一场会议当作获奖工作的全部；短句为原创，并非他的引语。\n1909年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们在国际和平与仲裁运动中的重要地位。",
+          "en": "Paul Henri d'Estournelles de Constant shared the 1909 Nobel Peace Prize equally with Auguste Beernaert for their prominent position in the international movement for peace and arbitration. The Nobel nomination archive records his representation of France at the 1899 Hague Peace Conference, subsequent advocacy of the Permanent Court of Arbitration, and founding of the French Groupe de l'Arbitrage in 1903. Arbitration submits a dispute to a third party agreed upon by the parties. Pen, paper and bridge are original symbols of his advocacy, not reproductions of a specific treaty or event. The phrase is original, not a quotation.\n1909 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their prominent position in the international movement for peace and arbitration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年和平奖｜官方记录",
+              "en": "1909 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/nomination/archive/show.php?id=2634",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

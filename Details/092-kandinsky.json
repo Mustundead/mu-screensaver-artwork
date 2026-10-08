@@ -1,0 +1,70 @@
+{
+  "subject": "092-kandinsky",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:092-kandinsky",
+      "subject": "092-kandinsky",
+      "edition": "mono",
+      "title": "康定斯基与抽象",
+      "titleEnglish": "Kandinsky and Abstraction",
+      "category": "艺术与人文",
+      "image": "Images/mono/092-kandinsky.jpg",
+      "thumbnail": "Thumbs/mono/092-kandinsky.jpg",
+      "sha256": "2acfbe677a97fbc73caa61e38eadde17ab037931da7b5dc931b7dbfaca231128",
+      "thumbnailSHA256": "1d63fc53c859f7a85d69358dba68c90aa078600363f8177d19c4ca3d730f246d",
+      "context": {
+        "phrase": {
+          "zh": "形状之间，也可以有节奏。",
+          "en": "There can be rhythm between shapes."
+        },
+        "visual": {
+          "zh": "康定斯基的生成肖像被圆、线与色块环绕，将抽象绘画的节奏转成一场视觉对话。它并非《构成第八号》的复制，也不使用某套统一的颜色含义词典。",
+          "en": "A generated Kandinsky portrait is surrounded by circles, lines and colors in a visual dialogue. It is not a copy of Composition 8 or an application of a universal color dictionary."
+        },
+        "background": {
+          "zh": "古根海姆博物馆将《构成第八号》定年为 1923 年 7 月。其教学资料通过几何形与空间关系介绍这件作品。抽象绘画可以让观看者关注形状、方向与节奏本身，而不必把每个形状猜成一件现实物品。",
+          "en": "The Guggenheim dates Composition 8 to July 1923 and discusses it through geometry and spatial relationships. Abstract painting can invite attention to shape, direction and rhythm themselves, without requiring every form to stand for a recognizable object."
+        },
+        "sources": [
+          {
+            "label": "Guggenheim Bilbao · Composition 8",
+            "url": "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:092-kandinsky",
+      "subject": "092-kandinsky",
+      "edition": "color",
+      "title": "康定斯基与抽象",
+      "titleEnglish": "Kandinsky and Abstraction",
+      "category": "艺术与人文",
+      "image": "Images/color/092-kandinsky.jpg",
+      "thumbnail": "Thumbs/color/092-kandinsky.jpg",
+      "sha256": "89552ec64eb8391ebce169a1c0652c1ba3aa0fe008f95a50558725a51991c4f2",
+      "thumbnailSHA256": "3428f78f3e9ce219b8599b04094e54bb446acbe9fa8dedaae2280c170df75384",
+      "context": {
+        "phrase": {
+          "zh": "形状之间，也可以有节奏。",
+          "en": "There can be rhythm between shapes."
+        },
+        "visual": {
+          "zh": "康定斯基的生成肖像被圆、线与色块环绕，将抽象绘画的节奏转成一场视觉对话。它并非《构成第八号》的复制，也不使用某套统一的颜色含义词典。",
+          "en": "A generated Kandinsky portrait is surrounded by circles, lines and colors in a visual dialogue. It is not a copy of Composition 8 or an application of a universal color dictionary."
+        },
+        "background": {
+          "zh": "古根海姆博物馆将《构成第八号》定年为 1923 年 7 月。其教学资料通过几何形与空间关系介绍这件作品。抽象绘画可以让观看者关注形状、方向与节奏本身，而不必把每个形状猜成一件现实物品。",
+          "en": "The Guggenheim dates Composition 8 to July 1923 and discusses it through geometry and spatial relationships. Abstract painting can invite attention to shape, direction and rhythm themselves, without requiring every form to stand for a recognizable object."
+        },
+        "sources": [
+          {
+            "label": "Guggenheim Bilbao · Composition 8",
+            "url": "https://www.guggenheim-bilbao.eus/en/learn/schools/teachers-guides/composition-8"
+          }
+        ]
+      }
+    }
+  }
+}

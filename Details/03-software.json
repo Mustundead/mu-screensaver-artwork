@@ -1,0 +1,70 @@
+{
+  "subject": "03-software",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:03-software",
+      "subject": "03-software",
+      "edition": "mono",
+      "title": "软件：工具、界面与人的创造",
+      "titleEnglish": "Software and Human Creativity",
+      "category": "计算与人工智能",
+      "image": "Images/mono/03-software.jpg",
+      "thumbnail": "Thumbs/mono/03-software.jpg",
+      "sha256": "7de08d5163387152ea4f714ae007b0db1ac50c9b1d57df94d9097ddaa9a149ee",
+      "thumbnailSHA256": "10b819cd8e6262914c0054078da3a8581943493277853b7408cf500e286c595d",
+      "context": {
+        "phrase": {
+          "zh": "工具的下一种样子，由人写下。",
+          "en": "People write the next shape of their tools."
+        },
+        "visual": {
+          "zh": "手、屏幕和交叠窗口共同表达软件制作：抽象规则最终变成可操作的工具。画面中的界面是构图元素，不对应一款真实软件或可执行程序。",
+          "en": "Hands, screens and overlapping windows connect abstract rules with usable tools. The depicted interfaces are compositional elements, not a real application or executable program."
+        },
+        "background": {
+          "zh": "计算机历史博物馆记载，约翰·巴克斯领导的 IBM 团队在 1957 年推出 FORTRAN，以接近英语的语句支持科学计算。编程语言让人可以用更高层次的表达描述计算，而不必逐条安排底层机器操作。",
+          "en": "The Computer History Museum records the IBM team led by John Backus developing FORTRAN in 1957. Its English-like statements served scientific computing. Programming languages let people express calculations at a higher level instead of specifying every low-level machine operation."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · 1957",
+            "url": "https://www.computerhistory.org/timeline/1957/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:03-software",
+      "subject": "03-software",
+      "edition": "color",
+      "title": "软件：工具、界面与人的创造",
+      "titleEnglish": "Software and Human Creativity",
+      "category": "计算与人工智能",
+      "image": "Images/color/03-software.jpg",
+      "thumbnail": "Thumbs/color/03-software.jpg",
+      "sha256": "3b88d1be2db97a2b6a50d0d98a4c8a5069e7ed5c03a50da233e7b5280d3ec9a7",
+      "thumbnailSHA256": "e0774f4bde359fb6ed1507e38e2c692fc1a9683abb1044cce263b121f577d341",
+      "context": {
+        "phrase": {
+          "zh": "工具的下一种样子，由人写下。",
+          "en": "People write the next shape of their tools."
+        },
+        "visual": {
+          "zh": "手、屏幕和交叠窗口共同表达软件制作：抽象规则最终变成可操作的工具。画面中的界面是构图元素，不对应一款真实软件或可执行程序。",
+          "en": "Hands, screens and overlapping windows connect abstract rules with usable tools. The depicted interfaces are compositional elements, not a real application or executable program."
+        },
+        "background": {
+          "zh": "计算机历史博物馆记载，约翰·巴克斯领导的 IBM 团队在 1957 年推出 FORTRAN，以接近英语的语句支持科学计算。编程语言让人可以用更高层次的表达描述计算，而不必逐条安排底层机器操作。",
+          "en": "The Computer History Museum records the IBM team led by John Backus developing FORTRAN in 1957. Its English-like statements served scientific computing. Programming languages let people express calculations at a higher level instead of specifying every low-level machine operation."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · 1957",
+            "url": "https://www.computerhistory.org/timeline/1957/"
+          }
+        ]
+      }
+    }
+  }
+}

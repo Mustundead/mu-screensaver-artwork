@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-492",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-492",
+      "subject": "nobel-laureate-492",
+      "edition": "mono",
+      "title": "费迪南·比松",
+      "titleEnglish": "Ferdinand Buisson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-492/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-492/mono.jpg",
+      "sha256": "a53f656eaa1a5cabb7983a1971347398ef8bd03318f635a8c50ec6885c7e78b9",
+      "thumbnailSHA256": "39eb5edc65deddab9157a6b27538ea9fd929c88abaeec43e76a533c71e462270",
+      "context": {
+        "phrase": {
+          "zh": "理解可以学习，和平也需要练习。",
+          "en": "Understanding can be learned; peace takes practice."
+        },
+        "visual": {
+          "zh": "一只手从左下伸入，握住粉笔画出向右上延伸的曲线；细刻线描出手指和握笔处，粉笔痕与板面的明暗形成对照。这是关于学习与理解的原创比喻，不是比松本人的肖像。",
+          "en": "A hand enters from the lower left, holding chalk against a curve that rises toward the upper right. Fine hatching describes the fingers and grip, while the chalk trace contrasts with the board. This original metaphor for learning and understanding does not depict Buisson himself."
+        },
+        "background": {
+          "zh": "比松与奎德各获1927年诺贝尔和平奖的一半，表彰他们推动法国与德国民众支持和平国际合作。比松关心教育、人权与法德和解。书写动作与粉笔线条是学习相互理解的原创寓意，不描绘比松本人，也不表示教育本身就能保证和平；短句为原创。\n1927年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他与奎德推动法国和德国民众支持和平国际合作。",
+          "en": "Buisson and Quidde shared the 1927 Nobel Peace Prize equally for encouraging public support in France and Germany for peaceful international cooperation. Buisson worked for education, human rights and Franco-German reconciliation. The writing action and chalk stroke are an original metaphor for learning mutual understanding, without depicting Buisson himself or a claim that education alone guarantees peace. The phrase is original.\n1927 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年和平奖｜官方记录",
+              "en": "1927 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1927",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1927/buisson/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-492",
+      "subject": "nobel-laureate-492",
+      "edition": "color",
+      "title": "费迪南·比松",
+      "titleEnglish": "Ferdinand Buisson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-492/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-492/color.jpg",
+      "sha256": "6c2cbaa9538a86e4cf410a8fae84435a3bf001cae93ab6799ca94c536fbc1205",
+      "thumbnailSHA256": "3c585bdf9593426184654686a40223eb21ef06fcc87cc9558c3a4bb82ea9bb9f",
+      "context": {
+        "phrase": {
+          "zh": "理解可以学习，和平也需要练习。",
+          "en": "Understanding can be learned; peace takes practice."
+        },
+        "visual": {
+          "zh": "一只手从左下伸入，握住粉笔画出向右上延伸的曲线；细刻线描出手指和握笔处，粉笔痕与板面的明暗形成对照。这是关于学习与理解的原创比喻，不是比松本人的肖像。",
+          "en": "A hand enters from the lower left, holding chalk against a curve that rises toward the upper right. Fine hatching describes the fingers and grip, while the chalk trace contrasts with the board. This original metaphor for learning and understanding does not depict Buisson himself."
+        },
+        "background": {
+          "zh": "比松与奎德各获1927年诺贝尔和平奖的一半，表彰他们推动法国与德国民众支持和平国际合作。比松关心教育、人权与法德和解。书写动作与粉笔线条是学习相互理解的原创寓意，不描绘比松本人，也不表示教育本身就能保证和平；短句为原创。\n1927年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他与奎德推动法国和德国民众支持和平国际合作。",
+          "en": "Buisson and Quidde shared the 1927 Nobel Peace Prize equally for encouraging public support in France and Germany for peaceful international cooperation. Buisson worked for education, human rights and Franco-German reconciliation. The writing action and chalk stroke are an original metaphor for learning mutual understanding, without depicting Buisson himself or a claim that education alone guarantees peace. The phrase is original.\n1927 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their contribution to the emergence in France and Germany of a public opinion which favours peaceful international cooperation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年和平奖｜官方记录",
+              "en": "1927 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1927",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1927/buisson/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

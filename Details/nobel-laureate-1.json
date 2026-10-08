@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-1",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-1",
+      "subject": "nobel-laureate-1",
+      "edition": "mono",
+      "title": "威廉·康拉德·伦琴",
+      "titleEnglish": "Wilhelm Conrad Röntgen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-1/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-1/mono.jpg",
+      "sha256": "51a40ca0345498502189ba3a04723c4cce7e9f7f49798385beda5aec8a3d66ee",
+      "thumbnailSHA256": "a03850a26306df011e0e79a695730be8bc94f3ed10b33fe1ed2309bca3b71a1a",
+      "context": {
+        "phrase": {
+          "zh": "让不可见的世界，显露一角。",
+          "en": "Let the unseen world reveal a little more."
+        },
+        "visual": {
+          "zh": "为伦琴独立创作的肖像拼贴，结合早期放电管与手部透视影像；是艺术解读，不是精确实验示意图。",
+          "en": "An original Röntgen portrait collage with an early discharge tube and hand radiograph; an artistic interpretation, not a precise experiment diagram."
+        },
+        "background": {
+          "zh": "威廉·康拉德·伦琴于1895年发现后来被称为X射线的射线，并获得1901年首届诺贝尔物理学奖。画面以早期放电管和手部骨骼影像，表现这项发现让人体内部结构能够被观察的意义。\n1901年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现后来以其名字命名的非凡射线所作出的卓越贡献。",
+          "en": "Wilhelm Conrad Röntgen discovered X-rays in 1895 and received the first Nobel Prize in Physics in 1901. An early discharge tube and a hand radiograph evoke the discovery that made internal structures visible.\n1901 — The Nobel Prize in Physics. Received the full prize. Official motivation: in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年物理学奖｜官方记录",
+              "en": "1901 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1901/perspectives/?print=1",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-1",
+      "subject": "nobel-laureate-1",
+      "edition": "color",
+      "title": "威廉·康拉德·伦琴",
+      "titleEnglish": "Wilhelm Conrad Röntgen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-1/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-1/color.jpg",
+      "sha256": "70991d86b49154ba8d6432d605ad48b0418e16bd052d98755346fceb8ac4786e",
+      "thumbnailSHA256": "6b6d1eb5dac47627a686885e282b44f23883f6b4a48502bc6c138959d314cbcc",
+      "context": {
+        "phrase": {
+          "zh": "让不可见的世界，显露一角。",
+          "en": "Let the unseen world reveal a little more."
+        },
+        "visual": {
+          "zh": "为伦琴独立创作的肖像拼贴，结合早期放电管与手部透视影像；是艺术解读，不是精确实验示意图。",
+          "en": "An original Röntgen portrait collage with an early discharge tube and hand radiograph; an artistic interpretation, not a precise experiment diagram."
+        },
+        "background": {
+          "zh": "威廉·康拉德·伦琴于1895年发现后来被称为X射线的射线，并获得1901年首届诺贝尔物理学奖。画面以早期放电管和手部骨骼影像，表现这项发现让人体内部结构能够被观察的意义。\n1901年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现后来以其名字命名的非凡射线所作出的卓越贡献。",
+          "en": "Wilhelm Conrad Röntgen discovered X-rays in 1895 and received the first Nobel Prize in Physics in 1901. An early discharge tube and a hand radiograph evoke the discovery that made internal structures visible.\n1901 — The Nobel Prize in Physics. Received the full prize. Official motivation: in recognition of the extraordinary services he has rendered by the discovery of the remarkable rays subsequently named after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年物理学奖｜官方记录",
+              "en": "1901 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1901/perspectives/?print=1",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

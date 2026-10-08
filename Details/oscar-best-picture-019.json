@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-019",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-019",
+      "subject": "oscar-best-picture-019",
+      "edition": "mono",
+      "title": "黄金时代",
+      "titleEnglish": "The Best Years of Our Lives",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-019/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-019/mono.jpg",
+      "sha256": "9e384f4d285717fe2271548b0ff75c827b79601d9b05cc22ccb4ff56c1df4564",
+      "thumbnailSHA256": "60f197212034982706a446ad52eafc5da356c9dda546f97e796e4690e786a92f",
+      "context": {
+        "phrase": {
+          "zh": "回到家，也要重新学习生活。",
+          "en": "Coming home can mean learning how to live again."
+        },
+        "visual": {
+          "zh": "左下大幅裁切的旧机翼与右上较小的木门、皮鞋形成远近对照。彩色版区分褪色橄榄绿金属、暖木和棕色皮革，黑白版保持相同构图。它们是重返平民生活的原创象征，不是电影原场景、人物用品或真实机型的复原。",
+          "en": "A greatly cropped worn aircraft wing at lower left contrasts with a smaller wooden doorway and civilian shoes at upper right. Color distinguishes faded olive metal, warm wood and brown leather; monochrome keeps the composition. These original symbols of returning to civilian life do not reproduce a film scene, character belongings or an actual aircraft model."
+        },
+        "background": {
+          "zh": "威廉·惠勒执导的《黄金时代》于1946年上映，获得1947年第19届奥斯卡最佳影片奖。美国电影学会的介绍指出，影片讲述三位二战退伍军人返乡后的经历，包括身体与心理创伤。画面以旧机翼和家门表达从战争回到日常的距离，不表示人物的困难已全部解决。短句为原创，不是电影台词。\n第19届奥斯卡最佳影片：黄金时代。颁奖年份 1947；参评年份 1946。",
+          "en": "William Wyler’s The Best Years of Our Lives was released in 1946 and won Best Picture at the 19th Academy Awards in 1947. AFI describes three World War II veterans returning home with physical and psychological injuries. Wing and doorway are an original interpretation of the distance between war and ordinary life, without suggesting that all the characters’ difficulties are resolved. The phrase is original, not film dialogue.\nAcademy Awards ceremony 19 (1947), Best Picture: The Best Years of Our Lives. Eligibility year: 1946."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1947",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "afi.com",
+            "url": "https://www.afi.com/news/the-best-years-of-our-lives-afi-catalog-spotlight/",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-019",
+      "subject": "oscar-best-picture-019",
+      "edition": "color",
+      "title": "黄金时代",
+      "titleEnglish": "The Best Years of Our Lives",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-019/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-019/color.jpg",
+      "sha256": "2ece62c3faf00f588501535d2439cef728228b14e610689b266603dd70968dcd",
+      "thumbnailSHA256": "6a11addb654c80df6d550662cf61078b0db50ca704b0f4924373f4cbf876cf7d",
+      "context": {
+        "phrase": {
+          "zh": "回到家，也要重新学习生活。",
+          "en": "Coming home can mean learning how to live again."
+        },
+        "visual": {
+          "zh": "左下大幅裁切的旧机翼与右上较小的木门、皮鞋形成远近对照。彩色版区分褪色橄榄绿金属、暖木和棕色皮革，黑白版保持相同构图。它们是重返平民生活的原创象征，不是电影原场景、人物用品或真实机型的复原。",
+          "en": "A greatly cropped worn aircraft wing at lower left contrasts with a smaller wooden doorway and civilian shoes at upper right. Color distinguishes faded olive metal, warm wood and brown leather; monochrome keeps the composition. These original symbols of returning to civilian life do not reproduce a film scene, character belongings or an actual aircraft model."
+        },
+        "background": {
+          "zh": "威廉·惠勒执导的《黄金时代》于1946年上映，获得1947年第19届奥斯卡最佳影片奖。美国电影学会的介绍指出，影片讲述三位二战退伍军人返乡后的经历，包括身体与心理创伤。画面以旧机翼和家门表达从战争回到日常的距离，不表示人物的困难已全部解决。短句为原创，不是电影台词。\n第19届奥斯卡最佳影片：黄金时代。颁奖年份 1947；参评年份 1946。",
+          "en": "William Wyler’s The Best Years of Our Lives was released in 1946 and won Best Picture at the 19th Academy Awards in 1947. AFI describes three World War II veterans returning home with physical and psychological injuries. Wing and doorway are an original interpretation of the distance between war and ordinary life, without suggesting that all the characters’ difficulties are resolved. The phrase is original, not film dialogue.\nAcademy Awards ceremony 19 (1947), Best Picture: The Best Years of Our Lives. Eligibility year: 1946."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1947",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "afi.com",
+            "url": "https://www.afi.com/news/the-best-years-of-our-lives-afi-catalog-spotlight/",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

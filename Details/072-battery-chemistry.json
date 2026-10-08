@@ -1,0 +1,70 @@
+{
+  "subject": "072-battery-chemistry",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:072-battery-chemistry",
+      "subject": "072-battery-chemistry",
+      "edition": "mono",
+      "title": "电池与迁移",
+      "titleEnglish": "Batteries and Ion Transport",
+      "category": "工程与制造",
+      "image": "Images/mono/072-battery-chemistry.jpg",
+      "thumbnail": "Thumbs/mono/072-battery-chemistry.jpg",
+      "sha256": "bb10a62fcd164fd24fa824dc277697c2f3f26776e86b1fa546a2c6f42f1e5b0a",
+      "thumbnailSHA256": "e878dbb4ba97dd14b3b471d54641d639e8cee5b09514dffe017cd390a9bc02ab",
+      "context": {
+        "phrase": {
+          "zh": "离子在内部往返，电流在外部流动。",
+          "en": "Ions travel inside as current flows outside."
+        },
+        "visual": {
+          "zh": "两个电极与其间的发亮粒子形成往返路径，把储能和放电表现为迁移。粒子的颜色与间距不对应具体电池化学。",
+          "en": "Two electrodes and bright particles form a return path, portraying storage and discharge as movement. Particle colors and spacing do not represent a particular battery chemistry."
+        },
+        "background": {
+          "zh": "充放电时，电池内的离子通过电解质移动，外部回路的电子也随之流动。以锂离子电池为例，放电时锂离子从负极向正极迁移；实际寿命与安全性还取决于材料和使用条件。",
+          "en": "During charging and discharging, ions move through the electrolyte while electrons travel through the external circuit. In a lithium-ion cell, lithium ions move from anode to cathode during discharge; lifespan and safety also depend on materials and conditions."
+        },
+        "sources": [
+          {
+            "label": "US Department of Energy · Batteries",
+            "url": "https://www.energy.gov/science/doe-explainsbatteries"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:072-battery-chemistry",
+      "subject": "072-battery-chemistry",
+      "edition": "color",
+      "title": "电池与迁移",
+      "titleEnglish": "Batteries and Ion Transport",
+      "category": "工程与制造",
+      "image": "Images/color/072-battery-chemistry.jpg",
+      "thumbnail": "Thumbs/color/072-battery-chemistry.jpg",
+      "sha256": "a422ef0a0988016610d524d16cd29350a3d1ac6cb183db62c1974b36347bd7e6",
+      "thumbnailSHA256": "668aea4cef8d2ea64523c99c1d133ad6c1284ab7af4788246fc60712718d61e5",
+      "context": {
+        "phrase": {
+          "zh": "离子在内部往返，电流在外部流动。",
+          "en": "Ions travel inside as current flows outside."
+        },
+        "visual": {
+          "zh": "两个电极与其间的发亮粒子形成往返路径，把储能和放电表现为迁移。粒子的颜色与间距不对应具体电池化学。",
+          "en": "Two electrodes and bright particles form a return path, portraying storage and discharge as movement. Particle colors and spacing do not represent a particular battery chemistry."
+        },
+        "background": {
+          "zh": "充放电时，电池内的离子通过电解质移动，外部回路的电子也随之流动。以锂离子电池为例，放电时锂离子从负极向正极迁移；实际寿命与安全性还取决于材料和使用条件。",
+          "en": "During charging and discharging, ions move through the electrolyte while electrons travel through the external circuit. In a lithium-ion cell, lithium ions move from anode to cathode during discharge; lifespan and safety also depend on materials and conditions."
+        },
+        "sources": [
+          {
+            "label": "US Department of Energy · Batteries",
+            "url": "https://www.energy.gov/science/doe-explainsbatteries"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "subject": "nobel-laureate-617",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-617",
+      "subject": "nobel-laureate-617",
+      "edition": "mono",
+      "title": "赫尔曼·黑塞",
+      "titleEnglish": "Hermann Hesse",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-617/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-617/mono.jpg",
+      "sha256": "2dbe174b054bd653ead83d047b081c1de54cd4c79ee0274215180bcd0c77227c",
+      "thumbnailSHA256": "1e527354bed03df8de93e39c8ce25034154134b960843b2b7a9e8beac3b1e316",
+      "context": {
+        "phrase": {
+          "zh": "每一步，都在寻找自己的方向。",
+          "en": "Each step seeks its own direction."
+        },
+        "visual": {
+          "zh": "粗大的树干占据中央，树根向地面延展，前景石阶与两侧绕树的小径穿过岩石和植被，细刻线表现树皮与石面。",
+          "en": "A broad central trunk spreads roots across the ground; foreground steps and paths around either side pass through rocks and plants, with fine hatching defining bark and stone."
+        },
+        "background": {
+          "zh": "黑塞获得1946年诺贝尔文学奖。获奖理由赞扬他富于灵感、日益大胆而深入的写作，以及作品中的古典人道主义理想和文体品质。树根间曲折的石阶是寻找方向的原创寓意，不复现某部小说的具体场景，也不是获奖理由的图解。短句为原创。\n1946年文学奖；独享本年度奖项。获奖理由（中文译述）：以富于灵感、日益大胆而深入的作品，展现古典人道主义理想和出色的文体品质。",
+          "en": "Hesse received the 1946 Nobel Prize in Literature for inspired writing of increasing boldness and insight, expressing classical humanitarian ideals with distinguished style. Winding steps among roots form an original metaphor for finding direction, not a specific scene from a novel or an illustration of the award citation. The phrase is original.\n1946 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年文学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-617",
+      "subject": "nobel-laureate-617",
+      "edition": "color",
+      "title": "赫尔曼·黑塞",
+      "titleEnglish": "Hermann Hesse",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-617/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-617/color.jpg",
+      "sha256": "d4bf92f204ec3d877fda413f156007e543342febb42f543a37483ede96ef608f",
+      "thumbnailSHA256": "dc7b7e1bd12de349740946f8c71930c9fa3e34df3a7b4acb1eb2e7418a8f9b34",
+      "context": {
+        "phrase": {
+          "zh": "每一步，都在寻找自己的方向。",
+          "en": "Each step seeks its own direction."
+        },
+        "visual": {
+          "zh": "粗大的树干占据中央，树根向地面延展，前景石阶与两侧绕树的小径穿过岩石和植被，细刻线表现树皮与石面。",
+          "en": "A broad central trunk spreads roots across the ground; foreground steps and paths around either side pass through rocks and plants, with fine hatching defining bark and stone."
+        },
+        "background": {
+          "zh": "黑塞获得1946年诺贝尔文学奖。获奖理由赞扬他富于灵感、日益大胆而深入的写作，以及作品中的古典人道主义理想和文体品质。树根间曲折的石阶是寻找方向的原创寓意，不复现某部小说的具体场景，也不是获奖理由的图解。短句为原创。\n1946年文学奖；独享本年度奖项。获奖理由（中文译述）：以富于灵感、日益大胆而深入的作品，展现古典人道主义理想和出色的文体品质。",
+          "en": "Hesse received the 1946 Nobel Prize in Literature for inspired writing of increasing boldness and insight, expressing classical humanitarian ideals with distinguished style. Winding steps among roots form an original metaphor for finding direction, not a specific scene from a novel or an illustration of the award citation. The phrase is original.\n1946 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his inspired writings which, while growing in boldness and penetration, exemplify the classical humanitarian ideals and high qualities of style"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年文学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

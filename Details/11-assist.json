@@ -1,0 +1,70 @@
+{
+  "subject": "11-assist",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:11-assist",
+      "subject": "11-assist",
+      "edition": "mono",
+      "title": "参与：辅助科技与日常动作",
+      "titleEnglish": "Assistive Technology",
+      "category": "工程与制造",
+      "image": "Images/mono/11-assist.jpg",
+      "thumbnail": "Thumbs/mono/11-assist.jpg",
+      "sha256": "e94fbeae522eb3237a583901162479f6e4716c8491334f718cad56e90d6fc142",
+      "thumbnailSHA256": "ed0ea8caa4d5b811345e26fb4a45413ed9a6e12dc1d98e18a83a57e72e693622",
+      "context": {
+        "phrase": {
+          "zh": "好的工具，让更多人参与。",
+          "en": "Good tools make room for more people."
+        },
+        "visual": {
+          "zh": "相触的手与机械部件把辅助科技放回日常动作中，强调参与和自主。画面是概念插画，不展示一种获准使用的医疗器械，也不承诺具体康复效果。",
+          "en": "Hands and mechanical parts place assistive technology within everyday action, emphasizing participation and autonomy. This is a concept illustration, not an approved medical device or a promise of rehabilitation outcomes."
+        },
+        "background": {
+          "zh": "世界卫生组织与联合国儿童基金会的 2022 年报告估计，全球超过 25 亿人需要一种或多种辅助产品，例如轮椅、助听器或支持沟通的应用。这个数字是该报告的估计，不是本屏保实时统计；辅助科技也远不止机械义肢。",
+          "en": "A 2022 WHO and UNICEF report estimated that more than 2.5 billion people needed one or more assistive products, including wheelchairs, hearing aids and communication apps. This is a dated report estimate, not a live count. Assistive technology extends far beyond robotic prostheses."
+        },
+        "sources": [
+          {
+            "label": "WHO / UNICEF · 2022 assistive technology report",
+            "url": "https://www.who.int/news/item/16-05-2022-almost-one-billion-children-and-adults-with-disabilities-and-older-persons-in-need-of-assistive-technology-denied-access--according-to-new-report"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:11-assist",
+      "subject": "11-assist",
+      "edition": "color",
+      "title": "参与：辅助科技与日常动作",
+      "titleEnglish": "Assistive Technology",
+      "category": "工程与制造",
+      "image": "Images/color/11-assist.jpg",
+      "thumbnail": "Thumbs/color/11-assist.jpg",
+      "sha256": "32bbfdb52a5743f0e94d0c3cb5760f7e4d62d6568bef15b8e8cb5652501bf15d",
+      "thumbnailSHA256": "1351d1d92134340e83163327908b954dd20ed9bde54bcead98fb93c5b0e5e35e",
+      "context": {
+        "phrase": {
+          "zh": "好的工具，让更多人参与。",
+          "en": "Good tools make room for more people."
+        },
+        "visual": {
+          "zh": "相触的手与机械部件把辅助科技放回日常动作中，强调参与和自主。画面是概念插画，不展示一种获准使用的医疗器械，也不承诺具体康复效果。",
+          "en": "Hands and mechanical parts place assistive technology within everyday action, emphasizing participation and autonomy. This is a concept illustration, not an approved medical device or a promise of rehabilitation outcomes."
+        },
+        "background": {
+          "zh": "世界卫生组织与联合国儿童基金会的 2022 年报告估计，全球超过 25 亿人需要一种或多种辅助产品，例如轮椅、助听器或支持沟通的应用。这个数字是该报告的估计，不是本屏保实时统计；辅助科技也远不止机械义肢。",
+          "en": "A 2022 WHO and UNICEF report estimated that more than 2.5 billion people needed one or more assistive products, including wheelchairs, hearing aids and communication apps. This is a dated report estimate, not a live count. Assistive technology extends far beyond robotic prostheses."
+        },
+        "sources": [
+          {
+            "label": "WHO / UNICEF · 2022 assistive technology report",
+            "url": "https://www.who.int/news/item/16-05-2022-almost-one-billion-children-and-adults-with-disabilities-and-older-persons-in-need-of-assistive-technology-denied-access--according-to-new-report"
+          }
+        ]
+      }
+    }
+  }
+}

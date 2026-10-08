@@ -1,0 +1,78 @@
+{
+  "subject": "073-solar-cell",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:073-solar-cell",
+      "subject": "073-solar-cell",
+      "edition": "mono",
+      "title": "光伏与能量",
+      "titleEnglish": "Solar Cells and Energy",
+      "category": "工程与制造",
+      "image": "Images/mono/073-solar-cell.jpg",
+      "thumbnail": "Thumbs/mono/073-solar-cell.jpg",
+      "sha256": "fecbc8c1d5e33046c848c39f22a1f7823e62c5e9bf6764146016f59420905dc5",
+      "thumbnailSHA256": "66668b8afb4fbe32ce9619e760375fe57c3ff06b12a306949ad73f1d539e0a66",
+      "context": {
+        "phrase": {
+          "zh": "把照来的光，变成可用的电。",
+          "en": "Turn incoming light into usable electricity."
+        },
+        "visual": {
+          "zh": "光线落向层叠的方格与电路纹路，表现太阳能电池吸收光后的能量转换。画面并不显示真实组件的输出功率。",
+          "en": "Light falls on layered squares and circuit-like marks, suggesting conversion in a solar cell. The scene does not show an actual panel’s power output."
+        },
+        "background": {
+          "zh": "光伏电池中的半导体吸收太阳光的能量，使材料中的电子能够流动。电池表面的金属接点将电流导出，把光能变成可用的电能。发电量会随光照、温度和电池设计变化。",
+          "en": "A solar cell’s semiconductor absorbs energy from sunlight, allowing electrons in the material to flow. Metal contacts collect the current, turning light into usable electrical energy. Output depends on light, temperature and cell design."
+        },
+        "sources": [
+          {
+            "label": "US Department of Energy · Solar cell basics",
+            "url": "https://www.energy.gov/cmei/systems/solar-photovoltaic-cell-basics"
+          },
+          {
+            "label": "US Department of Energy · Solar cell efficiency",
+            "url": "https://www.energy.gov/cmei/systems/solar-photovoltaic-performance-and-efficiency-basics"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:073-solar-cell",
+      "subject": "073-solar-cell",
+      "edition": "color",
+      "title": "光伏与能量",
+      "titleEnglish": "Solar Cells and Energy",
+      "category": "工程与制造",
+      "image": "Images/color/073-solar-cell.jpg",
+      "thumbnail": "Thumbs/color/073-solar-cell.jpg",
+      "sha256": "70f74c445ea583926080101e390de33a51985dfd87cca2e9862474dc5696b341",
+      "thumbnailSHA256": "874e65cc3cd72aa782485ab9ae43f6bdc6695ea40589d6c49531656ddc576ae5",
+      "context": {
+        "phrase": {
+          "zh": "把照来的光，变成可用的电。",
+          "en": "Turn incoming light into usable electricity."
+        },
+        "visual": {
+          "zh": "光线落向层叠的方格与电路纹路，表现太阳能电池吸收光后的能量转换。画面并不显示真实组件的输出功率。",
+          "en": "Light falls on layered squares and circuit-like marks, suggesting conversion in a solar cell. The scene does not show an actual panel’s power output."
+        },
+        "background": {
+          "zh": "光伏电池中的半导体吸收太阳光的能量，使材料中的电子能够流动。电池表面的金属接点将电流导出，把光能变成可用的电能。发电量会随光照、温度和电池设计变化。",
+          "en": "A solar cell’s semiconductor absorbs energy from sunlight, allowing electrons in the material to flow. Metal contacts collect the current, turning light into usable electrical energy. Output depends on light, temperature and cell design."
+        },
+        "sources": [
+          {
+            "label": "US Department of Energy · Solar cell basics",
+            "url": "https://www.energy.gov/cmei/systems/solar-photovoltaic-cell-basics"
+          },
+          {
+            "label": "US Department of Energy · Solar cell efficiency",
+            "url": "https://www.energy.gov/cmei/systems/solar-photovoltaic-performance-and-efficiency-basics"
+          }
+        ]
+      }
+    }
+  }
+}

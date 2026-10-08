@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-472",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-472",
+      "subject": "nobel-laureate-472",
+      "edition": "mono",
+      "title": "路易·雷诺",
+      "titleEnglish": "Louis Renault",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-472/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-472/mono.jpg",
+      "sha256": "aefd08e4b0bc5083a45929310b05bd43a1a367c11f80c6cffbbbe3776fcb46d7",
+      "thumbnailSHA256": "cdcf96f1b0ad7d21c0a2af09bb066c1619153c15d402194309c9bec6504b22d6",
+      "context": {
+        "phrase": {
+          "zh": "让国与国的分歧，有规则可循。",
+          "en": "Give disagreements between nations rules to follow."
+        },
+        "visual": {
+          "zh": "无字法律书籍、空国际会议桌、航船与空白文件组成独立拼贴，呼应国际法、会议协商和海上战争规则。场景不复原海牙或日内瓦会议，文件也不是历史条约。",
+          "en": "Blank law books, an empty international conference table, a ship and unmarked papers form an original collage about international law, negotiations and rules for naval warfare. It reconstructs neither a Hague or Geneva venue nor a historical treaty."
+        },
+        "background": {
+          "zh": "国际法学者路易·雷诺与莫内塔共同获得1907年诺贝尔和平奖，各获二分之一奖项。雷诺在第戎和巴黎任教，也担任法国外交事务顾问。他参与1899年和1907年海牙会议，并推动日内瓦公约原则在海上战争中的应用，以及中立国相关规则。配图通过法律书籍、会议桌和航船，表现不同国家以规则处理分歧的努力。\n1907年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他对海牙和日内瓦会议的进程与成果所产生的决定性影响。",
+          "en": "The international-law scholar Louis Renault shared the 1907 Nobel Peace Prize equally with Moneta. He taught in Dijon and Paris and advised France on foreign affairs. He contributed to the Hague conferences of 1899 and 1907, extending Geneva Convention principles to naval warfare and developing rules concerning neutral states. Law books, a conference table and a ship interpret those efforts to govern relations between nations.\n1907 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his decisive influence upon the conduct and outcome of the Hague and Geneva Conferences"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年和平奖｜官方记录",
+              "en": "1907 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1907",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-472",
+      "subject": "nobel-laureate-472",
+      "edition": "color",
+      "title": "路易·雷诺",
+      "titleEnglish": "Louis Renault",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-472/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-472/color.jpg",
+      "sha256": "b6b682a04f23e193412ddc025a665c9dd30414b268dbec85fba0e1ca0e1dda8a",
+      "thumbnailSHA256": "b9421570cc153dd68dcd2e7f9197be1124f683e828ba0e6f4bd5f83b7ac88803",
+      "context": {
+        "phrase": {
+          "zh": "让国与国的分歧，有规则可循。",
+          "en": "Give disagreements between nations rules to follow."
+        },
+        "visual": {
+          "zh": "无字法律书籍、空国际会议桌、航船与空白文件组成独立拼贴，呼应国际法、会议协商和海上战争规则。场景不复原海牙或日内瓦会议，文件也不是历史条约。",
+          "en": "Blank law books, an empty international conference table, a ship and unmarked papers form an original collage about international law, negotiations and rules for naval warfare. It reconstructs neither a Hague or Geneva venue nor a historical treaty."
+        },
+        "background": {
+          "zh": "国际法学者路易·雷诺与莫内塔共同获得1907年诺贝尔和平奖，各获二分之一奖项。雷诺在第戎和巴黎任教，也担任法国外交事务顾问。他参与1899年和1907年海牙会议，并推动日内瓦公约原则在海上战争中的应用，以及中立国相关规则。配图通过法律书籍、会议桌和航船，表现不同国家以规则处理分歧的努力。\n1907年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他对海牙和日内瓦会议的进程与成果所产生的决定性影响。",
+          "en": "The international-law scholar Louis Renault shared the 1907 Nobel Peace Prize equally with Moneta. He taught in Dijon and Paris and advised France on foreign affairs. He contributed to the Hague conferences of 1899 and 1907, extending Geneva Convention principles to naval warfare and developing rules concerning neutral states. Law books, a conference table and a ship interpret those efforts to govern relations between nations.\n1907 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his decisive influence upon the conduct and outcome of the Hague and Geneva Conferences"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年和平奖｜官方记录",
+              "en": "1907 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1907",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

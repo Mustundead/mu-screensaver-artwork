@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-036",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-036",
+      "subject": "oscar-best-picture-036",
+      "edition": "mono",
+      "title": "汤姆·琼斯",
+      "titleEnglish": "Tom Jones",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-036/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-036/mono.jpg",
+      "sha256": "ed5386d3b71f83b1abbd59ea23bd8aed075b2519114576b6254a42b5b76563ad",
+      "thumbnailSHA256": "9cba6c7c09907668a0ae6d8be1f8de1ebc15fd5a16804079597967db4cc74de0",
+      "context": {
+        "phrase": {
+          "zh": "不必开口，举手投足也能传递心意。",
+          "en": "Without a word, a gesture can carry a feeling."
+        },
+        "visual": {
+          "zh": "俯看斜放的长桌，左下餐盘盛着一只打开的牡蛎，右上餐盘放着一只梨；中间桌布的褶皱沿桌面延伸，与桌外暗面相衬。",
+          "en": "A long table is viewed diagonally from above. The lower-left plate holds one open oyster, while the upper-right plate holds a pear. Linen folds extend between them, contrasting with the dark field beyond the table."
+        },
+        "background": {
+          "zh": "《汤姆·琼斯》是托尼·理查森执导的1963年影片，在1964年第36届奥斯卡获得最佳影片。片中用餐段落以动作、食物与目光传达人物之间的交流。相对的餐盘与牡蛎壳取意于这一无对白场景，是原创静物插画，不是电影画面、原用餐具或演员肖像；短句为原创。\n第36届奥斯卡最佳影片：汤姆·琼斯。颁奖年份 1964；参评年份 1963。",
+          "en": "Tom Jones, directed by Tony Richardson and released in 1963, won Best Picture at the 36th Academy Awards in 1964. Its dining sequence uses gestures, food and looks to communicate between the characters. Opposing place settings and an oyster shell draw on that dialogue-less scene. This is an original still-life illustration, not a film frame, original tableware or an actor likeness. The phrase is original.\nAcademy Awards ceremony 36 (1964), Best Picture: Tom Jones. Eligibility year: 1963."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1964",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "bfi.org.uk",
+            "url": "https://www.bfi.org.uk/features/night-animals-women-woodfall",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-036",
+      "subject": "oscar-best-picture-036",
+      "edition": "color",
+      "title": "汤姆·琼斯",
+      "titleEnglish": "Tom Jones",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-036/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-036/color.jpg",
+      "sha256": "ee7ad76d5f2b947ae7372ca225ef4e12cd370b77470147e09b6bb5f1f48dfef5",
+      "thumbnailSHA256": "57f574b711594538708f0a0803c8bf969a4cc8dfa1ca648e7343f109319ffdeb",
+      "context": {
+        "phrase": {
+          "zh": "不必开口，举手投足也能传递心意。",
+          "en": "Without a word, a gesture can carry a feeling."
+        },
+        "visual": {
+          "zh": "俯看斜放的长桌，左下餐盘盛着一只打开的牡蛎，右上餐盘放着一只梨；中间桌布的褶皱沿桌面延伸，与桌外暗面相衬。",
+          "en": "A long table is viewed diagonally from above. The lower-left plate holds one open oyster, while the upper-right plate holds a pear. Linen folds extend between them, contrasting with the dark field beyond the table."
+        },
+        "background": {
+          "zh": "《汤姆·琼斯》是托尼·理查森执导的1963年影片，在1964年第36届奥斯卡获得最佳影片。片中用餐段落以动作、食物与目光传达人物之间的交流。相对的餐盘与牡蛎壳取意于这一无对白场景，是原创静物插画，不是电影画面、原用餐具或演员肖像；短句为原创。\n第36届奥斯卡最佳影片：汤姆·琼斯。颁奖年份 1964；参评年份 1963。",
+          "en": "Tom Jones, directed by Tony Richardson and released in 1963, won Best Picture at the 36th Academy Awards in 1964. Its dining sequence uses gestures, food and looks to communicate between the characters. Opposing place settings and an oyster shell draw on that dialogue-less scene. This is an original still-life illustration, not a film frame, original tableware or an actor likeness. The phrase is original.\nAcademy Awards ceremony 36 (1964), Best Picture: Tom Jones. Eligibility year: 1963."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1964",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "bfi.org.uk",
+            "url": "https://www.bfi.org.uk/features/night-animals-women-woodfall",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "084-li-bai",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:084-li-bai",
+      "subject": "084-li-bai",
+      "edition": "mono",
+      "title": "李白与月色",
+      "titleEnglish": "Li Bai and Moonlight",
+      "category": "艺术与人文",
+      "image": "Images/mono/084-li-bai.jpg",
+      "thumbnail": "Thumbs/mono/084-li-bai.jpg",
+      "sha256": "17bb746a5c6a5d092034e27f8c9eb7828efa01fb7be4faba902a86adcbb857b6",
+      "thumbnailSHA256": "c49ad7e4aa5b7db7650698cb3bf55a82ece55d6c6fca0c2b09b4879f3fb450d9",
+      "context": {
+        "phrase": {
+          "zh": "同一轮月，可以照见不同的远方。",
+          "en": "One moon can illuminate many distances."
+        },
+        "visual": {
+          "zh": "月色、山水和诗人形象将遥望转成一幅想象的风景。人物不是可信的历史肖像，画中月亮也不对应一次可计算日期的天象。",
+          "en": "Moonlight, landscape and a poet form an imagined scene of looking into distance. The figure is not a verified historical likeness, and the Moon does not identify a dated astronomical event."
+        },
+        "background": {
+          "zh": "诗歌基金会将李白生卒记为 701—762 年，介绍他为唐代诗人，并记载他与杜甫的友谊。月亮在这里是观看与距离的艺术线索；本页短句是原创概括，不冒充李白诗句，也不把传说当作生平事实。",
+          "en": "The Poetry Foundation dates Li Bai to 701–762 and identifies him as a Tang poet and friend of Du Fu. The Moon serves here as an artistic cue for distance and contemplation. The accompanying short line is original copy, not a quotation from Li Bai or a claim based on legend."
+        },
+        "sources": [
+          {
+            "label": "Poetry Foundation · Li Bai",
+            "url": "https://www.poetryfoundation.org/poets/li-po"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:084-li-bai",
+      "subject": "084-li-bai",
+      "edition": "color",
+      "title": "李白与月色",
+      "titleEnglish": "Li Bai and Moonlight",
+      "category": "艺术与人文",
+      "image": "Images/color/084-li-bai.jpg",
+      "thumbnail": "Thumbs/color/084-li-bai.jpg",
+      "sha256": "ce1ee32604cc7d5272ccce859c0f558763e03d55dda20843ebbc95b05797a078",
+      "thumbnailSHA256": "c645bd80b4a5aabfa726069937dc80cba064e64ffee5dba7d4172671ad09d5f3",
+      "context": {
+        "phrase": {
+          "zh": "同一轮月，可以照见不同的远方。",
+          "en": "One moon can illuminate many distances."
+        },
+        "visual": {
+          "zh": "月色、山水和诗人形象将遥望转成一幅想象的风景。人物不是可信的历史肖像，画中月亮也不对应一次可计算日期的天象。",
+          "en": "Moonlight, landscape and a poet form an imagined scene of looking into distance. The figure is not a verified historical likeness, and the Moon does not identify a dated astronomical event."
+        },
+        "background": {
+          "zh": "诗歌基金会将李白生卒记为 701—762 年，介绍他为唐代诗人，并记载他与杜甫的友谊。月亮在这里是观看与距离的艺术线索；本页短句是原创概括，不冒充李白诗句，也不把传说当作生平事实。",
+          "en": "The Poetry Foundation dates Li Bai to 701–762 and identifies him as a Tang poet and friend of Du Fu. The Moon serves here as an artistic cue for distance and contemplation. The accompanying short line is original copy, not a quotation from Li Bai or a claim based on legend."
+        },
+        "sources": [
+          {
+            "label": "Poetry Foundation · Li Bai",
+            "url": "https://www.poetryfoundation.org/poets/li-po"
+          }
+        ]
+      }
+    }
+  }
+}

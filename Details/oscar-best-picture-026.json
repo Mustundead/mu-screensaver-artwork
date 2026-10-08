@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-026",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-026",
+      "subject": "oscar-best-picture-026",
+      "edition": "mono",
+      "title": "乱世忠魂",
+      "titleEnglish": "From Here to Eternity",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-026/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-026/mono.jpg",
+      "sha256": "9f061cbb859d81c4ceb2b0d79bd49391db3cce1d1231bd1892090e2af1168d0f",
+      "thumbnailSHA256": "2d29ecac378c491e25805e793917e5869d290fc74633b64d96e2dedbdb7fe2c8",
+      "context": {
+        "phrase": {
+          "zh": "纷乱之中，仍有自己的坚持。",
+          "en": "Amid turmoil, resolve remains personal."
+        },
+        "visual": {
+          "zh": "磨旧的暗红皮拳套占据左侧，橄榄绿帆布斜向铺开，两枚无徽记黄铜扣与象牙色缠带落在右侧。黑白版保留皮革褶皱、缝线与裁切，细刻纹更明显。这是压力与个人坚持的原创寓意。",
+          "en": "A worn oxblood leather boxing glove fills the left, over diagonally folded olive canvas, with two plain brass buttons and an ivory hand wrap at right. Monochrome retains the leather folds, seams and crop, with stronger fine hatching. This is an original metaphor for pressure and personal resolve."
+        },
+        "background": {
+          "zh": "《乱世忠魂》是1953年影片，在1954年第26届奥斯卡获最佳影片奖。故事置于1941年珍珠港袭击前的军营，围绕曾为拳击手的士兵普鲁伊特、友情、军中压力与情感纠葛展开。拳套、帆布与松开的缠带是个人坚持与压力的原创寓意，不复刻影片场景、道具或演员形象。短句为原创。\n第26届奥斯卡最佳影片：乱世忠魂。颁奖年份 1954；参评年份 1953。",
+          "en": "From Here to Eternity is a 1953 film that won Best Motion Picture at the 26th Academy Awards in 1954. Set at a military base before the attack on Pearl Harbor in 1941, it follows soldier and former boxer Prewitt, friendship, military pressure and tangled relationships. The glove, canvas and loose wrap are an original metaphor for resolve under pressure, not a film scene, prop replica or actor likeness. The phrase is original.\nAcademy Awards ceremony 26 (1954), Best Picture: From Here to Eternity. Eligibility year: 1953."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1954",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "sonypictures.com",
+            "url": "https://www.sonypictures.com/movies/fromheretoeternity",
+            "labelLocalized": {
+              "zh": "《乱世忠魂》影片介绍｜索尼影业",
+              "en": "From Here to Eternity synopsis — Sony Pictures"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-026",
+      "subject": "oscar-best-picture-026",
+      "edition": "color",
+      "title": "乱世忠魂",
+      "titleEnglish": "From Here to Eternity",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-026/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-026/color.jpg",
+      "sha256": "96d1d66f5e59f260d1ce4afd3bc55b2143db3bef676ef9136b5e191e7153d274",
+      "thumbnailSHA256": "f7c5939c22d47ff9ebec5c7660440cc664f251320d290f530b5627ec9750955e",
+      "context": {
+        "phrase": {
+          "zh": "纷乱之中，仍有自己的坚持。",
+          "en": "Amid turmoil, resolve remains personal."
+        },
+        "visual": {
+          "zh": "磨旧的暗红皮拳套占据左侧，橄榄绿帆布斜向铺开，两枚无徽记黄铜扣与象牙色缠带落在右侧。黑白版保留皮革褶皱、缝线与裁切，细刻纹更明显。这是压力与个人坚持的原创寓意。",
+          "en": "A worn oxblood leather boxing glove fills the left, over diagonally folded olive canvas, with two plain brass buttons and an ivory hand wrap at right. Monochrome retains the leather folds, seams and crop, with stronger fine hatching. This is an original metaphor for pressure and personal resolve."
+        },
+        "background": {
+          "zh": "《乱世忠魂》是1953年影片，在1954年第26届奥斯卡获最佳影片奖。故事置于1941年珍珠港袭击前的军营，围绕曾为拳击手的士兵普鲁伊特、友情、军中压力与情感纠葛展开。拳套、帆布与松开的缠带是个人坚持与压力的原创寓意，不复刻影片场景、道具或演员形象。短句为原创。\n第26届奥斯卡最佳影片：乱世忠魂。颁奖年份 1954；参评年份 1953。",
+          "en": "From Here to Eternity is a 1953 film that won Best Motion Picture at the 26th Academy Awards in 1954. Set at a military base before the attack on Pearl Harbor in 1941, it follows soldier and former boxer Prewitt, friendship, military pressure and tangled relationships. The glove, canvas and loose wrap are an original metaphor for resolve under pressure, not a film scene, prop replica or actor likeness. The phrase is original.\nAcademy Awards ceremony 26 (1954), Best Picture: From Here to Eternity. Eligibility year: 1953."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1954",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "sonypictures.com",
+            "url": "https://www.sonypictures.com/movies/fromheretoeternity",
+            "labelLocalized": {
+              "zh": "《乱世忠魂》影片介绍｜索尼影业",
+              "en": "From Here to Eternity synopsis — Sony Pictures"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

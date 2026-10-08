@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-015",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-015",
+      "subject": "oscar-best-picture-015",
+      "edition": "mono",
+      "title": "忠勇之家",
+      "titleEnglish": "Mrs. Miniver",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-015/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-015/mono.jpg",
+      "sha256": "1988bb03f545e069224aa436718f9d976bcb9fae4c1d394bc8cd286c72f1ff0f",
+      "thumbnailSHA256": "c7729aa70e1ad4b95ba90805a8d8bbeb3ad0b85f5d1cfae71ba590aec5f90ee3",
+      "context": {
+        "phrase": {
+          "zh": "日常的温柔，也能承受风暴。",
+          "en": "Everyday tenderness can endure a storm."
+        },
+        "visual": {
+          "zh": "巨大的玫瑰贴近左侧前景，斜伸的花茎连向茶杯与裂纹窗户，以日常物件呼应战时家园。黑白与钴蓝版突出花朵；彩色版呈现灰粉红花瓣、橄榄绿枝叶、乳白瓷杯和灰绿玻璃。它是原创静物隐喻，不是影片剧照，也不声称复原片中玫瑰的品种或颜色。",
+          "en": "An immense foreground rose connects through its diagonal stem to a teacup and cracked window, evoking home through everyday objects. Cobalt emphasizes the flower in monochrome; full color uses dusty rose, olive foliage, cream porcelain and gray-green glass. This original still life is not a film still or a claim about the film's rose cultivar or color."
+        },
+        "background": {
+          "zh": "《忠勇之家》是威廉·惠勒执导的1942年影片，在1943年3月4日举行的第15届奥斯卡颁奖礼上获得最佳影片。AFI剧情档案从1939年夏天英国村庄的家庭日常写起：车站站长培育并以米尼弗夫人命名一株玫瑰，随后战争改变家庭与社区的生活。画面以玫瑰、茶杯和破损窗框联系花展、日常与战时损伤；物件比例和摆放是原创处理，短句也不是人物台词。\n第15届奥斯卡最佳影片：忠勇之家。颁奖年份 1943；参评年份 1942。",
+          "en": "William Wyler’s 1942 Mrs. Miniver won Best Picture at the 15th Academy Awards on March 4, 1943. AFI’s synopsis begins with domestic village life in summer 1939: the stationmaster names a new rose after Kay Miniver, before war transforms family and community life. The rose, teacup and fractured window connect the flower-show motif, daily life and wartime damage. Scale and arrangement are original; the phrase is not dialogue.\nAcademy Awards ceremony 15 (1943), Best Picture: Mrs. Miniver. Eligibility year: 1942."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1943",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/27360-MRS-MINIVER?cxt=filmography",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-015",
+      "subject": "oscar-best-picture-015",
+      "edition": "color",
+      "title": "忠勇之家",
+      "titleEnglish": "Mrs. Miniver",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-015/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-015/color.jpg",
+      "sha256": "eee2e38611758fe756099e18e72082c37caa7a4cb7db221fe5badf45f28a65ed",
+      "thumbnailSHA256": "9eb3fea8be6199c9a855fa595750b9354357c0986d52eaa984f1efba56ed876c",
+      "context": {
+        "phrase": {
+          "zh": "日常的温柔，也能承受风暴。",
+          "en": "Everyday tenderness can endure a storm."
+        },
+        "visual": {
+          "zh": "巨大的玫瑰贴近左侧前景，斜伸的花茎连向茶杯与裂纹窗户，以日常物件呼应战时家园。黑白与钴蓝版突出花朵；彩色版呈现灰粉红花瓣、橄榄绿枝叶、乳白瓷杯和灰绿玻璃。它是原创静物隐喻，不是影片剧照，也不声称复原片中玫瑰的品种或颜色。",
+          "en": "An immense foreground rose connects through its diagonal stem to a teacup and cracked window, evoking home through everyday objects. Cobalt emphasizes the flower in monochrome; full color uses dusty rose, olive foliage, cream porcelain and gray-green glass. This original still life is not a film still or a claim about the film's rose cultivar or color."
+        },
+        "background": {
+          "zh": "《忠勇之家》是威廉·惠勒执导的1942年影片，在1943年3月4日举行的第15届奥斯卡颁奖礼上获得最佳影片。AFI剧情档案从1939年夏天英国村庄的家庭日常写起：车站站长培育并以米尼弗夫人命名一株玫瑰，随后战争改变家庭与社区的生活。画面以玫瑰、茶杯和破损窗框联系花展、日常与战时损伤；物件比例和摆放是原创处理，短句也不是人物台词。\n第15届奥斯卡最佳影片：忠勇之家。颁奖年份 1943；参评年份 1942。",
+          "en": "William Wyler’s 1942 Mrs. Miniver won Best Picture at the 15th Academy Awards on March 4, 1943. AFI’s synopsis begins with domestic village life in summer 1939: the stationmaster names a new rose after Kay Miniver, before war transforms family and community life. The rose, teacup and fractured window connect the flower-show motif, daily life and wartime damage. Scale and arrangement are original; the phrase is not dialogue.\nAcademy Awards ceremony 15 (1943), Best Picture: Mrs. Miniver. Eligibility year: 1942."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1943",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/27360-MRS-MINIVER?cxt=filmography",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

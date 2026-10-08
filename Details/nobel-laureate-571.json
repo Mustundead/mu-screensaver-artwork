@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-571",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-571",
+      "subject": "nobel-laureate-571",
+      "edition": "mono",
+      "title": "特奥多尔·蒙森",
+      "titleEnglish": "Theodor Mommsen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-571/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-571/mono.jpg",
+      "sha256": "903c3c7ac0561abf0eb84fc1bb4cb4d3ff2b637b26030eec81eba18933fa420f",
+      "thumbnailSHA256": "1743ed4930c1d6b64d26159021d3bb1c2fc15137a4d25a000893e68864d6b561",
+      "context": {
+        "phrase": {
+          "zh": "让过去的细节，重新连接成故事。",
+          "en": "Let the details of the past form a story again."
+        },
+        "visual": {
+          "zh": "为蒙森独立创作的历史写作拼贴，以石柱、想象的古代遗迹、空白书页、卷轴与羽毛笔呼应罗马史研究。画面不复原某处遗址，也不展示他的手稿或私人遗物。",
+          "en": "An original historical-writing collage for Mommsen uses a stone column, imagined ancient ruins, blank pages, a scroll and a quill to evoke Roman history. It does not reconstruct a named site or depict his manuscripts or belongings."
+        },
+        "background": {
+          "zh": "蒙森获得1902年诺贝尔文学奖，获奖理由尤其提到他的《罗马史》。诺贝尔奖官方生平介绍将他的工作与罗马历史研究的重大变化联系起来。配图以遗迹和书写工具表现历史资料被整理成叙述的过程，是艺术诠释，不是历史场景复原。\n1902年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他作为当时杰出的历史写作大师所取得的成就，尤其是他的巨著《罗马史》。",
+          "en": "Mommsen received the 1902 Nobel Prize in Literature, with his History of Rome specifically cited. The official Nobel biography describes his work as transforming the study of Roman history. The artwork interprets historical material becoming narrative; it is not a reconstruction of a historical scene.\n1902 — The Nobel Prize in Literature. Received the full prize. Official motivation: the greatest living master of the art of historical writing, with special reference to his monumental work, A history of Rome"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年文学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1902/mommsen/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-571",
+      "subject": "nobel-laureate-571",
+      "edition": "color",
+      "title": "特奥多尔·蒙森",
+      "titleEnglish": "Theodor Mommsen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-571/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-571/color.jpg",
+      "sha256": "3e2070e2ab27442451a493e8b2c90c996b75ce174c8f9b54172a7573a9793592",
+      "thumbnailSHA256": "581022fa24798ab6ee69d14389d41d3a1121c0014860bf3010719a50bd32c42b",
+      "context": {
+        "phrase": {
+          "zh": "让过去的细节，重新连接成故事。",
+          "en": "Let the details of the past form a story again."
+        },
+        "visual": {
+          "zh": "为蒙森独立创作的历史写作拼贴，以石柱、想象的古代遗迹、空白书页、卷轴与羽毛笔呼应罗马史研究。画面不复原某处遗址，也不展示他的手稿或私人遗物。",
+          "en": "An original historical-writing collage for Mommsen uses a stone column, imagined ancient ruins, blank pages, a scroll and a quill to evoke Roman history. It does not reconstruct a named site or depict his manuscripts or belongings."
+        },
+        "background": {
+          "zh": "蒙森获得1902年诺贝尔文学奖，获奖理由尤其提到他的《罗马史》。诺贝尔奖官方生平介绍将他的工作与罗马历史研究的重大变化联系起来。配图以遗迹和书写工具表现历史资料被整理成叙述的过程，是艺术诠释，不是历史场景复原。\n1902年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他作为当时杰出的历史写作大师所取得的成就，尤其是他的巨著《罗马史》。",
+          "en": "Mommsen received the 1902 Nobel Prize in Literature, with his History of Rome specifically cited. The official Nobel biography describes his work as transforming the study of Roman history. The artwork interprets historical material becoming narrative; it is not a reconstruction of a historical scene.\n1902 — The Nobel Prize in Literature. Received the full prize. Official motivation: the greatest living master of the art of historical writing, with special reference to his monumental work, A history of Rome"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年文学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1902/mommsen/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

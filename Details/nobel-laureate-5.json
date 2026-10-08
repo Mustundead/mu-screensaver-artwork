@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-5",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-5",
+      "subject": "nobel-laureate-5",
+      "edition": "mono",
+      "title": "皮埃尔·居里",
+      "titleEnglish": "Pierre Curie",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-5/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-5/mono.jpg",
+      "sha256": "498377e2df8a35a4f5f5ba35932ddb85b5c839562c35111905a89c5884c06d57",
+      "thumbnailSHA256": "1378cda194fc5c75273bb36b7f40367a4b39af18dd26fc343d61b2f883006472",
+      "context": {
+        "phrase": {
+          "zh": "细微的变化，需要耐心而精确的观察。",
+          "en": "Small changes call for patient, precise observation."
+        },
+        "visual": {
+          "zh": "为皮埃尔·居里独立创作的精密测量拼贴，以玻璃罩中的电荷测量仪器、天平和石英呼应他的器材制作与研究。物件是象征性组合，不是他的原装仪器，也不是可照图搭建的实验装置。",
+          "en": "An original precision-measurement collage for Pierre Curie combines a glass-covered charge-measuring instrument, a balance and quartz to evoke his apparatus-making and research. The objects are symbolic, not his actual equipment or an apparatus to build from the image."
+        },
+        "background": {
+          "zh": "皮埃尔·居里与玛丽·居里分享1903年诺贝尔物理学奖中的另一半，各获四分之一，表彰他们共同研究贝克勒尔发现的辐射现象。官方生平还介绍了他为研究制作天平、电荷测量仪器和压电晶体等精密器材的工作。配图侧重测量与仪器制作；这些早期研究背景不是另一次诺贝尔奖。\n1903年物理学奖；获得本年度奖项的四分之一。获奖理由（中文译述）：表彰他们共同研究贝克勒尔教授发现的辐射现象所作出的非凡贡献。",
+          "en": "Pierre and Marie Curie shared the other half of the 1903 Nobel Prize in Physics, receiving a quarter each for their joint research on radiation discovered by Becquerel. The official biography also describes his construction of delicate balances, electrometers and piezoelectric crystals. The artwork emphasizes measurement and instrument-making; this background does not represent another Nobel award.\n1903 — The Nobel Prize in Physics. Received one-quarter of the prize. Official motivation: in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年物理学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/pierre-curie/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-5",
+      "subject": "nobel-laureate-5",
+      "edition": "color",
+      "title": "皮埃尔·居里",
+      "titleEnglish": "Pierre Curie",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-5/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-5/color.jpg",
+      "sha256": "6f7b1f003ba565db3559628fc2a39cb1e3e11478ae3c72ede6acbb750290ee90",
+      "thumbnailSHA256": "7b9ad8a8caae5785dde560e00da36a89513613782c58c1c36502d1686a92dca7",
+      "context": {
+        "phrase": {
+          "zh": "细微的变化，需要耐心而精确的观察。",
+          "en": "Small changes call for patient, precise observation."
+        },
+        "visual": {
+          "zh": "为皮埃尔·居里独立创作的精密测量拼贴，以玻璃罩中的电荷测量仪器、天平和石英呼应他的器材制作与研究。物件是象征性组合，不是他的原装仪器，也不是可照图搭建的实验装置。",
+          "en": "An original precision-measurement collage for Pierre Curie combines a glass-covered charge-measuring instrument, a balance and quartz to evoke his apparatus-making and research. The objects are symbolic, not his actual equipment or an apparatus to build from the image."
+        },
+        "background": {
+          "zh": "皮埃尔·居里与玛丽·居里分享1903年诺贝尔物理学奖中的另一半，各获四分之一，表彰他们共同研究贝克勒尔发现的辐射现象。官方生平还介绍了他为研究制作天平、电荷测量仪器和压电晶体等精密器材的工作。配图侧重测量与仪器制作；这些早期研究背景不是另一次诺贝尔奖。\n1903年物理学奖；获得本年度奖项的四分之一。获奖理由（中文译述）：表彰他们共同研究贝克勒尔教授发现的辐射现象所作出的非凡贡献。",
+          "en": "Pierre and Marie Curie shared the other half of the 1903 Nobel Prize in Physics, receiving a quarter each for their joint research on radiation discovered by Becquerel. The official biography also describes his construction of delicate balances, electrometers and piezoelectric crystals. The artwork emphasizes measurement and instrument-making; this background does not represent another Nobel award.\n1903 — The Nobel Prize in Physics. Received one-quarter of the prize. Official motivation: in recognition of the extraordinary services they have rendered by their joint researches on the radiation phenomena discovered by Professor Henri Becquerel"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年物理学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/pierre-curie/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

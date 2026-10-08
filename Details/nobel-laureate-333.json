@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-333",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-333",
+      "subject": "nobel-laureate-333",
+      "edition": "mono",
+      "title": "科内伊·海曼斯",
+      "titleEnglish": "Corneille Heymans",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-333/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-333/mono.jpg",
+      "sha256": "6a59f6e10128277f818319ba1e35f77acdfaf61487fb6c521d24dc39c1f4f05f",
+      "thumbnailSHA256": "d7eda41a30e0dddefe1b1de1de8c8575eac367d7ad81b930fbb1522fcf2601fd",
+      "context": {
+        "phrase": {
+          "zh": "感知细微变化，呼吸随之回应。",
+          "en": "A small change is sensed; breathing responds."
+        },
+        "visual": {
+          "zh": "左侧是拱形与分叉的血管意象，分叉处一颗圆点由细线连向右侧越出画面的皮革风箱；喷嘴前展开三道气流形态。",
+          "en": "Arch-shaped and forked vessel forms stand at the left. A bead at the fork connects by a fine line to a cropped leather bellows at the right; three air curls extend from its nozzle."
+        },
+        "background": {
+          "zh": "海曼斯因发现颈动脉窦和主动脉相关机制在呼吸调节中的作用，获得1938年诺贝尔生理学或医学奖，该奖于1939年授予。官方资料介绍了血管感受与神经系统对呼吸调节的联系。画面以拱形血管、分叉处感知圆点和连向风箱的细线表达感知与回应；风箱比喻呼吸，血管形状并非真实解剖图，细线不是实际神经。画面不表示医疗设备、诊断或治疗。短句为原创。\n1938年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：发现颈动脉窦和主动脉相关机制在呼吸调节中的作用",
+          "en": "Heymans was awarded the 1938 Nobel Prize in Physiology or Medicine, conferred in 1939, for discovering the role of sinus and aortic mechanisms in regulating respiration. Official sources describe vascular sensing and nervous-system control of breathing. An arch-shaped vessel, a sensory bead at a fork and a fine thread toward a bellows express sensing and response. The bellows symbolizes breath; the vessels are not accurate anatomy and the thread is not a real nerve. No medical device, diagnosis or treatment is depicted. The phrase is original.\n1938 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年生理学或医学奖｜官方记录",
+              "en": "1938 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1938/heymans/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/2019/advanced-information/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-333",
+      "subject": "nobel-laureate-333",
+      "edition": "color",
+      "title": "科内伊·海曼斯",
+      "titleEnglish": "Corneille Heymans",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-333/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-333/color.jpg",
+      "sha256": "a195c3f0ed8ef84fe23f09715a44a5b0c65e0c34fb3d414abff71b98876bdd5d",
+      "thumbnailSHA256": "56704dcda252dfada2814f18437bef21413bd3fa0e29b028874f8d5b555e145c",
+      "context": {
+        "phrase": {
+          "zh": "感知细微变化，呼吸随之回应。",
+          "en": "A small change is sensed; breathing responds."
+        },
+        "visual": {
+          "zh": "左侧是拱形与分叉的血管意象，分叉处一颗圆点由细线连向右侧越出画面的皮革风箱；喷嘴前展开三道气流形态。",
+          "en": "Arch-shaped and forked vessel forms stand at the left. A bead at the fork connects by a fine line to a cropped leather bellows at the right; three air curls extend from its nozzle."
+        },
+        "background": {
+          "zh": "海曼斯因发现颈动脉窦和主动脉相关机制在呼吸调节中的作用，获得1938年诺贝尔生理学或医学奖，该奖于1939年授予。官方资料介绍了血管感受与神经系统对呼吸调节的联系。画面以拱形血管、分叉处感知圆点和连向风箱的细线表达感知与回应；风箱比喻呼吸，血管形状并非真实解剖图，细线不是实际神经。画面不表示医疗设备、诊断或治疗。短句为原创。\n1938年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：发现颈动脉窦和主动脉相关机制在呼吸调节中的作用",
+          "en": "Heymans was awarded the 1938 Nobel Prize in Physiology or Medicine, conferred in 1939, for discovering the role of sinus and aortic mechanisms in regulating respiration. Official sources describe vascular sensing and nervous-system control of breathing. An arch-shaped vessel, a sensory bead at a fork and a fine thread toward a bellows express sensing and response. The bellows symbolizes breath; the vessels are not accurate anatomy and the thread is not a real nerve. No medical device, diagnosis or treatment is depicted. The phrase is original.\n1938 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for the discovery of the role played by the sinus and aortic mechanisms in the regulation of respiration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1938 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1938/summary/",
+            "labelLocalized": {
+              "zh": "1938年生理学或医学奖｜官方记录",
+              "en": "1938 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1938/heymans/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/2019/advanced-information/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

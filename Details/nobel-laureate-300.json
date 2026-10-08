@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-300",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-300",
+      "subject": "nobel-laureate-300",
+      "edition": "mono",
+      "title": "阿尔方斯·拉韦朗",
+      "titleEnglish": "Alphonse Laveran",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-300/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-300/mono.jpg",
+      "sha256": "bacd646882874b2fd98adf1e9ed3dbbcec5d2418da20e13c3748093623f7fbd7",
+      "thumbnailSHA256": "a1ca68fb8ab571af8204ed2f3d47c9c51a34fc1aa1d9172110cacdd638431c4e",
+      "context": {
+        "phrase": {
+          "zh": "透过镜片，追问疾病从何而来。",
+          "en": "Through a lens, ask where disease begins."
+        },
+        "visual": {
+          "zh": "放大的镜片、玻璃片、封口样本管与想象性的血细胞和寄生虫形态组成独立拼贴，呼应观察血液寻找致病原因的研究。细胞形态经过艺术处理，不是医学显微照片，不能用于识别疾病。",
+          "en": "A magnified lens, glass slide, closed sample tube and imagined blood-cell and parasite forms make an original collage about searching blood for a cause of disease. The forms are artistic interpretations, not medical micrographs or diagnostic illustrations."
+        },
+        "background": {
+          "zh": "阿尔方斯·拉韦朗因研究原生动物在致病过程中所起的作用，获得1907年诺贝尔生理学或医学奖。他发现疟疾患者血液中的寄生虫与疾病有关。原生动物是由单个细胞构成的生物，一些种类能引起疾病。这一工作与罗斯对蚊虫传播疟疾的研究属于不同问题。配图围绕血液观察展开，不表现诊断步骤。\n1907年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对原生动物在致病过程中所起作用的研究。",
+          "en": "Alphonse Laveran received the 1907 Nobel Prize in Physiology or Medicine for research into the role of protozoa in causing disease. He identified parasites in the blood of malaria patients as the cause of malaria. Protozoa are single-celled organisms, some of which cause disease. This work addressed a different question from Ronald Ross's research on mosquito transmission. The artwork focuses on blood observation without presenting a diagnostic procedure.\n1907 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his work on the role played by protozoa in causing diseases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年生理学或医学奖｜官方记录",
+              "en": "1907 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/malaria/readmore/index.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-300",
+      "subject": "nobel-laureate-300",
+      "edition": "color",
+      "title": "阿尔方斯·拉韦朗",
+      "titleEnglish": "Alphonse Laveran",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-300/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-300/color.jpg",
+      "sha256": "0d550ac872b8946351a21cfcab3cc1f1bd85d42dd8259cdbecb554ec23e9e228",
+      "thumbnailSHA256": "44e969500b820e6d4d5138eee9134c2df736ee3dada92e21f2c8549166887d6c",
+      "context": {
+        "phrase": {
+          "zh": "透过镜片，追问疾病从何而来。",
+          "en": "Through a lens, ask where disease begins."
+        },
+        "visual": {
+          "zh": "放大的镜片、玻璃片、封口样本管与想象性的血细胞和寄生虫形态组成独立拼贴，呼应观察血液寻找致病原因的研究。细胞形态经过艺术处理，不是医学显微照片，不能用于识别疾病。",
+          "en": "A magnified lens, glass slide, closed sample tube and imagined blood-cell and parasite forms make an original collage about searching blood for a cause of disease. The forms are artistic interpretations, not medical micrographs or diagnostic illustrations."
+        },
+        "background": {
+          "zh": "阿尔方斯·拉韦朗因研究原生动物在致病过程中所起的作用，获得1907年诺贝尔生理学或医学奖。他发现疟疾患者血液中的寄生虫与疾病有关。原生动物是由单个细胞构成的生物，一些种类能引起疾病。这一工作与罗斯对蚊虫传播疟疾的研究属于不同问题。配图围绕血液观察展开，不表现诊断步骤。\n1907年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对原生动物在致病过程中所起作用的研究。",
+          "en": "Alphonse Laveran received the 1907 Nobel Prize in Physiology or Medicine for research into the role of protozoa in causing disease. He identified parasites in the blood of malaria patients as the cause of malaria. Protozoa are single-celled organisms, some of which cause disease. This work addressed a different question from Ronald Ross's research on mosquito transmission. The artwork focuses on blood observation without presenting a diagnostic procedure.\n1907 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his work on the role played by protozoa in causing diseases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年生理学或医学奖｜官方记录",
+              "en": "1907 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/malaria/readmore/index.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

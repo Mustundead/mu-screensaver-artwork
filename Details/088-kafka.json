@@ -1,0 +1,70 @@
+{
+  "subject": "088-kafka",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:088-kafka",
+      "subject": "088-kafka",
+      "edition": "mono",
+      "title": "卡夫卡与异化",
+      "titleEnglish": "Kafka and Alienation",
+      "category": "艺术与人文",
+      "image": "Images/mono/088-kafka.jpg",
+      "thumbnail": "Thumbs/mono/088-kafka.jpg",
+      "sha256": "ee102ba4ef998f27ac26801814babfda6e231fb6db00ca42b61d10a3225ef42f",
+      "thumbnailSHA256": "dce1f1fc5f83941c1b477020e08ab0bc16d3d643ab12e00d89b6b3079bb67d36",
+      "context": {
+        "phrase": {
+          "zh": "熟悉的房间，也可能变得陌生。",
+          "en": "A familiar room can become unfamiliar."
+        },
+        "visual": {
+          "zh": "卡夫卡的生成肖像、打字机与封闭般的几何空间营造疏离感。它不还原作家的工作室；“异化”在此是对文学气氛的解读。",
+          "en": "A generated Kafka portrait, typewriter and enclosed geometry suggest estrangement. The scene does not reconstruct his study; alienation is an interpretation of literary atmosphere."
+        },
+        "background": {
+          "zh": "卡夫卡博物馆的年表把《变形记》的写作列在 1912 年，把其出版列在 1915 年。区分写作与出版，能避免把文学史压缩成一个模糊时间点。画面聚焦日常秩序突然陌生化的阅读感受，不把小说当作作者生平的直接记录。",
+          "en": "The Kafka Museum timeline places the writing of The Metamorphosis in 1912 and its publication in 1915. Distinguishing composition from publication avoids collapsing literary history into one date. The scene evokes everyday order becoming strange, rather than treating fiction as literal autobiography."
+        },
+        "sources": [
+          {
+            "label": "Franz Kafka Museum · Timeline",
+            "url": "https://kafkamuseum.cz/en/timeline"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:088-kafka",
+      "subject": "088-kafka",
+      "edition": "color",
+      "title": "卡夫卡与异化",
+      "titleEnglish": "Kafka and Alienation",
+      "category": "艺术与人文",
+      "image": "Images/color/088-kafka.jpg",
+      "thumbnail": "Thumbs/color/088-kafka.jpg",
+      "sha256": "ea8936c8ce2bd341b90dc1b9da565512dc2b5d6c7f55f39d62d0baa1dd4db68f",
+      "thumbnailSHA256": "f346fa0edcad34b38addaaff30a15d964a82cc22f0b0055da5e4bea6ed490865",
+      "context": {
+        "phrase": {
+          "zh": "熟悉的房间，也可能变得陌生。",
+          "en": "A familiar room can become unfamiliar."
+        },
+        "visual": {
+          "zh": "卡夫卡的生成肖像、打字机与封闭般的几何空间营造疏离感。它不还原作家的工作室；“异化”在此是对文学气氛的解读。",
+          "en": "A generated Kafka portrait, typewriter and enclosed geometry suggest estrangement. The scene does not reconstruct his study; alienation is an interpretation of literary atmosphere."
+        },
+        "background": {
+          "zh": "卡夫卡博物馆的年表把《变形记》的写作列在 1912 年，把其出版列在 1915 年。区分写作与出版，能避免把文学史压缩成一个模糊时间点。画面聚焦日常秩序突然陌生化的阅读感受，不把小说当作作者生平的直接记录。",
+          "en": "The Kafka Museum timeline places the writing of The Metamorphosis in 1912 and its publication in 1915. Distinguishing composition from publication avoids collapsing literary history into one date. The scene evokes everyday order becoming strange, rather than treating fiction as literal autobiography."
+        },
+        "sources": [
+          {
+            "label": "Franz Kafka Museum · Timeline",
+            "url": "https://kafkamuseum.cz/en/timeline"
+          }
+        ]
+      }
+    }
+  }
+}

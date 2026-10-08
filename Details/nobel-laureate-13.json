@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-13",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-13",
+      "subject": "nobel-laureate-13",
+      "edition": "mono",
+      "title": "古列尔莫·马可尼",
+      "titleEnglish": "Guglielmo Marconi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-13/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-13/mono.jpg",
+      "sha256": "df85557a4f1242428c2ce4369bc99a9aa58bbeee00fd6e8bb68f66293972e498",
+      "thumbnailSHA256": "7d150991802018bcedc9d93be64acebf3fd1cb96df2a42afaa9a40b6dac5961c",
+      "context": {
+        "phrase": {
+          "zh": "越过海面，把消息送往远方。",
+          "en": "Send a message beyond the horizon."
+        },
+        "visual": {
+          "zh": "电报按键被放大并裁切到画面边缘，海面斜向展开，远岸天线与错开的线段表现通信距离。钴蓝参与海面的结构。这是无线通信的视觉隐喻，不是实际设备尺寸、信号路径或某次试验的复原。",
+          "en": "A dramatically cropped telegraph key overlooks diagonal ocean layers and a distant antenna. Broken arcs suggest communication across distance, with cobalt shaping the water. This is a metaphor, not a device-scale drawing, signal-propagation diagram or reconstruction of an experiment."
+        },
+        "background": {
+          "zh": "古列尔莫·马可尼与费迪南德·布劳恩共同获得1909年诺贝尔物理学奖，各占一半，表彰他们对无线电报发展的贡献。无线电报通过无线电波传递编码消息，不需要把通信两端用电线连接。诺贝尔官网记载，马可尼在1895年实现了数公里距离的无线传信，并在随后几年继续扩大通信距离。这里关注远距离联系的建立，不把无线电的发明归给单独一人。画面和短句为原创，不是历史照片或马可尼的引语。\n1909年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们对无线电报发展的贡献",
+          "en": "Guglielmo Marconi shared the 1909 Nobel Prize in Physics equally with Ferdinand Braun for contributions to wireless telegraphy. It carries coded messages by radio waves without a wire connecting the stations. The Nobel website records Marconi transmitting over several kilometers in 1895 and extending the range in later years. The artwork focuses on distant communication rather than crediting one person with inventing radio. Both image and phrase are original, not an archival photograph or a Marconi quotation.\n1909 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of their contributions to the development of wireless telegraphy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年物理学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/marconi/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/marconi/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-13",
+      "subject": "nobel-laureate-13",
+      "edition": "color",
+      "title": "古列尔莫·马可尼",
+      "titleEnglish": "Guglielmo Marconi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-13/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-13/color.jpg",
+      "sha256": "a3c27e2cb9c51ab905ef75dc8dbfed1db42a70c96e45dfa819271c810c62b228",
+      "thumbnailSHA256": "72071bb58bb486455f7e6592ed169ef83364c47ac0af3a4bfae25969aaff066b",
+      "context": {
+        "phrase": {
+          "zh": "越过海面，把消息送往远方。",
+          "en": "Send a message beyond the horizon."
+        },
+        "visual": {
+          "zh": "电报按键被放大并裁切到画面边缘，海面斜向展开，远岸天线与错开的线段表现通信距离。钴蓝参与海面的结构。这是无线通信的视觉隐喻，不是实际设备尺寸、信号路径或某次试验的复原。",
+          "en": "A dramatically cropped telegraph key overlooks diagonal ocean layers and a distant antenna. Broken arcs suggest communication across distance, with cobalt shaping the water. This is a metaphor, not a device-scale drawing, signal-propagation diagram or reconstruction of an experiment."
+        },
+        "background": {
+          "zh": "古列尔莫·马可尼与费迪南德·布劳恩共同获得1909年诺贝尔物理学奖，各占一半，表彰他们对无线电报发展的贡献。无线电报通过无线电波传递编码消息，不需要把通信两端用电线连接。诺贝尔官网记载，马可尼在1895年实现了数公里距离的无线传信，并在随后几年继续扩大通信距离。这里关注远距离联系的建立，不把无线电的发明归给单独一人。画面和短句为原创，不是历史照片或马可尼的引语。\n1909年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们对无线电报发展的贡献",
+          "en": "Guglielmo Marconi shared the 1909 Nobel Prize in Physics equally with Ferdinand Braun for contributions to wireless telegraphy. It carries coded messages by radio waves without a wire connecting the stations. The Nobel website records Marconi transmitting over several kilometers in 1895 and extending the range in later years. The artwork focuses on distant communication rather than crediting one person with inventing radio. Both image and phrase are original, not an archival photograph or a Marconi quotation.\n1909 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of their contributions to the development of wireless telegraphy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年物理学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/marconi/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/marconi/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

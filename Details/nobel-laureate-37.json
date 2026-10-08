@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-37",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-37",
+      "subject": "nobel-laureate-37",
+      "edition": "mono",
+      "title": "钱德拉塞卡拉·文卡塔·拉曼",
+      "titleEnglish": "Sir Chandrasekhara Venkata Raman",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-37/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-37/mono.jpg",
+      "sha256": "77cfdab6f1aab26d387d838414b2b1e4e3b44f05f4e8e30137eeb3cd7998d47c",
+      "thumbnailSHA256": "d1bd5536e9136db9649f7d4580ec46a45da8742c211dd2752c1f9a138babdaa4",
+      "context": {
+        "phrase": {
+          "zh": "光的细微变化，留下物质的线索。",
+          "en": "A small change in light leaves a clue to matter."
+        },
+        "visual": {
+          "zh": "右侧透明液体样品槽立在圆形底座上，一条水平细线与两条向左上方分开的斜线在槽边相交。明暗对照衬出玻璃边缘，槽内小圆点组合仅是原创示意。",
+          "en": "A transparent liquid cell stands on a round base at right. A horizontal trace meets two separated diagonal traces toward the upper left at the cell edge. Light and dark planes define the glass; small interior particle motifs are symbolic."
+        },
+        "background": {
+          "zh": "拉曼因研究光的散射并发现以他命名的效应，获得1930年诺贝尔物理学奖。散射光中一小部分的频率发生变化，这种变化与分子的运动和能量交换有关，可为研究物质提供线索。分开的细线是原创寓意，不是实测光谱、分子结构图或历史仪器复原，也不表示普通棱镜把白光分成彩虹；短句为原创。\n1930年物理学奖；独享本年度奖项。获奖理由（中文译述）：因研究光的散射并发现以他命名的效应。",
+          "en": "Raman received the 1930 Nobel Prize in Physics for work on light scattering and discovery of the effect named after him. A small portion of scattered light changes frequency in relation to molecular motion and energy exchange, providing clues to matter. The separated traces are an original metaphor, not measured spectra, molecular structures or a historical instrument reconstruction, and do not represent ordinary prism dispersion. The phrase is original.\n1930 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the scattering of light and for the discovery of the effect named after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年物理学奖｜官方记录",
+              "en": "1930 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prizes-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/raman-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-37",
+      "subject": "nobel-laureate-37",
+      "edition": "color",
+      "title": "钱德拉塞卡拉·文卡塔·拉曼",
+      "titleEnglish": "Sir Chandrasekhara Venkata Raman",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-37/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-37/color.jpg",
+      "sha256": "292750e955513104f3b505570e1a689aef7e8ba8b870c4612c195779507f2943",
+      "thumbnailSHA256": "77b1081ab5cf4932103f0597495fbfb57ada0a1dbcc45eda4a72a315db5e74da",
+      "context": {
+        "phrase": {
+          "zh": "光的细微变化，留下物质的线索。",
+          "en": "A small change in light leaves a clue to matter."
+        },
+        "visual": {
+          "zh": "右侧透明液体样品槽立在圆形底座上，一条水平细线与两条向左上方分开的斜线在槽边相交。明暗对照衬出玻璃边缘，槽内小圆点组合仅是原创示意。",
+          "en": "A transparent liquid cell stands on a round base at right. A horizontal trace meets two separated diagonal traces toward the upper left at the cell edge. Light and dark planes define the glass; small interior particle motifs are symbolic."
+        },
+        "background": {
+          "zh": "拉曼因研究光的散射并发现以他命名的效应，获得1930年诺贝尔物理学奖。散射光中一小部分的频率发生变化，这种变化与分子的运动和能量交换有关，可为研究物质提供线索。分开的细线是原创寓意，不是实测光谱、分子结构图或历史仪器复原，也不表示普通棱镜把白光分成彩虹；短句为原创。\n1930年物理学奖；独享本年度奖项。获奖理由（中文译述）：因研究光的散射并发现以他命名的效应。",
+          "en": "Raman received the 1930 Nobel Prize in Physics for work on light scattering and discovery of the effect named after him. A small portion of scattered light changes frequency in relation to molecular motion and energy exchange, providing clues to matter. The separated traces are an original metaphor, not measured spectra, molecular structures or a historical instrument reconstruction, and do not represent ordinary prism dispersion. The phrase is original.\n1930 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the scattering of light and for the discovery of the effect named after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年物理学奖｜官方记录",
+              "en": "1930 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prizes-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/raman-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

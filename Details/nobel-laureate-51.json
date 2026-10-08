@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-51",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-51",
+      "subject": "nobel-laureate-51",
+      "edition": "mono",
+      "title": "珀西·布里奇曼",
+      "titleEnglish": "Percy W. Bridgman",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-51/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-51/mono.jpg",
+      "sha256": "ec18fefcabd74310d404cebf9d0ae50e6407e0bc39dba083d0aebd3fc1e0eb7f",
+      "thumbnailSHA256": "565a367230908a33ba8f8dcd522361554154d65c16fc54d5f86b0ac766d433fd",
+      "context": {
+        "phrase": {
+          "zh": "压力之下，物质显出新的面貌。",
+          "en": "Under pressure, matter reveals another face."
+        },
+        "visual": {
+          "zh": "上下两块厚实压块夹住中央的三层折叠薄片，细刻线表现大平面和薄层的转折，两侧留出空隙。",
+          "en": "Two thick blocks surround three folded layers at the center; fine hatching follows the broad planes and thin folds, with open gaps at the sides."
+        },
+        "background": {
+          "zh": "布里奇曼因发明产生极高压力的方法，以及由此在高压物理研究中取得的发现，获得1946年诺贝尔物理学奖。画面用相向的厚压块和中间压紧的折层表达压力下的材料变化，是原创寓意，不复原他的真实仪器，也不表示压力数值。短句为原创。\n1946年物理学奖；独享本年度奖项。获奖理由（中文译述）：发明能够产生极高压力的装置，并利用它在高压物理领域作出发现。",
+          "en": "Bridgman received the 1946 Nobel Prize in Physics for methods producing extremely high pressures and discoveries in high-pressure physics. Opposing blocks and compacted folded layers express material response through an original metaphor, not his actual apparatus or measured pressure. The phrase is original.\n1946 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年物理学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-51",
+      "subject": "nobel-laureate-51",
+      "edition": "color",
+      "title": "珀西·布里奇曼",
+      "titleEnglish": "Percy W. Bridgman",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-51/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-51/color.jpg",
+      "sha256": "b0da9598e9251c0f084c4ab34fa973cbe36b039686c4733a87935e46c9088065",
+      "thumbnailSHA256": "6cb9293057a75c96bb43282b3a719d6737b43ff0eaddc709ec9670b5cbf25d0c",
+      "context": {
+        "phrase": {
+          "zh": "压力之下，物质显出新的面貌。",
+          "en": "Under pressure, matter reveals another face."
+        },
+        "visual": {
+          "zh": "上下两块厚实压块夹住中央的三层折叠薄片，细刻线表现大平面和薄层的转折，两侧留出空隙。",
+          "en": "Two thick blocks surround three folded layers at the center; fine hatching follows the broad planes and thin folds, with open gaps at the sides."
+        },
+        "background": {
+          "zh": "布里奇曼因发明产生极高压力的方法，以及由此在高压物理研究中取得的发现，获得1946年诺贝尔物理学奖。画面用相向的厚压块和中间压紧的折层表达压力下的材料变化，是原创寓意，不复原他的真实仪器，也不表示压力数值。短句为原创。\n1946年物理学奖；独享本年度奖项。获奖理由（中文译述）：发明能够产生极高压力的装置，并利用它在高压物理领域作出发现。",
+          "en": "Bridgman received the 1946 Nobel Prize in Physics for methods producing extremely high pressures and discoveries in high-pressure physics. Opposing blocks and compacted folded layers express material response through an original metaphor, not his actual apparatus or measured pressure. The phrase is original.\n1946 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the invention of an apparatus to produce extremely high pressures, and for the discoveries he made therewith in the field of high pressure physics"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年物理学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

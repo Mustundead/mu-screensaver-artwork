@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-474",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-474",
+      "subject": "nobel-laureate-474",
+      "edition": "mono",
+      "title": "腓特烈·巴耶尔",
+      "titleEnglish": "Fredrik Bajer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-474/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-474/mono.jpg",
+      "sha256": "c2f3ad710667e02596e81607ad297366088b5eb73d641df575b8da2a742a6b2e",
+      "thumbnailSHA256": "bfa0db5af3d9344b653a6588b407d3a49c366c40cbaf73675c044cde94c72c43",
+      "context": {
+        "phrase": {
+          "zh": "把一次交谈，变成持续的合作。",
+          "en": "Turn a conversation into lasting cooperation."
+        },
+        "visual": {
+          "zh": "不同尺度的手部交换空白纸张，弯曲纸面跨过前景，档案抽屉与地球意象交叠，蓝色纸面形成支撑结构。画面借传递与整理表现国际和平工作的组织联系，不是历史信件、会议或真实条约。",
+          "en": "Hands at unequal scales exchange blank paper across a curved foreground, overlapping an archive drawer and globe motif. A blue layer supports the composition. Exchange and organization suggest international peace work, not a historical letter, meeting or treaty."
+        },
+        "background": {
+          "zh": "腓特烈·巴耶尔是丹麦和平倡导者，与克拉斯·蓬图斯·阿诺尔德松共同获得1908年诺贝尔和平奖，各占一半。他推动议员之间的国际合作，并参与1891年建立国际和平局，使各地和平团体能有持续联系的机构。他主张仲裁与北欧中立，也与妻子玛蒂尔德参与丹麦妇女协会的创立。配图借空白纸张的传递和整理表现组织工作，介绍不把个人作用等同于整个和平运动的成果。\n1908年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们长期以政治人物、和平组织领导者、演说者和作者的身份推动和平事业",
+          "en": "Danish peace advocate Fredrik Bajer shared the 1908 Nobel Peace Prize equally with Klas Pontus Arnoldson. He promoted cooperation among parliamentarians and helped establish the International Peace Bureau in 1891, providing a continuing link between peace groups. He supported arbitration and Nordic neutrality and, with his wife Mathilde, helped found the Danish Women’s Society. Blank papers evoke exchange and organization. His individual contribution should not be equated with every achievement of the wider peace movement.\n1908 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their long time work for the cause of peace as politicians, peace society leaders, orators and authors"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年和平奖｜官方记录",
+              "en": "1908 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1908",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1908/bajer/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-474",
+      "subject": "nobel-laureate-474",
+      "edition": "color",
+      "title": "腓特烈·巴耶尔",
+      "titleEnglish": "Fredrik Bajer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-474/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-474/color.jpg",
+      "sha256": "24aa3a1521aa99d483df15709c4b4f8862ae853197ff463cb87b215b84ee3dfc",
+      "thumbnailSHA256": "c70c43f5c355684bf8b5d9f84f30fcdca9d3ab2137a7f0580350c5e7d69e5113",
+      "context": {
+        "phrase": {
+          "zh": "把一次交谈，变成持续的合作。",
+          "en": "Turn a conversation into lasting cooperation."
+        },
+        "visual": {
+          "zh": "不同尺度的手部交换空白纸张，弯曲纸面跨过前景，档案抽屉与地球意象交叠，蓝色纸面形成支撑结构。画面借传递与整理表现国际和平工作的组织联系，不是历史信件、会议或真实条约。",
+          "en": "Hands at unequal scales exchange blank paper across a curved foreground, overlapping an archive drawer and globe motif. A blue layer supports the composition. Exchange and organization suggest international peace work, not a historical letter, meeting or treaty."
+        },
+        "background": {
+          "zh": "腓特烈·巴耶尔是丹麦和平倡导者，与克拉斯·蓬图斯·阿诺尔德松共同获得1908年诺贝尔和平奖，各占一半。他推动议员之间的国际合作，并参与1891年建立国际和平局，使各地和平团体能有持续联系的机构。他主张仲裁与北欧中立，也与妻子玛蒂尔德参与丹麦妇女协会的创立。配图借空白纸张的传递和整理表现组织工作，介绍不把个人作用等同于整个和平运动的成果。\n1908年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们长期以政治人物、和平组织领导者、演说者和作者的身份推动和平事业",
+          "en": "Danish peace advocate Fredrik Bajer shared the 1908 Nobel Peace Prize equally with Klas Pontus Arnoldson. He promoted cooperation among parliamentarians and helped establish the International Peace Bureau in 1891, providing a continuing link between peace groups. He supported arbitration and Nordic neutrality and, with his wife Mathilde, helped found the Danish Women’s Society. Blank papers evoke exchange and organization. His individual contribution should not be equated with every achievement of the wider peace movement.\n1908 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their long time work for the cause of peace as politicians, peace society leaders, orators and authors"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年和平奖｜官方记录",
+              "en": "1908 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1908",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1908/bajer/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

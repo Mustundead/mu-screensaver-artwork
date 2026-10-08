@@ -1,0 +1,70 @@
+{
+  "subject": "086-dickinson",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:086-dickinson",
+      "subject": "086-dickinson",
+      "edition": "mono",
+      "title": "狄金森与内在世界",
+      "titleEnglish": "Dickinson and the Inner World",
+      "category": "艺术与人文",
+      "image": "Images/mono/086-dickinson.jpg",
+      "thumbnail": "Thumbs/mono/086-dickinson.jpg",
+      "sha256": "124c917b9e40f60913a2b53597a4b3de0127332f71716f607da1565f8a873d10",
+      "thumbnailSHA256": "f279ab0afacbb05d1f67aba84f1a31405a3b4ef6805e88cb1bdb80189d03b058",
+      "context": {
+        "phrase": {
+          "zh": "微小的纸页，也容得下辽阔。",
+          "en": "A small page can hold a wide world."
+        },
+        "visual": {
+          "zh": "狄金森的生成肖像与信封、纸页和细线组成私密而开放的空间。纸张暗示手稿和通信，但不是她真实字迹的摹本。",
+          "en": "A generated Dickinson portrait, envelopes, pages and fine lines create a private yet expansive space. Paper evokes manuscripts and letters without reproducing her handwriting."
+        },
+        "background": {
+          "zh": "狄金森博物馆区分诗歌作品与其物质手稿：约 2,500 份诗稿并不等于 2,500 首不同的诗，同一诗作可能有改写或异本。观察这些纸面差异，能看见一位诗人如何持续试探词语，而不是只有一个固定的“最终答案”。",
+          "en": "The Dickinson Museum distinguishes poems from surviving manuscripts: about 2,500 poem manuscripts do not mean 2,500 distinct poems. Versions may differ. Their material variations reveal a writer testing language, rather than only a single fixed final text."
+        },
+        "sources": [
+          {
+            "label": "Emily Dickinson Museum · The Manuscripts",
+            "url": "https://www.emilydickinsonmuseum.org/emily-dickinson/poetry/the-poet-at-work/the-manuscripts/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:086-dickinson",
+      "subject": "086-dickinson",
+      "edition": "color",
+      "title": "狄金森与内在世界",
+      "titleEnglish": "Dickinson and the Inner World",
+      "category": "艺术与人文",
+      "image": "Images/color/086-dickinson.jpg",
+      "thumbnail": "Thumbs/color/086-dickinson.jpg",
+      "sha256": "400c4362ebf2688ea553e620eee704b3a9f22f41b4a012cf14801c64989e2d90",
+      "thumbnailSHA256": "176f7afd2a6a6b354fc731e950615851fdc07f87356f63c1a374c089894fff58",
+      "context": {
+        "phrase": {
+          "zh": "微小的纸页，也容得下辽阔。",
+          "en": "A small page can hold a wide world."
+        },
+        "visual": {
+          "zh": "狄金森的生成肖像与信封、纸页和细线组成私密而开放的空间。纸张暗示手稿和通信，但不是她真实字迹的摹本。",
+          "en": "A generated Dickinson portrait, envelopes, pages and fine lines create a private yet expansive space. Paper evokes manuscripts and letters without reproducing her handwriting."
+        },
+        "background": {
+          "zh": "狄金森博物馆区分诗歌作品与其物质手稿：约 2,500 份诗稿并不等于 2,500 首不同的诗，同一诗作可能有改写或异本。观察这些纸面差异，能看见一位诗人如何持续试探词语，而不是只有一个固定的“最终答案”。",
+          "en": "The Dickinson Museum distinguishes poems from surviving manuscripts: about 2,500 poem manuscripts do not mean 2,500 distinct poems. Versions may differ. Their material variations reveal a writer testing language, rather than only a single fixed final text."
+        },
+        "sources": [
+          {
+            "label": "Emily Dickinson Museum · The Manuscripts",
+            "url": "https://www.emilydickinsonmuseum.org/emily-dickinson/poetry/the-poet-at-work/the-manuscripts/"
+          }
+        ]
+      }
+    }
+  }
+}

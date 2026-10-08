@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-614",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-614",
+      "subject": "nobel-laureate-614",
+      "edition": "mono",
+      "title": "约翰内斯·延森",
+      "titleEnglish": "Johannes V. Jensen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-614/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-614/mono.jpg",
+      "sha256": "c7b59b29eb4edc1c98aa6b4fadf23438170dc8e8601aba67f2de9438def76b3e",
+      "thumbnailSHA256": "fec5115330da75d39b4be7ff49194fa34546f94cc7aff951d20b52c7d801bbd5",
+      "context": {
+        "phrase": {
+          "zh": "走得再远，也带着来处。",
+          "en": "However far we travel, we carry where we came from."
+        },
+        "visual": {
+          "zh": "低视角树根占据近处，浓密枝叶从上方框住起伏田野，一条田间小路向远处明亮的天空延伸。",
+          "en": "From a low viewpoint, roots anchor the foreground and dense foliage frames rolling fields. A path leads into a bright distant sky."
+        },
+        "background": {
+          "zh": "延森的作品从丹麦乡野延伸到人类的漫长历程。《希默兰故事》以故乡地区为背景，《漫长的旅程》则探索人类演变的主题。他获得1944年诺贝尔文学奖。画面以近处树根与通向远方的田间小路表达来处与远行，是原创寓意，不是小说插图或故乡实景。短句为原创。\n1944年文学奖；独享本年度奖项。获奖理由（中文译述）：以富有力量与想象力的诗意，结合广泛的求知欲和大胆、清新的创造风格",
+          "en": "Jensen wrote of his Danish home region and humanity’s long journey. Himmerland Stories is rooted in his home region; The Long Journey explores human evolution. He received the 1944 Nobel Prize in Literature. Near roots and a path across distant fields express origins and travel in an original metaphor, not a scene from a novel or an exact place. The phrase is original.\n1944 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年文学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1944/jensen/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-614",
+      "subject": "nobel-laureate-614",
+      "edition": "color",
+      "title": "约翰内斯·延森",
+      "titleEnglish": "Johannes V. Jensen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-614/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-614/color.jpg",
+      "sha256": "451d399e058e224193572aaaa1576f4f6f2439cb99169ce7904a050832419bad",
+      "thumbnailSHA256": "b3bf397809f37a25f960d6584edb9d3d2327f74b912498fe7d5b3eacdc7239a3",
+      "context": {
+        "phrase": {
+          "zh": "走得再远，也带着来处。",
+          "en": "However far we travel, we carry where we came from."
+        },
+        "visual": {
+          "zh": "低视角树根占据近处，浓密枝叶从上方框住起伏田野，一条田间小路向远处明亮的天空延伸。",
+          "en": "From a low viewpoint, roots anchor the foreground and dense foliage frames rolling fields. A path leads into a bright distant sky."
+        },
+        "background": {
+          "zh": "延森的作品从丹麦乡野延伸到人类的漫长历程。《希默兰故事》以故乡地区为背景，《漫长的旅程》则探索人类演变的主题。他获得1944年诺贝尔文学奖。画面以近处树根与通向远方的田间小路表达来处与远行，是原创寓意，不是小说插图或故乡实景。短句为原创。\n1944年文学奖；独享本年度奖项。获奖理由（中文译述）：以富有力量与想象力的诗意，结合广泛的求知欲和大胆、清新的创造风格",
+          "en": "Jensen wrote of his Danish home region and humanity’s long journey. Himmerland Stories is rooted in his home region; The Long Journey explores human evolution. He received the 1944 Nobel Prize in Literature. Near roots and a path across distant fields express origins and travel in an original metaphor, not a scene from a novel or an exact place. The phrase is original.\n1944 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the rare strength and fertility of his poetic imagination with which is combined an intellectual curiosity of wide scope and a bold, freshly creative style"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1944 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1944/summary/",
+            "labelLocalized": {
+              "zh": "1944年文学奖｜官方记录",
+              "en": "1944 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1944/jensen/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "057-noether",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:057-noether",
+      "subject": "057-noether",
+      "edition": "mono",
+      "title": "诺特与对称",
+      "titleEnglish": "Noether and Symmetry",
+      "category": "自然科学",
+      "image": "Images/mono/057-noether.jpg",
+      "thumbnail": "Thumbs/mono/057-noether.jpg",
+      "sha256": "5545c1bc63478116f2f573cf60fe8bce1c3d3e3adbb6e7e391b587ea7a86061c",
+      "thumbnailSHA256": "ec7aeb0c923770124f2816f1e8550407ccba0c54c3713fbecc7babc0d86faf32",
+      "context": {
+        "phrase": {
+          "zh": "发现对称，也发现守恒。",
+          "en": "Find a symmetry, find a conservation law."
+        },
+        "visual": {
+          "zh": "人物旁的对称圆环与穿梭曲线，借重复图案表现数学结构。图案不是诺特定理的正式证明。",
+          "en": "Symmetric rings and moving curves beside a stylized figure use repeated patterns to suggest mathematical structure. They are not a proof of Noether’s theorem."
+        },
+        "background": {
+          "zh": "埃米·诺特在 1918 年发表的定理建立了物理系统中连续对称性与守恒定律的关系。比如时间平移对称与能量守恒相联；具体结论须满足理论模型的条件。",
+          "en": "Emmy Noether’s 1918 theorem connected continuous symmetries in physical systems with conservation laws. Time-translation symmetry, for example, relates to energy conservation under the conditions of the model."
+        },
+        "sources": [
+          {
+            "label": "MacTutor · Emmy Noether",
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether_Emmy/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:057-noether",
+      "subject": "057-noether",
+      "edition": "color",
+      "title": "诺特与对称",
+      "titleEnglish": "Noether and Symmetry",
+      "category": "自然科学",
+      "image": "Images/color/057-noether.jpg",
+      "thumbnail": "Thumbs/color/057-noether.jpg",
+      "sha256": "356a0d41de0c141c73be8acf4a8e5a04e1e4e22c7b64e6797edef3bd1d6c8ad3",
+      "thumbnailSHA256": "1a3ecec6e16345730b2740a4b2c3acad3cd5ef4e29bc90255bfa6ae8004683cf",
+      "context": {
+        "phrase": {
+          "zh": "发现对称，也发现守恒。",
+          "en": "Find a symmetry, find a conservation law."
+        },
+        "visual": {
+          "zh": "人物旁的对称圆环与穿梭曲线，借重复图案表现数学结构。图案不是诺特定理的正式证明。",
+          "en": "Symmetric rings and moving curves beside a stylized figure use repeated patterns to suggest mathematical structure. They are not a proof of Noether’s theorem."
+        },
+        "background": {
+          "zh": "埃米·诺特在 1918 年发表的定理建立了物理系统中连续对称性与守恒定律的关系。比如时间平移对称与能量守恒相联；具体结论须满足理论模型的条件。",
+          "en": "Emmy Noether’s 1918 theorem connected continuous symmetries in physical systems with conservation laws. Time-translation symmetry, for example, relates to energy conservation under the conditions of the model."
+        },
+        "sources": [
+          {
+            "label": "MacTutor · Emmy Noether",
+            "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Noether_Emmy/"
+          }
+        ]
+      }
+    }
+  }
+}

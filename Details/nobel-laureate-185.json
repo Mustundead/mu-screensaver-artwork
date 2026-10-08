@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-185",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-185",
+      "subject": "nobel-laureate-185",
+      "edition": "mono",
+      "title": "阿道夫·温道斯",
+      "titleEnglish": "Adolf Windaus",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-185/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-185/mono.jpg",
+      "sha256": "4b0b01466027d27f007b4be4af57b793e4346d1521e57e0d719ce53c4dd7a926",
+      "thumbnailSHA256": "80462556786578f0c22cd152928a9bacbc9c6a5cc33a5f4ed55c1462b5d9ec59",
+      "context": {
+        "phrase": {
+          "zh": "在相似的形态中，寻找联系。",
+          "en": "Look for connections among related forms."
+        },
+        "visual": {
+          "zh": "浅象牙色与淡蜜色晶片交叠成横向低带，上半部留出安静的浅绿色空间。细直刻线区分各片的朝向与重叠，黑白版保持同一晶片关系；这是想象的晶体研究画面，不是真实样本照片。",
+          "en": "Pale ivory and honey-toned crystal plates overlap in a low horizontal band beneath a quiet sage field. Thin straight engraving distinguishes their angles and layers. The monochrome edition retains the same formation. This is an imagined crystal study, not a photograph of a real specimen."
+        },
+        "background": {
+          "zh": "温道斯获1928年诺贝尔化学奖，贡献是研究甾醇的结构及其与维生素的联系。甾醇是一类存在于动植物等生物中的天然物质，包括胆固醇；他的工作也帮助理解维生素D相关化学。晶片层叠是相关天然物质的原创寓意，不是分子模型或显微照片，也不表示他独自发现了维生素D；短句为原创。\n1928年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他研究甾醇的结构及其与维生素的联系。",
+          "en": "Windaus received the 1928 Nobel Prize in Chemistry for research on sterol structures and their relationship with vitamins. Sterols are natural substances found in living organisms, including cholesterol. His work also helped clarify vitamin D chemistry. The layered crystals are an original metaphor for related natural substances, not a molecular model or micrograph, and do not imply that he discovered vitamin D alone. The phrase is original.\n1928 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for the services rendered through his research into the constitution of the sterols and their connection with the vitamins"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1928 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1928/summary/",
+            "labelLocalized": {
+              "zh": "1928年化学奖｜官方记录",
+              "en": "1928 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-and-the-discovery-of-vitamins/",
+            "labelLocalized": {
+              "zh": "维生素研究史｜诺贝尔奖官网",
+              "en": "Vitamin discoveries — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-185",
+      "subject": "nobel-laureate-185",
+      "edition": "color",
+      "title": "阿道夫·温道斯",
+      "titleEnglish": "Adolf Windaus",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-185/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-185/color.jpg",
+      "sha256": "062e0276461dc7b676ddea8fef5f8fe949cbf2a57cec5dbff27b9720bf1db743",
+      "thumbnailSHA256": "8f45c101b09c3f6ee9dbfa33e5013230e3a074073f6a787074246cba179da611",
+      "context": {
+        "phrase": {
+          "zh": "在相似的形态中，寻找联系。",
+          "en": "Look for connections among related forms."
+        },
+        "visual": {
+          "zh": "浅象牙色与淡蜜色晶片交叠成横向低带，上半部留出安静的浅绿色空间。细直刻线区分各片的朝向与重叠，黑白版保持同一晶片关系；这是想象的晶体研究画面，不是真实样本照片。",
+          "en": "Pale ivory and honey-toned crystal plates overlap in a low horizontal band beneath a quiet sage field. Thin straight engraving distinguishes their angles and layers. The monochrome edition retains the same formation. This is an imagined crystal study, not a photograph of a real specimen."
+        },
+        "background": {
+          "zh": "温道斯获1928年诺贝尔化学奖，贡献是研究甾醇的结构及其与维生素的联系。甾醇是一类存在于动植物等生物中的天然物质，包括胆固醇；他的工作也帮助理解维生素D相关化学。晶片层叠是相关天然物质的原创寓意，不是分子模型或显微照片，也不表示他独自发现了维生素D；短句为原创。\n1928年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他研究甾醇的结构及其与维生素的联系。",
+          "en": "Windaus received the 1928 Nobel Prize in Chemistry for research on sterol structures and their relationship with vitamins. Sterols are natural substances found in living organisms, including cholesterol. His work also helped clarify vitamin D chemistry. The layered crystals are an original metaphor for related natural substances, not a molecular model or micrograph, and do not imply that he discovered vitamin D alone. The phrase is original.\n1928 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for the services rendered through his research into the constitution of the sterols and their connection with the vitamins"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1928 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1928/summary/",
+            "labelLocalized": {
+              "zh": "1928年化学奖｜官方记录",
+              "en": "1928 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-and-the-discovery-of-vitamins/",
+            "labelLocalized": {
+              "zh": "维生素研究史｜诺贝尔奖官网",
+              "en": "Vitamin discoveries — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

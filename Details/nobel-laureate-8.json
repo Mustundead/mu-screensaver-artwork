@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-8",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-8",
+      "subject": "nobel-laureate-8",
+      "edition": "mono",
+      "title": "瑞利勋爵",
+      "titleEnglish": "Lord Rayleigh",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-8/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-8/mono.jpg",
+      "sha256": "827be6fc8e282359e416821d32672f87ca762935c61cd95d408e571270fdb185",
+      "thumbnailSHA256": "fba5893154be0a04cc8b969b702958acec60c898881ff97f56688de7891ad516",
+      "context": {
+        "phrase": {
+          "zh": "微小的差别，也可能指向新的发现。",
+          "en": "A small difference can point to a new discovery."
+        },
+        "visual": {
+          "zh": "为瑞利独立创作的气体称量拼贴，以天平、玻璃容器和空白记录纸呼应气体密度研究。器材是象征性组合，不是他的原装实验设备；画面不提供气体读数或实验操作方法。",
+          "en": "An original gas-weighing collage for Rayleigh uses a balance, glass vessels and blank record paper to evoke gas-density research. Its apparatus is symbolic, not his original equipment, and provides no gas measurements or experimental procedure."
+        },
+        "background": {
+          "zh": "瑞利获得1904年诺贝尔物理学奖，表彰他对重要气体密度的研究，以及在这些研究中发现氩的贡献。配图用称量与比较的物件表现这一研究方向；透明容器中的颜色只来自器材和背景，不表示气体自身带有颜色。\n1904年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对重要气体密度的研究，以及在这些研究中发现氩的贡献。",
+          "en": "Rayleigh received the 1904 Nobel Prize in Physics for investigations of important gas densities and the discovery of argon associated with that work. The artwork interprets weighing and comparison; any color around the transparent vessels belongs to their materials or surroundings, not to the gas itself.\n1904 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his investigations of the densities of the most important gases and for his discovery of argon in connection with these studies"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年物理学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/strutt-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-8",
+      "subject": "nobel-laureate-8",
+      "edition": "color",
+      "title": "瑞利勋爵",
+      "titleEnglish": "Lord Rayleigh",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-8/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-8/color.jpg",
+      "sha256": "2d8af63618dcfe99bec1fb66c0dcf6e6f209ed4fe5006fe4fe96479abe264344",
+      "thumbnailSHA256": "01947f40318ed3f94b19236e4e63f45af9bf561f5f892b4e9ba2753a885eb8e6",
+      "context": {
+        "phrase": {
+          "zh": "微小的差别，也可能指向新的发现。",
+          "en": "A small difference can point to a new discovery."
+        },
+        "visual": {
+          "zh": "为瑞利独立创作的气体称量拼贴，以天平、玻璃容器和空白记录纸呼应气体密度研究。器材是象征性组合，不是他的原装实验设备；画面不提供气体读数或实验操作方法。",
+          "en": "An original gas-weighing collage for Rayleigh uses a balance, glass vessels and blank record paper to evoke gas-density research. Its apparatus is symbolic, not his original equipment, and provides no gas measurements or experimental procedure."
+        },
+        "background": {
+          "zh": "瑞利获得1904年诺贝尔物理学奖，表彰他对重要气体密度的研究，以及在这些研究中发现氩的贡献。配图用称量与比较的物件表现这一研究方向；透明容器中的颜色只来自器材和背景，不表示气体自身带有颜色。\n1904年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对重要气体密度的研究，以及在这些研究中发现氩的贡献。",
+          "en": "Rayleigh received the 1904 Nobel Prize in Physics for investigations of important gas densities and the discovery of argon associated with that work. The artwork interprets weighing and comparison; any color around the transparent vessels belongs to their materials or surroundings, not to the gas itself.\n1904 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his investigations of the densities of the most important gases and for his discovery of argon in connection with these studies"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年物理学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/strutt-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

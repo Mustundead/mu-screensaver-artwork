@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-11",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-11",
+      "subject": "nobel-laureate-11",
+      "edition": "mono",
+      "title": "阿尔伯特·迈克耳孙",
+      "titleEnglish": "Albert A. Michelson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-11/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-11/mono.jpg",
+      "sha256": "2b8324e5dbc7483272dac8bef80bbabadf407d6a0a63de8fc1d7af55511a886c",
+      "thumbnailSHA256": "c25bca86869578862b31a53a2a679237c37f9019aa7b5e7204b275fd7c54177d",
+      "context": {
+        "phrase": {
+          "zh": "让微小差别，成为可以测量的距离。",
+          "en": "Small differences can become measurable distances."
+        },
+        "visual": {
+          "zh": "镜片、光学导轨、精密螺杆与标准尺盒组成独立拼贴，表现以仪器观察细微差别的研究。装置是想象性的组合，不是迈克耳孙真实实验装置或工作示意图。",
+          "en": "Mirror plates, optical rails, a precision screw and a length-standard case form an original collage about measuring small differences. The symbolic apparatus is not a reconstruction or working diagram of Michelson's experiments."
+        },
+        "background": {
+          "zh": "阿尔伯特·迈克耳孙获得1907年诺贝尔物理学奖，获奖工作涉及精密光学仪器，以及借助这些仪器进行的光谱与测量研究。他发展干涉测量方法，利用光波叠加形成的图样比较细微差别。配图以镜片和精密调节器具呼应这一研究方向；画面中的器具位置不代表真实实验步骤。\n1907年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他的精密光学仪器，以及借助这些仪器开展的光谱学与计量研究。",
+          "en": "Albert A. Michelson received the 1907 Nobel Prize in Physics for precision optical instruments and the spectroscopic and metrological investigations made with them. His interferometry used patterns formed by overlapping light waves to compare small differences. The artwork interprets that work through mirrors and precision adjustments; their arrangement does not describe an experimental procedure.\n1907 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年物理学奖｜官方记录",
+              "en": "1907 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1907/michelson/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-11",
+      "subject": "nobel-laureate-11",
+      "edition": "color",
+      "title": "阿尔伯特·迈克耳孙",
+      "titleEnglish": "Albert A. Michelson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-11/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-11/color.jpg",
+      "sha256": "9cdf89c8b5c39054aa38f04f8b8fee4461c9c92384250abb0bc739e2001c8575",
+      "thumbnailSHA256": "bd6da60b140db4e36778ebb4e379a73ee4ed9276ddf853bd277433dca9321ff4",
+      "context": {
+        "phrase": {
+          "zh": "让微小差别，成为可以测量的距离。",
+          "en": "Small differences can become measurable distances."
+        },
+        "visual": {
+          "zh": "镜片、光学导轨、精密螺杆与标准尺盒组成独立拼贴，表现以仪器观察细微差别的研究。装置是想象性的组合，不是迈克耳孙真实实验装置或工作示意图。",
+          "en": "Mirror plates, optical rails, a precision screw and a length-standard case form an original collage about measuring small differences. The symbolic apparatus is not a reconstruction or working diagram of Michelson's experiments."
+        },
+        "background": {
+          "zh": "阿尔伯特·迈克耳孙获得1907年诺贝尔物理学奖，获奖工作涉及精密光学仪器，以及借助这些仪器进行的光谱与测量研究。他发展干涉测量方法，利用光波叠加形成的图样比较细微差别。配图以镜片和精密调节器具呼应这一研究方向；画面中的器具位置不代表真实实验步骤。\n1907年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他的精密光学仪器，以及借助这些仪器开展的光谱学与计量研究。",
+          "en": "Albert A. Michelson received the 1907 Nobel Prize in Physics for precision optical instruments and the spectroscopic and metrological investigations made with them. His interferometry used patterns formed by overlapping light waves to compare small differences. The artwork interprets that work through mirrors and precision adjustments; their arrangement does not describe an experimental procedure.\n1907 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his optical precision instruments and the spectroscopic and metrological investigations carried out with their aid"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年物理学奖｜官方记录",
+              "en": "1907 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1907/michelson/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

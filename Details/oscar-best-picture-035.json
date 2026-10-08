@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-035",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-035",
+      "subject": "oscar-best-picture-035",
+      "edition": "mono",
+      "title": "阿拉伯的劳伦斯",
+      "titleEnglish": "Lawrence of Arabia",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-035/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-035/mono.jpg",
+      "sha256": "034ab8c429f3147237282bb3e2218c0da53cc5dfe92c0ba1879c6fd00aad7a3c",
+      "thumbnailSHA256": "837a7f10dbcb7a144f3deeeca7256aaae2cba177f08261cd1d24ab58e6abd1d3",
+      "context": {
+        "phrase": {
+          "zh": "越过漫长沙海，也记得回头寻找。",
+          "en": "Cross the long desert, and remember to turn back and search."
+        },
+        "visual": {
+          "zh": "左侧巨大的锈赭色岩壁裁出画外，浅色沙地通向远处低山；足迹在画面中部转弯并向近处返回，上方留出浅色天空。中性黑白版保留岩壁、足迹回转与远近层次。",
+          "en": "A large rust-ochre cliff extends beyond the left crop, with pale sand leading to a low distant ridge. Footprints turn in the middle and return toward the foreground beneath a quiet pale sky. The neutral monochrome edition preserves the cliff, returning tracks and spatial depth."
+        },
+        "background": {
+          "zh": "大卫·里恩执导的《阿拉伯的劳伦斯》于1962年上映，在1963年第35届奥斯卡获得最佳影片。影片中，劳伦斯率队穿越沙漠，又返回寻找掉队的同伴。沙地上转向的足迹取意于这段情节，是关于前行与回返的原创场景，不是电影镜头、拍摄地复原或历史事件记录；短句为原创。\n第35届奥斯卡最佳影片：阿拉伯的劳伦斯。颁奖年份 1963；参评年份 1962。",
+          "en": "Directed by David Lean, Lawrence of Arabia was released in 1962 and won Best Picture at the 35th Academy Awards in 1963. In the film Lawrence leads a desert crossing and returns to search for a missing companion. Turning tracks across sand draw on this episode as an original scene about advance and return, not a film frame, a reconstructed location or a historical record. The phrase is original.\nAcademy Awards ceremony 35 (1963), Best Picture: Lawrence of Arabia. Eligibility year: 1962."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1963",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Catalog/moviedetails/23993",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-035",
+      "subject": "oscar-best-picture-035",
+      "edition": "color",
+      "title": "阿拉伯的劳伦斯",
+      "titleEnglish": "Lawrence of Arabia",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-035/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-035/color.jpg",
+      "sha256": "3b13589dd2e27e3e3fd292d560b1b0d68eea871473346f24433a90e8dfaaae27",
+      "thumbnailSHA256": "17231fd5045fbc68ab9f9dd5faefed96fdf3acd49267e1ee3d5552e6d5df7e40",
+      "context": {
+        "phrase": {
+          "zh": "越过漫长沙海，也记得回头寻找。",
+          "en": "Cross the long desert, and remember to turn back and search."
+        },
+        "visual": {
+          "zh": "左侧巨大的锈赭色岩壁裁出画外，浅色沙地通向远处低山；足迹在画面中部转弯并向近处返回，上方留出浅色天空。中性黑白版保留岩壁、足迹回转与远近层次。",
+          "en": "A large rust-ochre cliff extends beyond the left crop, with pale sand leading to a low distant ridge. Footprints turn in the middle and return toward the foreground beneath a quiet pale sky. The neutral monochrome edition preserves the cliff, returning tracks and spatial depth."
+        },
+        "background": {
+          "zh": "大卫·里恩执导的《阿拉伯的劳伦斯》于1962年上映，在1963年第35届奥斯卡获得最佳影片。影片中，劳伦斯率队穿越沙漠，又返回寻找掉队的同伴。沙地上转向的足迹取意于这段情节，是关于前行与回返的原创场景，不是电影镜头、拍摄地复原或历史事件记录；短句为原创。\n第35届奥斯卡最佳影片：阿拉伯的劳伦斯。颁奖年份 1963；参评年份 1962。",
+          "en": "Directed by David Lean, Lawrence of Arabia was released in 1962 and won Best Picture at the 35th Academy Awards in 1963. In the film Lawrence leads a desert crossing and returns to search for a missing companion. Turning tracks across sand draw on this episode as an original scene about advance and return, not a film frame, a reconstructed location or a historical record. The phrase is original.\nAcademy Awards ceremony 35 (1963), Best Picture: Lawrence of Arabia. Eligibility year: 1962."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1963",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Catalog/moviedetails/23993",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

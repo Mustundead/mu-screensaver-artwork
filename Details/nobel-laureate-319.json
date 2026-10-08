@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-319",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-319",
+      "subject": "nobel-laureate-319",
+      "edition": "mono",
+      "title": "克里斯蒂安·艾克曼",
+      "titleEnglish": "Christiaan Eijkman",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-319/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-319/mono.jpg",
+      "sha256": "22faa4a2b73b9f3df66cc6a10d53e17ffa78a910f4c255fb06fc075412cadfb4",
+      "thumbnailSHA256": "b862baf65cc25ee5634b1219b8c0c2d1e195aff07c79b99ddb4978a64775e1ad",
+      "context": {
+        "phrase": {
+          "zh": "被磨去的，也值得看见。",
+          "en": "What is removed deserves attention."
+        },
+        "visual": {
+          "zh": "两颗放大的米粒横向相对，左侧保留棕色外层和浅色胚部，右侧呈磨光后的象牙白；两者均为连续实体，没有米壳式深裂缝。黑白版以深浅区别外层。",
+          "en": "Two enlarged rice kernels face each other: the left has a tan outer coat and a pale embryo mark, while the right is polished ivory. Both are solid kernels without a hull-like split. The neutral edition distinguishes them through tone."
+        },
+        "background": {
+          "zh": "艾克曼获1929年诺贝尔生理学或医学奖的一半，获奖理由是发现抗神经炎的维生素。他对鸡与稻米加工的历史观察为维生素研究提供线索，后来对缺乏因素的解释由其他研究者继续发展。画面中的棕色层表示米糠层，区别于先被除去的米壳；这是原创寓意，不是饮食或治疗建议，短句为原创。\n1929年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现抗神经炎的维生素。",
+          "en": "Eijkman received half of the 1929 Nobel Prize in Physiology or Medicine for the discovery described as the antineuritic vitamin. His historical observations involving chickens and processed rice informed vitamin research; other researchers further developed the deficiency explanation. The tan coating represents bran, distinct from the removed hull. The image is an original metaphor, not dietary or treatment advice. The phrase is original.\n1929 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of the antineuritic vitamin"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年生理学或医学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-and-the-discovery-of-vitamins/",
+            "labelLocalized": {
+              "zh": "维生素研究史｜诺贝尔奖官网",
+              "en": "Vitamin discoveries — Nobel Prize"
+            }
+          },
+          {
+            "label": "knowledgebank.irri.org",
+            "url": "https://www.knowledgebank.irri.org/step-by-step-production/postharvest/rice-by-products",
+            "labelLocalized": {
+              "zh": "米壳与米糠层｜国际水稻研究所",
+              "en": "Rice husk and bran — International Rice Research Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-319",
+      "subject": "nobel-laureate-319",
+      "edition": "color",
+      "title": "克里斯蒂安·艾克曼",
+      "titleEnglish": "Christiaan Eijkman",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-319/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-319/color.jpg",
+      "sha256": "eae65d6566a56c964650b955bfaa18857ef7053e62135ad6461c1a493291d611",
+      "thumbnailSHA256": "23fb3211a315274d815a64f3987cb5ddeb7e5102ebc57beac7ce6e2bf280fab1",
+      "context": {
+        "phrase": {
+          "zh": "被磨去的，也值得看见。",
+          "en": "What is removed deserves attention."
+        },
+        "visual": {
+          "zh": "两颗放大的米粒横向相对，左侧保留棕色外层和浅色胚部，右侧呈磨光后的象牙白；两者均为连续实体，没有米壳式深裂缝。黑白版以深浅区别外层。",
+          "en": "Two enlarged rice kernels face each other: the left has a tan outer coat and a pale embryo mark, while the right is polished ivory. Both are solid kernels without a hull-like split. The neutral edition distinguishes them through tone."
+        },
+        "background": {
+          "zh": "艾克曼获1929年诺贝尔生理学或医学奖的一半，获奖理由是发现抗神经炎的维生素。他对鸡与稻米加工的历史观察为维生素研究提供线索，后来对缺乏因素的解释由其他研究者继续发展。画面中的棕色层表示米糠层，区别于先被除去的米壳；这是原创寓意，不是饮食或治疗建议，短句为原创。\n1929年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现抗神经炎的维生素。",
+          "en": "Eijkman received half of the 1929 Nobel Prize in Physiology or Medicine for the discovery described as the antineuritic vitamin. His historical observations involving chickens and processed rice informed vitamin research; other researchers further developed the deficiency explanation. The tan coating represents bran, distinct from the removed hull. The image is an original metaphor, not dietary or treatment advice. The phrase is original.\n1929 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of the antineuritic vitamin"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年生理学或医学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-and-the-discovery-of-vitamins/",
+            "labelLocalized": {
+              "zh": "维生素研究史｜诺贝尔奖官网",
+              "en": "Vitamin discoveries — Nobel Prize"
+            }
+          },
+          {
+            "label": "knowledgebank.irri.org",
+            "url": "https://www.knowledgebank.irri.org/step-by-step-production/postharvest/rice-by-products",
+            "labelLocalized": {
+              "zh": "米壳与米糠层｜国际水稻研究所",
+              "en": "Rice husk and bran — International Rice Research Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

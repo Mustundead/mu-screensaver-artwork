@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-485",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-485",
+      "subject": "nobel-laureate-485",
+      "edition": "mono",
+      "title": "亚尔马·布兰廷",
+      "titleEnglish": "Hjalmar Branting",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-485/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-485/mono.jpg",
+      "sha256": "4354fd144dd919bfb6b668abe11439f0c411c55eae03f043b138f4a330ca5e5b",
+      "thumbnailSHA256": "dac4b698c782d9422dcc391ff98efb0e15d9a4f953acf508b75333cbea628736",
+      "context": {
+        "phrase": {
+          "zh": "让分歧回到同一张桌上。",
+          "en": "Bring differences back to the same table."
+        },
+        "visual": {
+          "zh": "两片巨大的棕色弧形木质桌面从左下与右上裁入，边缘之间保留缝隙；一张小空白纸搭在黄铜细条上。黑白版保留桌面、纸页、缝隙与裁切。画面表达协商的持续工作，不是国际联盟真实家具或已完成的条约。",
+          "en": "Two huge curved wooden surfaces enter from lower left and upper right, leaving a gap. A small blank paper rests across a narrow brass rail. Monochrome retains surfaces, paper, gap and crop. The image suggests negotiation as ongoing work, not actual League of Nations furniture or a completed treaty."
+        },
+        "background": {
+          "zh": "布兰廷与克里斯蒂安·朗格各获1921年诺贝尔和平奖的一半，获奖理由是毕生为和平和有组织的国际合作作出的贡献。诺贝尔官网介绍，布兰廷支持国际联盟与和平处理争端，也曾反对以武力阻止挪威脱离瑞典。画中未合拢的木质桌面与空白纸页寓意协商仍需努力，不是国际联盟的真实家具或某份条约。短句为原创，不是人物引语。\n1921年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰两位获奖者毕生为和平事业和有组织的国际合作作出的贡献。",
+          "en": "Branting and Christian Lange each received half of the 1921 Nobel Peace Prize for lifelong contributions to peace and organized internationalism. NobelPrize.org describes Branting's support for the League of Nations and peaceful dispute settlement, including opposition to using force to prevent Norway leaving its union with Sweden. Unjoined table sections and blank paper suggest negotiation as ongoing work, not actual League furniture or a particular treaty. The phrase is original, not a quotation.\n1921 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their lifelong contributions to the cause of peace and organized internationalism"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年和平奖｜官方记录",
+              "en": "1921 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1921/branting/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-485",
+      "subject": "nobel-laureate-485",
+      "edition": "color",
+      "title": "亚尔马·布兰廷",
+      "titleEnglish": "Hjalmar Branting",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-485/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-485/color.jpg",
+      "sha256": "c6d819b2366df117605c92e3dbf1fb7fcd38ff367d83d64aecc107ca397e6509",
+      "thumbnailSHA256": "d7f5a724d08943574ebedb440b0b5ce0529c95e6ec6a7bc817ada5a788b802e0",
+      "context": {
+        "phrase": {
+          "zh": "让分歧回到同一张桌上。",
+          "en": "Bring differences back to the same table."
+        },
+        "visual": {
+          "zh": "两片巨大的棕色弧形木质桌面从左下与右上裁入，边缘之间保留缝隙；一张小空白纸搭在黄铜细条上。黑白版保留桌面、纸页、缝隙与裁切。画面表达协商的持续工作，不是国际联盟真实家具或已完成的条约。",
+          "en": "Two huge curved wooden surfaces enter from lower left and upper right, leaving a gap. A small blank paper rests across a narrow brass rail. Monochrome retains surfaces, paper, gap and crop. The image suggests negotiation as ongoing work, not actual League of Nations furniture or a completed treaty."
+        },
+        "background": {
+          "zh": "布兰廷与克里斯蒂安·朗格各获1921年诺贝尔和平奖的一半，获奖理由是毕生为和平和有组织的国际合作作出的贡献。诺贝尔官网介绍，布兰廷支持国际联盟与和平处理争端，也曾反对以武力阻止挪威脱离瑞典。画中未合拢的木质桌面与空白纸页寓意协商仍需努力，不是国际联盟的真实家具或某份条约。短句为原创，不是人物引语。\n1921年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰两位获奖者毕生为和平事业和有组织的国际合作作出的贡献。",
+          "en": "Branting and Christian Lange each received half of the 1921 Nobel Peace Prize for lifelong contributions to peace and organized internationalism. NobelPrize.org describes Branting's support for the League of Nations and peaceful dispute settlement, including opposition to using force to prevent Norway leaving its union with Sweden. Unjoined table sections and blank paper suggest negotiation as ongoing work, not actual League furniture or a particular treaty. The phrase is original, not a quotation.\n1921 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their lifelong contributions to the cause of peace and organized internationalism"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年和平奖｜官方记录",
+              "en": "1921 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1921/branting/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

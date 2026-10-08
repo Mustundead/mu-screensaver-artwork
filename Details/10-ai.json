@@ -1,0 +1,70 @@
+{
+  "subject": "10-ai",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:10-ai",
+      "subject": "10-ai",
+      "edition": "mono",
+      "title": "人工智能：表征与关联",
+      "titleEnglish": "AI: Representation and Relationships",
+      "category": "计算与人工智能",
+      "image": "Images/mono/10-ai.jpg",
+      "thumbnail": "Thumbs/mono/10-ai.jpg",
+      "sha256": "871c5e9d4802ed654154077b768e0761dd8e7d889b734194c8128076257fc515",
+      "thumbnailSHA256": "4100fad899e450c863c366d03928f280030cdbb90eaca42da4e7a31495624bde",
+      "context": {
+        "phrase": {
+          "zh": "关联可以学会，理解仍需检验。",
+          "en": "Patterns can be learned; understanding needs testing."
+        },
+        "visual": {
+          "zh": "相连的节点、层叠块面与伸出的手，象征人与学习系统的关系。这不是大脑扫描，也不是某个模型真实的内部可视化。",
+          "en": "Connected nodes, layered blocks and a reaching hand suggest a relationship between people and learning systems. This is neither a brain scan nor a visualization of an actual model’s internals."
+        },
+        "background": {
+          "zh": "2024 年诺贝尔物理学奖授予霍普菲尔德与辛顿，表彰使人工神经网络机器学习成为可能的基础发现与发明。人工神经网络受部分脑功能启发，但使用数学结构处理信息；它找到关联，并不自动等于获得人的理解或意识。",
+          "en": "The 2024 Nobel Prize in Physics recognized Hopfield and Hinton for foundational work enabling machine learning with artificial neural networks. Such networks use mathematical structures inspired by aspects of brain function. Finding associations does not by itself demonstrate human understanding or consciousness."
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize · Physics 2024 background",
+            "url": "https://www.nobelprize.org/prizes/physics/2024/popular-information/2/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:10-ai",
+      "subject": "10-ai",
+      "edition": "color",
+      "title": "人工智能：表征与关联",
+      "titleEnglish": "AI: Representation and Relationships",
+      "category": "计算与人工智能",
+      "image": "Images/color/10-ai.jpg",
+      "thumbnail": "Thumbs/color/10-ai.jpg",
+      "sha256": "eabad355d897d27c3aec9e128b0f72ea0b684b9f1d82294ca0e2939611eeec5c",
+      "thumbnailSHA256": "7b24efecfc714708481763c18020f72a733a7c222dbcab7a1e74e1208fa23c05",
+      "context": {
+        "phrase": {
+          "zh": "关联可以学会，理解仍需检验。",
+          "en": "Patterns can be learned; understanding needs testing."
+        },
+        "visual": {
+          "zh": "相连的节点、层叠块面与伸出的手，象征人与学习系统的关系。这不是大脑扫描，也不是某个模型真实的内部可视化。",
+          "en": "Connected nodes, layered blocks and a reaching hand suggest a relationship between people and learning systems. This is neither a brain scan nor a visualization of an actual model’s internals."
+        },
+        "background": {
+          "zh": "2024 年诺贝尔物理学奖授予霍普菲尔德与辛顿，表彰使人工神经网络机器学习成为可能的基础发现与发明。人工神经网络受部分脑功能启发，但使用数学结构处理信息；它找到关联，并不自动等于获得人的理解或意识。",
+          "en": "The 2024 Nobel Prize in Physics recognized Hopfield and Hinton for foundational work enabling machine learning with artificial neural networks. Such networks use mathematical structures inspired by aspects of brain function. Finding associations does not by itself demonstrate human understanding or consciousness."
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize · Physics 2024 background",
+            "url": "https://www.nobelprize.org/prizes/physics/2024/popular-information/2/"
+          }
+        ]
+      }
+    }
+  }
+}

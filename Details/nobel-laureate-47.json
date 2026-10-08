@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-47",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-47",
+      "subject": "nobel-laureate-47",
+      "edition": "mono",
+      "title": "欧内斯特·劳伦斯",
+      "titleEnglish": "Ernest Lawrence",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-47/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-47/mono.jpg",
+      "sha256": "a6d07dc0d141731f1b07d26fde321ed0e9ea9e29b1088857542d3626d301cc72",
+      "thumbnailSHA256": "d3a82fb694d39c82dbe617ba901e375df10a22dd18b4e1426ab2a0906b403432",
+      "context": {
+        "phrase": {
+          "zh": "一圈一圈，积蓄向前的力量。",
+          "en": "With each turn, gather strength to move forward."
+        },
+        "visual": {
+          "zh": "俯视两块相对的D形电极，中央留出窄缝；两侧弧线共同组成近圆形的轨迹，金属表面的细刻线与周围留白形成对照。",
+          "en": "A top-down view shows two facing D-shaped electrodes separated by a narrow gap. Arcs on both halves form near-circular paths, with finely hatched metal surfaces set against surrounding space."
+        },
+        "background": {
+          "zh": "劳伦斯因发明和发展回旋加速器及其研究成果获得1939年诺贝尔物理学奖。回旋加速器让带电粒子在磁场中转弯，并在反复跨越电极间隙时获得能量。画面用两块D形电极、中央间隙和逐渐向外的浅色弧线表达反复加速。弧线不是实测轨迹，电极也不是某台历史设备的复原。短句为原创。\n1939年物理学奖；独享本年度奖项。获奖理由（中文译述）：发明和发展回旋加速器，并取得相关研究成果，尤其是人工放射性元素方面的成果",
+          "en": "Lawrence received the 1939 Nobel Prize in Physics for inventing and developing the cyclotron and for results obtained with it. A cyclotron bends charged particles in a magnetic field and adds energy as they repeatedly cross the electrode gap. Two D-shaped electrodes, a central gap and pale arcs extending outward express repeated acceleration. The arcs are not measured trajectories, and the electrodes do not reconstruct a particular historical machine. The phrase is original.\n1939 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年物理学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1939/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-47",
+      "subject": "nobel-laureate-47",
+      "edition": "color",
+      "title": "欧内斯特·劳伦斯",
+      "titleEnglish": "Ernest Lawrence",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-47/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-47/color.jpg",
+      "sha256": "b0bf75fba245fad38c3592b55cdf521d4a6b35a66a1f684744a4e505764eb0b2",
+      "thumbnailSHA256": "0aa7d5132a9eb19f104f31da99a64e8cc51ce2cc3193fdd5e82dd291b5b27106",
+      "context": {
+        "phrase": {
+          "zh": "一圈一圈，积蓄向前的力量。",
+          "en": "With each turn, gather strength to move forward."
+        },
+        "visual": {
+          "zh": "俯视两块相对的D形电极，中央留出窄缝；两侧弧线共同组成近圆形的轨迹，金属表面的细刻线与周围留白形成对照。",
+          "en": "A top-down view shows two facing D-shaped electrodes separated by a narrow gap. Arcs on both halves form near-circular paths, with finely hatched metal surfaces set against surrounding space."
+        },
+        "background": {
+          "zh": "劳伦斯因发明和发展回旋加速器及其研究成果获得1939年诺贝尔物理学奖。回旋加速器让带电粒子在磁场中转弯，并在反复跨越电极间隙时获得能量。画面用两块D形电极、中央间隙和逐渐向外的浅色弧线表达反复加速。弧线不是实测轨迹，电极也不是某台历史设备的复原。短句为原创。\n1939年物理学奖；独享本年度奖项。获奖理由（中文译述）：发明和发展回旋加速器，并取得相关研究成果，尤其是人工放射性元素方面的成果",
+          "en": "Lawrence received the 1939 Nobel Prize in Physics for inventing and developing the cyclotron and for results obtained with it. A cyclotron bends charged particles in a magnetic field and adds energy as they repeatedly cross the electrode gap. Two D-shaped electrodes, a central gap and pale arcs extending outward express repeated acceleration. The arcs are not measured trajectories, and the electrodes do not reconstruct a particular historical machine. The phrase is original.\n1939 — The Nobel Prize in Physics. Received the full prize. Official motivation: for the invention and development of the cyclotron and for results obtained with it, especially with regard to artificial radioactive elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年物理学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1939/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

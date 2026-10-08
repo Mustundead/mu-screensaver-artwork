@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-23",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-23",
+      "subject": "nobel-laureate-23",
+      "edition": "mono",
+      "title": "马克斯·普朗克",
+      "titleEnglish": "Max Planck",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-23/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-23/mono.jpg",
+      "sha256": "17e55ad74bb90c03d346e7ba59bec97f7c9a3bef52865adb3fc1d93c097e75b6",
+      "thumbnailSHA256": "52df773965946f1aa722314ec8daec7557246bc8d407c6276bf3b8c8b06e58c3",
+      "context": {
+        "phrase": {
+          "zh": "细小的间隔，也能改写认识。",
+          "en": "Small gaps can change how we understand the world."
+        },
+        "visual": {
+          "zh": "巨大的红铜曲带从左上裁切，末端与右下三块分开的铜片相对，左侧较小的空心陶片保持暗色。彩色版区分暖铜与冷灰，黑白版保持布局。分段物件是对能量份量的原创寓意，不是实际能量单位、光粒子或普朗克仪器的复原。",
+          "en": "An enormous curved copper strip is cropped at upper left, ending beside three separated plates at lower right; a smaller hollow ceramic disk stays dark at left. Color contrasts warm copper with cool gray; monochrome keeps the layout. Segmented props are an original metaphor for portions of energy, not actual units, particles of light or a reconstruction of Planck’s equipment."
+        },
+        "background": {
+          "zh": "普朗克独享1918年诺贝尔物理学奖，获奖理由肯定他发现能量量子、推动物理学进展的贡献；该年度奖项保留至次年，他于1919年领取。诺贝尔官网的历史文章特别区分了能量量子的发现与光的粒子性质，不能把后者归给普朗克。画面只借分开的铜片表达能量以一定份量交换的思路，铜片数量和尺寸没有科学计量含义。短句为原创，不是普朗克引语。\n1918年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现能量量子、推动物理学进展的贡献。",
+          "en": "Planck received the full 1918 Nobel Prize in Physics for discovering energy quanta and advancing physics. The prize was reserved and awarded in 1919. NobelPrize.org’s historical account distinguishes energy quanta from the particle nature of light, which it does not credit Planck with discovering. Separated copper plates are an original interpretation of exchange in discrete portions; their number and dimensions carry no measurement meaning. The phrase is original, not a quotation.\n1918 — The Nobel Prize in Physics. Received the full prize. Official motivation: in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1918 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1918/summary/",
+            "labelLocalized": {
+              "zh": "1918年物理学奖｜官方记录",
+              "en": "1918 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/the-dual-nature-of-light-as-reflected-in-the-nobel-archives/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-23",
+      "subject": "nobel-laureate-23",
+      "edition": "color",
+      "title": "马克斯·普朗克",
+      "titleEnglish": "Max Planck",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-23/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-23/color.jpg",
+      "sha256": "d0d1f845b352b5a6df3f018535dd7845587599fa83bbabf7602df125ea32e8c3",
+      "thumbnailSHA256": "0992a5bc6688c2382614510c955554f36c24c17444ab653fb139e79d0856a528",
+      "context": {
+        "phrase": {
+          "zh": "细小的间隔，也能改写认识。",
+          "en": "Small gaps can change how we understand the world."
+        },
+        "visual": {
+          "zh": "巨大的红铜曲带从左上裁切，末端与右下三块分开的铜片相对，左侧较小的空心陶片保持暗色。彩色版区分暖铜与冷灰，黑白版保持布局。分段物件是对能量份量的原创寓意，不是实际能量单位、光粒子或普朗克仪器的复原。",
+          "en": "An enormous curved copper strip is cropped at upper left, ending beside three separated plates at lower right; a smaller hollow ceramic disk stays dark at left. Color contrasts warm copper with cool gray; monochrome keeps the layout. Segmented props are an original metaphor for portions of energy, not actual units, particles of light or a reconstruction of Planck’s equipment."
+        },
+        "background": {
+          "zh": "普朗克独享1918年诺贝尔物理学奖，获奖理由肯定他发现能量量子、推动物理学进展的贡献；该年度奖项保留至次年，他于1919年领取。诺贝尔官网的历史文章特别区分了能量量子的发现与光的粒子性质，不能把后者归给普朗克。画面只借分开的铜片表达能量以一定份量交换的思路，铜片数量和尺寸没有科学计量含义。短句为原创，不是普朗克引语。\n1918年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现能量量子、推动物理学进展的贡献。",
+          "en": "Planck received the full 1918 Nobel Prize in Physics for discovering energy quanta and advancing physics. The prize was reserved and awarded in 1919. NobelPrize.org’s historical account distinguishes energy quanta from the particle nature of light, which it does not credit Planck with discovering. Separated copper plates are an original interpretation of exchange in discrete portions; their number and dimensions carry no measurement meaning. The phrase is original, not a quotation.\n1918 — The Nobel Prize in Physics. Received the full prize. Official motivation: in recognition of the services he rendered to the advancement of Physics by his discovery of energy quanta"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1918 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1918/summary/",
+            "labelLocalized": {
+              "zh": "1918年物理学奖｜官方记录",
+              "en": "1918 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/the-dual-nature-of-light-as-reflected-in-the-nobel-archives/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

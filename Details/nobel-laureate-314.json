@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-314",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-314",
+      "subject": "nobel-laureate-314",
+      "edition": "mono",
+      "title": "约翰·麦克劳德",
+      "titleEnglish": "John Macleod",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-314/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-314/mono.jpg",
+      "sha256": "621ce6fe54db02d3e1db5f45e77a6743a1a2db6c6df4ad157222eead52ab527a",
+      "thumbnailSHA256": "31b86d458903a1eabfeb72371ec1bc2f66efba1f51691a621905aa49911ba1b0",
+      "context": {
+        "phrase": {
+          "zh": "共同的支撑，让探索得以继续。",
+          "en": "Shared support lets inquiry continue."
+        },
+        "visual": {
+          "zh": "左侧裁入的黄铜圆支架和深色木横条托着四根斜置玻璃管，管身分别呈浅色、琥珀、橄榄与灰蓝色，右侧留出暗色空间。黑白版保留支架、木条与四根管。这是研究条件和协作的原创寓意，不是真实装置。",
+          "en": "A brass support ring cropped at left and a dark wooden crossbar carry four diagonal glass tubes in pale, amber, olive and gray-blue tones, with dark open space at right. Monochrome retains the support, wood and four tubes. This is an original metaphor for research resources and collaboration, not a real apparatus."
+        },
+        "background": {
+          "zh": "麦克劳德与班廷分享1923年诺贝尔生理学或医学奖，各获一半，获奖理由是发现胰岛素。多伦多大学的历史记录指出，他为班廷和贝斯特提供实验室；科利普随后加入研究。画中支架与四根玻璃管是对研究条件和团队协作的原创寓意，四根管不是人数统计或真实装置。短句为原创。\n1923年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰发现胰岛素的贡献。",
+          "en": "Macleod and Banting shared the 1923 Nobel Prize in Physiology or Medicine equally for the discovery of insulin. University of Toronto history records that Macleod provided laboratory space for Banting and Best, with Collip later contributing. The support ring and four glass tubes are original metaphors for research resources and collaboration; the tubes are not a headcount or a real apparatus. The phrase is original.\n1923 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for the discovery of insulin"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年生理学或医学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "magazine.utoronto.ca",
+            "url": "https://magazine.utoronto.ca/campus/history/history-of-insulin-banting-best-macleod-collip/",
+            "labelLocalized": {
+              "zh": "胰岛素研究团队的历史｜多伦多大学",
+              "en": "History of the insulin research team — University of Toronto"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-314",
+      "subject": "nobel-laureate-314",
+      "edition": "color",
+      "title": "约翰·麦克劳德",
+      "titleEnglish": "John Macleod",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-314/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-314/color.jpg",
+      "sha256": "7457cc03e6487ee77cce79e80c6654e697c7f01ada2fcec90f7f1115b7b2b4a0",
+      "thumbnailSHA256": "b93772ea8e57d3aed462309def77676891ba0bdfd7582591c1ed250624832f6f",
+      "context": {
+        "phrase": {
+          "zh": "共同的支撑，让探索得以继续。",
+          "en": "Shared support lets inquiry continue."
+        },
+        "visual": {
+          "zh": "左侧裁入的黄铜圆支架和深色木横条托着四根斜置玻璃管，管身分别呈浅色、琥珀、橄榄与灰蓝色，右侧留出暗色空间。黑白版保留支架、木条与四根管。这是研究条件和协作的原创寓意，不是真实装置。",
+          "en": "A brass support ring cropped at left and a dark wooden crossbar carry four diagonal glass tubes in pale, amber, olive and gray-blue tones, with dark open space at right. Monochrome retains the support, wood and four tubes. This is an original metaphor for research resources and collaboration, not a real apparatus."
+        },
+        "background": {
+          "zh": "麦克劳德与班廷分享1923年诺贝尔生理学或医学奖，各获一半，获奖理由是发现胰岛素。多伦多大学的历史记录指出，他为班廷和贝斯特提供实验室；科利普随后加入研究。画中支架与四根玻璃管是对研究条件和团队协作的原创寓意，四根管不是人数统计或真实装置。短句为原创。\n1923年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰发现胰岛素的贡献。",
+          "en": "Macleod and Banting shared the 1923 Nobel Prize in Physiology or Medicine equally for the discovery of insulin. University of Toronto history records that Macleod provided laboratory space for Banting and Best, with Collip later contributing. The support ring and four glass tubes are original metaphors for research resources and collaboration; the tubes are not a headcount or a real apparatus. The phrase is original.\n1923 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for the discovery of insulin"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年生理学或医学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "magazine.utoronto.ca",
+            "url": "https://magazine.utoronto.ca/campus/history/history-of-insulin-banting-best-macleod-collip/",
+            "labelLocalized": {
+              "zh": "胰岛素研究团队的历史｜多伦多大学",
+              "en": "History of the insulin research team — University of Toronto"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

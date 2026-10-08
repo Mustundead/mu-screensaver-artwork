@@ -1,0 +1,70 @@
+{
+  "subject": "08-space",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:08-space",
+      "subject": "08-space",
+      "edition": "mono",
+      "title": "尺度：人类与太空",
+      "titleEnglish": "Humanity and Space",
+      "category": "宇宙",
+      "image": "Images/mono/08-space.jpg",
+      "thumbnail": "Thumbs/mono/08-space.jpg",
+      "sha256": "f4cdda0a4c8da9c5fd0cf5854303298ef77981c9f1483ed367f85bd7a49dc465",
+      "thumbnailSHA256": "ec83477364381ea3cbcb06fdb48dc30997c18c1915a19c6d1231b2ca4e00aa27",
+      "context": {
+        "phrase": {
+          "zh": "远望地球，也重新看见自己。",
+          "en": "Seeing Earth from afar changes the view of home."
+        },
+        "visual": {
+          "zh": "月面般的前景与远方地球形成尺度反差，把人类置于更广阔的空间中。这是生成的太空意象，不是阿波罗任务照片，也不表示真实观测位置。",
+          "en": "A Moon-like foreground contrasts with a distant Earth, placing humanity in a larger space. This generated scene is not an Apollo photograph or a record of a real observing position."
+        },
+        "background": {
+          "zh": "阿波罗 8 号于 1968 年 12 月 21 日出发，成为首次载人绕月任务，宇航员是博尔曼、洛弗尔和安德斯。远离地球的视角提供了新的观看经验；画面对“家园”的联想属于艺术解读，不是任务的测量结果。",
+          "en": "Apollo 8 launched on December 21, 1968, becoming the first crewed lunar-orbit mission with Borman, Lovell and Anders. That distance offered a new view of Earth. The image’s association with home is an artistic interpretation, not a measured mission result."
+        },
+        "sources": [
+          {
+            "label": "NASA · Apollo 8",
+            "url": "https://www.nasa.gov/mission/apollo-8/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:08-space",
+      "subject": "08-space",
+      "edition": "color",
+      "title": "尺度：人类与太空",
+      "titleEnglish": "Humanity and Space",
+      "category": "宇宙",
+      "image": "Images/color/08-space.jpg",
+      "thumbnail": "Thumbs/color/08-space.jpg",
+      "sha256": "b6bf67b7c55fe29d3e7141c89d2024293e9a5ea77925508413dedfc6f424a407",
+      "thumbnailSHA256": "304d7da7caa4184ccd9547bf4c35f0ebc85c5e6ca7ebce5e7b831959439d5338",
+      "context": {
+        "phrase": {
+          "zh": "远望地球，也重新看见自己。",
+          "en": "Seeing Earth from afar changes the view of home."
+        },
+        "visual": {
+          "zh": "月面般的前景与远方地球形成尺度反差，把人类置于更广阔的空间中。这是生成的太空意象，不是阿波罗任务照片，也不表示真实观测位置。",
+          "en": "A Moon-like foreground contrasts with a distant Earth, placing humanity in a larger space. This generated scene is not an Apollo photograph or a record of a real observing position."
+        },
+        "background": {
+          "zh": "阿波罗 8 号于 1968 年 12 月 21 日出发，成为首次载人绕月任务，宇航员是博尔曼、洛弗尔和安德斯。远离地球的视角提供了新的观看经验；画面对“家园”的联想属于艺术解读，不是任务的测量结果。",
+          "en": "Apollo 8 launched on December 21, 1968, becoming the first crewed lunar-orbit mission with Borman, Lovell and Anders. That distance offered a new view of Earth. The image’s association with home is an artistic interpretation, not a measured mission result."
+        },
+        "sources": [
+          {
+            "label": "NASA · Apollo 8",
+            "url": "https://www.nasa.gov/mission/apollo-8/"
+          }
+        ]
+      }
+    }
+  }
+}

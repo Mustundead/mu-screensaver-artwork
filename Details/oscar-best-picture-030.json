@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-030",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-030",
+      "subject": "oscar-best-picture-030",
+      "edition": "mono",
+      "title": "桂河大桥",
+      "titleEnglish": "The Bridge on the River Kwai",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-030/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-030/mono.jpg",
+      "sha256": "1deb694bbeb0f6b357a578ddc7744083393a527b599054e0ed6a82bdb1775405",
+      "thumbnailSHA256": "9e29f0111bf200951eef515fe8ccad4fec4082d26e7323ff200d0ab5725f46c9",
+      "context": {
+        "phrase": {
+          "zh": "造桥的人，未必能决定桥的去向。",
+          "en": "Those who build a bridge may not decide its purpose."
+        },
+        "visual": {
+          "zh": "平直铁路桥横贯画面，三组交叉支撑的木桥架立于深绿色水面，倒影被横向波纹分成碎段。黑白版保持桥架、水平桥面与破碎倒影的关系；这是一座原创象征性桥梁，不是电影镜头或实桥复原。",
+          "en": "A level railway bridge crosses the frame on three cross-braced timber trestles above deep green water. Horizontal ripples break its reflections into fragments. The neutral edition keeps the supports, level deck and unsettled reflections. This is an original symbolic bridge, not a film frame or real-bridge reconstruction."
+        },
+        "background": {
+          "zh": "《桂河大桥》是1957年影片，由大卫·里恩执导，在1958年第30届奥斯卡典礼获最佳影片。故事中的战俘被迫修桥，造桥的执念与桥梁在战争中的用途发生冲突。完整桥架与破碎倒影是这一矛盾的原创寓意，不是电影剧照、真实桂河桥或历史事件复原；短句为原创。\n第30届奥斯卡最佳影片：桂河大桥。颁奖年份 1958；参评年份 1957。",
+          "en": "The Bridge on the River Kwai is a 1957 film directed by David Lean, awarded Best Picture at the 30th Academy Awards in 1958. Prisoners are forced to build a bridge, while an obsession with its construction conflicts with its wartime purpose. The intact structure and fragmented reflections are an original metaphor for that conflict, not a film still, the real Kwai bridge or a historical reconstruction. The phrase is original.\nAcademy Awards ceremony 30 (1958), Best Picture: The Bridge on the River Kwai. Eligibility year: 1957."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1958",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "silver.afi.com",
+            "url": "https://silver.afi.com/movies/detail/0100002072/",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-030",
+      "subject": "oscar-best-picture-030",
+      "edition": "color",
+      "title": "桂河大桥",
+      "titleEnglish": "The Bridge on the River Kwai",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-030/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-030/color.jpg",
+      "sha256": "d3f907b86abd9f99e93551e10e46a056c003f71cc67b3a66d0b6166e59cdcaac",
+      "thumbnailSHA256": "d7f5652ddf91a2e2cbf535c7c150c93fb59516f5a0c6df0ee2edabd375df6b3c",
+      "context": {
+        "phrase": {
+          "zh": "造桥的人，未必能决定桥的去向。",
+          "en": "Those who build a bridge may not decide its purpose."
+        },
+        "visual": {
+          "zh": "平直铁路桥横贯画面，三组交叉支撑的木桥架立于深绿色水面，倒影被横向波纹分成碎段。黑白版保持桥架、水平桥面与破碎倒影的关系；这是一座原创象征性桥梁，不是电影镜头或实桥复原。",
+          "en": "A level railway bridge crosses the frame on three cross-braced timber trestles above deep green water. Horizontal ripples break its reflections into fragments. The neutral edition keeps the supports, level deck and unsettled reflections. This is an original symbolic bridge, not a film frame or real-bridge reconstruction."
+        },
+        "background": {
+          "zh": "《桂河大桥》是1957年影片，由大卫·里恩执导，在1958年第30届奥斯卡典礼获最佳影片。故事中的战俘被迫修桥，造桥的执念与桥梁在战争中的用途发生冲突。完整桥架与破碎倒影是这一矛盾的原创寓意，不是电影剧照、真实桂河桥或历史事件复原；短句为原创。\n第30届奥斯卡最佳影片：桂河大桥。颁奖年份 1958；参评年份 1957。",
+          "en": "The Bridge on the River Kwai is a 1957 film directed by David Lean, awarded Best Picture at the 30th Academy Awards in 1958. Prisoners are forced to build a bridge, while an obsession with its construction conflicts with its wartime purpose. The intact structure and fragmented reflections are an original metaphor for that conflict, not a film still, the real Kwai bridge or a historical reconstruction. The phrase is original.\nAcademy Awards ceremony 30 (1958), Best Picture: The Bridge on the River Kwai. Eligibility year: 1957."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1958",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "silver.afi.com",
+            "url": "https://silver.afi.com/movies/detail/0100002072/",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

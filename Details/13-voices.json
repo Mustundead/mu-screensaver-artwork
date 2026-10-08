@@ -1,0 +1,70 @@
+{
+  "subject": "13-voices",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:13-voices",
+      "subject": "13-voices",
+      "edition": "mono",
+      "title": "人文：诗歌与感知",
+      "titleEnglish": "Poetry and Perception",
+      "category": "艺术与人文",
+      "image": "Images/mono/13-voices.jpg",
+      "thumbnail": "Thumbs/mono/13-voices.jpg",
+      "sha256": "fbaf3a4da1829f5e7c821558b4e30dc299e372cde1cefdff8151d9bfa2567f05",
+      "thumbnailSHA256": "580adf56b18e8f6d7152dc6c9f36d640d729adc5060addb338ca778f151b0ca0",
+      "context": {
+        "phrase": {
+          "zh": "把难以说出的，慢慢写下来。",
+          "en": "Give the unsaid time to become words."
+        },
+        "visual": {
+          "zh": "打开的书页、麦克风与回旋线条，把阅读和发声放在同一画面中。画中的纸页不是可考的诗人手稿；线条所暗示的声音与感受属于艺术联想。",
+          "en": "Open pages, a microphone and curling lines place reading beside speaking. The pages are not an authenticated poet’s manuscript; the implied voices and feelings are artistic associations."
+        },
+        "background": {
+          "zh": "艾米莉·狄金森博物馆保存与研究的物质遗产包括约 2,500 份诗稿和约 1,000 份信稿。手稿数量不同于独立诗作数量：同一作品可能有多个版本。纸上的修改与差异，让写作过程本身也成为值得阅读的历史。",
+          "en": "The Emily Dickinson Museum describes a surviving legacy of about 2,500 poem manuscripts and 1,000 letter manuscripts. Manuscript count is not the count of distinct poems: a work may have multiple versions. Variants and revisions make the writing process part of literary history."
+        },
+        "sources": [
+          {
+            "label": "Emily Dickinson Museum · The Manuscripts",
+            "url": "https://www.emilydickinsonmuseum.org/emily-dickinson/poetry/the-poet-at-work/the-manuscripts/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:13-voices",
+      "subject": "13-voices",
+      "edition": "color",
+      "title": "人文：诗歌与感知",
+      "titleEnglish": "Poetry and Perception",
+      "category": "艺术与人文",
+      "image": "Images/color/13-voices.jpg",
+      "thumbnail": "Thumbs/color/13-voices.jpg",
+      "sha256": "8b57f20bd018313d8da9d762841410df08eaace987d0dd0abc61111df2de8499",
+      "thumbnailSHA256": "3bbfa97e6712d4492e2ba77b7f46f06e72a84ab36811a07afe42adf9abd3e17b",
+      "context": {
+        "phrase": {
+          "zh": "把难以说出的，慢慢写下来。",
+          "en": "Give the unsaid time to become words."
+        },
+        "visual": {
+          "zh": "打开的书页、麦克风与回旋线条，把阅读和发声放在同一画面中。画中的纸页不是可考的诗人手稿；线条所暗示的声音与感受属于艺术联想。",
+          "en": "Open pages, a microphone and curling lines place reading beside speaking. The pages are not an authenticated poet’s manuscript; the implied voices and feelings are artistic associations."
+        },
+        "background": {
+          "zh": "艾米莉·狄金森博物馆保存与研究的物质遗产包括约 2,500 份诗稿和约 1,000 份信稿。手稿数量不同于独立诗作数量：同一作品可能有多个版本。纸上的修改与差异，让写作过程本身也成为值得阅读的历史。",
+          "en": "The Emily Dickinson Museum describes a surviving legacy of about 2,500 poem manuscripts and 1,000 letter manuscripts. Manuscript count is not the count of distinct poems: a work may have multiple versions. Variants and revisions make the writing process part of literary history."
+        },
+        "sources": [
+          {
+            "label": "Emily Dickinson Museum · The Manuscripts",
+            "url": "https://www.emilydickinsonmuseum.org/emily-dickinson/poetry/the-poet-at-work/the-manuscripts/"
+          }
+        ]
+      }
+    }
+  }
+}

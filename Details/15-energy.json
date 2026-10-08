@@ -1,0 +1,70 @@
+{
+  "subject": "15-energy",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:15-energy",
+      "subject": "15-energy",
+      "edition": "mono",
+      "title": "工程：动力、能量与远行",
+      "titleEnglish": "Power, Energy and Travel",
+      "category": "工程与制造",
+      "image": "Images/mono/15-energy.jpg",
+      "thumbnail": "Thumbs/mono/15-energy.jpg",
+      "sha256": "de2165bdbe46994259325229c0243b4e93791c9a2366a0b1eebffb815dcde4e5",
+      "thumbnailSHA256": "5ac348558cfe97b040ccd7e2cca7b47449bf373c16e3725db6c4c2c3a6b3b839",
+      "context": {
+        "phrase": {
+          "zh": "每一次远行，都有能量的来路。",
+          "en": "Every journey has an energy story."
+        },
+        "visual": {
+          "zh": "机械、轮廓与流动的带状线条连接动力和远行。它把能量传递画成可见的路径，不是某台发动机的效率图或工程剖面。",
+          "en": "Machinery and flowing bands connect power with travel. Energy transfer becomes a visible path, rather than an efficiency chart or a working engine section."
+        },
+        "background": {
+          "zh": "NASA 的航天基础说明，火箭通过向后排出物质产生推力，体现牛顿第三定律中相互作用力大小相等、方向相反的关系。火箭不需要“推空气”才能前进，因此也能在真空中工作。",
+          "en": "NASA’s spaceflight guide explains rocket thrust through expelling mass, illustrating equal and opposite interaction forces in Newton’s third law. A rocket does not need air to push against and can therefore operate in a vacuum."
+        },
+        "sources": [
+          {
+            "label": "NASA · Gravity & Mechanics",
+            "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-2/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:15-energy",
+      "subject": "15-energy",
+      "edition": "color",
+      "title": "工程：动力、能量与远行",
+      "titleEnglish": "Power, Energy and Travel",
+      "category": "工程与制造",
+      "image": "Images/color/15-energy.jpg",
+      "thumbnail": "Thumbs/color/15-energy.jpg",
+      "sha256": "98f169bd008b6e5c3d943f9199de2cbfbc2531e29d3d1b1aa754522d5c182a70",
+      "thumbnailSHA256": "3424ea6f3ce9307720f6fa4b7ffb7c85e5c842ac445aeb35dc76803fda7b7f13",
+      "context": {
+        "phrase": {
+          "zh": "每一次远行，都有能量的来路。",
+          "en": "Every journey has an energy story."
+        },
+        "visual": {
+          "zh": "机械、轮廓与流动的带状线条连接动力和远行。它把能量传递画成可见的路径，不是某台发动机的效率图或工程剖面。",
+          "en": "Machinery and flowing bands connect power with travel. Energy transfer becomes a visible path, rather than an efficiency chart or a working engine section."
+        },
+        "background": {
+          "zh": "NASA 的航天基础说明，火箭通过向后排出物质产生推力，体现牛顿第三定律中相互作用力大小相等、方向相反的关系。火箭不需要“推空气”才能前进，因此也能在真空中工作。",
+          "en": "NASA’s spaceflight guide explains rocket thrust through expelling mass, illustrating equal and opposite interaction forces in Newton’s third law. A rocket does not need air to push against and can therefore operate in a vacuum."
+        },
+        "sources": [
+          {
+            "label": "NASA · Gravity & Mechanics",
+            "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter3-2/"
+          }
+        ]
+      }
+    }
+  }
+}

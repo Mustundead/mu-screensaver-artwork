@@ -1,0 +1,70 @@
+{
+  "subject": "01-optics",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:01-optics",
+      "subject": "01-optics",
+      "edition": "mono",
+      "title": "观察：光学与透镜",
+      "titleEnglish": "Optics and Lenses",
+      "category": "自然科学",
+      "image": "Images/mono/01-optics.jpg",
+      "thumbnail": "Thumbs/mono/01-optics.jpg",
+      "sha256": "2e5e9a5a48818ee8abc96dd6ed4921d4cd9377d616a4734a15bb2a6526c9e1fe",
+      "thumbnailSHA256": "69f24cc0e5e58f235babe272f12279c262f9be6f4bea3dc12ece4adde1725956",
+      "context": {
+        "phrase": {
+          "zh": "换一片透镜，看见新的尺度。",
+          "en": "A different lens reveals a different scale."
+        },
+        "visual": {
+          "zh": "层层镜片与细线把视线引向画面深处，借光学仪器表达观察如何改变认识。镜片间距与光路是艺术安排，不能据此计算焦距或放大倍数。",
+          "en": "Layered lenses and fine lines lead the eye into depth, suggesting how instruments change observation. Their spacing and light paths are artistic arrangements, not a measurable optical design."
+        },
+        "background": {
+          "zh": "NASA 将折射解释为光从一种介质进入另一种介质时改变传播方向。透镜利用这一性质组织光线；望远镜也可以用反射镜集光。真实仪器的成像取决于材料、曲率和设计，画中的光线并不是实验读数。",
+          "en": "NASA explains refraction as a change in direction when light passes between media. Lenses use this behavior to organize light; telescopes may also collect light with mirrors. Real imaging depends on materials, curvature and design, rather than the decorative paths shown here."
+        },
+        "sources": [
+          {
+            "label": "NASA · Wave Behaviors",
+            "url": "https://science.nasa.gov/ems/03_behaviors/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:01-optics",
+      "subject": "01-optics",
+      "edition": "color",
+      "title": "观察：光学与透镜",
+      "titleEnglish": "Optics and Lenses",
+      "category": "自然科学",
+      "image": "Images/color/01-optics.jpg",
+      "thumbnail": "Thumbs/color/01-optics.jpg",
+      "sha256": "3728af30e6111178355dabf3ec81117f95a7133fa7289cc75f7599778a80d74b",
+      "thumbnailSHA256": "ba2da4b41de211cb48554cde46b6ba106b7d0b54d41f6143827695c33c25992e",
+      "context": {
+        "phrase": {
+          "zh": "换一片透镜，看见新的尺度。",
+          "en": "A different lens reveals a different scale."
+        },
+        "visual": {
+          "zh": "层层镜片与细线把视线引向画面深处，借光学仪器表达观察如何改变认识。镜片间距与光路是艺术安排，不能据此计算焦距或放大倍数。",
+          "en": "Layered lenses and fine lines lead the eye into depth, suggesting how instruments change observation. Their spacing and light paths are artistic arrangements, not a measurable optical design."
+        },
+        "background": {
+          "zh": "NASA 将折射解释为光从一种介质进入另一种介质时改变传播方向。透镜利用这一性质组织光线；望远镜也可以用反射镜集光。真实仪器的成像取决于材料、曲率和设计，画中的光线并不是实验读数。",
+          "en": "NASA explains refraction as a change in direction when light passes between media. Lenses use this behavior to organize light; telescopes may also collect light with mirrors. Real imaging depends on materials, curvature and design, rather than the decorative paths shown here."
+        },
+        "sources": [
+          {
+            "label": "NASA · Wave Behaviors",
+            "url": "https://science.nasa.gov/ems/03_behaviors/"
+          }
+        ]
+      }
+    }
+  }
+}

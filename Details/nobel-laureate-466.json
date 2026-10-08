@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-466",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-466",
+      "subject": "nobel-laureate-466",
+      "edition": "mono",
+      "title": "威廉·兰德尔·克里默",
+      "titleEnglish": "Randal Cremer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-466/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-466/mono.jpg",
+      "sha256": "7c5c5f45ae8f81c241865a568aaeb051d748885eb60be370ac96691eb434aa17",
+      "thumbnailSHA256": "ff7903beadac10069afcdb0eadcb567893a2d10c742d4f27961e0b2974bef90c",
+      "context": {
+        "phrase": {
+          "zh": "为分歧留一条可以相遇的路。",
+          "en": "Leave a path for opposing sides to meet."
+        },
+        "visual": {
+          "zh": "为克里默独立创作的公共事务拼贴，以木工刨、角尺、空白协议纸张和想象的桥呼应他的早年经历与仲裁理念。工具不是他的遗物，桥也不指认某处建筑；它们是艺术象征。",
+          "en": "An original public-service collage for Cremer uses a wood plane, square, blank agreement papers and an imagined bridge to evoke his background and arbitration ideals. The tools are not his belongings and the bridge is not a named structure; they are artistic symbols."
+        },
+        "background": {
+          "zh": "克里默获得1903年诺贝尔和平奖，表彰他长期推动和平与仲裁的努力。仲裁是由第三方协助裁决争议的方式。他曾是木工学徒和工会活动者，后来进入英国议会，并推动以仲裁处理国际冲突以及各国议会代表合作。配图以手工工具和桥表现从具体劳动到公共对话的联系，不复原某次签约或会议。\n1903年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他长期而坚定地推动和平与仲裁理念的努力。",
+          "en": "Cremer received the 1903 Nobel Peace Prize for sustained efforts for peace and arbitration, a way of resolving disputes through a third party's judgment. A former carpenter's apprentice and trade unionist, he entered Parliament and promoted international arbitration and cooperation among elected representatives. The artwork connects practical work and dialogue without reconstructing a treaty or congress.\n1903 — The Nobel Peace Prize. Received the full prize. Official motivation: for his longstanding and devoted effort in favour of the ideas of peace and arbitration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年和平奖｜官方记录",
+              "en": "1903 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1903",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-466",
+      "subject": "nobel-laureate-466",
+      "edition": "color",
+      "title": "威廉·兰德尔·克里默",
+      "titleEnglish": "Randal Cremer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-466/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-466/color.jpg",
+      "sha256": "a35e51abfe061c6c871ff0c2766faeed2b19446333415694a4311ac5d0721d8b",
+      "thumbnailSHA256": "fa9a0171f35d827e794b26deeee929af5004e0eb0051b5f74965aa1819a69414",
+      "context": {
+        "phrase": {
+          "zh": "为分歧留一条可以相遇的路。",
+          "en": "Leave a path for opposing sides to meet."
+        },
+        "visual": {
+          "zh": "为克里默独立创作的公共事务拼贴，以木工刨、角尺、空白协议纸张和想象的桥呼应他的早年经历与仲裁理念。工具不是他的遗物，桥也不指认某处建筑；它们是艺术象征。",
+          "en": "An original public-service collage for Cremer uses a wood plane, square, blank agreement papers and an imagined bridge to evoke his background and arbitration ideals. The tools are not his belongings and the bridge is not a named structure; they are artistic symbols."
+        },
+        "background": {
+          "zh": "克里默获得1903年诺贝尔和平奖，表彰他长期推动和平与仲裁的努力。仲裁是由第三方协助裁决争议的方式。他曾是木工学徒和工会活动者，后来进入英国议会，并推动以仲裁处理国际冲突以及各国议会代表合作。配图以手工工具和桥表现从具体劳动到公共对话的联系，不复原某次签约或会议。\n1903年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他长期而坚定地推动和平与仲裁理念的努力。",
+          "en": "Cremer received the 1903 Nobel Peace Prize for sustained efforts for peace and arbitration, a way of resolving disputes through a third party's judgment. A former carpenter's apprentice and trade unionist, he entered Parliament and promoted international arbitration and cooperation among elected representatives. The artwork connects practical work and dialogue without reconstructing a treaty or congress.\n1903 — The Nobel Peace Prize. Received the full prize. Official motivation: for his longstanding and devoted effort in favour of the ideas of peace and arbitration"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年和平奖｜官方记录",
+              "en": "1903 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1903",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "038-spectral-observation",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:038-spectral-observation",
+      "subject": "038-spectral-observation",
+      "edition": "mono",
+      "title": "宇宙光谱",
+      "titleEnglish": "Cosmic Spectra",
+      "category": "宇宙",
+      "image": "Images/mono/038-spectral-observation.jpg",
+      "thumbnail": "Thumbs/mono/038-spectral-observation.jpg",
+      "sha256": "ba456de373e2e958e4013219a0a71a63a26f7d4c0d3128a1ace796673bf31f69",
+      "thumbnailSHA256": "8ac4905b76e82ed8d1eee7c66dba3dcf846b5004670a359dd20ed4ba972b6d0b",
+      "context": {
+        "phrase": {
+          "zh": "把光分开，读出物质的线索。",
+          "en": "Split light to read clues about matter."
+        },
+        "visual": {
+          "zh": "斜穿暗空的彩色光带连着星体和观察器具，把光谱展开为可读的层次。条纹位置不是任何天体的实测谱线。",
+          "en": "Colored bands cross the dark sky between a source and observing tools, turning a spectrum into visible layers. Stripe positions are not measured spectral lines."
+        },
+        "background": {
+          "zh": "原子和分子会在特定波长吸收或发出光，在光谱中留下特征。天文学家利用这些特征判断遥远天体中的物质；还须结合仪器校准与物理模型解释数据。",
+          "en": "Atoms and molecules absorb or emit light at particular wavelengths, leaving spectral signatures. Astronomers use them to identify matter in distant objects, with instrument calibration and physical models needed to interpret the data."
+        },
+        "sources": [
+          {
+            "label": "NASA · Spectral signatures",
+            "url": "https://science.nasa.gov/asset/webb/absorption-and-emission-spectra-of-various-elements/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:038-spectral-observation",
+      "subject": "038-spectral-observation",
+      "edition": "color",
+      "title": "宇宙光谱",
+      "titleEnglish": "Cosmic Spectra",
+      "category": "宇宙",
+      "image": "Images/color/038-spectral-observation.jpg",
+      "thumbnail": "Thumbs/color/038-spectral-observation.jpg",
+      "sha256": "18c49b6119fefa1ff546d4b1030798ab41263fb38b1210e2bbf8f6e6841aa3f4",
+      "thumbnailSHA256": "72ca0380354f5824bd32598ac0db53f5c86718154d1eb8f2352efa99bf5a3a7e",
+      "context": {
+        "phrase": {
+          "zh": "把光分开，读出物质的线索。",
+          "en": "Split light to read clues about matter."
+        },
+        "visual": {
+          "zh": "斜穿暗空的彩色光带连着星体和观察器具，把光谱展开为可读的层次。条纹位置不是任何天体的实测谱线。",
+          "en": "Colored bands cross the dark sky between a source and observing tools, turning a spectrum into visible layers. Stripe positions are not measured spectral lines."
+        },
+        "background": {
+          "zh": "原子和分子会在特定波长吸收或发出光，在光谱中留下特征。天文学家利用这些特征判断遥远天体中的物质；还须结合仪器校准与物理模型解释数据。",
+          "en": "Atoms and molecules absorb or emit light at particular wavelengths, leaving spectral signatures. Astronomers use them to identify matter in distant objects, with instrument calibration and physical models needed to interpret the data."
+        },
+        "sources": [
+          {
+            "label": "NASA · Spectral signatures",
+            "url": "https://science.nasa.gov/asset/webb/absorption-and-emission-spectra-of-various-elements/"
+          }
+        ]
+      }
+    }
+  }
+}

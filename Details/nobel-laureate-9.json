@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-9",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-9",
+      "subject": "nobel-laureate-9",
+      "edition": "mono",
+      "title": "菲利普·莱纳德",
+      "titleEnglish": "Philipp Lenard",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-9/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-9/mono.jpg",
+      "sha256": "250b8d22a9bcf4bae33705cb9a30df2eb4de10f2d4e87b004d1e54489b7cd65b",
+      "thumbnailSHA256": "6aa8f70c9002e24cd2bbbd20b6d16279e6225cebfdd157bd93639a37639e612a",
+      "context": {
+        "phrase": {
+          "zh": "看不见的现象，也能留下可观察的线索。",
+          "en": "Invisible phenomena can leave observable clues."
+        },
+        "visual": {
+          "zh": "以玻璃放电管、线圈与金属薄片组成的独立拼贴，呼应莱纳德的阴极射线研究。器材是象征性组合，不是他的原装设备，也不是可照着搭建的实验图。",
+          "en": "An original collage of a glass discharge tube, coil and metal foil evokes Lenard's cathode-ray research. The apparatus is symbolic, not his original equipment or a working experimental diagram."
+        },
+        "background": {
+          "zh": "莱纳德获得1905年诺贝尔物理学奖，获奖理由是对阴极射线的研究。阴极射线是放电管中的电子束；他研究过它们穿过金属薄片的现象。配图用透明玻璃与薄片表现这一方向，不把看不见的射线画成发光光束。\n1905年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对阴极射线的研究。",
+          "en": "Lenard received the 1905 Nobel Prize in Physics for his work on cathode rays, electron beams in discharge tubes. His studies included their passage through thin metal foil. The artwork interprets this research through glass and foil, without depicting invisible rays as glowing beams.\n1905 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on cathode rays"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年物理学奖｜官方记录",
+              "en": "1905 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/lenard-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/vacuum/tube-3.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-9",
+      "subject": "nobel-laureate-9",
+      "edition": "color",
+      "title": "菲利普·莱纳德",
+      "titleEnglish": "Philipp Lenard",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-9/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-9/color.jpg",
+      "sha256": "525d33f485df6026392a6df9b0f71e7e0e7cfce8b4781b998bdd69af0ed39100",
+      "thumbnailSHA256": "f03c3a4d007b6df7a617970edfff98aceac63a5413659043763310423a4a4bcc",
+      "context": {
+        "phrase": {
+          "zh": "看不见的现象，也能留下可观察的线索。",
+          "en": "Invisible phenomena can leave observable clues."
+        },
+        "visual": {
+          "zh": "以玻璃放电管、线圈与金属薄片组成的独立拼贴，呼应莱纳德的阴极射线研究。器材是象征性组合，不是他的原装设备，也不是可照着搭建的实验图。",
+          "en": "An original collage of a glass discharge tube, coil and metal foil evokes Lenard's cathode-ray research. The apparatus is symbolic, not his original equipment or a working experimental diagram."
+        },
+        "background": {
+          "zh": "莱纳德获得1905年诺贝尔物理学奖，获奖理由是对阴极射线的研究。阴极射线是放电管中的电子束；他研究过它们穿过金属薄片的现象。配图用透明玻璃与薄片表现这一方向，不把看不见的射线画成发光光束。\n1905年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对阴极射线的研究。",
+          "en": "Lenard received the 1905 Nobel Prize in Physics for his work on cathode rays, electron beams in discharge tubes. His studies included their passage through thin metal foil. The artwork interprets this research through glass and foil, without depicting invisible rays as glowing beams.\n1905 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on cathode rays"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年物理学奖｜官方记录",
+              "en": "1905 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/lenard-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/vacuum/tube-3.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

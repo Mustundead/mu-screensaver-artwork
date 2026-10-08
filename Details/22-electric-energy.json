@@ -1,0 +1,70 @@
+{
+  "subject": "22-electric-energy",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:22-electric-energy",
+      "subject": "22-electric-energy",
+      "edition": "mono",
+      "title": "能源：电驱与储能",
+      "titleEnglish": "Electric Power and Energy Storage",
+      "category": "工程与制造",
+      "image": "Images/mono/22-electric-energy.jpg",
+      "thumbnail": "Thumbs/mono/22-electric-energy.jpg",
+      "sha256": "d6a3393eb9cf59969775396b0b4f6e19bc33eda8133611df5d9527ed010876d4",
+      "thumbnailSHA256": "978b9087f274eaaf51e3e30fb84f10ea5971364300f3e0ab58371983f75dae98",
+      "context": {
+        "phrase": {
+          "zh": "储存能量，也为行动留下余地。",
+          "en": "Stored energy leaves room for action."
+        },
+        "visual": {
+          "zh": "手、曲线与电池般的阵列连接储能和电驱动。图中的排列是艺术构图，不能读作电芯接线、容量或安全设计。",
+          "en": "A hand, curves and battery-like arrays connect stored energy with electric motion. Their arrangement is artistic, not a cell wiring plan, capacity reading or safety design."
+        },
+        "background": {
+          "zh": "美国能源部说明，电池通过电化学过程在化学能与电能之间转换。充电把能量存入体系，放电则让电子经外部电路流动，为设备供能。电池并不是创造能量的装置；可充电也不意味着所有化学过程都能无限次无损重复。",
+          "en": "The US Department of Energy explains batteries as electrochemical systems that convert between chemical and electrical energy. Charging stores energy; discharge sends electrons through an external circuit. Batteries do not create energy, and rechargeable chemistry does not imply indefinitely lossless cycling."
+        },
+        "sources": [
+          {
+            "label": "US Department of Energy · Batteries",
+            "url": "https://www.energy.gov/science/doe-explainsbatteries"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:22-electric-energy",
+      "subject": "22-electric-energy",
+      "edition": "color",
+      "title": "能源：电驱与储能",
+      "titleEnglish": "Electric Power and Energy Storage",
+      "category": "工程与制造",
+      "image": "Images/color/22-electric-energy.jpg",
+      "thumbnail": "Thumbs/color/22-electric-energy.jpg",
+      "sha256": "b538eabb8d628e8384cf55721412f4c2d5a2c9e94010757a5f7f53363382ab14",
+      "thumbnailSHA256": "3a781273bb655c8be2a7f123c4ae269678d6d81b1a53a43d987c5c86ade004a4",
+      "context": {
+        "phrase": {
+          "zh": "储存能量，也为行动留下余地。",
+          "en": "Stored energy leaves room for action."
+        },
+        "visual": {
+          "zh": "手、曲线与电池般的阵列连接储能和电驱动。图中的排列是艺术构图，不能读作电芯接线、容量或安全设计。",
+          "en": "A hand, curves and battery-like arrays connect stored energy with electric motion. Their arrangement is artistic, not a cell wiring plan, capacity reading or safety design."
+        },
+        "background": {
+          "zh": "美国能源部说明，电池通过电化学过程在化学能与电能之间转换。充电把能量存入体系，放电则让电子经外部电路流动，为设备供能。电池并不是创造能量的装置；可充电也不意味着所有化学过程都能无限次无损重复。",
+          "en": "The US Department of Energy explains batteries as electrochemical systems that convert between chemical and electrical energy. Charging stores energy; discharge sends electrons through an external circuit. Batteries do not create energy, and rechargeable chemistry does not imply indefinitely lossless cycling."
+        },
+        "sources": [
+          {
+            "label": "US Department of Energy · Batteries",
+            "url": "https://www.energy.gov/science/doe-explainsbatteries"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-313",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-313",
+      "subject": "nobel-laureate-313",
+      "edition": "mono",
+      "title": "弗雷德里克·班廷",
+      "titleEnglish": "Frederick G. Banting",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-313/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-313/mono.jpg",
+      "sha256": "004ae393a345529720a6d84be0c2d9f561e007e94ca83f1a3e29a20bbbd6ec7e",
+      "thumbnailSHA256": "dd24248e196bbfc873de1bed4b23cb7b2f07a96fd57bd2a6b2a484ebe805734e",
+      "context": {
+        "phrase": {
+          "zh": "一次发现，承载着许多人的努力。",
+          "en": "One discovery carries many people's work."
+        },
+        "visual": {
+          "zh": "浅绿边缘的玻璃安瓿斜跨画面，底部有浅金色液体；铁锈红织带绕成松环，左上方放着一颗象牙色陶珠。黑白版保留安瓿、织带与裁切。这是历史研究的原创联想，不是实际药品或用药说明。",
+          "en": "A glass ampoule with pale green edges crosses the frame diagonally, holding a little pale gold liquid; a rust-red cloth forms a loose loop and an ivory ceramic bead rests at upper left. Monochrome retains the ampoule, cloth and crop. This is an original historical-research association, not an actual medicine or instruction for use."
+        },
+        "background": {
+          "zh": "班廷与麦克劳德分享1923年诺贝尔生理学或医学奖，各获一半，获奖理由是发现胰岛素。1921年，班廷与查尔斯·贝斯特在麦克劳德提供的多伦多大学实验室开展研究，随后生物化学家詹姆斯·科利普参与工作。这项成果包含多人协作。画中安瓿与织带是对历史研究的原创联想，不是实际药品、器具复原或使用说明。短句为原创。\n1923年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰发现胰岛素的贡献。",
+          "en": "Banting and Macleod shared the 1923 Nobel Prize in Physiology or Medicine equally for the discovery of insulin. In 1921 Banting and Charles Best worked in a University of Toronto laboratory provided by Macleod, with biochemist James Collip later contributing. The achievement involved a team. The ampoule and cloth are original associations with this research history, not an actual medicine, reconstructed tool or instruction for use. The phrase is original.\n1923 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for the discovery of insulin"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年生理学或医学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "magazine.utoronto.ca",
+            "url": "https://magazine.utoronto.ca/campus/history/history-of-insulin-banting-best-macleod-collip/",
+            "labelLocalized": {
+              "zh": "胰岛素研究团队的历史｜多伦多大学",
+              "en": "History of the insulin research team — University of Toronto"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-313",
+      "subject": "nobel-laureate-313",
+      "edition": "color",
+      "title": "弗雷德里克·班廷",
+      "titleEnglish": "Frederick G. Banting",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-313/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-313/color.jpg",
+      "sha256": "28d235636fdf2186514f0a2869e0f5bbe7cc7569882b720be851bb94a40f2a28",
+      "thumbnailSHA256": "ec1105eeedcd3a641177afd2e5df8a6b06360de2e2373fa265be9d1d893a0e02",
+      "context": {
+        "phrase": {
+          "zh": "一次发现，承载着许多人的努力。",
+          "en": "One discovery carries many people's work."
+        },
+        "visual": {
+          "zh": "浅绿边缘的玻璃安瓿斜跨画面，底部有浅金色液体；铁锈红织带绕成松环，左上方放着一颗象牙色陶珠。黑白版保留安瓿、织带与裁切。这是历史研究的原创联想，不是实际药品或用药说明。",
+          "en": "A glass ampoule with pale green edges crosses the frame diagonally, holding a little pale gold liquid; a rust-red cloth forms a loose loop and an ivory ceramic bead rests at upper left. Monochrome retains the ampoule, cloth and crop. This is an original historical-research association, not an actual medicine or instruction for use."
+        },
+        "background": {
+          "zh": "班廷与麦克劳德分享1923年诺贝尔生理学或医学奖，各获一半，获奖理由是发现胰岛素。1921年，班廷与查尔斯·贝斯特在麦克劳德提供的多伦多大学实验室开展研究，随后生物化学家詹姆斯·科利普参与工作。这项成果包含多人协作。画中安瓿与织带是对历史研究的原创联想，不是实际药品、器具复原或使用说明。短句为原创。\n1923年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰发现胰岛素的贡献。",
+          "en": "Banting and Macleod shared the 1923 Nobel Prize in Physiology or Medicine equally for the discovery of insulin. In 1921 Banting and Charles Best worked in a University of Toronto laboratory provided by Macleod, with biochemist James Collip later contributing. The achievement involved a team. The ampoule and cloth are original associations with this research history, not an actual medicine, reconstructed tool or instruction for use. The phrase is original.\n1923 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for the discovery of insulin"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年生理学或医学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "magazine.utoronto.ca",
+            "url": "https://magazine.utoronto.ca/campus/history/history-of-insulin-banting-best-macleod-collip/",
+            "labelLocalized": {
+              "zh": "胰岛素研究团队的历史｜多伦多大学",
+              "en": "History of the insulin research team — University of Toronto"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "100-cartographic-thought",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:100-cartographic-thought",
+      "subject": "100-cartographic-thought",
+      "edition": "mono",
+      "title": "地图与远方",
+      "titleEnglish": "Maps and Distant Places",
+      "category": "艺术与人文",
+      "image": "Images/mono/100-cartographic-thought.jpg",
+      "thumbnail": "Thumbs/mono/100-cartographic-thought.jpg",
+      "sha256": "b12b37a82437c2d837fe5b3dcfc8ca4214adcf49e85cc63aa256463545c39d88",
+      "thumbnailSHA256": "041ccf794ec31d67d50dc03f844480286018be38dbb08fec6a3b34c39fff1a60",
+      "context": {
+        "phrase": {
+          "zh": "地图给出方向，也留下选择。",
+          "en": "A map offers direction and reveals choices."
+        },
+        "visual": {
+          "zh": "地图、圆形仪器与手部动作连接测量、命名和远行。画面不是可以导航的地图，边界、比例与路径都不承担现实地理含义。",
+          "en": "Maps, circular instruments and a hand connect measurement, naming and travel. The image cannot be used for navigation; its borders, scale and paths do not carry real geographic meaning."
+        },
+        "background": {
+          "zh": "美国国会图书馆介绍瓦尔德泽米勒 1507 年世界地图如何采用“America”这一名称，关联到韦斯普奇对新大陆的理解。地图既保存知识，也反映制图者当时的视角；这个命名事件不等于此前无人居住或无人认识这些土地。",
+          "en": "The Library of Congress explains the use of “America” on Waldseemüller’s 1507 world map in connection with Vespucci’s understanding of a separate continent. Maps preserve knowledge and a maker’s perspective. This naming event does not mean the lands were previously uninhabited or unknown to their peoples."
+        },
+        "sources": [
+          {
+            "label": "Library of Congress · 1507 World Map",
+            "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/interactives/waldseemuller-maps/worldmap1507/index.html"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:100-cartographic-thought",
+      "subject": "100-cartographic-thought",
+      "edition": "color",
+      "title": "地图与远方",
+      "titleEnglish": "Maps and Distant Places",
+      "category": "艺术与人文",
+      "image": "Images/color/100-cartographic-thought.jpg",
+      "thumbnail": "Thumbs/color/100-cartographic-thought.jpg",
+      "sha256": "a57e6c0efe6f0f3182fff4c8b95ddae7a78221b2b5537e4f1ea8d11f42601433",
+      "thumbnailSHA256": "78600a442d6dcff864296608867e2b2330872d491602ecd713ff78b7f0e7da90",
+      "context": {
+        "phrase": {
+          "zh": "地图给出方向，也留下选择。",
+          "en": "A map offers direction and reveals choices."
+        },
+        "visual": {
+          "zh": "地图、圆形仪器与手部动作连接测量、命名和远行。画面不是可以导航的地图，边界、比例与路径都不承担现实地理含义。",
+          "en": "Maps, circular instruments and a hand connect measurement, naming and travel. The image cannot be used for navigation; its borders, scale and paths do not carry real geographic meaning."
+        },
+        "background": {
+          "zh": "美国国会图书馆介绍瓦尔德泽米勒 1507 年世界地图如何采用“America”这一名称，关联到韦斯普奇对新大陆的理解。地图既保存知识，也反映制图者当时的视角；这个命名事件不等于此前无人居住或无人认识这些土地。",
+          "en": "The Library of Congress explains the use of “America” on Waldseemüller’s 1507 world map in connection with Vespucci’s understanding of a separate continent. Maps preserve knowledge and a maker’s perspective. This naming event does not mean the lands were previously uninhabited or unknown to their peoples."
+        },
+        "sources": [
+          {
+            "label": "Library of Congress · 1507 World Map",
+            "url": "https://www.loc.gov/exhibits/exploring-the-early-americas/interactives/waldseemuller-maps/worldmap1507/index.html"
+          }
+        ]
+      }
+    }
+  }
+}

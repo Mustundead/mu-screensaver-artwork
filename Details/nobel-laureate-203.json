@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-203",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-203",
+      "subject": "nobel-laureate-203",
+      "edition": "mono",
+      "title": "阿尔图里·维尔塔宁",
+      "titleEnglish": "Artturi Virtanen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-203/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-203/mono.jpg",
+      "sha256": "f0c1b0d8e59bfbf9d5db80865f94e5a0c2b93862c32fbb4be520f212eabf2d63",
+      "thumbnailSHA256": "1bb494b1c9da6704c95fc5038214725245d4e83480ed590a429a5e1ef402a6fb",
+      "context": {
+        "phrase": {
+          "zh": "把夏日的丰盛，留给冬天。",
+          "en": "Keep summer’s abundance for winter."
+        },
+        "visual": {
+          "zh": "近处木制圆筒由金属箍固定，开放断面露出密集青草与三叶草；右侧狭窄门口通向雪地，刻线区分木板、叶片与远处田野。",
+          "en": "Metal hoops hold a close wooden cylinder whose open cross-section reveals dense grass and clover; a narrow doorway at right opens onto snow, with engraved lines separating timber, leaves and distant fields."
+        },
+        "background": {
+          "zh": "维尔塔宁把生物化学研究用于农业和乳品生产，发展了保存新鲜饲料的方法。他因此获得1945年诺贝尔化学奖。画面把装满青草的储存容器与门外雪地并置，表达跨越季节的保存，是原创寓意，不是真实设备复原或饲料制作步骤。短句为原创。\n1945年化学奖；独享本年度奖项。获奖理由（中文译述）：在农业和营养化学方面的研究与发明，尤其是饲料保存方法",
+          "en": "Virtanen applied biochemistry to agriculture and dairy production, developing a method for preserving fresh fodder. He received the 1945 Nobel Prize in Chemistry. Packed grass beside a doorway onto snow expresses keeping resources across seasons. It is an original metaphor, not a reconstruction of equipment or a fodder-making procedure. The phrase is original.\n1945 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his research and inventions in agricultural and nutrition chemistry, especially for his fodder preservation method"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年化学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1945/virtanen/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-203",
+      "subject": "nobel-laureate-203",
+      "edition": "color",
+      "title": "阿尔图里·维尔塔宁",
+      "titleEnglish": "Artturi Virtanen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-203/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-203/color.jpg",
+      "sha256": "5d5421b2003ac2c1119fcf53f756903b821da70b8e38c7acb43bc1cbeb24483c",
+      "thumbnailSHA256": "20a97ce738e4550b4ad9174d4f5d6df05bf1a7013468f6fa82c80b5ea056e59f",
+      "context": {
+        "phrase": {
+          "zh": "把夏日的丰盛，留给冬天。",
+          "en": "Keep summer’s abundance for winter."
+        },
+        "visual": {
+          "zh": "近处木制圆筒由金属箍固定，开放断面露出密集青草与三叶草；右侧狭窄门口通向雪地，刻线区分木板、叶片与远处田野。",
+          "en": "Metal hoops hold a close wooden cylinder whose open cross-section reveals dense grass and clover; a narrow doorway at right opens onto snow, with engraved lines separating timber, leaves and distant fields."
+        },
+        "background": {
+          "zh": "维尔塔宁把生物化学研究用于农业和乳品生产，发展了保存新鲜饲料的方法。他因此获得1945年诺贝尔化学奖。画面把装满青草的储存容器与门外雪地并置，表达跨越季节的保存，是原创寓意，不是真实设备复原或饲料制作步骤。短句为原创。\n1945年化学奖；独享本年度奖项。获奖理由（中文译述）：在农业和营养化学方面的研究与发明，尤其是饲料保存方法",
+          "en": "Virtanen applied biochemistry to agriculture and dairy production, developing a method for preserving fresh fodder. He received the 1945 Nobel Prize in Chemistry. Packed grass beside a doorway onto snow expresses keeping resources across seasons. It is an original metaphor, not a reconstruction of equipment or a fodder-making procedure. The phrase is original.\n1945 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his research and inventions in agricultural and nutrition chemistry, especially for his fodder preservation method"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年化学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1945/virtanen/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

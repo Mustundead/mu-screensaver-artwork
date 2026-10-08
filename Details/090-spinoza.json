@@ -1,0 +1,70 @@
+{
+  "subject": "090-spinoza",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:090-spinoza",
+      "subject": "090-spinoza",
+      "edition": "mono",
+      "title": "斯宾诺莎与透镜",
+      "titleEnglish": "Spinoza and Lenses",
+      "category": "艺术与人文",
+      "image": "Images/mono/090-spinoza.jpg",
+      "thumbnail": "Thumbs/mono/090-spinoza.jpg",
+      "sha256": "bb1f35bb1d108cf7f8488ad86e7db9d9b00fc48733f75b73a982ff3def70139f",
+      "thumbnailSHA256": "d0ce625775273376a73ff0151ac8ffb211a0ed5167390a8397bbb98d0504ffab",
+      "context": {
+        "phrase": {
+          "zh": "看清因由，也是理解自己。",
+          "en": "Understanding causes can clarify the self."
+        },
+        "visual": {
+          "zh": "斯宾诺莎的生成肖像、透镜与相连曲线将“看清”化为思想隐喻。透镜与人物并置并不意味着他的哲学可以由光学实验直接证明。",
+          "en": "A generated Spinoza portrait, lenses and connected curves turn clarity of sight into a philosophical metaphor. Their juxtaposition does not imply that optics proves his philosophy."
+        },
+        "background": {
+          "zh": "《斯坦福哲学百科全书》介绍《伦理学》如何从定义、公理和命题逐步建立论证，把关于自然的理解与人的情感、理性及幸福联系起来。斯宾诺莎于 1677 年去世，留下尚未完成的《政治论》。画面强调理解原因的姿态，而非一句万能人生格言。",
+          "en": "The Stanford Encyclopedia of Philosophy describes the Ethics developing arguments through definitions, axioms and propositions, linking nature with emotion, reason and well-being. Spinoza died in 1677 leaving the Political Treatise unfinished. The image emphasizes inquiry into causes, rather than a universal life slogan."
+        },
+        "sources": [
+          {
+            "label": "Stanford Encyclopedia of Philosophy · Spinoza",
+            "url": "https://plato.stanford.edu/entries/spinoza/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:090-spinoza",
+      "subject": "090-spinoza",
+      "edition": "color",
+      "title": "斯宾诺莎与透镜",
+      "titleEnglish": "Spinoza and Lenses",
+      "category": "艺术与人文",
+      "image": "Images/color/090-spinoza.jpg",
+      "thumbnail": "Thumbs/color/090-spinoza.jpg",
+      "sha256": "845b283b4393380e05a3d9ac0d7b12a729d9ccfb70c5ba7858e5e16d0e1f11a9",
+      "thumbnailSHA256": "609ec79e01364e9c553588efd06275e11bd395d04c993200e58261e159863dcb",
+      "context": {
+        "phrase": {
+          "zh": "看清因由，也是理解自己。",
+          "en": "Understanding causes can clarify the self."
+        },
+        "visual": {
+          "zh": "斯宾诺莎的生成肖像、透镜与相连曲线将“看清”化为思想隐喻。透镜与人物并置并不意味着他的哲学可以由光学实验直接证明。",
+          "en": "A generated Spinoza portrait, lenses and connected curves turn clarity of sight into a philosophical metaphor. Their juxtaposition does not imply that optics proves his philosophy."
+        },
+        "background": {
+          "zh": "《斯坦福哲学百科全书》介绍《伦理学》如何从定义、公理和命题逐步建立论证，把关于自然的理解与人的情感、理性及幸福联系起来。斯宾诺莎于 1677 年去世，留下尚未完成的《政治论》。画面强调理解原因的姿态，而非一句万能人生格言。",
+          "en": "The Stanford Encyclopedia of Philosophy describes the Ethics developing arguments through definitions, axioms and propositions, linking nature with emotion, reason and well-being. Spinoza died in 1677 leaving the Political Treatise unfinished. The image emphasizes inquiry into causes, rather than a universal life slogan."
+        },
+        "sources": [
+          {
+            "label": "Stanford Encyclopedia of Philosophy · Spinoza",
+            "url": "https://plato.stanford.edu/entries/spinoza/"
+          }
+        ]
+      }
+    }
+  }
+}

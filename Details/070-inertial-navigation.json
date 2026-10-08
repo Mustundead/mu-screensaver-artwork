@@ -1,0 +1,86 @@
+{
+  "subject": "070-inertial-navigation",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:070-inertial-navigation",
+      "subject": "070-inertial-navigation",
+      "edition": "mono",
+      "title": "陀螺与方向",
+      "titleEnglish": "Gyroscopes and Direction",
+      "category": "工程与制造",
+      "image": "Images/mono/070-inertial-navigation.jpg",
+      "thumbnail": "Thumbs/mono/070-inertial-navigation.jpg",
+      "sha256": "a5b93d862bed3608dbbec0a8ef69f5d140b21eeb3f956003ecdb534380812c9f",
+      "thumbnailSHA256": "b507dc224eaa5dc0df378df84346a3f4e69e991d5f388e76c616da6b554586ee",
+      "context": {
+        "phrase": {
+          "zh": "记住转过的角度，才能辨认方向。",
+          "en": "Track a turn to keep your bearings."
+        },
+        "visual": {
+          "zh": "齿轮和同心圆围着航行器排列，把陀螺测量与方向感转成机械图景。指针位置不代表某次飞行的姿态数据。",
+          "en": "Gears and circles surround a craft, turning gyroscopic measurement into a mechanical landscape. Pointer positions are not flight attitude data."
+        },
+        "background": {
+          "zh": "惯性测量单元中的陀螺仪感知方向变化，加速度计感知运动变化；航天器还会结合星敏感器或太阳传感器校正方向。仅靠惯性读数长期推算会积累误差。",
+          "en": "An inertial measurement unit uses gyroscopes to sense turning and accelerometers to sense changes in motion; spacecraft also use star trackers or Sun sensors for orientation. Inertial estimates alone can accumulate error over time."
+        },
+        "sources": [
+          {
+            "label": "NASA · InSight navigation tools",
+            "url": "https://science.nasa.gov/resource/insights-navigation-tools/"
+          },
+          {
+            "label": "NASA · Orion navigation sensors",
+            "url": "https://www.nasa.gov/blogs/missions/2022/11/27/artemis-i-flight-day-12-orion-star-trackers-reaction-control-thrusters-tested/"
+          },
+          {
+            "label": "NASA · Onboard systems",
+            "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter11-2/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:070-inertial-navigation",
+      "subject": "070-inertial-navigation",
+      "edition": "color",
+      "title": "陀螺与方向",
+      "titleEnglish": "Gyroscopes and Direction",
+      "category": "工程与制造",
+      "image": "Images/color/070-inertial-navigation.jpg",
+      "thumbnail": "Thumbs/color/070-inertial-navigation.jpg",
+      "sha256": "7f293d103a96be421bc45be6b1793af8ad30be5392a5b5078ca8b9bfed1f0ea8",
+      "thumbnailSHA256": "6b306ededcba9ddac4ece47d45c5eac81b51f486cf6e47b42efd0b70239cbfe9",
+      "context": {
+        "phrase": {
+          "zh": "记住转过的角度，才能辨认方向。",
+          "en": "Track a turn to keep your bearings."
+        },
+        "visual": {
+          "zh": "齿轮和同心圆围着航行器排列，把陀螺测量与方向感转成机械图景。指针位置不代表某次飞行的姿态数据。",
+          "en": "Gears and circles surround a craft, turning gyroscopic measurement into a mechanical landscape. Pointer positions are not flight attitude data."
+        },
+        "background": {
+          "zh": "惯性测量单元中的陀螺仪感知方向变化，加速度计感知运动变化；航天器还会结合星敏感器或太阳传感器校正方向。仅靠惯性读数长期推算会积累误差。",
+          "en": "An inertial measurement unit uses gyroscopes to sense turning and accelerometers to sense changes in motion; spacecraft also use star trackers or Sun sensors for orientation. Inertial estimates alone can accumulate error over time."
+        },
+        "sources": [
+          {
+            "label": "NASA · InSight navigation tools",
+            "url": "https://science.nasa.gov/resource/insights-navigation-tools/"
+          },
+          {
+            "label": "NASA · Orion navigation sensors",
+            "url": "https://www.nasa.gov/blogs/missions/2022/11/27/artemis-i-flight-day-12-orion-star-trackers-reaction-control-thrusters-tested/"
+          },
+          {
+            "label": "NASA · Onboard systems",
+            "url": "https://science.nasa.gov/learn/basics-of-space-flight/chapter11-2/"
+          }
+        ]
+      }
+    }
+  }
+}

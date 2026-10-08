@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-471",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-471",
+      "subject": "nobel-laureate-471",
+      "edition": "mono",
+      "title": "埃尔内斯托·泰奥多罗·莫内塔",
+      "titleEnglish": "Ernesto Teodoro Moneta",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-471/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-471/mono.jpg",
+      "sha256": "12a5d39cc84c15f5e011f8e4bffae6e92a73834be6ab94ee19d5a7efa3045907",
+      "thumbnailSHA256": "46b8d67885612eb3f1643c71a9cbd948bcbd76791603db3835efa7f50929d930",
+      "context": {
+        "phrase": {
+          "zh": "把争论带到桌前，把和平带进日常。",
+          "en": "Bring disagreement to the table and peace into daily life."
+        },
+        "visual": {
+          "zh": "印刷机、无字报纸、空会议厅与相对而坐的空椅子组成独立拼贴，表现新闻写作和公共讨论参与和平工作的方式。场景是想象性的组合，不复原真实报社或历史会议。",
+          "en": "A press, blank newspapers, an empty meeting hall and two facing chairs form an original collage about journalism and public discussion in peace work. The imagined scenes do not reconstruct an actual newspaper office or historical meeting."
+        },
+        "background": {
+          "zh": "莫内塔与路易·雷诺共同获得1907年诺贝尔和平奖，各获二分之一奖项。莫内塔曾有军旅经历，后来在米兰从事新闻工作，编辑《世纪报》，并通过写作、公开和私人会议推动和平。他尤其关注法国与意大利之间的相互理解。配图把报纸和讨论空间并置，表现他的工作由文字走向公共交流。\n1907年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他通过新闻工作及公开、私人和平会议，促进法国与意大利相互理解的工作。",
+          "en": "Ernesto Teodoro Moneta shared the 1907 Nobel Peace Prize equally with Louis Renault. After military service, he worked in journalism in Milan, editing Il Secolo, and promoted peace through writing and public and private meetings. He particularly supported understanding between France and Italy. The artwork links newspapers and discussion spaces to interpret that public work.\n1907 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his work in the press and in peace meetings, both public and private, for an understanding between France and Italy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年和平奖｜官方记录",
+              "en": "1907 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1907",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-471",
+      "subject": "nobel-laureate-471",
+      "edition": "color",
+      "title": "埃尔内斯托·泰奥多罗·莫内塔",
+      "titleEnglish": "Ernesto Teodoro Moneta",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-471/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-471/color.jpg",
+      "sha256": "cb2df6a5319216f34313a921351fe265ed7be75d2ea8c7b44cc0fb82dd6bd069",
+      "thumbnailSHA256": "9eb47561c98e803f6e2b4724b9dc1f1c74005cff2081e1c0397dd174a27df4e0",
+      "context": {
+        "phrase": {
+          "zh": "把争论带到桌前，把和平带进日常。",
+          "en": "Bring disagreement to the table and peace into daily life."
+        },
+        "visual": {
+          "zh": "印刷机、无字报纸、空会议厅与相对而坐的空椅子组成独立拼贴，表现新闻写作和公共讨论参与和平工作的方式。场景是想象性的组合，不复原真实报社或历史会议。",
+          "en": "A press, blank newspapers, an empty meeting hall and two facing chairs form an original collage about journalism and public discussion in peace work. The imagined scenes do not reconstruct an actual newspaper office or historical meeting."
+        },
+        "background": {
+          "zh": "莫内塔与路易·雷诺共同获得1907年诺贝尔和平奖，各获二分之一奖项。莫内塔曾有军旅经历，后来在米兰从事新闻工作，编辑《世纪报》，并通过写作、公开和私人会议推动和平。他尤其关注法国与意大利之间的相互理解。配图把报纸和讨论空间并置，表现他的工作由文字走向公共交流。\n1907年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他通过新闻工作及公开、私人和平会议，促进法国与意大利相互理解的工作。",
+          "en": "Ernesto Teodoro Moneta shared the 1907 Nobel Peace Prize equally with Louis Renault. After military service, he worked in journalism in Milan, editing Il Secolo, and promoted peace through writing and public and private meetings. He particularly supported understanding between France and Italy. The artwork links newspapers and discussion spaces to interpret that public work.\n1907 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his work in the press and in peace meetings, both public and private, for an understanding between France and Italy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年和平奖｜官方记录",
+              "en": "1907 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1907",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

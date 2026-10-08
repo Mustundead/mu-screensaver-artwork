@@ -1,0 +1,70 @@
+{
+  "subject": "095-matisse",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:095-matisse",
+      "subject": "095-matisse",
+      "edition": "mono",
+      "title": "马蒂斯与剪纸",
+      "titleEnglish": "Matisse and Paper Cutouts",
+      "category": "艺术与人文",
+      "image": "Images/mono/095-matisse.jpg",
+      "thumbnail": "Thumbs/mono/095-matisse.jpg",
+      "sha256": "3205845b3b263468bcda82190ab2d30abc4cc8a9b9c69d571e4f66d4c5574a9e",
+      "thumbnailSHA256": "90e62329b7c4d07e877bdb1667bfb8a1e659581129f4441fb3fd362b8762de8e",
+      "context": {
+        "phrase": {
+          "zh": "剪下形状，让颜色自己说话。",
+          "en": "Cut a shape and let color speak."
+        },
+        "visual": {
+          "zh": "马蒂斯的生成肖像与植物般的平面色块相遇，强调剪纸的轮廓和留白。画面不是他的一幅剪纸原作，也没有宣称复原真实工作室。",
+          "en": "A generated Matisse portrait meets plant-like flat shapes, emphasizing cut contours and open space. This is not one of his original cut-outs or a reconstruction of his studio."
+        },
+        "background": {
+          "zh": "纽约现代艺术博物馆介绍，马蒂斯从 1940 年代起用涂色纸剪出形状并重新安排组合。颜色与轮廓在这一过程中同时被确定；剪纸不是绘画完成之后的附属装饰，而能成为独立的创作方法。",
+          "en": "MoMA describes Matisse cutting shapes from painted paper and arranging them into compositions beginning in the 1940s. Color and contour could be developed together. Cut paper became a creative method in its own right, rather than decoration added after a painting was complete."
+        },
+        "sources": [
+          {
+            "label": "MoMA · Introduction to Henri Matisse: The Cut-Outs",
+            "url": "https://www.moma.org/audio/playlist/6/302"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:095-matisse",
+      "subject": "095-matisse",
+      "edition": "color",
+      "title": "马蒂斯与剪纸",
+      "titleEnglish": "Matisse and Paper Cutouts",
+      "category": "艺术与人文",
+      "image": "Images/color/095-matisse.jpg",
+      "thumbnail": "Thumbs/color/095-matisse.jpg",
+      "sha256": "155e3c23aa0cd30b05031008705520dbea76dada09007da97b1e443040ba0c20",
+      "thumbnailSHA256": "5cceb85b48916cc9a07e90aae7917ea12e8a7aee59d1646461762fd89ef10d4f",
+      "context": {
+        "phrase": {
+          "zh": "剪下形状，让颜色自己说话。",
+          "en": "Cut a shape and let color speak."
+        },
+        "visual": {
+          "zh": "马蒂斯的生成肖像与植物般的平面色块相遇，强调剪纸的轮廓和留白。画面不是他的一幅剪纸原作，也没有宣称复原真实工作室。",
+          "en": "A generated Matisse portrait meets plant-like flat shapes, emphasizing cut contours and open space. This is not one of his original cut-outs or a reconstruction of his studio."
+        },
+        "background": {
+          "zh": "纽约现代艺术博物馆介绍，马蒂斯从 1940 年代起用涂色纸剪出形状并重新安排组合。颜色与轮廓在这一过程中同时被确定；剪纸不是绘画完成之后的附属装饰，而能成为独立的创作方法。",
+          "en": "MoMA describes Matisse cutting shapes from painted paper and arranging them into compositions beginning in the 1940s. Color and contour could be developed together. Cut paper became a creative method in its own right, rather than decoration added after a painting was complete."
+        },
+        "sources": [
+          {
+            "label": "MoMA · Introduction to Henri Matisse: The Cut-Outs",
+            "url": "https://www.moma.org/audio/playlist/6/302"
+          }
+        ]
+      }
+    }
+  }
+}

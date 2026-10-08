@@ -1,0 +1,70 @@
+{
+  "subject": "19-personal-computing",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:19-personal-computing",
+      "subject": "19-personal-computing",
+      "edition": "mono",
+      "title": "个人计算：设计与工具",
+      "titleEnglish": "Personal Computing",
+      "category": "计算与人工智能",
+      "image": "Images/mono/19-personal-computing.jpg",
+      "thumbnail": "Thumbs/mono/19-personal-computing.jpg",
+      "sha256": "aee7b08a0f3517a60f9e64eb5b8c7de5f664aed0000daab189dd5dc5d99db99f",
+      "thumbnailSHA256": "a765bb3383a9b99d8f5341da3ee7d30c767225086a07ae1a4497fdb2c41af20f",
+      "context": {
+        "phrase": {
+          "zh": "让计算走近每个人的桌面。",
+          "en": "Bring computing within everyday reach."
+        },
+        "visual": {
+          "zh": "人物、鼠标与桌面电脑的局部相互交叠，强调计算从机房走向个人使用的转变。人物和设备是生成的视觉重组，不是产品发布现场的记录。",
+          "en": "A figure, mouse and desktop computer overlap to evoke computing becoming personal. They are generated visual arrangements, not documentation of a product launch."
+        },
+        "background": {
+          "zh": "计算机历史博物馆将 1984 年 Macintosh 描述为一台采用图形桌面的小型一体式个人电脑。它不是图形界面的起点：该馆明确提到 Lisa 和 Alto 的先行影响。这个主题关注工具如何变得可理解，不把一项长期发展归功于一个人或一台机器。",
+          "en": "The Computer History Museum describes the 1984 Macintosh as a compact, self-contained computer with a graphical desktop. It also identifies earlier Lisa and Alto influences. The theme is making tools understandable, without attributing a long development to one person or machine."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Apple Macintosh",
+            "url": "https://www.computerhistory.org/revolution/artifact/303/1203"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:19-personal-computing",
+      "subject": "19-personal-computing",
+      "edition": "color",
+      "title": "个人计算：设计与工具",
+      "titleEnglish": "Personal Computing",
+      "category": "计算与人工智能",
+      "image": "Images/color/19-personal-computing.jpg",
+      "thumbnail": "Thumbs/color/19-personal-computing.jpg",
+      "sha256": "ccb44a3fbc2b0ff1885e173dfe9703df1e0d37e5a024c8addb6b9ddbee67e58f",
+      "thumbnailSHA256": "6fca997f5ed88d78c7afed41efacfd6f2c2481dde1efc3e4a455ee7a64c6e0be",
+      "context": {
+        "phrase": {
+          "zh": "让计算走近每个人的桌面。",
+          "en": "Bring computing within everyday reach."
+        },
+        "visual": {
+          "zh": "人物、鼠标与桌面电脑的局部相互交叠，强调计算从机房走向个人使用的转变。人物和设备是生成的视觉重组，不是产品发布现场的记录。",
+          "en": "A figure, mouse and desktop computer overlap to evoke computing becoming personal. They are generated visual arrangements, not documentation of a product launch."
+        },
+        "background": {
+          "zh": "计算机历史博物馆将 1984 年 Macintosh 描述为一台采用图形桌面的小型一体式个人电脑。它不是图形界面的起点：该馆明确提到 Lisa 和 Alto 的先行影响。这个主题关注工具如何变得可理解，不把一项长期发展归功于一个人或一台机器。",
+          "en": "The Computer History Museum describes the 1984 Macintosh as a compact, self-contained computer with a graphical desktop. It also identifies earlier Lisa and Alto influences. The theme is making tools understandable, without attributing a long development to one person or machine."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Apple Macintosh",
+            "url": "https://www.computerhistory.org/revolution/artifact/303/1203"
+          }
+        ]
+      }
+    }
+  }
+}

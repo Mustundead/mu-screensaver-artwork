@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-494",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-494",
+      "subject": "nobel-laureate-494",
+      "edition": "mono",
+      "title": "弗兰克·B·凯洛格",
+      "titleEnglish": "Frank B. Kellogg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-494/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-494/mono.jpg",
+      "sha256": "8e2b0b629aef780578aafa7bc06c2114af2a71f2188cf915794efefd8783975b",
+      "thumbnailSHA256": "b356d245ba0ab9bd7178d1420237c2c9c09b086a53cd45f4007b71206c4743b2",
+      "context": {
+        "phrase": {
+          "zh": "把克制写在行动之前。",
+          "en": "Put restraint before action."
+        },
+        "visual": {
+          "zh": "宽阔的浅色空白纸页横过画面，两侧钢色刀尖向内伸入，却停在纸页下沿之外，彼此保留间隔。黑白版保持同一边界、刀尖和静止关系。",
+          "en": "A broad blank pale sheet crosses the frame. Steel blade tips approach from either side but stop below its lower edge, with a gap between them. The neutral edition keeps the same boundary, tips and stillness."
+        },
+        "background": {
+          "zh": "凯洛格获1929年诺贝尔和平奖，实际于1930年领受，因促成《白里安—凯洛格公约》的关键作用。公约主张放弃以战争解决国际争端，诉诸和平办法。纸页与停住的刀尖是书面约束的原创寓意，并非真实条约或历史场景，也不表示战争从此终结；短句为原创。\n1929年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他在促成《白里安—凯洛格公约》中发挥的关键作用。",
+          "en": "Kellogg was awarded the 1929 Nobel Peace Prize and received it in 1930 for his crucial role in the Briand–Kellogg Pact. The pact renounced war as a means of settling international disputes in favor of peaceful methods. The sheet and halted blades are an original metaphor for a written restraint, not an actual treaty or historical scene, and do not imply that war ended. The phrase is original.\n1929 — The Nobel Peace Prize. Received the full prize. Official motivation: for his crucial role in bringing about the Briand-Kellogg Pact"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年和平奖｜官方记录",
+              "en": "1929 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/nomination/archive/show.php?id=3922",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-494",
+      "subject": "nobel-laureate-494",
+      "edition": "color",
+      "title": "弗兰克·B·凯洛格",
+      "titleEnglish": "Frank B. Kellogg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-494/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-494/color.jpg",
+      "sha256": "7865ac2179e259d04f422e6d607f9c9c94a52637c10df96f5c839823148a9160",
+      "thumbnailSHA256": "a6d23529e3f6adb3e3ef25b5c2b5ef8b19321e2cc8e53fff49cb971aea82d581",
+      "context": {
+        "phrase": {
+          "zh": "把克制写在行动之前。",
+          "en": "Put restraint before action."
+        },
+        "visual": {
+          "zh": "宽阔的浅色空白纸页横过画面，两侧钢色刀尖向内伸入，却停在纸页下沿之外，彼此保留间隔。黑白版保持同一边界、刀尖和静止关系。",
+          "en": "A broad blank pale sheet crosses the frame. Steel blade tips approach from either side but stop below its lower edge, with a gap between them. The neutral edition keeps the same boundary, tips and stillness."
+        },
+        "background": {
+          "zh": "凯洛格获1929年诺贝尔和平奖，实际于1930年领受，因促成《白里安—凯洛格公约》的关键作用。公约主张放弃以战争解决国际争端，诉诸和平办法。纸页与停住的刀尖是书面约束的原创寓意，并非真实条约或历史场景，也不表示战争从此终结；短句为原创。\n1929年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他在促成《白里安—凯洛格公约》中发挥的关键作用。",
+          "en": "Kellogg was awarded the 1929 Nobel Peace Prize and received it in 1930 for his crucial role in the Briand–Kellogg Pact. The pact renounced war as a means of settling international disputes in favor of peaceful methods. The sheet and halted blades are an original metaphor for a written restraint, not an actual treaty or historical scene, and do not imply that war ended. The phrase is original.\n1929 — The Nobel Peace Prize. Received the full prize. Official motivation: for his crucial role in bringing about the Briand-Kellogg Pact"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年和平奖｜官方记录",
+              "en": "1929 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/nomination/archive/show.php?id=3922",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-peace-prize-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "087-borges",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:087-borges",
+      "subject": "087-borges",
+      "edition": "mono",
+      "title": "博尔赫斯与无限",
+      "titleEnglish": "Borges and Infinity",
+      "category": "艺术与人文",
+      "image": "Images/mono/087-borges.jpg",
+      "thumbnail": "Thumbs/mono/087-borges.jpg",
+      "sha256": "cf30f12c0497371300d184088b7d891dda0cdaf5e4288e6dc9f9e4132a0d6ca8",
+      "thumbnailSHA256": "6c71de849603295eb67891b495d1a360cbf4d92490eb4a93d80eefd7a92e9a1f",
+      "context": {
+        "phrase": {
+          "zh": "有限的符号，打开无尽的想象。",
+          "en": "Finite symbols can open vast imagined worlds."
+        },
+        "visual": {
+          "zh": "博尔赫斯的生成肖像与书架、回转路径形成迷宫般的空间。它借文学中的无限和寻找来组织画面，不是某座真实图书馆的平面图。",
+          "en": "A generated Borges portrait meets shelves and looping paths in a labyrinth-like space. Literary infinity and searching organize the scene; it is not the floor plan of a real library."
+        },
+        "background": {
+          "zh": "匹兹堡大学博尔赫斯中心收录的研究讨论《巴别图书馆》如何用符号组合构造庞大书库，并追问其中有意义的文本如何被找到。这是小说设定与数学思想的相遇，不是宇宙真实存在一座藏尽所有书籍的图书馆的证据。",
+          "en": "Research hosted by the University of Pittsburgh’s Borges Center examines the vast combinatorial library in The Library of Babel and the problem of finding meaningful texts within it. This is a meeting of fictional premises and mathematical ideas, not evidence of a real universal library."
+        },
+        "sources": [
+          {
+            "label": "Borges Center, University of Pittsburgh · Solving the Library of Babel",
+            "url": "https://borges.pitt.edu/sites/default/files/files/SolvingTheLibraryofBabel-MazinSaleem.pdf"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:087-borges",
+      "subject": "087-borges",
+      "edition": "color",
+      "title": "博尔赫斯与无限",
+      "titleEnglish": "Borges and Infinity",
+      "category": "艺术与人文",
+      "image": "Images/color/087-borges.jpg",
+      "thumbnail": "Thumbs/color/087-borges.jpg",
+      "sha256": "c6019b51ce6868971f0d00f149c809e08b6313a5d35c01f078922ddeb904e38e",
+      "thumbnailSHA256": "054f78beb98180d68f0511fde7afbc8262540ca0f9df2be1a41b4e6d2898cb62",
+      "context": {
+        "phrase": {
+          "zh": "有限的符号，打开无尽的想象。",
+          "en": "Finite symbols can open vast imagined worlds."
+        },
+        "visual": {
+          "zh": "博尔赫斯的生成肖像与书架、回转路径形成迷宫般的空间。它借文学中的无限和寻找来组织画面，不是某座真实图书馆的平面图。",
+          "en": "A generated Borges portrait meets shelves and looping paths in a labyrinth-like space. Literary infinity and searching organize the scene; it is not the floor plan of a real library."
+        },
+        "background": {
+          "zh": "匹兹堡大学博尔赫斯中心收录的研究讨论《巴别图书馆》如何用符号组合构造庞大书库，并追问其中有意义的文本如何被找到。这是小说设定与数学思想的相遇，不是宇宙真实存在一座藏尽所有书籍的图书馆的证据。",
+          "en": "Research hosted by the University of Pittsburgh’s Borges Center examines the vast combinatorial library in The Library of Babel and the problem of finding meaningful texts within it. This is a meeting of fictional premises and mathematical ideas, not evidence of a real universal library."
+        },
+        "sources": [
+          {
+            "label": "Borges Center, University of Pittsburgh · Solving the Library of Babel",
+            "url": "https://borges.pitt.edu/sites/default/files/files/SolvingTheLibraryofBabel-MazinSaleem.pdf"
+          }
+        ]
+      }
+    }
+  }
+}

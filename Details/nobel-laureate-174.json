@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-174",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-174",
+      "subject": "nobel-laureate-174",
+      "edition": "mono",
+      "title": "阿尔弗雷德·维尔纳",
+      "titleEnglish": "Alfred Werner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-174/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-174/mono.jpg",
+      "sha256": "ecd93617a77e2bbfb6e45d9f6594bf2fd9ec59e6f27d0ab45fec19642dc5da1f",
+      "thumbnailSHA256": "73813a634b444223f2955aa36bfb5d5e0db88e3dcd3c65d6d364c85aa82d6b52",
+      "context": {
+        "phrase": {
+          "zh": "连接的位置，改变理解的方式。",
+          "en": "Where connections sit changes how we understand."
+        },
+        "visual": {
+          "zh": "巨大的倾斜几何框架围住一枚放在小楔台上的球，以前景粗梁与远处小球的关系表现空间排列。黑白与钴蓝版突出框架；彩色版使用深绿木材、陶土色球体与黄铜色支座。它是原创空间隐喻，不表示维尔纳研究中某个配合物的准确结构或原子数量。",
+          "en": "A huge tilted geometric frame surrounds a single sphere on a small wedge, using foreground bars and distant scale to evoke spatial arrangement. Cobalt defines the monochrome frame; full color uses deep green wood, terracotta and brass. This original spatial metaphor does not specify an actual coordination compound, molecular structure or atom count."
+        },
+        "background": {
+          "zh": "维尔纳独自获得1913年诺贝尔化学奖，官方理由表彰他研究分子中原子的连接关系，为尤其是无机化学开拓研究。诺贝尔官方化学史解释，他在1893年提出配位理论：若干配体直接围绕中心金属离子结合，而不是沿用此前的线性链解释。配体指围绕中心并与其结合的原子、离子或分子。苏黎世大学的历史介绍说明，这一理论提出后又经过其研究团队多年的实验支持。图中的倾斜骨架以空间关系作原创隐喻，不是特定化合物模型，颜色也不代表真实原子或金属外观。短句不是本人引语。\n1913年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他研究分子中原子的连接关系，阐明既有研究并开拓尤其是无机化学的新领域。",
+          "en": "Werner was the sole 1913 Nobel laureate in Chemistry, honored for work on atomic linkage in molecules that opened research especially in inorganic chemistry. Nobel’s chemistry history describes his 1893 coordination theory: ligands bind directly around a central metal ion rather than forming the previously proposed linear chains. Ligands are atoms, ions or molecules bound to a center. University of Zurich’s history explains that his team subsequently supported the theory through years of experiments. The tilted frame is an original metaphor for spatial relationships, not a particular compound; color does not represent actual atoms or metal appearance. The phrase is not a quotation.\n1913 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his work on the linkage of atoms in molecules by which he has thrown new light on earlier investigations and opened up new fields of research especially in inorganic chemistry"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年化学奖｜官方记录",
+              "en": "1913 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          },
+          {
+            "label": "uzh.ch",
+            "url": "https://www.uzh.ch/de/researchinnovation/excellence/nobelprize/werner.html",
+            "labelLocalized": {
+              "zh": "研究历史｜苏黎世大学",
+              "en": "Research history — University of Zurich"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-174",
+      "subject": "nobel-laureate-174",
+      "edition": "color",
+      "title": "阿尔弗雷德·维尔纳",
+      "titleEnglish": "Alfred Werner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-174/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-174/color.jpg",
+      "sha256": "1355611b6e729bcf8665ed4ead4604b17c8c7183b695fbab3f4aa3475da24ec6",
+      "thumbnailSHA256": "c13e5849cfe6a4842126329e7408feb270d276a53660511d6c314065739df576",
+      "context": {
+        "phrase": {
+          "zh": "连接的位置，改变理解的方式。",
+          "en": "Where connections sit changes how we understand."
+        },
+        "visual": {
+          "zh": "巨大的倾斜几何框架围住一枚放在小楔台上的球，以前景粗梁与远处小球的关系表现空间排列。黑白与钴蓝版突出框架；彩色版使用深绿木材、陶土色球体与黄铜色支座。它是原创空间隐喻，不表示维尔纳研究中某个配合物的准确结构或原子数量。",
+          "en": "A huge tilted geometric frame surrounds a single sphere on a small wedge, using foreground bars and distant scale to evoke spatial arrangement. Cobalt defines the monochrome frame; full color uses deep green wood, terracotta and brass. This original spatial metaphor does not specify an actual coordination compound, molecular structure or atom count."
+        },
+        "background": {
+          "zh": "维尔纳独自获得1913年诺贝尔化学奖，官方理由表彰他研究分子中原子的连接关系，为尤其是无机化学开拓研究。诺贝尔官方化学史解释，他在1893年提出配位理论：若干配体直接围绕中心金属离子结合，而不是沿用此前的线性链解释。配体指围绕中心并与其结合的原子、离子或分子。苏黎世大学的历史介绍说明，这一理论提出后又经过其研究团队多年的实验支持。图中的倾斜骨架以空间关系作原创隐喻，不是特定化合物模型，颜色也不代表真实原子或金属外观。短句不是本人引语。\n1913年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他研究分子中原子的连接关系，阐明既有研究并开拓尤其是无机化学的新领域。",
+          "en": "Werner was the sole 1913 Nobel laureate in Chemistry, honored for work on atomic linkage in molecules that opened research especially in inorganic chemistry. Nobel’s chemistry history describes his 1893 coordination theory: ligands bind directly around a central metal ion rather than forming the previously proposed linear chains. Ligands are atoms, ions or molecules bound to a center. University of Zurich’s history explains that his team subsequently supported the theory through years of experiments. The tilted frame is an original metaphor for spatial relationships, not a particular compound; color does not represent actual atoms or metal appearance. The phrase is not a quotation.\n1913 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his work on the linkage of atoms in molecules by which he has thrown new light on earlier investigations and opened up new fields of research especially in inorganic chemistry"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年化学奖｜官方记录",
+              "en": "1913 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          },
+          {
+            "label": "uzh.ch",
+            "url": "https://www.uzh.ch/de/researchinnovation/excellence/nobelprize/werner.html",
+            "labelLocalized": {
+              "zh": "研究历史｜苏黎世大学",
+              "en": "Research history — University of Zurich"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-10",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-10",
+      "subject": "nobel-laureate-10",
+      "edition": "mono",
+      "title": "J.J.汤姆孙",
+      "titleEnglish": "J.J. Thomson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-10/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-10/mono.jpg",
+      "sha256": "87eb63dcdfbe0664c92549420e67c50abaf694b5ee4791646779474fcac318dc",
+      "thumbnailSHA256": "d2ef1c2eafd395c023be16efa400399d4c130dc21db8d5997e704e196b768e6b",
+      "context": {
+        "phrase": {
+          "zh": "从可测量的变化，认识看不见的世界。",
+          "en": "Measured changes reveal an invisible world."
+        },
+        "visual": {
+          "zh": "玻璃放电管、成对线圈、空白仪表与磁铁组成独立拼贴，呼应汤姆孙对气体导电的研究。器材是象征性组合，不是他的原装设备，也不是可操作的实验图。",
+          "en": "An original collage of a glass discharge tube, paired coils, a blank instrument and a magnet evokes Thomson's investigations of electrical conduction through gases. The apparatus is symbolic, not his original equipment or a working experimental diagram."
+        },
+        "background": {
+          "zh": "汤姆孙获得1906年诺贝尔物理学奖，表彰他对气体导电所作的理论与实验研究。他在1897年公布了阴极射线研究中有关电子的发现。配图以玻璃管、线圈和空白仪表表现观察与测量；画面没有把看不见的电子画成发光光束，也不表示真实的仪器读数。\n1906年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在气体导电方面的理论与实验研究所作出的重要贡献。",
+          "en": "Thomson received the 1906 Nobel Prize in Physics for theoretical and experimental investigations of electrical conduction through gases. In 1897 he announced his discovery of the electron through work on cathode rays. The artwork interprets observation and measurement through a glass tube, coils and a blank instrument, without depicting electrons as glowing beams or showing real instrument readings.\n1906 — The Nobel Prize in Physics. Received the full prize. Official motivation: in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年物理学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1906/thomson/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-10",
+      "subject": "nobel-laureate-10",
+      "edition": "color",
+      "title": "J.J.汤姆孙",
+      "titleEnglish": "J.J. Thomson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-10/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-10/color.jpg",
+      "sha256": "1dffbb3fb1c055be4ebf74d9375738573ac8c6c9c10b2167a7753e0c266ee5e2",
+      "thumbnailSHA256": "874e73f8879498aea93cfba32728c58114552d8cfbcebc15d3be9ca4926c5c74",
+      "context": {
+        "phrase": {
+          "zh": "从可测量的变化，认识看不见的世界。",
+          "en": "Measured changes reveal an invisible world."
+        },
+        "visual": {
+          "zh": "玻璃放电管、成对线圈、空白仪表与磁铁组成独立拼贴，呼应汤姆孙对气体导电的研究。器材是象征性组合，不是他的原装设备，也不是可操作的实验图。",
+          "en": "An original collage of a glass discharge tube, paired coils, a blank instrument and a magnet evokes Thomson's investigations of electrical conduction through gases. The apparatus is symbolic, not his original equipment or a working experimental diagram."
+        },
+        "background": {
+          "zh": "汤姆孙获得1906年诺贝尔物理学奖，表彰他对气体导电所作的理论与实验研究。他在1897年公布了阴极射线研究中有关电子的发现。配图以玻璃管、线圈和空白仪表表现观察与测量；画面没有把看不见的电子画成发光光束，也不表示真实的仪器读数。\n1906年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在气体导电方面的理论与实验研究所作出的重要贡献。",
+          "en": "Thomson received the 1906 Nobel Prize in Physics for theoretical and experimental investigations of electrical conduction through gases. In 1897 he announced his discovery of the electron through work on cathode rays. The artwork interprets observation and measurement through a glass tube, coils and a blank instrument, without depicting electrons as glowing beams or showing real instrument readings.\n1906 — The Nobel Prize in Physics. Received the full prize. Official motivation: in recognition of the great merits of his theoretical and experimental investigations on the conduction of electricity by gases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年物理学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1906/thomson/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

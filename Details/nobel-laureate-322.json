@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-322",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-322",
+      "subject": "nobel-laureate-322",
+      "edition": "mono",
+      "title": "奥托·瓦尔堡",
+      "titleEnglish": "Otto Warburg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-322/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-322/mono.jpg",
+      "sha256": "5c723af2040dd6c0a7c22e9dc1500029ff9a27b89ec9d114a0ef8b32f8afed62",
+      "thumbnailSHA256": "b3a3b645ae6b56b021481c3fdec917bacb664de601da2fe75393b6951372a26a",
+      "context": {
+        "phrase": {
+          "zh": "细胞的呼吸，留下可以观察的变化。",
+          "en": "A cell's respiration leaves a change we can observe."
+        },
+        "visual": {
+          "zh": "左侧圆形玻璃腔体盛有浅层液体，一条弯曲细管从顶部连接到右侧U形玻璃管；两侧深红液面的高度不同。铜色夹具与支架衬在墨绿背景前，黑白版保留连接、液面与构图。",
+          "en": "A round glass chamber at left holds a shallow liquid layer. A bent capillary connects its neck to a U-shaped glass tube at right, whose dark red liquid levels differ. Copper-colored clamps and a support stand against deep green. The neutral edition preserves the connections, levels and layout."
+        },
+        "background": {
+          "zh": "瓦尔堡因发现呼吸酶的本质与作用方式，获得1931年诺贝尔生理学或医学奖。他的研究帮助说明细胞利用氧释放能量的过程与酶有关。画中的玻璃装置是观察细微变化的原创寓意，不是实际实验读数、仪器复原或医疗建议，也不表示发现了癌症疗法；短句为原创。\n1931年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现呼吸酶的本质与作用方式。",
+          "en": "Warburg received the 1931 Nobel Prize in Physiology or Medicine for discovering the nature and mode of action of the respiratory enzyme. His research helped show that the process through which cells use oxygen to release energy involves enzymes. The glass apparatus is an original metaphor for observing small changes, not actual experimental readings, a reconstructed instrument or medical advice. It does not depict a cancer cure. The phrase is original.\n1931 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the nature and mode of action of the respiratory enzyme"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年生理学或医学奖｜官方记录",
+              "en": "1931 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/warburg-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2019/10/press-medicine2019.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-322",
+      "subject": "nobel-laureate-322",
+      "edition": "color",
+      "title": "奥托·瓦尔堡",
+      "titleEnglish": "Otto Warburg",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-322/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-322/color.jpg",
+      "sha256": "0f6e7641c8aaf4ecc41df3245fad4b61b55435983033127e881ced33f16b4789",
+      "thumbnailSHA256": "09f646831283cd0c38147ee19e44594d3d39aec62187aa8e1931ac008f7755d3",
+      "context": {
+        "phrase": {
+          "zh": "细胞的呼吸，留下可以观察的变化。",
+          "en": "A cell's respiration leaves a change we can observe."
+        },
+        "visual": {
+          "zh": "左侧圆形玻璃腔体盛有浅层液体，一条弯曲细管从顶部连接到右侧U形玻璃管；两侧深红液面的高度不同。铜色夹具与支架衬在墨绿背景前，黑白版保留连接、液面与构图。",
+          "en": "A round glass chamber at left holds a shallow liquid layer. A bent capillary connects its neck to a U-shaped glass tube at right, whose dark red liquid levels differ. Copper-colored clamps and a support stand against deep green. The neutral edition preserves the connections, levels and layout."
+        },
+        "background": {
+          "zh": "瓦尔堡因发现呼吸酶的本质与作用方式，获得1931年诺贝尔生理学或医学奖。他的研究帮助说明细胞利用氧释放能量的过程与酶有关。画中的玻璃装置是观察细微变化的原创寓意，不是实际实验读数、仪器复原或医疗建议，也不表示发现了癌症疗法；短句为原创。\n1931年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现呼吸酶的本质与作用方式。",
+          "en": "Warburg received the 1931 Nobel Prize in Physiology or Medicine for discovering the nature and mode of action of the respiratory enzyme. His research helped show that the process through which cells use oxygen to release energy involves enzymes. The glass apparatus is an original metaphor for observing small changes, not actual experimental readings, a reconstructed instrument or medical advice. It does not depict a cancer cure. The phrase is original.\n1931 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the nature and mode of action of the respiratory enzyme"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年生理学或医学奖｜官方记录",
+              "en": "1931 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/warburg-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2019/10/press-medicine2019.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

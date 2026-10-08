@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-33",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-33",
+      "subject": "nobel-laureate-33",
+      "edition": "mono",
+      "title": "阿瑟·康普顿",
+      "titleEnglish": "Arthur H. Compton",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-33/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-33/mono.jpg",
+      "sha256": "7262ea6b9f8844e1fd2e7283a1bc03c43ec29ca9d96ed530301ad7d8e1712d86",
+      "thumbnailSHA256": "fe7d44735f8d64ebf4041b0646cf08fc91a24d19a0bb15e5cf766f4c0af6ba4d",
+      "context": {
+        "phrase": {
+          "zh": "相遇之后，留下新的方向。",
+          "en": "An encounter can leave a new direction."
+        },
+        "visual": {
+          "zh": "银色宽平面从左侧进入，直立的石墨板隔开空间，铜色平面向右上方弯出。细刻线沿着材料转折，暗背景突出三者的交汇。黑白版保留相同物件与裁切；这是散射与能量交换的原创寓意，不是实验图。",
+          "en": "A broad silver plane enters from the left, an upright graphite slab divides the space, and a copper plane curves upward to the right. Fine engraving follows the material turns against a quiet dark backdrop. The neutral monochrome edition retains the same objects and crop. This is an original metaphor for scattering and energy exchange, not an experimental diagram."
+        },
+        "background": {
+          "zh": "康普顿与威尔逊各获1927年诺贝尔物理学奖的一半。康普顿发现，X射线被物质散射后，波长会发生变化，并给出解释，称为康普顿效应。石墨与金属带是能量交换的原创寓意，不是实验复原、光线图或测量结果；短句为原创。\n1927年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现以其名字命名的康普顿效应。",
+          "en": "Compton and Wilson shared the 1927 Nobel Prize in Physics equally. Compton discovered and explained a change in the wavelength of X-rays scattered by matter, known as the Compton effect. The graphite and metal strips are an original metaphor for energy exchange, not an experiment reconstruction, ray diagram or measured result. The phrase is original.\n1927 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for his discovery of the effect named after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年物理学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/quantised_world/waves-particles-4.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-33",
+      "subject": "nobel-laureate-33",
+      "edition": "color",
+      "title": "阿瑟·康普顿",
+      "titleEnglish": "Arthur H. Compton",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-33/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-33/color.jpg",
+      "sha256": "28fc21e522618a19a64b7f4cc3e803a44db3b35d67720a4378e5ec870fc2ea0c",
+      "thumbnailSHA256": "0777c57c8493cd3cf9de509f500c92e9ba8ea8cc9c9e34e9d60542d38d1dde45",
+      "context": {
+        "phrase": {
+          "zh": "相遇之后，留下新的方向。",
+          "en": "An encounter can leave a new direction."
+        },
+        "visual": {
+          "zh": "银色宽平面从左侧进入，直立的石墨板隔开空间，铜色平面向右上方弯出。细刻线沿着材料转折，暗背景突出三者的交汇。黑白版保留相同物件与裁切；这是散射与能量交换的原创寓意，不是实验图。",
+          "en": "A broad silver plane enters from the left, an upright graphite slab divides the space, and a copper plane curves upward to the right. Fine engraving follows the material turns against a quiet dark backdrop. The neutral monochrome edition retains the same objects and crop. This is an original metaphor for scattering and energy exchange, not an experimental diagram."
+        },
+        "background": {
+          "zh": "康普顿与威尔逊各获1927年诺贝尔物理学奖的一半。康普顿发现，X射线被物质散射后，波长会发生变化，并给出解释，称为康普顿效应。石墨与金属带是能量交换的原创寓意，不是实验复原、光线图或测量结果；短句为原创。\n1927年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现以其名字命名的康普顿效应。",
+          "en": "Compton and Wilson shared the 1927 Nobel Prize in Physics equally. Compton discovered and explained a change in the wavelength of X-rays scattered by matter, known as the Compton effect. The graphite and metal strips are an original metaphor for energy exchange, not an experiment reconstruction, ray diagram or measured result. The phrase is original.\n1927 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for his discovery of the effect named after him"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年物理学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/quantised_world/waves-particles-4.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

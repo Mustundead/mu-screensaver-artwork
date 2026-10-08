@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-495",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-495",
+      "subject": "nobel-laureate-495",
+      "edition": "mono",
+      "title": "纳坦·瑟德布卢姆",
+      "titleEnglish": "Nathan Söderblom",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-495/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-495/mono.jpg",
+      "sha256": "9dce07a960618ee646d9a4a0602ffe191c0a8b0f4869c6e88fe92e0b74c0559d",
+      "thumbnailSHA256": "dcc5b67b95bdaba9f9d18c496416c329c37b83ee9135a7b2ac25ffccfaed0a3b",
+      "context": {
+        "phrase": {
+          "zh": "不同的声音，也能共同回应。",
+          "en": "Different voices can answer together."
+        },
+        "visual": {
+          "zh": "从低处仰望，两口向下开口的钟挂在同一条木横梁下；左钟较小较高，右钟巨大并被画面边缘裁切。钟内各有一枚相连的钟舌，细刻线表现钟身曲面与深处的明暗。",
+          "en": "Seen from below, two downward-facing bells hang from one wooden beam. The left bell is smaller and higher; the large right bell is cropped at the edge. Each contains one attached clapper, with fine engraving defining the curved surfaces and dark interiors."
+        },
+        "background": {
+          "zh": "瑟德布卢姆因促进基督教团结，并推动有利于国际和平的思想，获得1930年诺贝尔和平奖。他是瑞典大主教，推动1925年斯德哥尔摩的基督教会会议，主张跨国合作、国际司法与仲裁。两口钟与共同横梁表现不同声音合作的原创寓意；不是他的历史遗物，也不将这一工作描述成所有宗教的统一组织。短句为原创。\n1930年和平奖；独享本年度奖项。获奖理由（中文译述）：因促进基督教各教会的团结，并帮助形成使国家之间的和平成为现实所需的新思想态度。",
+          "en": "Söderblom received the 1930 Nobel Peace Prize for promoting Christian unity and an outlook supporting peace between nations. The Swedish archbishop helped organize the 1925 Stockholm meeting of Christian churches, advocating cross-border cooperation, international justice and arbitration. Two bells on a shared beam are an original metaphor for cooperating voices, not his historical artifacts or an assertion of an organization uniting all religions. The phrase is original.\n1930 — The Nobel Peace Prize. Received the full prize. Official motivation: for promoting Christian unity and helping create 'that new attitude of mind which is necessary if peace between nations is to become reality'"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年和平奖｜官方记录",
+              "en": "1930 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1930/soderblom/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1930/soderblom/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-495",
+      "subject": "nobel-laureate-495",
+      "edition": "color",
+      "title": "纳坦·瑟德布卢姆",
+      "titleEnglish": "Nathan Söderblom",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-495/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-495/color.jpg",
+      "sha256": "5efb29c43aa110321aa74b4c8c7d55cca03a5f5ca3e4efd64ea94ae99e64dd62",
+      "thumbnailSHA256": "46e50a4cc21cabd93451869bf01915ed4620740d831faa029ae1f2db5aa17243",
+      "context": {
+        "phrase": {
+          "zh": "不同的声音，也能共同回应。",
+          "en": "Different voices can answer together."
+        },
+        "visual": {
+          "zh": "从低处仰望，两口向下开口的钟挂在同一条木横梁下；左钟较小较高，右钟巨大并被画面边缘裁切。钟内各有一枚相连的钟舌，细刻线表现钟身曲面与深处的明暗。",
+          "en": "Seen from below, two downward-facing bells hang from one wooden beam. The left bell is smaller and higher; the large right bell is cropped at the edge. Each contains one attached clapper, with fine engraving defining the curved surfaces and dark interiors."
+        },
+        "background": {
+          "zh": "瑟德布卢姆因促进基督教团结，并推动有利于国际和平的思想，获得1930年诺贝尔和平奖。他是瑞典大主教，推动1925年斯德哥尔摩的基督教会会议，主张跨国合作、国际司法与仲裁。两口钟与共同横梁表现不同声音合作的原创寓意；不是他的历史遗物，也不将这一工作描述成所有宗教的统一组织。短句为原创。\n1930年和平奖；独享本年度奖项。获奖理由（中文译述）：因促进基督教各教会的团结，并帮助形成使国家之间的和平成为现实所需的新思想态度。",
+          "en": "Söderblom received the 1930 Nobel Peace Prize for promoting Christian unity and an outlook supporting peace between nations. The Swedish archbishop helped organize the 1925 Stockholm meeting of Christian churches, advocating cross-border cooperation, international justice and arbitration. Two bells on a shared beam are an original metaphor for cooperating voices, not his historical artifacts or an assertion of an organization uniting all religions. The phrase is original.\n1930 — The Nobel Peace Prize. Received the full prize. Official motivation: for promoting Christian unity and helping create 'that new attitude of mind which is necessary if peace between nations is to become reality'"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年和平奖｜官方记录",
+              "en": "1930 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1930/soderblom/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1930/soderblom/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

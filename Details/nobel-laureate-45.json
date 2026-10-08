@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-45",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-45",
+      "subject": "nobel-laureate-45",
+      "edition": "mono",
+      "title": "乔治·佩吉特·汤姆孙",
+      "titleEnglish": "George Paget Thomson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-45/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-45/mono.jpg",
+      "sha256": "c4e86c755264f72045ca49a3d8566fbafbea7a91ab8937dbe106e6eeae9355b7",
+      "thumbnailSHA256": "ee009859cde02fa13b25b7ea9577003010f6eb50485137f2c849874e6bdc1368",
+      "context": {
+        "phrase": {
+          "zh": "穿过薄片，另一种秩序显现。",
+          "en": "Through a thin sheet, another order appears."
+        },
+        "visual": {
+          "zh": "一道细线从左侧穿向薄片，窄框与上下固定夹围住带有褶皱的薄片；后方斜立的记录面显出同心纹。",
+          "en": "A fine trace crosses from the left toward a wrinkled foil. A narrow hoop and clips above and below hold it in place; a slanted recording plane behind carries concentric marks."
+        },
+        "background": {
+          "zh": "汤姆孙与戴维森因实验发现电子被晶体衍射，共享1937年诺贝尔物理学奖，各获一半。汤姆孙研究高能电子穿过很薄的金属箔所产生的衍射效应。画面以窄金属框里的薄片、穿透细线和后方同心纹表达这条研究路径。薄片和记录面是原创寓意，不是实际装置复原；线纹不是测量数据或按比例绘制的电子轨迹。短句为原创。\n1937年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：实验发现电子被晶体衍射",
+          "en": "Thomson and Davisson shared the 1937 Nobel Prize in Physics equally for experimentally discovering electron diffraction by crystals. Thomson investigated diffraction as higher-energy electrons passed through very thin metal foil. A metal sheet in a slim hoop, penetrating traces and concentric marks behind it express this research route. The sheet and recording plane are original metaphors, not a reconstruction; the marks are neither measured data nor scaled electron trajectories. The phrase is original.\n1937 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their experimental discovery of the diffraction of electrons by crystals"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年物理学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-45",
+      "subject": "nobel-laureate-45",
+      "edition": "color",
+      "title": "乔治·佩吉特·汤姆孙",
+      "titleEnglish": "George Paget Thomson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-45/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-45/color.jpg",
+      "sha256": "71960ba2d564185fda5407b09a9e527c20c1f5c127b8c7809e25f3213aec94c5",
+      "thumbnailSHA256": "3ff43d39d1a281641d5b49585e36aed189d04e3fdf236a8635fe0776217641a1",
+      "context": {
+        "phrase": {
+          "zh": "穿过薄片，另一种秩序显现。",
+          "en": "Through a thin sheet, another order appears."
+        },
+        "visual": {
+          "zh": "一道细线从左侧穿向薄片，窄框与上下固定夹围住带有褶皱的薄片；后方斜立的记录面显出同心纹。",
+          "en": "A fine trace crosses from the left toward a wrinkled foil. A narrow hoop and clips above and below hold it in place; a slanted recording plane behind carries concentric marks."
+        },
+        "background": {
+          "zh": "汤姆孙与戴维森因实验发现电子被晶体衍射，共享1937年诺贝尔物理学奖，各获一半。汤姆孙研究高能电子穿过很薄的金属箔所产生的衍射效应。画面以窄金属框里的薄片、穿透细线和后方同心纹表达这条研究路径。薄片和记录面是原创寓意，不是实际装置复原；线纹不是测量数据或按比例绘制的电子轨迹。短句为原创。\n1937年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：实验发现电子被晶体衍射",
+          "en": "Thomson and Davisson shared the 1937 Nobel Prize in Physics equally for experimentally discovering electron diffraction by crystals. Thomson investigated diffraction as higher-energy electrons passed through very thin metal foil. A metal sheet in a slim hoop, penetrating traces and concentric marks behind it express this research route. The sheet and recording plane are original metaphors, not a reconstruction; the marks are neither measured data nor scaled electron trajectories. The phrase is original.\n1937 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their experimental discovery of the diffraction of electrons by crystals"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年物理学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

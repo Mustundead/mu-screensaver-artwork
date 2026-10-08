@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-184",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-184",
+      "subject": "nobel-laureate-184",
+      "edition": "mono",
+      "title": "海因里希·维兰德",
+      "titleEnglish": "Heinrich Wieland",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-184/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-184/mono.jpg",
+      "sha256": "fea471222e1e064eafcdbae5aa4d9effe2b0421dd7aa9f6dbfb05ac2420b360b",
+      "thumbnailSHA256": "1edfab66d7aadbc697993a93e74c9f224b50d754797a018eecb88216dd67cbae",
+      "context": {
+        "phrase": {
+          "zh": "从熟悉的物质里，找到隐藏的结构。",
+          "en": "Find hidden structure in familiar matter."
+        },
+        "visual": {
+          "zh": "相互穿连的浅色陶瓷环组成紧密结构，上方半透明琥珀色玻璃覆盖其中一部分。弯曲刻线表现环面和玻璃层次，黑白版保留相互穿连关系。画面寓意结构研究，不是胆汁酸分子模型。",
+          "en": "Interlocked pale ceramic loops form a dense structure partly covered by translucent amber glass. Curved engraving shapes the loops and overlay; the neutral monochrome edition retains their relationships. The image is a metaphor for structural study, not a molecular model of bile acids."
+        },
+        "background": {
+          "zh": "维兰德独获1927年诺贝尔化学奖，实际于1928年领受。获奖研究涉及胆汁酸及相关物质的组成与结构；胆汁酸帮助身体吸收食物中的脂肪。陶瓷环网络与琥珀色玻璃是结构研究的原创寓意，不是胆汁酸分子模型；短句为原创。\n1927年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他研究胆汁酸及相关物质的组成与结构。",
+          "en": "Wieland alone received the 1927 Nobel Prize in Chemistry in 1928. His award concerned the constitution of bile acids and related substances, which help the body absorb dietary fat. The ceramic-loop network and amber glass are an original metaphor for structural study, not a molecular model of bile acids. The phrase is original.\n1927 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his investigations of the constitution of the bile acids and related substances"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年化学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/laureate/184",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-184",
+      "subject": "nobel-laureate-184",
+      "edition": "color",
+      "title": "海因里希·维兰德",
+      "titleEnglish": "Heinrich Wieland",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-184/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-184/color.jpg",
+      "sha256": "836d9f370f81e4776a63d53577f57d4feeb109e7954c9a69f9de3d02b4d4539c",
+      "thumbnailSHA256": "1fe3087bdf92e950b546dfa24719f856b0a4090351db8383d46998c95ca46136",
+      "context": {
+        "phrase": {
+          "zh": "从熟悉的物质里，找到隐藏的结构。",
+          "en": "Find hidden structure in familiar matter."
+        },
+        "visual": {
+          "zh": "相互穿连的浅色陶瓷环组成紧密结构，上方半透明琥珀色玻璃覆盖其中一部分。弯曲刻线表现环面和玻璃层次，黑白版保留相互穿连关系。画面寓意结构研究，不是胆汁酸分子模型。",
+          "en": "Interlocked pale ceramic loops form a dense structure partly covered by translucent amber glass. Curved engraving shapes the loops and overlay; the neutral monochrome edition retains their relationships. The image is a metaphor for structural study, not a molecular model of bile acids."
+        },
+        "background": {
+          "zh": "维兰德独获1927年诺贝尔化学奖，实际于1928年领受。获奖研究涉及胆汁酸及相关物质的组成与结构；胆汁酸帮助身体吸收食物中的脂肪。陶瓷环网络与琥珀色玻璃是结构研究的原创寓意，不是胆汁酸分子模型；短句为原创。\n1927年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他研究胆汁酸及相关物质的组成与结构。",
+          "en": "Wieland alone received the 1927 Nobel Prize in Chemistry in 1928. His award concerned the constitution of bile acids and related substances, which help the body absorb dietary fat. The ceramic-loop network and amber glass are an original metaphor for structural study, not a molecular model of bile acids. The phrase is original.\n1927 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his investigations of the constitution of the bile acids and related substances"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1927 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1927/summary/",
+            "labelLocalized": {
+              "zh": "1927年化学奖｜官方记录",
+              "en": "1927 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/laureate/184",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

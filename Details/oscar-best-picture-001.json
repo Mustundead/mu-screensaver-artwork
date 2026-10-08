@@ -1,0 +1,102 @@
+{
+  "subject": "oscar-best-picture-001",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-001",
+      "subject": "oscar-best-picture-001",
+      "edition": "mono",
+      "title": "Wings",
+      "titleEnglish": "Wings",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-001/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-001/mono.jpg",
+      "sha256": "39a9ff8a336e731a9d126dc5dda315ebf6fb8746c103d911146389c20cd4fe7c",
+      "thumbnailSHA256": "2cf6697403edf0964945e0edf54a56425802e8323ad6c1004dffb813340dbae5",
+      "context": {
+        "phrase": {
+          "zh": "在云间，记住人与人的牵挂。",
+          "en": "Above the clouds, remember the bonds below."
+        },
+        "visual": {
+          "zh": "为《Wings》独立创作的早期航空拼贴；双翼飞机、螺旋桨与仪表围绕安静的黑色中心。不是电影剧照或海报。",
+          "en": "An original early-aviation collage made for Wings: a biplane, propeller and instrument surround a quiet black center. Not a movie still or poster."
+        },
+        "background": {
+          "zh": "《Wings》是一部以第一次世界大战飞行为背景的默片，讲述两位飞行员以及他们与留在家乡的女孩之间的关系。画面用机翼、牵索与布条表达飞行、危险和牵挂；这是艺术解读，不重现某个具体镜头。\n第1届奥斯卡最佳影片：Wings。颁奖年份 1929；参评年份 1927/28。",
+          "en": "Wings is a silent drama set amid First World War aviation, following two pilots and their relationships with a woman left at home. Wings, rigging and tied cloth evoke flight, danger and personal bonds; this is an artistic interpretation, not a recreation of a specific shot.\nAcademy Awards ceremony 1 (1929), Best Picture: Wings. Eligibility year: 1927/28."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1929",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/events/wings-2011",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "Paramount Pictures",
+            "url": "https://ir.paramount.com/news-releases/news-release-details/paramount-home-entertainment-proudly-presents-very-first-best"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-001",
+      "subject": "oscar-best-picture-001",
+      "edition": "color",
+      "title": "Wings",
+      "titleEnglish": "Wings",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-001/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-001/color.jpg",
+      "sha256": "8491e79a5f811440cff26efaccb2b97b513192b2122a71166223479188ca904f",
+      "thumbnailSHA256": "d8ef0cb2f34188cdf4027150b50234a0c25532df18338726979ef682a32b6016",
+      "context": {
+        "phrase": {
+          "zh": "在云间，记住人与人的牵挂。",
+          "en": "Above the clouds, remember the bonds below."
+        },
+        "visual": {
+          "zh": "为《Wings》独立创作的早期航空拼贴；双翼飞机、螺旋桨与仪表围绕安静的黑色中心。不是电影剧照或海报。",
+          "en": "An original early-aviation collage made for Wings: a biplane, propeller and instrument surround a quiet black center. Not a movie still or poster."
+        },
+        "background": {
+          "zh": "《Wings》是一部以第一次世界大战飞行为背景的默片，讲述两位飞行员以及他们与留在家乡的女孩之间的关系。画面用机翼、牵索与布条表达飞行、危险和牵挂；这是艺术解读，不重现某个具体镜头。\n第1届奥斯卡最佳影片：Wings。颁奖年份 1929；参评年份 1927/28。",
+          "en": "Wings is a silent drama set amid First World War aviation, following two pilots and their relationships with a woman left at home. Wings, rigging and tied cloth evoke flight, danger and personal bonds; this is an artistic interpretation, not a recreation of a specific shot.\nAcademy Awards ceremony 1 (1929), Best Picture: Wings. Eligibility year: 1927/28."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1929",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/events/wings-2011",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "Paramount Pictures",
+            "url": "https://ir.paramount.com/news-releases/news-release-details/paramount-home-entertainment-proudly-presents-very-first-best"
+          }
+        ]
+      }
+    }
+  }
+}

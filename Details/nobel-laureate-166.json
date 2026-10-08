@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-166",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-166",
+      "subject": "nobel-laureate-166",
+      "edition": "mono",
+      "title": "爱德华·布赫纳",
+      "titleEnglish": "Eduard Buchner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-166/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-166/mono.jpg",
+      "sha256": "df21a55fc058edfd1bc822e074ceef7edd02897d8329c0e2d1020b8fcb47ec45",
+      "thumbnailSHA256": "0c44caa00ba789582d1ac7e1aeb9f0706b3eabb90f2873f78a498440604e31f9",
+      "context": {
+        "phrase": {
+          "zh": "细胞之外，变化依然在发生。",
+          "en": "Beyond living cells, transformation continues."
+        },
+        "visual": {
+          "zh": "压榨器、研钵、封口玻璃瓶与想象性的酵母细胞形态组成独立拼贴，呼应从细胞中提取物质并研究发酵的工作。器具不复原真实实验，也不表示可照做的实验步骤。",
+          "en": "A press, mortar, closed glass bottle and imagined yeast-cell shapes form an original collage about extracting material from cells and studying fermentation. The apparatus neither reconstructs a historical experiment nor provides an experimental procedure."
+        },
+        "background": {
+          "zh": "爱德华·布赫纳因生物化学研究，尤其是无细胞发酵研究，获得1907年诺贝尔化学奖。1897年，他发现不含活酵母细胞的提取液仍能使糖发酵。这表明发酵不一定需要完整的活细胞参与，关键作用来自酶——细胞产生、促使化学反应发生的物质。配图以提取器具和封口容器表现这一研究问题。\n1907年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他的生物化学研究，尤其是无细胞发酵研究。",
+          "en": "Eduard Buchner received the 1907 Nobel Prize in Chemistry for biochemical research, particularly cell-free fermentation. In 1897, he showed that a yeast extract without living yeast cells could still ferment sugar. Fermentation therefore did not require intact living cells; enzymes, substances produced by cells that promote chemical reactions, played the key role. The artwork interprets that question through extraction tools and closed vessels.\n1907 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his biochemical researches and his discovery of cell-free fermentation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年化学奖｜官方记录",
+              "en": "1907 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1907/buchner/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-166",
+      "subject": "nobel-laureate-166",
+      "edition": "color",
+      "title": "爱德华·布赫纳",
+      "titleEnglish": "Eduard Buchner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-166/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-166/color.jpg",
+      "sha256": "ec1c9a549848a47f16fcdb3c7aa71aa5bf6a2716ac51f1d0b3c349c4712e2aec",
+      "thumbnailSHA256": "92fa890140c3e74b81abb237a9e404fe29faad9df23c657fb4a66f5ccdb32889",
+      "context": {
+        "phrase": {
+          "zh": "细胞之外，变化依然在发生。",
+          "en": "Beyond living cells, transformation continues."
+        },
+        "visual": {
+          "zh": "压榨器、研钵、封口玻璃瓶与想象性的酵母细胞形态组成独立拼贴，呼应从细胞中提取物质并研究发酵的工作。器具不复原真实实验，也不表示可照做的实验步骤。",
+          "en": "A press, mortar, closed glass bottle and imagined yeast-cell shapes form an original collage about extracting material from cells and studying fermentation. The apparatus neither reconstructs a historical experiment nor provides an experimental procedure."
+        },
+        "background": {
+          "zh": "爱德华·布赫纳因生物化学研究，尤其是无细胞发酵研究，获得1907年诺贝尔化学奖。1897年，他发现不含活酵母细胞的提取液仍能使糖发酵。这表明发酵不一定需要完整的活细胞参与，关键作用来自酶——细胞产生、促使化学反应发生的物质。配图以提取器具和封口容器表现这一研究问题。\n1907年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他的生物化学研究，尤其是无细胞发酵研究。",
+          "en": "Eduard Buchner received the 1907 Nobel Prize in Chemistry for biochemical research, particularly cell-free fermentation. In 1897, he showed that a yeast extract without living yeast cells could still ferment sugar. Fermentation therefore did not require intact living cells; enzymes, substances produced by cells that promote chemical reactions, played the key role. The artwork interprets that question through extraction tools and closed vessels.\n1907 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his biochemical researches and his discovery of cell-free fermentation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年化学奖｜官方记录",
+              "en": "1907 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1907/buchner/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

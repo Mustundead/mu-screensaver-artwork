@@ -1,0 +1,70 @@
+{
+  "subject": "058-darwin",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:058-darwin",
+      "subject": "058-darwin",
+      "edition": "mono",
+      "title": "达尔文与共同祖先",
+      "titleEnglish": "Darwin and Common Ancestry",
+      "category": "自然科学",
+      "image": "Images/mono/058-darwin.jpg",
+      "thumbnail": "Thumbs/mono/058-darwin.jpg",
+      "sha256": "43bf2b1ccc369fc0e99280c8461636dde5a3faa97ec4a6c69a5fd5b6fc288e41",
+      "thumbnailSHA256": "0e2effc5b3d991456e247f3d3dbb4a476f23f3775de26b02536474d01c066625",
+      "context": {
+        "phrase": {
+          "zh": "相似与差异，讲述共同的来路。",
+          "en": "Resemblance and difference tell a shared history."
+        },
+        "visual": {
+          "zh": "人物与枝状生命图景相接，动物和植物沿画面展开，借“树”表达亲缘关系。枝条不是由真实物种数据绘制的系统发育树。",
+          "en": "A stylized figure meets a branching scene of plants and animals, using a tree to suggest relationships. These branches are not a phylogenetic tree built from species data."
+        },
+        "background": {
+          "zh": "达尔文于 1859 年出版《物种起源》，提出自然选择解释物种如何在世代间变化，并论证生物之间存在共同祖先。华莱士也独立提出了相近的自然选择思想。",
+          "en": "Darwin published On the Origin of Species in 1859, arguing that natural selection helps explain change over generations and common descent. Wallace independently developed a similar idea of natural selection."
+        },
+        "sources": [
+          {
+            "label": "Darwin Correspondence Project · Origin",
+            "url": "https://www.darwinproject.ac.uk/origin-species"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:058-darwin",
+      "subject": "058-darwin",
+      "edition": "color",
+      "title": "达尔文与共同祖先",
+      "titleEnglish": "Darwin and Common Ancestry",
+      "category": "自然科学",
+      "image": "Images/color/058-darwin.jpg",
+      "thumbnail": "Thumbs/color/058-darwin.jpg",
+      "sha256": "090a70884060448a546ebc82fe6ca977f141ed87698326dbc1ad00096766b430",
+      "thumbnailSHA256": "e567a96711cf792dbebd0ea9e0e2714e0987c7ab62a4b4cf60de886443abcc3a",
+      "context": {
+        "phrase": {
+          "zh": "相似与差异，讲述共同的来路。",
+          "en": "Resemblance and difference tell a shared history."
+        },
+        "visual": {
+          "zh": "人物与枝状生命图景相接，动物和植物沿画面展开，借“树”表达亲缘关系。枝条不是由真实物种数据绘制的系统发育树。",
+          "en": "A stylized figure meets a branching scene of plants and animals, using a tree to suggest relationships. These branches are not a phylogenetic tree built from species data."
+        },
+        "background": {
+          "zh": "达尔文于 1859 年出版《物种起源》，提出自然选择解释物种如何在世代间变化，并论证生物之间存在共同祖先。华莱士也独立提出了相近的自然选择思想。",
+          "en": "Darwin published On the Origin of Species in 1859, arguing that natural selection helps explain change over generations and common descent. Wallace independently developed a similar idea of natural selection."
+        },
+        "sources": [
+          {
+            "label": "Darwin Correspondence Project · Origin",
+            "url": "https://www.darwinproject.ac.uk/origin-species"
+          }
+        ]
+      }
+    }
+  }
+}

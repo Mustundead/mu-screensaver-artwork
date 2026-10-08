@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-27",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-27",
+      "subject": "nobel-laureate-27",
+      "edition": "mono",
+      "title": "尼尔斯·玻尔",
+      "titleEnglish": "Niels Bohr",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-27/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-27/mono.jpg",
+      "sha256": "04c7dc4173429003dcbc6c75f455da9b3e47717c16620ae72ae7cfe89b4743e9",
+      "thumbnailSHA256": "1e991bb9a9666f79b1b06455c7165f9cf15fb18120e95c0aa8c53bfbfc30bc93",
+      "context": {
+        "phrase": {
+          "zh": "跃迁之间，光显露出来。",
+          "en": "Between states, light appears."
+        },
+        "visual": {
+          "zh": "三层象牙白、青绿与陶红的弧形陶壳占据右下，左上只有一小片黄铜。黑白版保留层次、物件与裁切；层叠关系是能量状态的原创寓意，不是原子的真实外形。",
+          "en": "Three crescent ceramic shells in ivory, celadon and terracotta fill the lower right; a small brass sliver rests at upper left. Monochrome preserves layers, objects and crop. Their nesting is an original metaphor for energy states, not the literal shape of an atom."
+        },
+        "background": {
+          "zh": "玻尔独享1922年诺贝尔物理学奖，获奖理由是研究原子结构及其发出的辐射。他在1913年提出氢原子模型，用离散的能量状态解释特定波长的光：向较低能量状态转变时，原子发出辐射。这是物理学发展的历史模型，不是今天对电子运动的完整描述。画中层叠陶壳是能量状态的原创寓意，不是原子的真实外形。短句为原创。\n1922年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对原子结构及其所发辐射的研究贡献。",
+          "en": "Bohr received the full 1922 Nobel Prize in Physics for work on atomic structure and radiation. His 1913 hydrogen model used discrete energy states to explain specific wavelengths: a transition to lower energy emits radiation. This is a historical model, not a complete modern account of electron motion. The nested ceramic shells are an original metaphor for energy states, not the literal shape of an atom. The phrase is original.\n1922 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his services in the investigation of the structure of atoms and of the radiation emanating from them"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年物理学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1922/bohr/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-27",
+      "subject": "nobel-laureate-27",
+      "edition": "color",
+      "title": "尼尔斯·玻尔",
+      "titleEnglish": "Niels Bohr",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-27/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-27/color.jpg",
+      "sha256": "a9fdd7fba12c42f95ad521132d0500bd69930025201673932180f92c6ea64849",
+      "thumbnailSHA256": "70d0f17c73b742d4fb6a06b7f9d60b65e0c95a3a62f7f4f48de86e45d28802e5",
+      "context": {
+        "phrase": {
+          "zh": "跃迁之间，光显露出来。",
+          "en": "Between states, light appears."
+        },
+        "visual": {
+          "zh": "三层象牙白、青绿与陶红的弧形陶壳占据右下，左上只有一小片黄铜。黑白版保留层次、物件与裁切；层叠关系是能量状态的原创寓意，不是原子的真实外形。",
+          "en": "Three crescent ceramic shells in ivory, celadon and terracotta fill the lower right; a small brass sliver rests at upper left. Monochrome preserves layers, objects and crop. Their nesting is an original metaphor for energy states, not the literal shape of an atom."
+        },
+        "background": {
+          "zh": "玻尔独享1922年诺贝尔物理学奖，获奖理由是研究原子结构及其发出的辐射。他在1913年提出氢原子模型，用离散的能量状态解释特定波长的光：向较低能量状态转变时，原子发出辐射。这是物理学发展的历史模型，不是今天对电子运动的完整描述。画中层叠陶壳是能量状态的原创寓意，不是原子的真实外形。短句为原创。\n1922年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对原子结构及其所发辐射的研究贡献。",
+          "en": "Bohr received the full 1922 Nobel Prize in Physics for work on atomic structure and radiation. His 1913 hydrogen model used discrete energy states to explain specific wavelengths: a transition to lower energy emits radiation. This is a historical model, not a complete modern account of electron motion. The nested ceramic shells are an original metaphor for energy states, not the literal shape of an atom. The phrase is original.\n1922 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his services in the investigation of the structure of atoms and of the radiation emanating from them"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年物理学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1922/bohr/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-609",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-609",
+      "subject": "nobel-laureate-609",
+      "edition": "mono",
+      "title": "罗杰·马丁·杜·加尔",
+      "titleEnglish": "Roger Martin du Gard",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-609/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-609/mono.jpg",
+      "sha256": "6c318c75a06987a2d10f3b7bdb11ac7f0a44a639c4054b3732a226863f54f0b6",
+      "thumbnailSHA256": "a35e034e8708b0aa3febe8950849d10a5eaf33dffc953038377447250c876fa5",
+      "context": {
+        "phrase": {
+          "zh": "从同一个起点，走向不同的人生。",
+          "en": "From one beginning, lives take different paths."
+        },
+        "visual": {
+          "zh": "正前方台阶通向共同平台，再向左上和右上分成两路；两侧栏杆沿台阶延伸，平台下方的阴影衬出石面的层次。",
+          "en": "Foreground steps reach a shared landing and divide into flights toward the upper left and upper right. Rails follow the stairs, while shadows beneath the landing give depth to the stone surfaces."
+        },
+        "background": {
+          "zh": "杜·加尔因在长篇系列《蒂博一家》中有力而真实地描写人类冲突和当代生活的重要方面，获得1937年诺贝尔文学奖，独享该奖。这组小说呈现第一次世界大战前的法国社会与家庭成员的不同命运。画面让一段楼梯在共同平台上分成左右两路，寓意共同出身与不同选择；建筑是原创象征，不是书中场景或真实地点的复原。短句为原创。\n1937年文学奖；独享本年度奖项。获奖理由（中文译述）：在长篇系列《蒂博一家》中有力而真实地描写人类冲突和当代生活的重要方面",
+          "en": "Martin du Gard received the sole 1937 Nobel Prize in Literature for the power and truth of his depiction of human conflict and contemporary life in Les Thibault. The novel-cycle portrays pre-First World War French society and divergent family destinies. A staircase splitting from a common landing symbolizes shared origins and different choices. The building is an original metaphor, not a reconstruction of a novel scene or real location. The phrase is original.\n1937 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle Les Thibault"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年文学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1937/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1937/gard/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-609",
+      "subject": "nobel-laureate-609",
+      "edition": "color",
+      "title": "罗杰·马丁·杜·加尔",
+      "titleEnglish": "Roger Martin du Gard",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-609/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-609/color.jpg",
+      "sha256": "0fefbcf94c74380cb204c53393666189acfc9afb2b6c69cf4767178957af27d9",
+      "thumbnailSHA256": "94c8e6162147c3aba383741d62975a7b1d1f231f2bb3085716eb79d35a51aff0",
+      "context": {
+        "phrase": {
+          "zh": "从同一个起点，走向不同的人生。",
+          "en": "From one beginning, lives take different paths."
+        },
+        "visual": {
+          "zh": "正前方台阶通向共同平台，再向左上和右上分成两路；两侧栏杆沿台阶延伸，平台下方的阴影衬出石面的层次。",
+          "en": "Foreground steps reach a shared landing and divide into flights toward the upper left and upper right. Rails follow the stairs, while shadows beneath the landing give depth to the stone surfaces."
+        },
+        "background": {
+          "zh": "杜·加尔因在长篇系列《蒂博一家》中有力而真实地描写人类冲突和当代生活的重要方面，获得1937年诺贝尔文学奖，独享该奖。这组小说呈现第一次世界大战前的法国社会与家庭成员的不同命运。画面让一段楼梯在共同平台上分成左右两路，寓意共同出身与不同选择；建筑是原创象征，不是书中场景或真实地点的复原。短句为原创。\n1937年文学奖；独享本年度奖项。获奖理由（中文译述）：在长篇系列《蒂博一家》中有力而真实地描写人类冲突和当代生活的重要方面",
+          "en": "Martin du Gard received the sole 1937 Nobel Prize in Literature for the power and truth of his depiction of human conflict and contemporary life in Les Thibault. The novel-cycle portrays pre-First World War French society and divergent family destinies. A staircase splitting from a common landing symbolizes shared origins and different choices. The building is an original metaphor, not a reconstruction of a novel scene or real location. The phrase is original.\n1937 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the artistic power and truth with which he has depicted human conflict as well as some fundamental aspects of contemporary life in his novel-cycle Les Thibault"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年文学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1937/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1937/gard/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

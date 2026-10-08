@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-190",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-190",
+      "subject": "nobel-laureate-190",
+      "edition": "mono",
+      "title": "弗里德里希·贝吉乌斯",
+      "titleEnglish": "Friedrich Bergius",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-190/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-190/mono.jpg",
+      "sha256": "0a7fa0f90c166fea82f01b72400ca041b31821ad47f1b92e87187aa5daab961b",
+      "thumbnailSHA256": "f1b5ce23b2f44e52835aee859a6cbbb54d1d953fb8413310b9ea7ef49cc4dfaa",
+      "context": {
+        "phrase": {
+          "zh": "坚硬的煤，也有改变形态的可能。",
+          "en": "Even solid coal can take another form."
+        },
+        "visual": {
+          "zh": "左侧越出画面的煤块显出棱角分明的断面，右下浅液池以光滑弧线延伸至边缘；两种材料分开放置，上方留出空白。",
+          "en": "Cropped coal chunks at the left reveal angular fracture faces. A shallow liquid pool extends beyond the lower right in smooth curves. The two materials remain separated beneath open space."
+        },
+        "background": {
+          "zh": "贝吉乌斯与卡尔·博施共同获得1931年诺贝尔化学奖，表彰他们对化学高压方法的发明与发展所作的贡献。贝吉乌斯研究在高压下让煤与氢反应，将固体煤转化为液体油。画中的煤与油是对材料变化的原创寓意，不表示机械挤压能产生油，也不是化学过程图；短句为原创。\n1931年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对化学高压方法的发明和发展所作的贡献。",
+          "en": "Bergius shared the 1931 Nobel Prize in Chemistry with Carl Bosch for contributions to inventing and developing chemical high-pressure methods. Bergius studied reacting coal with hydrogen under high pressure to convert solid coal into liquid oil. The coal and oil are an original metaphor for material transformation, not mechanical squeezing or a chemical process diagram. The phrase is original.\n1931 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: in recognition of their contributions to the invention and development of chemical high pressure methods"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年化学奖｜官方记录",
+              "en": "1931 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1931/bergius/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-190",
+      "subject": "nobel-laureate-190",
+      "edition": "color",
+      "title": "弗里德里希·贝吉乌斯",
+      "titleEnglish": "Friedrich Bergius",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-190/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-190/color.jpg",
+      "sha256": "0b57b41021e095193fccd766994df2eeaf4d5ee9c49ea04fcd4ac2f9744698da",
+      "thumbnailSHA256": "d0a70120448796a5d696d107bd7f5d8b4434b90a7e454c7833aa5c7a97af9825",
+      "context": {
+        "phrase": {
+          "zh": "坚硬的煤，也有改变形态的可能。",
+          "en": "Even solid coal can take another form."
+        },
+        "visual": {
+          "zh": "左侧越出画面的煤块显出棱角分明的断面，右下浅液池以光滑弧线延伸至边缘；两种材料分开放置，上方留出空白。",
+          "en": "Cropped coal chunks at the left reveal angular fracture faces. A shallow liquid pool extends beyond the lower right in smooth curves. The two materials remain separated beneath open space."
+        },
+        "background": {
+          "zh": "贝吉乌斯与卡尔·博施共同获得1931年诺贝尔化学奖，表彰他们对化学高压方法的发明与发展所作的贡献。贝吉乌斯研究在高压下让煤与氢反应，将固体煤转化为液体油。画中的煤与油是对材料变化的原创寓意，不表示机械挤压能产生油，也不是化学过程图；短句为原创。\n1931年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对化学高压方法的发明和发展所作的贡献。",
+          "en": "Bergius shared the 1931 Nobel Prize in Chemistry with Carl Bosch for contributions to inventing and developing chemical high-pressure methods. Bergius studied reacting coal with hydrogen under high pressure to convert solid coal into liquid oil. The coal and oil are an original metaphor for material transformation, not mechanical squeezing or a chemical process diagram. The phrase is original.\n1931 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: in recognition of their contributions to the invention and development of chemical high pressure methods"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年化学奖｜官方记录",
+              "en": "1931 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1931/bergius/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

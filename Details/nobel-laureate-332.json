@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-332",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-332",
+      "subject": "nobel-laureate-332",
+      "edition": "mono",
+      "title": "阿尔伯特·圣捷尔吉",
+      "titleEnglish": "Albert Szent-Györgyi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-332/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-332/mono.jpg",
+      "sha256": "ee00f3b95b503a954e2ef55f46b50f8d70fb27342f98ac938e287d52e0124be3",
+      "thumbnailSHA256": "3ad6abe4aa08ea95cb1d5fa0e3f4090430313e0fb0907a3344b9b05f58db9c47",
+      "context": {
+        "phrase": {
+          "zh": "熟悉的事物里，仍藏着新的发现。",
+          "en": "Familiar things can still hold new discoveries."
+        },
+        "visual": {
+          "zh": "放大的椒剖面在左侧形成拱形空腔，内壁和上方附着的籽粒围住一枚有切面的晶体；右侧留出空白。",
+          "en": "An enlarged pepper section forms a hollow arch at the left. Its inner ribs and attached seeds surround a faceted crystal, with quiet space on the right."
+        },
+        "background": {
+          "zh": "圣捷尔吉因关于生物氧化过程的发现，尤其涉及维生素C和富马酸的催化作用，获得1937年诺贝尔生理学或医学奖，独享该奖。他发现红椒是丰富的维生素C来源。画面用剖开的椒包住一枚放大晶体，表达从熟悉植物中辨认出一种物质；这是获奖研究中维生素C部分的原创寓意，不是提取步骤或晶体尺寸的复原，也不表示食品或补充剂的治疗效果。短句为原创。\n1937年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：关于生物氧化过程的发现，尤其涉及维生素C和富马酸的催化作用",
+          "en": "Szent-Gyorgyi received the sole 1937 Nobel Prize in Physiology or Medicine for discoveries concerning biological oxidation, particularly vitamin C and fumaric-acid catalysis. He identified paprika as a rich source of vitamin C. A hollow pepper sheltering an oversized crystal symbolizes identifying a substance in a familiar plant. This original metaphor focuses on the vitamin C part of his research, not an extraction procedure or actual crystal size, and makes no treatment claim about food or supplements. The phrase is original.\n1937 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年生理学或医学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1937/szent-gyorgyi/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/szent-gyorgyi-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-332",
+      "subject": "nobel-laureate-332",
+      "edition": "color",
+      "title": "阿尔伯特·圣捷尔吉",
+      "titleEnglish": "Albert Szent-Györgyi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-332/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-332/color.jpg",
+      "sha256": "21d040aa827f2adcdd6e7d36bd60b3ad71118ce34140528741e6ad14db3209dd",
+      "thumbnailSHA256": "02b1de246b721e401d7cb87a5b86d277710935ef7b100299b82fde1d5b3e5f8c",
+      "context": {
+        "phrase": {
+          "zh": "熟悉的事物里，仍藏着新的发现。",
+          "en": "Familiar things can still hold new discoveries."
+        },
+        "visual": {
+          "zh": "放大的椒剖面在左侧形成拱形空腔，内壁和上方附着的籽粒围住一枚有切面的晶体；右侧留出空白。",
+          "en": "An enlarged pepper section forms a hollow arch at the left. Its inner ribs and attached seeds surround a faceted crystal, with quiet space on the right."
+        },
+        "background": {
+          "zh": "圣捷尔吉因关于生物氧化过程的发现，尤其涉及维生素C和富马酸的催化作用，获得1937年诺贝尔生理学或医学奖，独享该奖。他发现红椒是丰富的维生素C来源。画面用剖开的椒包住一枚放大晶体，表达从熟悉植物中辨认出一种物质；这是获奖研究中维生素C部分的原创寓意，不是提取步骤或晶体尺寸的复原，也不表示食品或补充剂的治疗效果。短句为原创。\n1937年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：关于生物氧化过程的发现，尤其涉及维生素C和富马酸的催化作用",
+          "en": "Szent-Gyorgyi received the sole 1937 Nobel Prize in Physiology or Medicine for discoveries concerning biological oxidation, particularly vitamin C and fumaric-acid catalysis. He identified paprika as a rich source of vitamin C. A hollow pepper sheltering an oversized crystal symbolizes identifying a substance in a familiar plant. This original metaphor focuses on the vitamin C part of his research, not an extraction procedure or actual crystal size, and makes no treatment claim about food or supplements. The phrase is original.\n1937 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discoveries in connection with the biological combustion processes, with special reference to vitamin C and the catalysis of fumaric acid"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年生理学或医学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1937/szent-gyorgyi/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/szent-gyorgyi-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

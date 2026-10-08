@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-39",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-39",
+      "subject": "nobel-laureate-39",
+      "edition": "mono",
+      "title": "埃尔温·薛定谔",
+      "titleEnglish": "Erwin Schrödinger",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-39/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-39/mono.jpg",
+      "sha256": "5189c84639a8037742b09b6e36f75921c28e3d2d49faadcd2bdcb5c2f7967309",
+      "thumbnailSHA256": "07c5298baf950b6a4cf388d645721d0066d8d770a70822ea0399495955376845",
+      "context": {
+        "phrase": {
+          "zh": "换一种描述，让微小世界显出规律。",
+          "en": "A different description reveals order in a small world."
+        },
+        "visual": {
+          "zh": "连续起伏的表面铺满画面下方，细刻线顺着山脊般的隆起与凹谷延伸，明暗交替衬出层次；上方留出空白。",
+          "en": "A continuous undulating surface fills the lower field. Fine engraved lines follow ridge-like crests and troughs, with alternating light and shadow defining the layers beneath open space."
+        },
+        "background": {
+          "zh": "薛定谔与狄拉克共同获得1933年诺贝尔物理学奖，表彰他们开创原子理论的新形式。薛定谔在1926年发展波动力学，用波函数描述电子等微观对象。画中的起伏表面是对波动描述的原创寓意，不是实测波函数、电子形状或实验装置；短句为原创。\n1933年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们开创富有成效的原子理论新形式。",
+          "en": "Schrödinger shared the 1933 Nobel Prize in Physics with Dirac for new forms of atomic theory. In 1926 he developed wave mechanics, using wave functions to describe microscopic objects such as electrons. The undulating surface is an original metaphor for a wave description, not a measured wave function, the shape of an electron or an experimental apparatus. The phrase is original.\n1933 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for the discovery of new productive forms of atomic theory"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年物理学奖｜官方记录",
+              "en": "1933 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-39",
+      "subject": "nobel-laureate-39",
+      "edition": "color",
+      "title": "埃尔温·薛定谔",
+      "titleEnglish": "Erwin Schrödinger",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-39/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-39/color.jpg",
+      "sha256": "794c58258a1cc6182f2310b440c66f009baf8a8698767eefc61fafd56051406c",
+      "thumbnailSHA256": "0a44331808fb8756449e6467aa32680809ad8c55b02bd0c94ac66295097143f6",
+      "context": {
+        "phrase": {
+          "zh": "换一种描述，让微小世界显出规律。",
+          "en": "A different description reveals order in a small world."
+        },
+        "visual": {
+          "zh": "连续起伏的表面铺满画面下方，细刻线顺着山脊般的隆起与凹谷延伸，明暗交替衬出层次；上方留出空白。",
+          "en": "A continuous undulating surface fills the lower field. Fine engraved lines follow ridge-like crests and troughs, with alternating light and shadow defining the layers beneath open space."
+        },
+        "background": {
+          "zh": "薛定谔与狄拉克共同获得1933年诺贝尔物理学奖，表彰他们开创原子理论的新形式。薛定谔在1926年发展波动力学，用波函数描述电子等微观对象。画中的起伏表面是对波动描述的原创寓意，不是实测波函数、电子形状或实验装置；短句为原创。\n1933年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们开创富有成效的原子理论新形式。",
+          "en": "Schrödinger shared the 1933 Nobel Prize in Physics with Dirac for new forms of atomic theory. In 1926 he developed wave mechanics, using wave functions to describe microscopic objects such as electrons. The undulating surface is an original metaphor for a wave description, not a measured wave function, the shape of an electron or an experimental apparatus. The phrase is original.\n1933 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for the discovery of new productive forms of atomic theory"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年物理学奖｜官方记录",
+              "en": "1933 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

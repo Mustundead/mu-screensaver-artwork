@@ -1,0 +1,70 @@
+{
+  "subject": "083-nina-simone",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:083-nina-simone",
+      "subject": "083-nina-simone",
+      "edition": "mono",
+      "title": "妮娜·西蒙与声音",
+      "titleEnglish": "Nina Simone and the Voice",
+      "category": "艺术与人文",
+      "image": "Images/mono/083-nina-simone.jpg",
+      "thumbnail": "Thumbs/mono/083-nina-simone.jpg",
+      "sha256": "59ab5b1172a106b6f730e745881199355eac17ee8fc3c9a8d754fc154067b109",
+      "thumbnailSHA256": "e5b85052a27b1f940b74146287eb87dde61a0453aaeaca974b5fdad1c39310a9",
+      "context": {
+        "phrase": {
+          "zh": "声音，可以承载不愿沉默的事。",
+          "en": "A voice can carry what refuses silence."
+        },
+        "visual": {
+          "zh": "妮娜·西蒙的生成形象与键盘、波动色带组合，连接歌唱、演奏和表达。这里的坚定属于艺术解读，不把画面中的表情当作她某一时刻的真实情绪。",
+          "en": "A generated Nina Simone portrait, keyboard and bands connect singing, playing and expression. The sense of resolve is an artistic reading, not a claim about her emotions at a documented moment."
+        },
+        "background": {
+          "zh": "史密森尼国家非裔美国人历史文化博物馆以 1964 年的《Mississippi Goddam》唱片介绍西蒙。她的创作把音乐与对种族不平等的回应联系起来。理解这个主题需要看到歌曲所处的民权运动语境，而不是只把声音当作抽象装饰。",
+          "en": "The Smithsonian National Museum of African American History and Culture features Simone with the 1964 Mississippi Goddam record. Her music responded to racial inequality. Its civil-rights context matters to this theme; the voice is more than an abstract decorative form."
+        },
+        "sources": [
+          {
+            "label": "Smithsonian NMAAHC · Nina Simone",
+            "url": "https://nmaahc.si.edu/nina-simone"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:083-nina-simone",
+      "subject": "083-nina-simone",
+      "edition": "color",
+      "title": "妮娜·西蒙与声音",
+      "titleEnglish": "Nina Simone and the Voice",
+      "category": "艺术与人文",
+      "image": "Images/color/083-nina-simone.jpg",
+      "thumbnail": "Thumbs/color/083-nina-simone.jpg",
+      "sha256": "1ebfed15b046c70d4a0f54e493458336d812a2a8c5c3603f0d282c0a8dac6238",
+      "thumbnailSHA256": "f0983b037446d80c1a9d5c63e316683b5aa20ce03a089147fb31a494575beccf",
+      "context": {
+        "phrase": {
+          "zh": "声音，可以承载不愿沉默的事。",
+          "en": "A voice can carry what refuses silence."
+        },
+        "visual": {
+          "zh": "妮娜·西蒙的生成形象与键盘、波动色带组合，连接歌唱、演奏和表达。这里的坚定属于艺术解读，不把画面中的表情当作她某一时刻的真实情绪。",
+          "en": "A generated Nina Simone portrait, keyboard and bands connect singing, playing and expression. The sense of resolve is an artistic reading, not a claim about her emotions at a documented moment."
+        },
+        "background": {
+          "zh": "史密森尼国家非裔美国人历史文化博物馆以 1964 年的《Mississippi Goddam》唱片介绍西蒙。她的创作把音乐与对种族不平等的回应联系起来。理解这个主题需要看到歌曲所处的民权运动语境，而不是只把声音当作抽象装饰。",
+          "en": "The Smithsonian National Museum of African American History and Culture features Simone with the 1964 Mississippi Goddam record. Her music responded to racial inequality. Its civil-rights context matters to this theme; the voice is more than an abstract decorative form."
+        },
+        "sources": [
+          {
+            "label": "Smithsonian NMAAHC · Nina Simone",
+            "url": "https://nmaahc.si.edu/nina-simone"
+          }
+        ]
+      }
+    }
+  }
+}

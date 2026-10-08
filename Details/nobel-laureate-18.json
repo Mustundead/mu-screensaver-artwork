@@ -1,0 +1,126 @@
+{
+  "subject": "nobel-laureate-18",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-18",
+      "subject": "nobel-laureate-18",
+      "edition": "mono",
+      "title": "海克·卡末林·昂内斯",
+      "titleEnglish": "Heike Kamerlingh Onnes",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-18/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-18/mono.jpg",
+      "sha256": "39eab724f0dc798c550a14a395d8b9b8ad91f097a9c52b6c49718b622726f38c",
+      "thumbnailSHA256": "0f9e9f152b6318661cfa09490c7d23a834c8beb18b2c8c68e3b89dcbb8031568",
+      "context": {
+        "phrase": {
+          "zh": "温度降低，物质显出新的可能。",
+          "en": "Lower temperatures reveal new possibilities in matter."
+        },
+        "visual": {
+          "zh": "大幅裁切的多层容器围住一只小玻璃杯，细金属线伸入杯中，以容器与样品的尺度差异呼应低温研究。黑白与钴蓝版突出外壳；彩色版区分青绿铜色外层、银色内壁、乳白夹层与透明玻璃。画面是原创装置隐喻，不表示真实实验结构、特定液体或温度读数。",
+          "en": "A greatly cropped layered vessel surrounds a tiny glass cup with a slender wire, using scale to evoke low-temperature research. Cobalt marks the shell in monochrome; full color distinguishes teal/copper, silvery metal, cream insulation and clear glass. The arrangement is an original apparatus metaphor, not a real experimental structure, specific liquid or temperature reading."
+        },
+        "background": {
+          "zh": "昂内斯独自获得1913年诺贝尔物理学奖，表彰他对低温下物质性质的研究，其中包括制得液氦。诺贝尔官方工作介绍与颁奖演说记载，他在1908年首次制得液氦；美国能源部的科普介绍确认，1911年他在低温汞中发现超导现象，即特定条件下电流不再受到电阻。液氦帮助研究者把物质冷却到极低温度，但不能把液氦、超导与超流当作同一现象。画面的容器、液体杯和细线为原创构图，没有描绘实际装置，也不意味着常温材料或任意冷却都能超导。短句不是本人引语。\n1913年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对低温下物质性质的研究，其中包括制得液氦。",
+          "en": "Onnes was the sole 1913 Nobel laureate in Physics, honored for investigations of matter at low temperatures, including production of liquid helium. Nobel’s work account and presentation speech date the first liquid helium to 1908. The US Department of Energy confirms his 1911 discovery of superconductivity in cold mercury: electrical resistance disappears under specific conditions. Liquid helium enabled very low-temperature research, but helium, superconductivity and superfluidity are distinct. Vessel, sample and wire form an original composition, not actual apparatus or a claim that arbitrary cooling makes materials superconducting. The phrase is not a quotation.\n1913 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年物理学奖｜官方记录",
+              "en": "1913 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1913/onnes/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1913/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "energy.gov",
+            "url": "https://www.energy.gov/science/doe-explainssuperconductivity",
+            "labelLocalized": {
+              "zh": "超导原理介绍｜美国能源部",
+              "en": "Superconductivity explained — US Department of Energy"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-18",
+      "subject": "nobel-laureate-18",
+      "edition": "color",
+      "title": "海克·卡末林·昂内斯",
+      "titleEnglish": "Heike Kamerlingh Onnes",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-18/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-18/color.jpg",
+      "sha256": "a3f0d5332d67dbe56281d001b2a9ca2602b7ab2738d340db87c697e31152659a",
+      "thumbnailSHA256": "9fd4435e8596a7812734864e846a6e6e91db009a5ccce02368daaa3e873359a3",
+      "context": {
+        "phrase": {
+          "zh": "温度降低，物质显出新的可能。",
+          "en": "Lower temperatures reveal new possibilities in matter."
+        },
+        "visual": {
+          "zh": "大幅裁切的多层容器围住一只小玻璃杯，细金属线伸入杯中，以容器与样品的尺度差异呼应低温研究。黑白与钴蓝版突出外壳；彩色版区分青绿铜色外层、银色内壁、乳白夹层与透明玻璃。画面是原创装置隐喻，不表示真实实验结构、特定液体或温度读数。",
+          "en": "A greatly cropped layered vessel surrounds a tiny glass cup with a slender wire, using scale to evoke low-temperature research. Cobalt marks the shell in monochrome; full color distinguishes teal/copper, silvery metal, cream insulation and clear glass. The arrangement is an original apparatus metaphor, not a real experimental structure, specific liquid or temperature reading."
+        },
+        "background": {
+          "zh": "昂内斯独自获得1913年诺贝尔物理学奖，表彰他对低温下物质性质的研究，其中包括制得液氦。诺贝尔官方工作介绍与颁奖演说记载，他在1908年首次制得液氦；美国能源部的科普介绍确认，1911年他在低温汞中发现超导现象，即特定条件下电流不再受到电阻。液氦帮助研究者把物质冷却到极低温度，但不能把液氦、超导与超流当作同一现象。画面的容器、液体杯和细线为原创构图，没有描绘实际装置，也不意味着常温材料或任意冷却都能超导。短句不是本人引语。\n1913年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对低温下物质性质的研究，其中包括制得液氦。",
+          "en": "Onnes was the sole 1913 Nobel laureate in Physics, honored for investigations of matter at low temperatures, including production of liquid helium. Nobel’s work account and presentation speech date the first liquid helium to 1908. The US Department of Energy confirms his 1911 discovery of superconductivity in cold mercury: electrical resistance disappears under specific conditions. Liquid helium enabled very low-temperature research, but helium, superconductivity and superfluidity are distinct. Vessel, sample and wire form an original composition, not actual apparatus or a claim that arbitrary cooling makes materials superconducting. The phrase is not a quotation.\n1913 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his investigations on the properties of matter at low temperatures which led, inter alia, to the production of liquid helium"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年物理学奖｜官方记录",
+              "en": "1913 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1913/onnes/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1913/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "energy.gov",
+            "url": "https://www.energy.gov/science/doe-explainssuperconductivity",
+            "labelLocalized": {
+              "zh": "超导原理介绍｜美国能源部",
+              "en": "Superconductivity explained — US Department of Energy"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

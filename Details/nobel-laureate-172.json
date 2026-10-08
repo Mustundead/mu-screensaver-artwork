@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-172",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-172",
+      "subject": "nobel-laureate-172",
+      "edition": "mono",
+      "title": "维克多·格林尼亚",
+      "titleEnglish": "Victor Grignard",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-172/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-172/mono.jpg",
+      "sha256": "960290814e9ac6367a71a793277cd7c079f8f6652c7d511a11c1bb4999cc5100",
+      "thumbnailSHA256": "f496ad5758900ba29c04da7d21d8ca280b2d7a0ae86ec6bf31a77e1579a5bd5d",
+      "context": {
+        "phrase": {
+          "zh": "新的连接，让合成有了更多可能。",
+          "en": "New connections open possibilities for synthesis."
+        },
+        "visual": {
+          "zh": "巨幅卷曲金属带从左上扫向右下，与一只小玻璃瓶形成大小对照，呼应格林尼亚研究中的金属材料。黑白与钴蓝版把金属带作为蓝色结构；彩色版保留银色金属，以暖反光、浅绿玻璃、棕色瓶塞与乳白石台呈现材质。画面不展示具体试剂、反应过程或实验读数。",
+          "en": "A huge curling metal ribbon sweeps from upper left to lower right beside a tiny glass vessel, evoking the metal materials in Grignard's work. The monochrome edition uses cobalt for the ribbon; full color keeps it silvery, with warm reflections, pale green glass, a brown stopper and ivory stone. No specific reagent, reaction or measured reading is depicted."
+        },
+        "background": {
+          "zh": "格林尼亚与保罗·萨巴捷平分1912年诺贝尔化学奖，获奖理由分别对应两人的独立工作。格林尼亚因发现以他命名的试剂、推动有机化学发展而获奖。诺贝尔官方化学发展回顾解释，有机卤化物可以与镁形成化合物；这些通常称为格林尼亚试剂的化合物具有很强的反应性，因此广泛用于合成。画面采用扭转金属带与小玻璃烧瓶作为原创材料隐喻，不画化学式、分子键数、实验步骤或试剂瓶标签；黑白与钴蓝版的蓝色只属于艺术表达，短句不是本人引语。\n1912年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现后来以格林尼亚命名的试剂，显著推动了有机化学的发展。",
+          "en": "Grignard shared the 1912 Nobel Prize in Chemistry equally with Paul Sabatier for separate contributions. He was recognized for discovering the reagent bearing his name and advancing organic chemistry. Nobel’s history explains that organic halides form compounds with magnesium; these reactive Grignard reagents are widely used in synthesis. A twisting metal ribbon and small flask provide an original material metaphor, without formulae, bond counts, procedures or reagent labels. The cobalt in the monochrome edition is artistic color; the phrase is not a quotation.\n1912 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for the discovery of the so-called Grignard reagent, which in recent years has greatly advanced the progress of organic chemistry"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年化学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-172",
+      "subject": "nobel-laureate-172",
+      "edition": "color",
+      "title": "维克多·格林尼亚",
+      "titleEnglish": "Victor Grignard",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-172/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-172/color.jpg",
+      "sha256": "44b69a1dd3937beb56d748de619b3409dec2f62a4c8f162e44bdfa56e0b18ce5",
+      "thumbnailSHA256": "1343d914d1d4ad23097668d157cac3f914ba177c210339aa6288744da40c9552",
+      "context": {
+        "phrase": {
+          "zh": "新的连接，让合成有了更多可能。",
+          "en": "New connections open possibilities for synthesis."
+        },
+        "visual": {
+          "zh": "巨幅卷曲金属带从左上扫向右下，与一只小玻璃瓶形成大小对照，呼应格林尼亚研究中的金属材料。黑白与钴蓝版把金属带作为蓝色结构；彩色版保留银色金属，以暖反光、浅绿玻璃、棕色瓶塞与乳白石台呈现材质。画面不展示具体试剂、反应过程或实验读数。",
+          "en": "A huge curling metal ribbon sweeps from upper left to lower right beside a tiny glass vessel, evoking the metal materials in Grignard's work. The monochrome edition uses cobalt for the ribbon; full color keeps it silvery, with warm reflections, pale green glass, a brown stopper and ivory stone. No specific reagent, reaction or measured reading is depicted."
+        },
+        "background": {
+          "zh": "格林尼亚与保罗·萨巴捷平分1912年诺贝尔化学奖，获奖理由分别对应两人的独立工作。格林尼亚因发现以他命名的试剂、推动有机化学发展而获奖。诺贝尔官方化学发展回顾解释，有机卤化物可以与镁形成化合物；这些通常称为格林尼亚试剂的化合物具有很强的反应性，因此广泛用于合成。画面采用扭转金属带与小玻璃烧瓶作为原创材料隐喻，不画化学式、分子键数、实验步骤或试剂瓶标签；黑白与钴蓝版的蓝色只属于艺术表达，短句不是本人引语。\n1912年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现后来以格林尼亚命名的试剂，显著推动了有机化学的发展。",
+          "en": "Grignard shared the 1912 Nobel Prize in Chemistry equally with Paul Sabatier for separate contributions. He was recognized for discovering the reagent bearing his name and advancing organic chemistry. Nobel’s history explains that organic halides form compounds with magnesium; these reactive Grignard reagents are widely used in synthesis. A twisting metal ribbon and small flask provide an original material metaphor, without formulae, bond counts, procedures or reagent labels. The cobalt in the monochrome edition is artistic color; the phrase is not a quotation.\n1912 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for the discovery of the so-called Grignard reagent, which in recent years has greatly advanced the progress of organic chemistry"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年化学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

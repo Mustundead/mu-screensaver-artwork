@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-500",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-500",
+      "subject": "nobel-laureate-500",
+      "edition": "mono",
+      "title": "卡尔·冯·奥西茨基",
+      "titleEnglish": "Carl von Ossietzky",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-500/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-500/mono.jpg",
+      "sha256": "6f09f2aa8ea91c69e9d894e71a4492cf7b5fe5e25e03d6f0343702bbe4fbaffd",
+      "thumbnailSHA256": "3fdfc6aa69f4ef8d7017bb19d9c07486c053156456618baa10bebf99688beef4",
+      "context": {
+        "phrase": {
+          "zh": "纸面仍有空白，表达就还需要被守护。",
+          "en": "Where a page remains open, expression still needs protection."
+        },
+        "visual": {
+          "zh": "黑色机械打字机裁在下缘，圆形浅色按键在左下，滚轴连接向上展开的空白纸张；三道斜向条状阴影横过纸面，左右背景为暗红与深绿。中性黑白保留连接、纸面空白和三道阴影。",
+          "en": "A black mechanical typewriter crops along the lower edge, with pale circular keys at lower left. Its roller connects to a blank sheet rising above it; three diagonal barred shadows cross the page against burgundy and deep-green fields. Neutral monochrome preserves the connection, open paper and three shadows."
+        },
+        "background": {
+          "zh": "奥西茨基是德国记者与和平主义者，因捍卫思想、表达自由与和平获得1935年诺贝尔和平奖；该年度奖实际于1936年决定颁给他。他揭露德国秘密重整军备，遭到监禁，纳粹掌权后又被关入集中营。获奖时他未获准前往挪威领奖。打字机、空白纸张与条状阴影表达新闻写作受到压制，是原创寓意，不是他的真实器物、文件或拘禁现场；短句为原创。\n1935年和平奖；独享本年度奖项。获奖理由（中文译述）：因捍卫思想与表达自由，并为和平事业作出贡献而获奖。",
+          "en": "Ossietzky, a German journalist and pacifist, received the 1935 Nobel Peace Prize for defending freedom of thought and expression and contributing to peace; the award for that year was decided in 1936. He exposed secret German rearmament, was imprisoned and was later sent to a concentration camp after the Nazis took power. He was not permitted to travel to Norway to accept the prize. The typewriter, open page and barred shadows are an original metaphor for suppressed journalism, not his belongings, documents or detention site. The phrase is original.\n1935 — The Nobel Peace Prize. Received the full prize. Official motivation: for his burning love for freedom of thought and expression and his valuable contribution to the cause of peace"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年和平奖｜官方记录",
+              "en": "1935 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1935/ossietzky/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1935/ossietzky/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-500",
+      "subject": "nobel-laureate-500",
+      "edition": "color",
+      "title": "卡尔·冯·奥西茨基",
+      "titleEnglish": "Carl von Ossietzky",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-500/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-500/color.jpg",
+      "sha256": "458677db3162f4b4c2e410b34fc02c808f93dc221ea5a500a50c172d7cb3d096",
+      "thumbnailSHA256": "e516552cf402b21d075a77b5bf975eb65e5b42fdfd3ea4f7e0f921e4b70cd946",
+      "context": {
+        "phrase": {
+          "zh": "纸面仍有空白，表达就还需要被守护。",
+          "en": "Where a page remains open, expression still needs protection."
+        },
+        "visual": {
+          "zh": "黑色机械打字机裁在下缘，圆形浅色按键在左下，滚轴连接向上展开的空白纸张；三道斜向条状阴影横过纸面，左右背景为暗红与深绿。中性黑白保留连接、纸面空白和三道阴影。",
+          "en": "A black mechanical typewriter crops along the lower edge, with pale circular keys at lower left. Its roller connects to a blank sheet rising above it; three diagonal barred shadows cross the page against burgundy and deep-green fields. Neutral monochrome preserves the connection, open paper and three shadows."
+        },
+        "background": {
+          "zh": "奥西茨基是德国记者与和平主义者，因捍卫思想、表达自由与和平获得1935年诺贝尔和平奖；该年度奖实际于1936年决定颁给他。他揭露德国秘密重整军备，遭到监禁，纳粹掌权后又被关入集中营。获奖时他未获准前往挪威领奖。打字机、空白纸张与条状阴影表达新闻写作受到压制，是原创寓意，不是他的真实器物、文件或拘禁现场；短句为原创。\n1935年和平奖；独享本年度奖项。获奖理由（中文译述）：因捍卫思想与表达自由，并为和平事业作出贡献而获奖。",
+          "en": "Ossietzky, a German journalist and pacifist, received the 1935 Nobel Peace Prize for defending freedom of thought and expression and contributing to peace; the award for that year was decided in 1936. He exposed secret German rearmament, was imprisoned and was later sent to a concentration camp after the Nazis took power. He was not permitted to travel to Norway to accept the prize. The typewriter, open page and barred shadows are an original metaphor for suppressed journalism, not his belongings, documents or detention site. The phrase is original.\n1935 — The Nobel Peace Prize. Received the full prize. Official motivation: for his burning love for freedom of thought and expression and his valuable contribution to the cause of peace"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年和平奖｜官方记录",
+              "en": "1935 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1935/ossietzky/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1935/ossietzky/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

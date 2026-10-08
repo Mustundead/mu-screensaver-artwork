@@ -1,0 +1,70 @@
+{
+  "subject": "071-wind-tunnel",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:071-wind-tunnel",
+      "subject": "071-wind-tunnel",
+      "edition": "mono",
+      "title": "风洞与飞行",
+      "titleEnglish": "Wind Tunnels and Flight",
+      "category": "工程与制造",
+      "image": "Images/mono/071-wind-tunnel.jpg",
+      "thumbnail": "Thumbs/mono/071-wind-tunnel.jpg",
+      "sha256": "cae3ee62e3e029f542349bb2e14924d692d607344e5b288372865aeb2a528089",
+      "thumbnailSHA256": "529bff77da6fb947222904bd28e9702aa8833f742d1c3cf1fe9e87cb618665ac",
+      "context": {
+        "phrase": {
+          "zh": "让模型先迎风，再让飞机上天。",
+          "en": "Let a model meet the wind before an aircraft flies."
+        },
+        "visual": {
+          "zh": "机翼形状置于规整的气流线间，以实验空间表现看不见的空气作用。线的间距不代表可测的升力或阻力。",
+          "en": "A wing form sits within ordered airflow lines, staging invisible aerodynamic forces. Line spacing does not encode measured lift or drag."
+        },
+        "background": {
+          "zh": "风洞让气流经过模型，使研究者能测量形状受到的空气动力。莱特兄弟在 1901 年进行了一系列风洞测试，测量不同机翼模型的升力与阻力，为后来的飞机设计提供数据。",
+          "en": "A wind tunnel sends air past a model so researchers can measure aerodynamic forces. In 1901 the Wright brothers tested many wing models for lift and drag, gathering data for later aircraft design."
+        },
+        "sources": [
+          {
+            "label": "NASA Glenn · Wind tunnel",
+            "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/wind-tunnel/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:071-wind-tunnel",
+      "subject": "071-wind-tunnel",
+      "edition": "color",
+      "title": "风洞与飞行",
+      "titleEnglish": "Wind Tunnels and Flight",
+      "category": "工程与制造",
+      "image": "Images/color/071-wind-tunnel.jpg",
+      "thumbnail": "Thumbs/color/071-wind-tunnel.jpg",
+      "sha256": "097dac21298625b8626ec697d1afd771cb92c0ee6974e898d4ec6ecb3298721e",
+      "thumbnailSHA256": "76c2425184826a251392638f6c2c282d770cb939690ceb96c4ca4dcc3086393b",
+      "context": {
+        "phrase": {
+          "zh": "让模型先迎风，再让飞机上天。",
+          "en": "Let a model meet the wind before an aircraft flies."
+        },
+        "visual": {
+          "zh": "机翼形状置于规整的气流线间，以实验空间表现看不见的空气作用。线的间距不代表可测的升力或阻力。",
+          "en": "A wing form sits within ordered airflow lines, staging invisible aerodynamic forces. Line spacing does not encode measured lift or drag."
+        },
+        "background": {
+          "zh": "风洞让气流经过模型，使研究者能测量形状受到的空气动力。莱特兄弟在 1901 年进行了一系列风洞测试，测量不同机翼模型的升力与阻力，为后来的飞机设计提供数据。",
+          "en": "A wind tunnel sends air past a model so researchers can measure aerodynamic forces. In 1901 the Wright brothers tested many wing models for lift and drag, gathering data for later aircraft design."
+        },
+        "sources": [
+          {
+            "label": "NASA Glenn · Wind tunnel",
+            "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/wind-tunnel/"
+          }
+        ]
+      }
+    }
+  }
+}

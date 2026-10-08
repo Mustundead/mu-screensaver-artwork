@@ -1,0 +1,70 @@
+{
+  "subject": "099-photographic-memory",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:099-photographic-memory",
+      "subject": "099-photographic-memory",
+      "edition": "mono",
+      "title": "摄影与记忆",
+      "titleEnglish": "Photography and Memory",
+      "category": "艺术与人文",
+      "image": "Images/mono/099-photographic-memory.jpg",
+      "thumbnail": "Thumbs/mono/099-photographic-memory.jpg",
+      "sha256": "c9a1d3e71221a5007fe7a364b985c4c8498bb8328e882115e6d5c2a06635dc43",
+      "thumbnailSHA256": "9ca546eb680193b756c262293140d720739781cd60da3539ef5a6fc9063bede2",
+      "context": {
+        "phrase": {
+          "zh": "留下光，也留下观看的位置。",
+          "en": "Recording light also records a point of view."
+        },
+        "visual": {
+          "zh": "相机、镜头和重叠照片般的片面，将记忆表现为选择与保存。画中并没有真实家庭相片或个人档案；它是关于摄影的生成插画。",
+          "en": "Cameras, lenses and layered photo-like planes present memory as selection and preservation. No real family photographs or personal archive are shown; this is generated artwork about photography."
+        },
+        "background": {
+          "zh": "美国国会图书馆记载，达盖尔摄影法于 1839 年 8 月 19 日公开宣布，早期曝光常需约 3—15 分钟。这个范围属于早期工艺，不能套用到所有历史照片；技术条件会影响人物如何停留、摆姿以及被记录。",
+          "en": "The Library of Congress dates the public announcement of the daguerreotype process to August 19, 1839, and gives early exposures of about 3–15 minutes. That range applies to the early process, not all historical photographs. Technical conditions shaped how subjects posed and were recorded."
+        },
+        "sources": [
+          {
+            "label": "Library of Congress · The Daguerreotype Medium",
+            "url": "https://www.loc.gov/collections/daguerreotypes/articles-and-essays/the-daguerreotype-medium"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:099-photographic-memory",
+      "subject": "099-photographic-memory",
+      "edition": "color",
+      "title": "摄影与记忆",
+      "titleEnglish": "Photography and Memory",
+      "category": "艺术与人文",
+      "image": "Images/color/099-photographic-memory.jpg",
+      "thumbnail": "Thumbs/color/099-photographic-memory.jpg",
+      "sha256": "71a47eeabef9b63ceb7ed9ca057c0944052646761b00526dff3d7d4d44dd465a",
+      "thumbnailSHA256": "564ee6b32dad7f6ec1b119124afaa647f51e01371d177168f1d10e1f95d68a3e",
+      "context": {
+        "phrase": {
+          "zh": "留下光，也留下观看的位置。",
+          "en": "Recording light also records a point of view."
+        },
+        "visual": {
+          "zh": "相机、镜头和重叠照片般的片面，将记忆表现为选择与保存。画中并没有真实家庭相片或个人档案；它是关于摄影的生成插画。",
+          "en": "Cameras, lenses and layered photo-like planes present memory as selection and preservation. No real family photographs or personal archive are shown; this is generated artwork about photography."
+        },
+        "background": {
+          "zh": "美国国会图书馆记载，达盖尔摄影法于 1839 年 8 月 19 日公开宣布，早期曝光常需约 3—15 分钟。这个范围属于早期工艺，不能套用到所有历史照片；技术条件会影响人物如何停留、摆姿以及被记录。",
+          "en": "The Library of Congress dates the public announcement of the daguerreotype process to August 19, 1839, and gives early exposures of about 3–15 minutes. That range applies to the early process, not all historical photographs. Technical conditions shaped how subjects posed and were recorded."
+        },
+        "sources": [
+          {
+            "label": "Library of Congress · The Daguerreotype Medium",
+            "url": "https://www.loc.gov/collections/daguerreotypes/articles-and-essays/the-daguerreotype-medium"
+          }
+        ]
+      }
+    }
+  }
+}

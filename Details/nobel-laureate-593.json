@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-593",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-593",
+      "subject": "nobel-laureate-593",
+      "edition": "mono",
+      "title": "威廉·巴特勒·叶芝",
+      "titleEnglish": "William Butler Yeats",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-593/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-593/mono.jpg",
+      "sha256": "2e09106bf1e4dfeafce7c9d23fbb2de6aa16a3b33aa5d72ad88fdbdb874dfd57",
+      "thumbnailSHA256": "fc1a02e11c05996c6432cd7dc98933421826c80017dc339a55a7712912e88220",
+      "context": {
+        "phrase": {
+          "zh": "故乡的记忆，在诗中留下回声。",
+          "en": "Memories of home find echoes in poetry."
+        },
+        "visual": {
+          "zh": "象牙色空白折纸展开到画面右侧，干芦苇斜跨纸面，细穗延伸到左上；右下放着没有图章的深红蜡片。黑白版保留纸褶、芦苇与蜡片。这是诗歌、自然和记忆的原创联想，不是叶芝某首诗的逐字插图。",
+          "en": "Blank ivory folded paper opens across the right, with a dry reed crossing it and a fine plume extending upper left; an unstamped deep-red wax oval rests at lower right. Monochrome retains the folds, reed and wax. This is an original association with poetry, nature and memory, not a literal illustration of a Yeats poem."
+        },
+        "background": {
+          "zh": "叶芝独享1923年诺贝尔文学奖，获奖理由是他的诗歌以高度艺术化的形式表达整个民族的精神。诺贝尔奖官方介绍将他与爱尔兰文学复兴联系起来，指出自然经历、当地民间故事和风俗对他的写作影响。画中空白折纸、芦苇与蜡片是对诗歌、自然和记忆的原创联想，不是某首诗的逐字插图或历史物件。短句为原创，不是叶芝诗句。\n1923年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他充满灵感的诗歌，以高度艺术化的形式表达整个民族的精神。",
+          "en": "Yeats received the full 1923 Nobel Prize in Literature for poetry giving artistic expression to the spirit of a nation. His official Nobel profile connects him with the Irish Literary Renaissance and describes the influence of nature, local folklore and customs. The blank folded paper, reed and wax are original associations with poetry, nature and memory, not a literal illustration of a particular poem or a historical artifact. The phrase is original, not a line by Yeats.\n1923 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年文学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1923/yeats/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-593",
+      "subject": "nobel-laureate-593",
+      "edition": "color",
+      "title": "威廉·巴特勒·叶芝",
+      "titleEnglish": "William Butler Yeats",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-593/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-593/color.jpg",
+      "sha256": "6e8a270074bcfbd3b2495e4d0c173289ec0dbca934d84fbe2717f72cebffe16d",
+      "thumbnailSHA256": "3cfd670de6d15be6c313af5b79698378cd365ac69d5c8a66016277144d5675f4",
+      "context": {
+        "phrase": {
+          "zh": "故乡的记忆，在诗中留下回声。",
+          "en": "Memories of home find echoes in poetry."
+        },
+        "visual": {
+          "zh": "象牙色空白折纸展开到画面右侧，干芦苇斜跨纸面，细穗延伸到左上；右下放着没有图章的深红蜡片。黑白版保留纸褶、芦苇与蜡片。这是诗歌、自然和记忆的原创联想，不是叶芝某首诗的逐字插图。",
+          "en": "Blank ivory folded paper opens across the right, with a dry reed crossing it and a fine plume extending upper left; an unstamped deep-red wax oval rests at lower right. Monochrome retains the folds, reed and wax. This is an original association with poetry, nature and memory, not a literal illustration of a Yeats poem."
+        },
+        "background": {
+          "zh": "叶芝独享1923年诺贝尔文学奖，获奖理由是他的诗歌以高度艺术化的形式表达整个民族的精神。诺贝尔奖官方介绍将他与爱尔兰文学复兴联系起来，指出自然经历、当地民间故事和风俗对他的写作影响。画中空白折纸、芦苇与蜡片是对诗歌、自然和记忆的原创联想，不是某首诗的逐字插图或历史物件。短句为原创，不是叶芝诗句。\n1923年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他充满灵感的诗歌，以高度艺术化的形式表达整个民族的精神。",
+          "en": "Yeats received the full 1923 Nobel Prize in Literature for poetry giving artistic expression to the spirit of a nation. His official Nobel profile connects him with the Irish Literary Renaissance and describes the influence of nature, local folklore and customs. The blank folded paper, reed and wax are original associations with poetry, nature and memory, not a literal illustration of a particular poem or a historical artifact. The phrase is original, not a line by Yeats.\n1923 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his always inspired poetry, which in a highly artistic form gives expression to the spirit of a whole nation"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1923 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1923/summary/",
+            "labelLocalized": {
+              "zh": "1923年文学奖｜官方记录",
+              "en": "1923 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1923/yeats/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

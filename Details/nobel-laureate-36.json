@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-36",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-36",
+      "subject": "nobel-laureate-36",
+      "edition": "mono",
+      "title": "路易·德布罗意",
+      "titleEnglish": "Louis de Broglie",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-36/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-36/mono.jpg",
+      "sha256": "1fb03711e80c11c391217ee7e3b099ef95ac0fa3a9233ea1b6ddd304445fffef",
+      "thumbnailSHA256": "368daa480c043e86734703b684689c15e05d90b4e7ae298bfabd5b15b74c266c",
+      "context": {
+        "phrase": {
+          "zh": "同一世界，可以有两种读法。",
+          "en": "One world can be read in two ways."
+        },
+        "visual": {
+          "zh": "铜色细带以三个宽阔波峰横贯画面，暗色背面与微绿边缘交替出现；细点沿中部散开，上下留出浅色空白。黑白版保留同一波形与粒点。",
+          "en": "A copper ribbon crosses the frame through three broad crests, with dark undersides and a faint green edge. Sparse dots run along the middle, between quiet pale regions. The neutral edition keeps the same wave and dots."
+        },
+        "background": {
+          "zh": "德布罗意获1929年诺贝尔物理学奖，因发现电子的波动性质。他在1924年提出用波来描述电子的想法。铜带与粒点是表现波与粒子两种描述的原创寓意，不是电子的真实轨迹或实验数据；短句为原创。\n1929年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现电子的波动性质。",
+          "en": "De Broglie received the 1929 Nobel Prize in Physics for discovering the wave nature of electrons. He proposed a wave description of electrons in 1924. The ribbon and dots are an original metaphor for wave and particle descriptions, not an electron trajectory or experimental data. The phrase is original.\n1929 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discovery of the wave nature of electrons"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年物理学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1929/broglie/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-36",
+      "subject": "nobel-laureate-36",
+      "edition": "color",
+      "title": "路易·德布罗意",
+      "titleEnglish": "Louis de Broglie",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-36/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-36/color.jpg",
+      "sha256": "ec4a7a52da0cb9102636ad0f0d804c87346d7f8315cf4fca92651022ff14c386",
+      "thumbnailSHA256": "9dd709e62ada6b9854d6c2c52db31b1b40a0e35ce4664af7d9bd0b7b0f680409",
+      "context": {
+        "phrase": {
+          "zh": "同一世界，可以有两种读法。",
+          "en": "One world can be read in two ways."
+        },
+        "visual": {
+          "zh": "铜色细带以三个宽阔波峰横贯画面，暗色背面与微绿边缘交替出现；细点沿中部散开，上下留出浅色空白。黑白版保留同一波形与粒点。",
+          "en": "A copper ribbon crosses the frame through three broad crests, with dark undersides and a faint green edge. Sparse dots run along the middle, between quiet pale regions. The neutral edition keeps the same wave and dots."
+        },
+        "background": {
+          "zh": "德布罗意获1929年诺贝尔物理学奖，因发现电子的波动性质。他在1924年提出用波来描述电子的想法。铜带与粒点是表现波与粒子两种描述的原创寓意，不是电子的真实轨迹或实验数据；短句为原创。\n1929年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现电子的波动性质。",
+          "en": "De Broglie received the 1929 Nobel Prize in Physics for discovering the wave nature of electrons. He proposed a wave description of electrons in 1924. The ribbon and dots are an original metaphor for wave and particle descriptions, not an electron trajectory or experimental data. The phrase is original.\n1929 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discovery of the wave nature of electrons"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1929 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1929/summary/",
+            "labelLocalized": {
+              "zh": "1929年物理学奖｜官方记录",
+              "en": "1929 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1929/broglie/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

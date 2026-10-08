@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-496",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-496",
+      "subject": "nobel-laureate-496",
+      "edition": "mono",
+      "title": "简·亚当斯",
+      "titleEnglish": "Jane Addams",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-496/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-496/mono.jpg",
+      "sha256": "419f49fb915ce03d8af25bc4ce94173fec6046339b9ded19bf54b584afbe343b",
+      "thumbnailSHA256": "c86cd3c25934f4d74041ee4232f6588fbf81fd0d69caf0eb09eac4d082bf01a2",
+      "context": {
+        "phrase": {
+          "zh": "从愿意分享的一餐，开始照顾彼此。",
+          "en": "Care begins with a meal we are willing to share."
+        },
+        "visual": {
+          "zh": "两只从画面左右伸来的手托住同一只面包，拇指轻贴面包上侧，弯曲手指在下方承接。墨绿与暗红衣袖分居两侧，木质门框把浅色与橄榄色背景分开；黑白版保留分享动作与构图。",
+          "en": "Two hands entering from opposite edges cup the same loaf, thumbs resting above and bent fingers supporting it below. Deep green and burgundy sleeves flank a wooden doorway jamb separating pale and olive fields. The neutral edition retains the sharing gesture and composition."
+        },
+        "background": {
+          "zh": "亚当斯与尼古拉斯·默里·巴特勒共同获得1931年诺贝尔和平奖。1889年，她与艾伦·盖茨·斯塔尔在芝加哥创办赫尔馆，为社区提供教育、公共厨房等服务；她也长期参与国际妇女和平运动并反对第一次世界大战。分享面包的画面取意于社区互助，是原创寓意，不是她本人的肖像或历史场景复原；短句为原创。\n1931年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们坚持不懈地重振和平理想，并在本国与全人类中重新唤起和平精神。",
+          "en": "Addams shared the 1931 Nobel Peace Prize with Nicholas Murray Butler. In 1889 she and Ellen Gates Starr founded Hull-House in Chicago, providing community services including education and a public kitchen. She also worked in the international women's peace movement and opposed the First World War. Sharing bread is an original metaphor for community care, not her portrait or a reconstructed historic scene. The phrase is original.\n1931 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年和平奖｜官方记录",
+              "en": "1931 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1931/addams/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "hullhouse.uic.edu",
+            "url": "https://hullhouse.uic.edu/about/our-history/",
+            "labelLocalized": {
+              "zh": "赫尔馆历史｜赫尔馆博物馆",
+              "en": "Hull-House history — Hull-House Museum"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-496",
+      "subject": "nobel-laureate-496",
+      "edition": "color",
+      "title": "简·亚当斯",
+      "titleEnglish": "Jane Addams",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-496/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-496/color.jpg",
+      "sha256": "1084413155c5cd9c2e254ea2c5f9356aaee7208afc08cd0caae0ea60633cd8b4",
+      "thumbnailSHA256": "b5ab283445b9ac52ef84a7c8c7553900ce1802507b7e5c23d97a952ce8f77107",
+      "context": {
+        "phrase": {
+          "zh": "从愿意分享的一餐，开始照顾彼此。",
+          "en": "Care begins with a meal we are willing to share."
+        },
+        "visual": {
+          "zh": "两只从画面左右伸来的手托住同一只面包，拇指轻贴面包上侧，弯曲手指在下方承接。墨绿与暗红衣袖分居两侧，木质门框把浅色与橄榄色背景分开；黑白版保留分享动作与构图。",
+          "en": "Two hands entering from opposite edges cup the same loaf, thumbs resting above and bent fingers supporting it below. Deep green and burgundy sleeves flank a wooden doorway jamb separating pale and olive fields. The neutral edition retains the sharing gesture and composition."
+        },
+        "background": {
+          "zh": "亚当斯与尼古拉斯·默里·巴特勒共同获得1931年诺贝尔和平奖。1889年，她与艾伦·盖茨·斯塔尔在芝加哥创办赫尔馆，为社区提供教育、公共厨房等服务；她也长期参与国际妇女和平运动并反对第一次世界大战。分享面包的画面取意于社区互助，是原创寓意，不是她本人的肖像或历史场景复原；短句为原创。\n1931年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们坚持不懈地重振和平理想，并在本国与全人类中重新唤起和平精神。",
+          "en": "Addams shared the 1931 Nobel Peace Prize with Nicholas Murray Butler. In 1889 she and Ellen Gates Starr founded Hull-House in Chicago, providing community services including education and a public kitchen. She also worked in the international women's peace movement and opposed the First World War. Sharing bread is an original metaphor for community care, not her portrait or a reconstructed historic scene. The phrase is original.\n1931 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their assiduous effort to revive the ideal of peace and to rekindle the spirit of peace in their own nation and in the whole of mankind"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1931 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1931/summary/",
+            "labelLocalized": {
+              "zh": "1931年和平奖｜官方记录",
+              "en": "1931 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1931/addams/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "hullhouse.uic.edu",
+            "url": "https://hullhouse.uic.edu/about/our-history/",
+            "labelLocalized": {
+              "zh": "赫尔馆历史｜赫尔馆博物馆",
+              "en": "Hull-House history — Hull-House Museum"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

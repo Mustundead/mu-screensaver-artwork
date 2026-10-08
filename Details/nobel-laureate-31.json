@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-31",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-31",
+      "subject": "nobel-laureate-31",
+      "edition": "mono",
+      "title": "古斯塔夫·赫兹",
+      "titleEnglish": "Gustav Hertz",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-31/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-31/mono.jpg",
+      "sha256": "7f633b241c791cf06898428459e5167cc56f8d32ff3eb9744ae16a62e94afe09",
+      "thumbnailSHA256": "cb589c930867d100fac145d71e68b54c6c5f7deb3f6493c5e654bca5a36dc1d3",
+      "context": {
+        "phrase": {
+          "zh": "能量的改变，有自己的台阶。",
+          "en": "Changes in energy have steps of their own."
+        },
+        "visual": {
+          "zh": "三块黄铜块从左下向右上逐级升高，最小的台面托着一粒淡青玻璃珠，铜线从边缘垂下；左上留出安静的深色空间。黑白版保留台阶、玻璃珠与裁切，细刻纹更明显。这是分级能量的原创寓意，台阶数量不代表真实数据。",
+          "en": "Three brass blocks rise from lower left to upper right, with a pale teal glass bead on the lowest top face and copper wire draping over its edge; quiet dark space remains at upper left. Monochrome retains the steps, bead and crop, with stronger fine hatching. This is an original energy-step metaphor; the step count is not measured data."
+        },
+        "background": {
+          "zh": "古斯塔夫·赫兹与詹姆斯·弗兰克共同获1925年诺贝尔物理学奖，各占一半，奖项于1926年颁发。他们的电子碰撞实验为原子具有离散能量状态提供了实验依据。阶梯状金属块与小玻璃珠将这种“分级”的认识转为原创静物寓意；台阶数量不是实际能级数据，也不把共同成果归给一人。短句为原创。\n1925年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们发现电子撞击原子所遵循的规律。",
+          "en": "Gustav Hertz and James Franck shared the 1925 Nobel Prize in Physics equally, receiving it in 1926. Their electron-impact experiments provided evidence for discrete atomic energy states. Stepped brass blocks and a small glass bead turn this idea into an original still-life metaphor; the number of steps is not energy-level data, and the joint achievement is not credited to one person alone. The phrase is original.\n1925 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their discovery of the laws governing the impact of an electron upon an atom"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年物理学奖｜官方记录",
+              "en": "1925 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/quantised_world/structure-3.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-31",
+      "subject": "nobel-laureate-31",
+      "edition": "color",
+      "title": "古斯塔夫·赫兹",
+      "titleEnglish": "Gustav Hertz",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-31/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-31/color.jpg",
+      "sha256": "e1da9991cea5b4490f92b1f2c6552b6117324fea6ce3c2087666aab0a4179731",
+      "thumbnailSHA256": "37a386ee55c9de316a24def8c25d2f893d50089a54f0e721d57dc17dc65cc03a",
+      "context": {
+        "phrase": {
+          "zh": "能量的改变，有自己的台阶。",
+          "en": "Changes in energy have steps of their own."
+        },
+        "visual": {
+          "zh": "三块黄铜块从左下向右上逐级升高，最小的台面托着一粒淡青玻璃珠，铜线从边缘垂下；左上留出安静的深色空间。黑白版保留台阶、玻璃珠与裁切，细刻纹更明显。这是分级能量的原创寓意，台阶数量不代表真实数据。",
+          "en": "Three brass blocks rise from lower left to upper right, with a pale teal glass bead on the lowest top face and copper wire draping over its edge; quiet dark space remains at upper left. Monochrome retains the steps, bead and crop, with stronger fine hatching. This is an original energy-step metaphor; the step count is not measured data."
+        },
+        "background": {
+          "zh": "古斯塔夫·赫兹与詹姆斯·弗兰克共同获1925年诺贝尔物理学奖，各占一半，奖项于1926年颁发。他们的电子碰撞实验为原子具有离散能量状态提供了实验依据。阶梯状金属块与小玻璃珠将这种“分级”的认识转为原创静物寓意；台阶数量不是实际能级数据，也不把共同成果归给一人。短句为原创。\n1925年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们发现电子撞击原子所遵循的规律。",
+          "en": "Gustav Hertz and James Franck shared the 1925 Nobel Prize in Physics equally, receiving it in 1926. Their electron-impact experiments provided evidence for discrete atomic energy states. Stepped brass blocks and a small glass bead turn this idea into an original still-life metaphor; the number of steps is not energy-level data, and the joint achievement is not credited to one person alone. The phrase is original.\n1925 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their discovery of the laws governing the impact of an electron upon an atom"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年物理学奖｜官方记录",
+              "en": "1925 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/physics/quantised_world/structure-3.html",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

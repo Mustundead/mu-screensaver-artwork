@@ -1,0 +1,70 @@
+{
+  "subject": "033-lunar-geology",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:033-lunar-geology",
+      "subject": "033-lunar-geology",
+      "edition": "mono",
+      "title": "月面地质",
+      "titleEnglish": "Lunar Geology",
+      "category": "宇宙",
+      "image": "Images/mono/033-lunar-geology.jpg",
+      "thumbnail": "Thumbs/mono/033-lunar-geology.jpg",
+      "sha256": "5cd52df3da18bf58d0c6eb300e70b9b0be08824c0d95f5ba71552724deaf219c",
+      "thumbnailSHA256": "dd09931c367f7b9c9b9a7d87e9fc7941077d50f54e75a01dce91fbc5bd1d1521",
+      "context": {
+        "phrase": {
+          "zh": "月面的明暗，记录漫长的变化。",
+          "en": "Light and dark mark the Moon’s long history."
+        },
+        "visual": {
+          "zh": "环形坑、断层般的边缘与深色平原在画面中相接，把月面看作保存痕迹的地质表面。地形组合并非真实月球区域的地图。",
+          "en": "Craters, fault-like edges and dark plains meet in an imagined lunar landscape. Their arrangement is not a map of any real region."
+        },
+        "background": {
+          "zh": "月面的撞击坑记录了小天体的撞击。深色的“月海”不是海水，而是熔岩在古老撞击盆地中铺展并冷却形成的玄武岩平原。",
+          "en": "Impact craters record collisions with smaller bodies. The dark lunar “maria” are not seas of water; they are basaltic plains formed when lava spread across old impact basins and cooled."
+        },
+        "sources": [
+          {
+            "label": "NASA · Lunar craters",
+            "url": "https://science.nasa.gov/moon/lunar-craters/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:033-lunar-geology",
+      "subject": "033-lunar-geology",
+      "edition": "color",
+      "title": "月面地质",
+      "titleEnglish": "Lunar Geology",
+      "category": "宇宙",
+      "image": "Images/color/033-lunar-geology.jpg",
+      "thumbnail": "Thumbs/color/033-lunar-geology.jpg",
+      "sha256": "420a80a12f540039bdae73b5ec091038b974c4520e3297d365930731941675a0",
+      "thumbnailSHA256": "d0c5691b87d408498c9f48d0442b4953f57430ee2eb425b17a8a5854d7aa8570",
+      "context": {
+        "phrase": {
+          "zh": "月面的明暗，记录漫长的变化。",
+          "en": "Light and dark mark the Moon’s long history."
+        },
+        "visual": {
+          "zh": "环形坑、断层般的边缘与深色平原在画面中相接，把月面看作保存痕迹的地质表面。地形组合并非真实月球区域的地图。",
+          "en": "Craters, fault-like edges and dark plains meet in an imagined lunar landscape. Their arrangement is not a map of any real region."
+        },
+        "background": {
+          "zh": "月面的撞击坑记录了小天体的撞击。深色的“月海”不是海水，而是熔岩在古老撞击盆地中铺展并冷却形成的玄武岩平原。",
+          "en": "Impact craters record collisions with smaller bodies. The dark lunar “maria” are not seas of water; they are basaltic plains formed when lava spread across old impact basins and cooled."
+        },
+        "sources": [
+          {
+            "label": "NASA · Lunar craters",
+            "url": "https://science.nasa.gov/moon/lunar-craters/"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-163",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-163",
+      "subject": "nobel-laureate-163",
+      "edition": "mono",
+      "title": "威廉·拉姆齐",
+      "titleEnglish": "Sir William Ramsay",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-163/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-163/mono.jpg",
+      "sha256": "dfef48477957cb769def5739a809d008326e5c5bc12cf636715c4dbe63bc96eb",
+      "thumbnailSHA256": "87093b1dd0b9ee0c30364dabf8e1b790441c6a498a48666fce5c1be72b8d500b",
+      "context": {
+        "phrase": {
+          "zh": "熟悉的空气里，也藏着未被认识的东西。",
+          "en": "Even familiar air can hold something undiscovered."
+        },
+        "visual": {
+          "zh": "为拉姆齐独立创作的气体研究拼贴，以光学观察器、玻璃管、棱镜和空白记录本呼应对空气中气体的探索。器材与管内界面是艺术组合，不是原装实验装置，不提供气体读数或元素周期表。",
+          "en": "An original gas-research collage for Ramsay combines an optical viewer, glass tubes, prisms and a blank notebook to evoke the exploration of gases in air. Its apparatus and tube interfaces are artistic combinations, not original equipment; it supplies neither gas measurements nor a periodic table."
+        },
+        "background": {
+          "zh": "拉姆齐获得1904年诺贝尔化学奖，表彰他发现空气中的惰性气体元素，并确定它们在元素周期体系中位置的贡献。惰性气体是不容易与其他元素发生反应的一类气体。官方资料介绍了他与瑞利合作发现氩，以及随后对其他惰性气体的探索。两人在同一年分别获得化学奖和物理学奖。\n1904年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现空气中的惰性气体元素，并确定它们在元素周期体系中位置的贡献。",
+          "en": "Ramsay received the 1904 Nobel Prize in Chemistry for discovering inert gaseous elements in air and determining their place in the periodic system. These gases are relatively unreactive. Official Nobel material describes his collaboration with Rayleigh on argon and his later exploration of other noble gases. They received separate Chemistry and Physics prizes in the same year.\n1904 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年化学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1904/ramsay/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-163",
+      "subject": "nobel-laureate-163",
+      "edition": "color",
+      "title": "威廉·拉姆齐",
+      "titleEnglish": "Sir William Ramsay",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-163/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-163/color.jpg",
+      "sha256": "a1962eeb0e11c6b9e6458bc8514ed00943958ce7f008bb7b38569dbea066bcdc",
+      "thumbnailSHA256": "59b27909e32efd5f5827b3def3c5f7baf0d557c7ecb0acc38cf35ade8ae89c55",
+      "context": {
+        "phrase": {
+          "zh": "熟悉的空气里，也藏着未被认识的东西。",
+          "en": "Even familiar air can hold something undiscovered."
+        },
+        "visual": {
+          "zh": "为拉姆齐独立创作的气体研究拼贴，以光学观察器、玻璃管、棱镜和空白记录本呼应对空气中气体的探索。器材与管内界面是艺术组合，不是原装实验装置，不提供气体读数或元素周期表。",
+          "en": "An original gas-research collage for Ramsay combines an optical viewer, glass tubes, prisms and a blank notebook to evoke the exploration of gases in air. Its apparatus and tube interfaces are artistic combinations, not original equipment; it supplies neither gas measurements nor a periodic table."
+        },
+        "background": {
+          "zh": "拉姆齐获得1904年诺贝尔化学奖，表彰他发现空气中的惰性气体元素，并确定它们在元素周期体系中位置的贡献。惰性气体是不容易与其他元素发生反应的一类气体。官方资料介绍了他与瑞利合作发现氩，以及随后对其他惰性气体的探索。两人在同一年分别获得化学奖和物理学奖。\n1904年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现空气中的惰性气体元素，并确定它们在元素周期体系中位置的贡献。",
+          "en": "Ramsay received the 1904 Nobel Prize in Chemistry for discovering inert gaseous elements in air and determining their place in the periodic system. These gases are relatively unreactive. Official Nobel material describes his collaboration with Rayleigh on argon and his later exploration of other noble gases. They received separate Chemistry and Physics prizes in the same year.\n1904 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his services in the discovery of the inert gaseous elements in air, and his determination of their place in the periodic system"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年化学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1904/ramsay/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

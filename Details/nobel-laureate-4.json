@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-4",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-4",
+      "subject": "nobel-laureate-4",
+      "edition": "mono",
+      "title": "亨利·贝克勒尔",
+      "titleEnglish": "Henri Becquerel",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-4/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-4/mono.jpg",
+      "sha256": "625ddedbfb5f07601d065f38867420f8e491bb1a79c2f1472424c5914d593f94",
+      "thumbnailSHA256": "f7c476c59d11199dd68808cc18956abe80a2fb3ab745e3b9fee34bcfe05a005b",
+      "context": {
+        "phrase": {
+          "zh": "看不见的变化，也会留下证据。",
+          "en": "Invisible changes can leave evidence."
+        },
+        "visual": {
+          "zh": "为贝克勒尔独立创作的感光证据拼贴，以抽屉、盐晶体、不透光纸与灰色感光板呼应他对自发放射性的发现。板上的灰纹是艺术表达，不是复制实验影像；画面也不把放射线画成可见的发光束。",
+          "en": "An original photographic-evidence collage for Becquerel uses a drawer, salt crystals, opaque paper and a grey photographic plate to evoke spontaneous radioactivity. The grey marks are artistic, not a copied experimental image; radiation is not shown as a visible glowing beam."
+        },
+        "background": {
+          "zh": "贝克勒尔获得1903年诺贝尔物理学奖的二分之一，表彰他发现自发放射性。1896年，他研究铀盐时发现，样品即使隔着不透光纸也能使感光板出现影像，这种作用不依赖先接受光照。配图借感光材料表现看不见的现象如何留下证据，不复原具体器材，也不提供实验操作指引。\n1903年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现自发放射性所作出的非凡贡献。",
+          "en": "Becquerel received half of the 1903 Nobel Prize in Physics for discovering spontaneous radioactivity. In 1896, his work with uranium salts showed that they could affect photographic plates through opaque covering without prior illumination. The artwork interprets invisible phenomena leaving evidence, without reconstructing apparatus or giving experimental instructions.\n1903 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年物理学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/becquerel/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-4",
+      "subject": "nobel-laureate-4",
+      "edition": "color",
+      "title": "亨利·贝克勒尔",
+      "titleEnglish": "Henri Becquerel",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-4/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-4/color.jpg",
+      "sha256": "61162763df7a0597714e47de479893b2ed61f955b86e2e58b5f2ce5775a7bead",
+      "thumbnailSHA256": "f5d356d1e2bfbb6e9820ef76412199aaf954f563b150b0d00c63da9204c233f0",
+      "context": {
+        "phrase": {
+          "zh": "看不见的变化，也会留下证据。",
+          "en": "Invisible changes can leave evidence."
+        },
+        "visual": {
+          "zh": "为贝克勒尔独立创作的感光证据拼贴，以抽屉、盐晶体、不透光纸与灰色感光板呼应他对自发放射性的发现。板上的灰纹是艺术表达，不是复制实验影像；画面也不把放射线画成可见的发光束。",
+          "en": "An original photographic-evidence collage for Becquerel uses a drawer, salt crystals, opaque paper and a grey photographic plate to evoke spontaneous radioactivity. The grey marks are artistic, not a copied experimental image; radiation is not shown as a visible glowing beam."
+        },
+        "background": {
+          "zh": "贝克勒尔获得1903年诺贝尔物理学奖的二分之一，表彰他发现自发放射性。1896年，他研究铀盐时发现，样品即使隔着不透光纸也能使感光板出现影像，这种作用不依赖先接受光照。配图借感光材料表现看不见的现象如何留下证据，不复原具体器材，也不提供实验操作指引。\n1903年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他发现自发放射性所作出的非凡贡献。",
+          "en": "Becquerel received half of the 1903 Nobel Prize in Physics for discovering spontaneous radioactivity. In 1896, his work with uranium salts showed that they could affect photographic plates through opaque covering without prior illumination. The artwork interprets invisible phenomena leaving evidence, without reconstructing apparatus or giving experimental instructions.\n1903 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of the extraordinary services he has rendered by his discovery of spontaneous radioactivity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年物理学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1903/becquerel/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

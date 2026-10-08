@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-020",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-020",
+      "subject": "oscar-best-picture-020",
+      "edition": "mono",
+      "title": "君子协定",
+      "titleEnglish": "Gentleman's Agreement",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-020/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-020/mono.jpg",
+      "sha256": "04f0cb2c79df782f9e81a756f9ecb5e540253dfad10acfe486d1d3da7ad871e2",
+      "thumbnailSHA256": "35922af07ee359b6f5953fd2c22d78021fb01a4f41b933bee8ce3e52079b8e08",
+      "context": {
+        "phrase": {
+          "zh": "看见偏见，也看见让它留下的沉默。",
+          "en": "Notice prejudice, and the silence that lets it remain."
+        },
+        "visual": {
+          "zh": "巨大的空白采访本从左下裁切，深红钢笔斜搭纸页；右上较小的黄铜钥匙和青色空白椭圆牌通过圆环相连，中间保持暗色间隔。彩色版区分纸张、红色笔身、黄铜和青色涂层，黑白版保持布局。这些物件表达报道与准入限制的原创寓意，不是电影镜头、海报或真实道具的复原。",
+          "en": "An enormous blank reporter’s notebook is cropped at lower left, with a burgundy fountain pen laid diagonally across it. A smaller brass key and blank teal oval tag share a ring at upper right, separated by a dark gap. Color distinguishes paper, burgundy pen, brass and enamel; monochrome keeps the layout. These are original symbols of reporting and restricted access, not a film still, poster or reconstruction of screen props."
+        },
+        "background": {
+          "zh": "《君子协定》是1947年的影片，获得1948年第20届奥斯卡最佳影片奖；颁奖年份与影片年份不同。美国电影学会的资料记载，影片由伊利亚·卡赞执导，记者菲尔以犹太人身份体验并调查反犹歧视，故事涉及酒店与住房中的排斥，也追问沉默如何维持偏见。采访本和钥匙借此表达报道与准入的关系，属于原创解读。短句为原创，不是电影台词。\n第20届奥斯卡最佳影片：君子协定。颁奖年份 1948；参评年份 1947。",
+          "en": "Gentleman’s Agreement is a 1947 film that won Best Picture at the 20th Academy Awards in 1948; film and ceremony years differ. The American Film Institute records Elia Kazan as director and describes reporter Phil adopting a Jewish identity to experience and investigate antisemitism. Hotel and housing exclusion, and silence sustaining prejudice, are part of the story. Notebook and key are an original interpretation of reporting and access. The phrase is original, not film dialogue.\nAcademy Awards ceremony 20 (1948), Best Picture: Gentleman's Agreement. Eligibility year: 1947."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1948",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/26428-GENTLEMANS-AGREEMENT",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-020",
+      "subject": "oscar-best-picture-020",
+      "edition": "color",
+      "title": "君子协定",
+      "titleEnglish": "Gentleman's Agreement",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-020/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-020/color.jpg",
+      "sha256": "7587efc29f2e9abbb741597c54d523ae1eda8d2b63b7942e934d1fb8c9e21c8c",
+      "thumbnailSHA256": "1411d5a32bb27f7c10358f7d40d3d5a58f376771035bfb7088ed157df47c60f7",
+      "context": {
+        "phrase": {
+          "zh": "看见偏见，也看见让它留下的沉默。",
+          "en": "Notice prejudice, and the silence that lets it remain."
+        },
+        "visual": {
+          "zh": "巨大的空白采访本从左下裁切，深红钢笔斜搭纸页；右上较小的黄铜钥匙和青色空白椭圆牌通过圆环相连，中间保持暗色间隔。彩色版区分纸张、红色笔身、黄铜和青色涂层，黑白版保持布局。这些物件表达报道与准入限制的原创寓意，不是电影镜头、海报或真实道具的复原。",
+          "en": "An enormous blank reporter’s notebook is cropped at lower left, with a burgundy fountain pen laid diagonally across it. A smaller brass key and blank teal oval tag share a ring at upper right, separated by a dark gap. Color distinguishes paper, burgundy pen, brass and enamel; monochrome keeps the layout. These are original symbols of reporting and restricted access, not a film still, poster or reconstruction of screen props."
+        },
+        "background": {
+          "zh": "《君子协定》是1947年的影片，获得1948年第20届奥斯卡最佳影片奖；颁奖年份与影片年份不同。美国电影学会的资料记载，影片由伊利亚·卡赞执导，记者菲尔以犹太人身份体验并调查反犹歧视，故事涉及酒店与住房中的排斥，也追问沉默如何维持偏见。采访本和钥匙借此表达报道与准入的关系，属于原创解读。短句为原创，不是电影台词。\n第20届奥斯卡最佳影片：君子协定。颁奖年份 1948；参评年份 1947。",
+          "en": "Gentleman’s Agreement is a 1947 film that won Best Picture at the 20th Academy Awards in 1948; film and ceremony years differ. The American Film Institute records Elia Kazan as director and describes reporter Phil adopting a Jewish identity to experience and investigate antisemitism. Hotel and housing exclusion, and silence sustaining prejudice, are part of the story. Notebook and key are an original interpretation of reporting and access. The phrase is original, not film dialogue.\nAcademy Awards ceremony 20 (1948), Best Picture: Gentleman's Agreement. Eligibility year: 1947."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1948",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/26428-GENTLEMANS-AGREEMENT",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

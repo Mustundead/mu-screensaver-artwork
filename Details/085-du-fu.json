@@ -1,0 +1,70 @@
+{
+  "subject": "085-du-fu",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:085-du-fu",
+      "subject": "085-du-fu",
+      "edition": "mono",
+      "title": "杜甫与山河",
+      "titleEnglish": "Du Fu and the Landscape",
+      "category": "艺术与人文",
+      "image": "Images/mono/085-du-fu.jpg",
+      "thumbnail": "Thumbs/mono/085-du-fu.jpg",
+      "sha256": "92e6a521b8ffd7ede765a2457c5ea4958b15d8b80b23dfc68fa49056e6be2ad5",
+      "thumbnailSHA256": "b5086c1bf99ee693877b7c71b6dc2ec56c3d40d1567ff4656049628059ce6035",
+      "context": {
+        "phrase": {
+          "zh": "山河之中，始终有具体的人。",
+          "en": "Within a landscape, there are always human lives."
+        },
+        "visual": {
+          "zh": "杜甫的生成形象置于山水与层叠纸页之间，让个人目光与时代处境相遇。画面不是某首诗的唯一图解，更不是战乱现场的记录。",
+          "en": "A generated Du Fu figure sits among landscape and layered pages, joining a personal gaze with historical circumstances. This is neither a definitive illustration of one poem nor a record of a wartime scene."
+        },
+        "background": {
+          "zh": "诗歌基金会将杜甫生卒记为 712—770 年，并介绍他在漂泊中书写亲历的饥荒、政治动荡与个人悲剧。这个背景使山河意象同时关乎生活中的人；不能只把它读成与现实无关的风景。",
+          "en": "The Poetry Foundation dates Du Fu to 712–770 and describes his writing about famine, political unrest and personal tragedy during an itinerant life. This background makes landscape a setting for lived experience as well as scenery."
+        },
+        "sources": [
+          {
+            "label": "Poetry Foundation · Du Fu",
+            "url": "https://www.poetryfoundation.org/poets/tu-fu"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:085-du-fu",
+      "subject": "085-du-fu",
+      "edition": "color",
+      "title": "杜甫与山河",
+      "titleEnglish": "Du Fu and the Landscape",
+      "category": "艺术与人文",
+      "image": "Images/color/085-du-fu.jpg",
+      "thumbnail": "Thumbs/color/085-du-fu.jpg",
+      "sha256": "6f23ed845175a9971d7f9e32b57e1fc3bf12d968a19856a657c28aa70ca30d34",
+      "thumbnailSHA256": "5db75cee917fb8497a57e11d0d2814379178319707963cfd997afe02c5e2d63c",
+      "context": {
+        "phrase": {
+          "zh": "山河之中，始终有具体的人。",
+          "en": "Within a landscape, there are always human lives."
+        },
+        "visual": {
+          "zh": "杜甫的生成形象置于山水与层叠纸页之间，让个人目光与时代处境相遇。画面不是某首诗的唯一图解，更不是战乱现场的记录。",
+          "en": "A generated Du Fu figure sits among landscape and layered pages, joining a personal gaze with historical circumstances. This is neither a definitive illustration of one poem nor a record of a wartime scene."
+        },
+        "background": {
+          "zh": "诗歌基金会将杜甫生卒记为 712—770 年，并介绍他在漂泊中书写亲历的饥荒、政治动荡与个人悲剧。这个背景使山河意象同时关乎生活中的人；不能只把它读成与现实无关的风景。",
+          "en": "The Poetry Foundation dates Du Fu to 712–770 and describes his writing about famine, political unrest and personal tragedy during an itinerant life. This background makes landscape a setting for lived experience as well as scenery."
+        },
+        "sources": [
+          {
+            "label": "Poetry Foundation · Du Fu",
+            "url": "https://www.poetryfoundation.org/poets/tu-fu"
+          }
+        ]
+      }
+    }
+  }
+}

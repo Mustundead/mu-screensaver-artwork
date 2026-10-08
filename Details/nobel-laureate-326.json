@@ -1,0 +1,102 @@
+{
+  "subject": "nobel-laureate-326",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-326",
+      "subject": "nobel-laureate-326",
+      "edition": "mono",
+      "title": "乔治·惠普尔",
+      "titleEnglish": "George H. Whipple",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-326/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-326/mono.jpg",
+      "sha256": "bfde13c012c53555d0b3584df93072230e2c7ce44fda2d05a553558e2f17ea87",
+      "thumbnailSHA256": "db82ccd640b877f8571ec8d21a12b5cfa5f934c7c63b18cbf9983a84ed35c0ea",
+      "context": {
+        "phrase": {
+          "zh": "从不同的食物中，寻找恢复的线索。",
+          "en": "Look among different foods for a clue to recovery."
+        },
+        "visual": {
+          "zh": "肝脏形体在左侧宽阔，向右收窄并越出画面；一条浅沟分开两叶，细排线顺着体积延伸，底部阴影衬出轮廓。",
+          "en": "A liver form is broad at the left and tapers beyond the right edge. A shallow seam distinguishes the two lobes, while fine hatching follows their volume and a shadow beneath defines the outline."
+        },
+        "background": {
+          "zh": "惠普尔与迈诺特、墨菲共同获得1934年诺贝尔生理学或医学奖。惠普尔研究失血后的血液再生，比较不同食物在动物研究中的作用，其中肝脏带来的结果启发了后续临床研究。肝脏形体取意于这段研究，是原创插画，不是解剖图或饮食处方；历史肝脏疗法不代表今天的治疗方法。短句为原创。\n1934年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：关于以肝脏疗法治疗贫血的发现。",
+          "en": "Whipple shared the 1934 Nobel Prize in Physiology or Medicine with Minot and Murphy. He studied blood regeneration after blood loss, comparing foods in animal research; the findings involving liver inspired later clinical work. The liver form draws on that history. It is original artwork, not an anatomical diagram or a dietary prescription; historical liver therapy does not represent present-day treatment. The phrase is original.\n1934 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for their discoveries concerning liver therapy in cases of anaemia"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年生理学或医学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "nhlbi.nih.gov",
+            "url": "https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-326",
+      "subject": "nobel-laureate-326",
+      "edition": "color",
+      "title": "乔治·惠普尔",
+      "titleEnglish": "George H. Whipple",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-326/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-326/color.jpg",
+      "sha256": "54bcbf622fdfb7af027f72c55be848b465d5f1daa54abbe9c5422ccdf74761af",
+      "thumbnailSHA256": "dc1d0faced4b7dff76bef514fc602ca63030f73b314974eb2bbf7668cf4b1967",
+      "context": {
+        "phrase": {
+          "zh": "从不同的食物中，寻找恢复的线索。",
+          "en": "Look among different foods for a clue to recovery."
+        },
+        "visual": {
+          "zh": "肝脏形体在左侧宽阔，向右收窄并越出画面；一条浅沟分开两叶，细排线顺着体积延伸，底部阴影衬出轮廓。",
+          "en": "A liver form is broad at the left and tapers beyond the right edge. A shallow seam distinguishes the two lobes, while fine hatching follows their volume and a shadow beneath defines the outline."
+        },
+        "background": {
+          "zh": "惠普尔与迈诺特、墨菲共同获得1934年诺贝尔生理学或医学奖。惠普尔研究失血后的血液再生，比较不同食物在动物研究中的作用，其中肝脏带来的结果启发了后续临床研究。肝脏形体取意于这段研究，是原创插画，不是解剖图或饮食处方；历史肝脏疗法不代表今天的治疗方法。短句为原创。\n1934年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：关于以肝脏疗法治疗贫血的发现。",
+          "en": "Whipple shared the 1934 Nobel Prize in Physiology or Medicine with Minot and Murphy. He studied blood regeneration after blood loss, comparing foods in animal research; the findings involving liver inspired later clinical work. The liver form draws on that history. It is original artwork, not an anatomical diagram or a dietary prescription; historical liver therapy does not represent present-day treatment. The phrase is original.\n1934 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for their discoveries concerning liver therapy in cases of anaemia"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年生理学或医学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "nhlbi.nih.gov",
+            "url": "https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-310",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-310",
+      "subject": "nobel-laureate-310",
+      "edition": "mono",
+      "title": "奥古斯特·克罗格",
+      "titleEnglish": "August Krogh",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-310/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-310/mono.jpg",
+      "sha256": "d498f954781253c63109978c22d7b06533e88673e4bdb08539db9aa0864c1096",
+      "thumbnailSHA256": "9a856978680cbc67766d66155ccd5e7c305bde98e292fb7a71cf0d8a6c41e3e4",
+      "context": {
+        "phrase": {
+          "zh": "通路的开合，回应细微需要。",
+          "en": "Small needs shape open paths."
+        },
+        "visual": {
+          "zh": "粗大的珊瑚红织管从左下裁切，向右分成两支；上支旁是一枚张开的青绿色夹具，下支压过透明玻璃片。黑白版保留相同的分叉和遮挡。织物与夹具借通路的开合联想毛细血管调节，不是人体结构、医疗操作或真实实验图。",
+          "en": "A thick coral woven tube is cropped at lower left and divides into two branches on the right. An open teal clamp sits beside the upper branch; the lower crosses a clear glass slide. Monochrome keeps the branching and overlap. Textile and clamp evoke regulated pathways, not anatomy, a medical procedure or an actual experiment."
+        },
+        "background": {
+          "zh": "克罗格独享1920年诺贝尔生理学或医学奖，获奖研究涉及毛细血管运动的调节机制。诺贝尔官网说明，他研究了毛细血管的开放如何配合肌肉的供氧需要。画中的分叉织管、夹具与玻璃片是原创寓意，不按人体结构绘制，也不提供治疗建议；物件的数量、颜色与尺寸没有医学计量含义。短句为原创，不是人物引语。\n1920年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：发现毛细血管运动的调节机制。",
+          "en": "Krogh received the full 1920 Nobel Prize in Physiology or Medicine for discovering the capillary motor regulating mechanism. NobelPrize.org explains his study of how opening capillaries responds to muscles’ oxygen needs. Branching textile, clamp and glass are original symbols, neither anatomical drawings nor treatment guidance; their number, colors and sizes carry no clinical measurement meaning. The phrase is original, not a quotation.\n1920 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the capillary motor regulating mechanism"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1920 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1920/summary/",
+            "labelLocalized": {
+              "zh": "1920年生理学或医学奖｜官方记录",
+              "en": "1920 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1920/krogh/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-310",
+      "subject": "nobel-laureate-310",
+      "edition": "color",
+      "title": "奥古斯特·克罗格",
+      "titleEnglish": "August Krogh",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-310/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-310/color.jpg",
+      "sha256": "bb0e30630e89b4116ae9fcc4cec17ad4e8dda4fa80c01408ac4bb3b10226281a",
+      "thumbnailSHA256": "45f030b020c94cba6ebcdfefa20600e81b5f39550dae4cf7092133e7ce156183",
+      "context": {
+        "phrase": {
+          "zh": "通路的开合，回应细微需要。",
+          "en": "Small needs shape open paths."
+        },
+        "visual": {
+          "zh": "粗大的珊瑚红织管从左下裁切，向右分成两支；上支旁是一枚张开的青绿色夹具，下支压过透明玻璃片。黑白版保留相同的分叉和遮挡。织物与夹具借通路的开合联想毛细血管调节，不是人体结构、医疗操作或真实实验图。",
+          "en": "A thick coral woven tube is cropped at lower left and divides into two branches on the right. An open teal clamp sits beside the upper branch; the lower crosses a clear glass slide. Monochrome keeps the branching and overlap. Textile and clamp evoke regulated pathways, not anatomy, a medical procedure or an actual experiment."
+        },
+        "background": {
+          "zh": "克罗格独享1920年诺贝尔生理学或医学奖，获奖研究涉及毛细血管运动的调节机制。诺贝尔官网说明，他研究了毛细血管的开放如何配合肌肉的供氧需要。画中的分叉织管、夹具与玻璃片是原创寓意，不按人体结构绘制，也不提供治疗建议；物件的数量、颜色与尺寸没有医学计量含义。短句为原创，不是人物引语。\n1920年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：发现毛细血管运动的调节机制。",
+          "en": "Krogh received the full 1920 Nobel Prize in Physiology or Medicine for discovering the capillary motor regulating mechanism. NobelPrize.org explains his study of how opening capillaries responds to muscles’ oxygen needs. Branching textile, clamp and glass are original symbols, neither anatomical drawings nor treatment guidance; their number, colors and sizes carry no clinical measurement meaning. The phrase is original, not a quotation.\n1920 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the capillary motor regulating mechanism"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1920 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1920/summary/",
+            "labelLocalized": {
+              "zh": "1920年生理学或医学奖｜官方记录",
+              "en": "1920 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1920/krogh/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

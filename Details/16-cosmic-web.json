@@ -1,0 +1,70 @@
+{
+  "subject": "16-cosmic-web",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:16-cosmic-web",
+      "subject": "16-cosmic-web",
+      "edition": "mono",
+      "title": "宇宙：丝状结构与尺度",
+      "titleEnglish": "The Cosmic Web",
+      "category": "宇宙",
+      "image": "Images/mono/16-cosmic-web.jpg",
+      "thumbnail": "Thumbs/mono/16-cosmic-web.jpg",
+      "sha256": "63db5281c5ba70fe1186c59b4a6d966e50f80bf318492160f5bc04843bef912f",
+      "thumbnailSHA256": "64ed492f381b06303825755d29f29ebcd37caeb081063d92f39112d8790da88a",
+      "context": {
+        "phrase": {
+          "zh": "星系之间，也有相连的结构。",
+          "en": "Structures connect the spaces between galaxies."
+        },
+        "visual": {
+          "zh": "星点与丝状光路组成网状空间，表达宇宙大尺度结构。明亮丝线是帮助观看的艺术处理，并不是肉眼能直接看见的发光绳索。",
+          "en": "Stars and filament-like paths form a network suggesting large-scale cosmic structure. The bright strands are an artistic aid, not glowing cords directly visible to the naked eye."
+        },
+        "background": {
+          "zh": "NASA 在 2023 年介绍韦布望远镜识别的一条早期宇宙丝状结构，其长度约 300 万光年，围绕遥远的明亮类星体展开。这个数值指该项研究中的具体结构，不能用来代表所有宇宙丝状结构。",
+          "en": "NASA reported in 2023 that Webb identified an early-universe filament about 3 million light-years long, anchored by a distant luminous quasar. That size belongs to the particular structure studied, not to all filaments in the cosmic web."
+        },
+        "sources": [
+          {
+            "label": "NASA · Earliest strands of the cosmic web",
+            "url": "https://www.nasa.gov/universe/nasas-webb-identifies-the-earliest-strands-of-the-cosmic-web/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:16-cosmic-web",
+      "subject": "16-cosmic-web",
+      "edition": "color",
+      "title": "宇宙：丝状结构与尺度",
+      "titleEnglish": "The Cosmic Web",
+      "category": "宇宙",
+      "image": "Images/color/16-cosmic-web.jpg",
+      "thumbnail": "Thumbs/color/16-cosmic-web.jpg",
+      "sha256": "2c79ea126c5de6705d46e8178ed588b5bd380a4bbb1ea5819c5a7e3649b03079",
+      "thumbnailSHA256": "95e8b277e498a27c4e06e9c36eff9d417b1202390db860b78d192c4d38acef01",
+      "context": {
+        "phrase": {
+          "zh": "星系之间，也有相连的结构。",
+          "en": "Structures connect the spaces between galaxies."
+        },
+        "visual": {
+          "zh": "星点与丝状光路组成网状空间，表达宇宙大尺度结构。明亮丝线是帮助观看的艺术处理，并不是肉眼能直接看见的发光绳索。",
+          "en": "Stars and filament-like paths form a network suggesting large-scale cosmic structure. The bright strands are an artistic aid, not glowing cords directly visible to the naked eye."
+        },
+        "background": {
+          "zh": "NASA 在 2023 年介绍韦布望远镜识别的一条早期宇宙丝状结构，其长度约 300 万光年，围绕遥远的明亮类星体展开。这个数值指该项研究中的具体结构，不能用来代表所有宇宙丝状结构。",
+          "en": "NASA reported in 2023 that Webb identified an early-universe filament about 3 million light-years long, anchored by a distant luminous quasar. That size belongs to the particular structure studied, not to all filaments in the cosmic web."
+        },
+        "sources": [
+          {
+            "label": "NASA · Earliest strands of the cosmic web",
+            "url": "https://www.nasa.gov/universe/nasas-webb-identifies-the-earliest-strands-of-the-cosmic-web/"
+          }
+        ]
+      }
+    }
+  }
+}

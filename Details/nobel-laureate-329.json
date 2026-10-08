@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-329",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-329",
+      "subject": "nobel-laureate-329",
+      "edition": "mono",
+      "title": "汉斯·施佩曼",
+      "titleEnglish": "Hans Spemann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-329/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-329/mono.jpg",
+      "sha256": "0d2c122b8140d6e48bd816fbed7b335749a9d7e3c1373a7394b9cbbc195d320d",
+      "thumbnailSHA256": "ddef3b4a7c44f7822e2d9808bb8b09db15c2cea2dfcc4e3ad1560ccae402197b",
+      "context": {
+        "phrase": {
+          "zh": "一小处改变，可能让周围长出新的方向。",
+          "en": "A small change can give the surrounding whole a new direction."
+        },
+        "visual": {
+          "zh": "横向椭圆形体位于中央，左下暗色小块与两道浅色弯折相接；细刻线和点纹顺着表面延伸，周围留出空白。",
+          "en": "A horizontal oval form lies centrally. A dark patch at lower left meets two pale curved folds; fine hatching and stippling follow the surface, with open space around it."
+        },
+        "background": {
+          "zh": "施佩曼因发现胚胎发育中的组织者效应获得1935年诺贝尔生理学或医学奖。组织者指一小片能影响周围组织发育的胚胎区域。在他指导下，希尔德·曼戈尔德完成了关键移植实验：这片组织移到另一个胚胎中，会引导周围组织形成新的胚胎结构。画面的浅色形体、暗色小块与两道褶线是原创发育寓意，不是人类胚胎图、真实实验切片或当前医疗方法；短句为原创。\n1935年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因发现胚胎发育中的组织者效应而获奖。",
+          "en": "Spemann received the 1935 Nobel Prize in Physiology or Medicine for the organizer effect in embryonic development. An organizer is a small embryonic region that influences how nearby tissue develops. Hilde Mangold carried out the key transplantation experiment under his direction: moved into another embryo, this tissue induced surrounding tissue to form new embryonic structures. The pale form, dark patch and paired folds are an original developmental metaphor, not a human embryo diagram, experimental section or medical procedure. The phrase is original.\n1935 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the organizer effect in embryonic development"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年生理学或医学奖｜官方记录",
+              "en": "1935 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1935/spemann/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-329",
+      "subject": "nobel-laureate-329",
+      "edition": "color",
+      "title": "汉斯·施佩曼",
+      "titleEnglish": "Hans Spemann",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-329/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-329/color.jpg",
+      "sha256": "ac66f773b4cfdbace0df645da78b9744caaa5b338e5700c8c1910b5ad11c1828",
+      "thumbnailSHA256": "72fc56ea4d8ae4585f06dd8be80926c2c7f83ae777acb3c80874ee96ed9fcd34",
+      "context": {
+        "phrase": {
+          "zh": "一小处改变，可能让周围长出新的方向。",
+          "en": "A small change can give the surrounding whole a new direction."
+        },
+        "visual": {
+          "zh": "横向椭圆形体位于中央，左下暗色小块与两道浅色弯折相接；细刻线和点纹顺着表面延伸，周围留出空白。",
+          "en": "A horizontal oval form lies centrally. A dark patch at lower left meets two pale curved folds; fine hatching and stippling follow the surface, with open space around it."
+        },
+        "background": {
+          "zh": "施佩曼因发现胚胎发育中的组织者效应获得1935年诺贝尔生理学或医学奖。组织者指一小片能影响周围组织发育的胚胎区域。在他指导下，希尔德·曼戈尔德完成了关键移植实验：这片组织移到另一个胚胎中，会引导周围组织形成新的胚胎结构。画面的浅色形体、暗色小块与两道褶线是原创发育寓意，不是人类胚胎图、真实实验切片或当前医疗方法；短句为原创。\n1935年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因发现胚胎发育中的组织者效应而获奖。",
+          "en": "Spemann received the 1935 Nobel Prize in Physiology or Medicine for the organizer effect in embryonic development. An organizer is a small embryonic region that influences how nearby tissue develops. Hilde Mangold carried out the key transplantation experiment under his direction: moved into another embryo, this tissue induced surrounding tissue to form new embryonic structures. The pale form, dark patch and paired folds are an original developmental metaphor, not a human embryo diagram, experimental section or medical procedure. The phrase is original.\n1935 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the organizer effect in embryonic development"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年生理学或医学奖｜官方记录",
+              "en": "1935 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1935/spemann/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

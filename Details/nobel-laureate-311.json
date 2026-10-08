@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-311",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-311",
+      "subject": "nobel-laureate-311",
+      "edition": "mono",
+      "title": "阿奇博尔德·希尔",
+      "titleEnglish": "Archibald V. Hill",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-311/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-311/mono.jpg",
+      "sha256": "782935a62835ce52fbdfbc8002e92a1e87c31b3f3320afe5cd253188b679cd0d",
+      "thumbnailSHA256": "f8062b4c50731f8f9c3962513eb83daa1573e9e41460a16babd5d82b8423814f",
+      "context": {
+        "phrase": {
+          "zh": "用力之后，细微的热仍在继续。",
+          "en": "After effort, subtle warmth continues."
+        },
+        "visual": {
+          "zh": "绷紧的浅色织带斜穿画面，右上深棕木夹固定其位置；细铜线绕过织带，伸向右下的小陶珠。黑白版保留织纹、物件与裁切。这是用力与测热的原创寓意，不是肌肉或实际仪器。",
+          "en": "A taut pale woven strap crosses diagonally, held by a dark walnut clamp at upper right; thin copper wire wraps around the strap and reaches a small ceramic bead at lower right. Monochrome preserves weave, objects and crop. This is an original tension-and-measurement metaphor, not muscle or an actual instrument."
+        },
+        "background": {
+          "zh": "希尔与迈耶霍夫各获1922年诺贝尔生理学或医学奖的一半；该年度奖项保留后于1923年颁给他们。希尔获奖的研究关注肌肉如何产热，并用敏感的热量测量区分工作与恢复阶段。画中绷紧的织带和铜线是原创寓意，不是肌肉或真实测量装置，也不提供运动或医疗建议。短句为原创。\n1922年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他对肌肉产热过程的发现。",
+          "en": "Hill and Meyerhof each received half of the 1922 Nobel Prize in Physiology or Medicine; the reserved award was presented in 1923. Hill studied heat production in muscle and used sensitive heat measurements to distinguish working and recovery stages. The taut woven strap and copper wire are original metaphors, not muscle or an actual measuring instrument, and provide no exercise or medical advice. The phrase is original.\n1922 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery relating to the production of heat in the muscle"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年生理学或医学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1922/hill/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-311",
+      "subject": "nobel-laureate-311",
+      "edition": "color",
+      "title": "阿奇博尔德·希尔",
+      "titleEnglish": "Archibald V. Hill",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-311/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-311/color.jpg",
+      "sha256": "98272c9936a66bd78b96352f399eb3ecc54c26045804774bb79a2ff302578263",
+      "thumbnailSHA256": "b7550b627aecc96aece7bfed7dbbdb4d9ea9f2091da3edbad22d7cbf3e6ee3af",
+      "context": {
+        "phrase": {
+          "zh": "用力之后，细微的热仍在继续。",
+          "en": "After effort, subtle warmth continues."
+        },
+        "visual": {
+          "zh": "绷紧的浅色织带斜穿画面，右上深棕木夹固定其位置；细铜线绕过织带，伸向右下的小陶珠。黑白版保留织纹、物件与裁切。这是用力与测热的原创寓意，不是肌肉或实际仪器。",
+          "en": "A taut pale woven strap crosses diagonally, held by a dark walnut clamp at upper right; thin copper wire wraps around the strap and reaches a small ceramic bead at lower right. Monochrome preserves weave, objects and crop. This is an original tension-and-measurement metaphor, not muscle or an actual instrument."
+        },
+        "background": {
+          "zh": "希尔与迈耶霍夫各获1922年诺贝尔生理学或医学奖的一半；该年度奖项保留后于1923年颁给他们。希尔获奖的研究关注肌肉如何产热，并用敏感的热量测量区分工作与恢复阶段。画中绷紧的织带和铜线是原创寓意，不是肌肉或真实测量装置，也不提供运动或医疗建议。短句为原创。\n1922年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他对肌肉产热过程的发现。",
+          "en": "Hill and Meyerhof each received half of the 1922 Nobel Prize in Physiology or Medicine; the reserved award was presented in 1923. Hill studied heat production in muscle and used sensitive heat measurements to distinguish working and recovery stages. The taut woven strap and copper wire are original metaphors, not muscle or an actual measuring instrument, and provide no exercise or medical advice. The phrase is original.\n1922 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery relating to the production of heat in the muscle"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年生理学或医学奖｜官方记录",
+              "en": "1922 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1922/hill/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

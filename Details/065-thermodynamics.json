@@ -1,0 +1,70 @@
+{
+  "subject": "065-thermodynamics",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:065-thermodynamics",
+      "subject": "065-thermodynamics",
+      "edition": "mono",
+      "title": "热与秩序",
+      "titleEnglish": "Heat and Order",
+      "category": "自然科学",
+      "image": "Images/mono/065-thermodynamics.jpg",
+      "thumbnail": "Thumbs/mono/065-thermodynamics.jpg",
+      "sha256": "3bf7964801d9efa4905521af7cf250dd5164b7867eea3b11a8b9069926da2b51",
+      "thumbnailSHA256": "ff66184f0bc46020563a34f7f4997ac9ee23740b68213b087f477dd159ec1d77",
+      "context": {
+        "phrase": {
+          "zh": "热能会转移，也会改变系统。",
+          "en": "Heat can move and change a system."
+        },
+        "visual": {
+          "zh": "热源、机械结构与流动色带聚在一起，借工作中的装置表现能量交换。颜色并非真实温度图，不能据此计算效率。",
+          "en": "A heat source, mechanism and flowing bands evoke energy exchange in a working device. Color is not a temperature map and cannot yield an efficiency."
+        },
+        "background": {
+          "zh": "热力学第一定律把系统内能的变化与传入的热量和系统做出的功联系起来：按 NASA 的符号约定，内能变化等于入热减去对外做功。它是能量守恒在热过程中的表达。",
+          "en": "The first law links a change in internal energy to heat entering a system and work done by that system. In NASA’s sign convention, the change equals heat in minus work out: conservation of energy applied to a thermal process."
+        },
+        "sources": [
+          {
+            "label": "NASA Glenn · First law of thermodynamics",
+            "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/first-law-internal-energy/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:065-thermodynamics",
+      "subject": "065-thermodynamics",
+      "edition": "color",
+      "title": "热与秩序",
+      "titleEnglish": "Heat and Order",
+      "category": "自然科学",
+      "image": "Images/color/065-thermodynamics.jpg",
+      "thumbnail": "Thumbs/color/065-thermodynamics.jpg",
+      "sha256": "92b6132b3f00ed4b31e19b4cf2c48c65a165ccc56d73b5ea489d1652bd943c1e",
+      "thumbnailSHA256": "40a95ee5c82fa96ffb01abddb2b9a12dfb1c5dc9ecf1457abb9204d15efbc7f0",
+      "context": {
+        "phrase": {
+          "zh": "热能会转移，也会改变系统。",
+          "en": "Heat can move and change a system."
+        },
+        "visual": {
+          "zh": "热源、机械结构与流动色带聚在一起，借工作中的装置表现能量交换。颜色并非真实温度图，不能据此计算效率。",
+          "en": "A heat source, mechanism and flowing bands evoke energy exchange in a working device. Color is not a temperature map and cannot yield an efficiency."
+        },
+        "background": {
+          "zh": "热力学第一定律把系统内能的变化与传入的热量和系统做出的功联系起来：按 NASA 的符号约定，内能变化等于入热减去对外做功。它是能量守恒在热过程中的表达。",
+          "en": "The first law links a change in internal energy to heat entering a system and work done by that system. In NASA’s sign convention, the change equals heat in minus work out: conservation of energy applied to a thermal process."
+        },
+        "sources": [
+          {
+            "label": "NASA Glenn · First law of thermodynamics",
+            "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/first-law-internal-energy/"
+          }
+        ]
+      }
+    }
+  }
+}

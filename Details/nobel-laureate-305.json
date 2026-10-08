@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-305",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-305",
+      "subject": "nobel-laureate-305",
+      "edition": "mono",
+      "title": "阿尔瓦·古尔斯特兰德",
+      "titleEnglish": "Allvar Gullstrand",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-305/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-305/mono.jpg",
+      "sha256": "2c37110edcd6bf668113f3e09d489d4e3b33d31e657c75d8653fecca15a335fb",
+      "thumbnailSHA256": "e59962db7d795f8724e3d0222b73d97a53e632d81a9051f830d736f23526e1d3",
+      "context": {
+        "phrase": {
+          "zh": "看清远近，需要细微的改变。",
+          "en": "Small adjustments bring near and far into focus."
+        },
+        "visual": {
+          "zh": "左上方巨大的凸透镜与右下角较小的剖开眼球模型交叠，以悬殊尺度呼应眼的光学研究。黑白与钴蓝版突出透镜和虹膜；彩色版使用淡绿玻璃、榛绿色虹膜与乳白陶瓷外壳。模型是原创艺术表达，不是准确解剖图、诊断图或真实实验复原。",
+          "en": "A huge convex lens cropped at upper left overlaps a smaller cutaway artificial eye, using scale to evoke ocular optics. Cobalt emphasizes lens and iris in the monochrome edition; full color uses pale green glass, hazel-green iris and ivory ceramic. This is an artistic model, not accurate anatomy, a diagnostic image or a historical reconstruction."
+        },
+        "background": {
+          "zh": "古尔斯特兰德因研究眼睛的屈光学获得1911年诺贝尔生理学或医学奖。屈光学在这里指光线进入眼睛后如何折转和聚焦，使人能够看清物体。他在1911年12月11日的诺贝尔演讲中解释，正常眼睛通过晶状体形状的改变适应不同观看距离，整个眼睛的光学系统随之调整；他还用数学研究光束与像差，讨论为什么眼睛不能简单等同于理想透镜。配图只借透明透镜和眼球模型表达聚焦，不提供诊断、治疗建议或精确测量；短句为原创，不是本人引语。\n1911年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因对眼睛屈光学的研究。",
+          "en": "Gullstrand received the 1911 Nobel Prize in Physiology or Medicine for eye optics: how incoming light is refracted and focused. His Nobel lecture on 11 December 1911 explains how changes in the crystalline lens adapt the eye's optical system to different viewing distances. He also discusses mathematical analysis of ray bundles and aberrations, including why the eye cannot simply be treated as an ideal lens. The transparent lens and eye model interpret focusing without offering diagnosis, treatment or precise measurements. The phrase is original, not a quotation.\n1911 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on the dioptrics of the eye"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年生理学或医学奖｜官方记录",
+              "en": "1911 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/gullstrand-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-305",
+      "subject": "nobel-laureate-305",
+      "edition": "color",
+      "title": "阿尔瓦·古尔斯特兰德",
+      "titleEnglish": "Allvar Gullstrand",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-305/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-305/color.jpg",
+      "sha256": "33f4e718da258b2659f0ba40ae7e412308bf2c7aa08f3d53399916fc079ebfaa",
+      "thumbnailSHA256": "cf46bfe7ac8577e59514bb133def3cbf50fdb2c8bdea199d6d14010f88f87d72",
+      "context": {
+        "phrase": {
+          "zh": "看清远近，需要细微的改变。",
+          "en": "Small adjustments bring near and far into focus."
+        },
+        "visual": {
+          "zh": "左上方巨大的凸透镜与右下角较小的剖开眼球模型交叠，以悬殊尺度呼应眼的光学研究。黑白与钴蓝版突出透镜和虹膜；彩色版使用淡绿玻璃、榛绿色虹膜与乳白陶瓷外壳。模型是原创艺术表达，不是准确解剖图、诊断图或真实实验复原。",
+          "en": "A huge convex lens cropped at upper left overlaps a smaller cutaway artificial eye, using scale to evoke ocular optics. Cobalt emphasizes lens and iris in the monochrome edition; full color uses pale green glass, hazel-green iris and ivory ceramic. This is an artistic model, not accurate anatomy, a diagnostic image or a historical reconstruction."
+        },
+        "background": {
+          "zh": "古尔斯特兰德因研究眼睛的屈光学获得1911年诺贝尔生理学或医学奖。屈光学在这里指光线进入眼睛后如何折转和聚焦，使人能够看清物体。他在1911年12月11日的诺贝尔演讲中解释，正常眼睛通过晶状体形状的改变适应不同观看距离，整个眼睛的光学系统随之调整；他还用数学研究光束与像差，讨论为什么眼睛不能简单等同于理想透镜。配图只借透明透镜和眼球模型表达聚焦，不提供诊断、治疗建议或精确测量；短句为原创，不是本人引语。\n1911年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因对眼睛屈光学的研究。",
+          "en": "Gullstrand received the 1911 Nobel Prize in Physiology or Medicine for eye optics: how incoming light is refracted and focused. His Nobel lecture on 11 December 1911 explains how changes in the crystalline lens adapt the eye's optical system to different viewing distances. He also discusses mathematical analysis of ray bundles and aberrations, including why the eye cannot simply be treated as an ideal lens. The transparent lens and eye model interpret focusing without offering diagnosis, treatment or precise measurements. The phrase is original, not a quotation.\n1911 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on the dioptrics of the eye"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年生理学或医学奖｜官方记录",
+              "en": "1911 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/gullstrand-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

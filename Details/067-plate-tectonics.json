@@ -1,0 +1,70 @@
+{
+  "subject": "067-plate-tectonics",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:067-plate-tectonics",
+      "subject": "067-plate-tectonics",
+      "edition": "mono",
+      "title": "大地的运动",
+      "titleEnglish": "Plate Tectonics",
+      "category": "自然科学",
+      "image": "Images/mono/067-plate-tectonics.jpg",
+      "thumbnail": "Thumbs/mono/067-plate-tectonics.jpg",
+      "sha256": "3a7082cea11cce269270ee84ecec82da77f1b2fdb8e58868aaeb7bfc24fcdc2e",
+      "thumbnailSHA256": "03896686263db76fed05a1a0bc475ff4606b2ec4db2ffb39cb73a8b6f76d0ec6",
+      "context": {
+        "phrase": {
+          "zh": "地表看似安静，板块仍在移动。",
+          "en": "The surface seems still while plates move."
+        },
+        "visual": {
+          "zh": "地层边界沿弧线错开，内部亮带提示深处的地质活动。它不是地震风险图，也不对应可定位的断层。",
+          "en": "Layer boundaries slip along arcs while bright bands hint at activity below. This is neither an earthquake-risk map nor a locatable fault."
+        },
+        "background": {
+          "zh": "地球岩石圈分成彼此相对移动的板块。海底扩张在洋中脊生成新洋壳，其他边界的俯冲又使一些洋壳回到地球内部；变化通常在漫长时间里积累。",
+          "en": "Earth’s lithosphere is divided into plates that move relative to one another. New ocean crust forms at spreading ridges, while subduction returns some crust into Earth’s interior; these changes build over long timescales."
+        },
+        "sources": [
+          {
+            "label": "US Geological Survey · This Dynamic Earth",
+            "url": "https://pubs.usgs.gov/gip/dynamic/HHH.html"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:067-plate-tectonics",
+      "subject": "067-plate-tectonics",
+      "edition": "color",
+      "title": "大地的运动",
+      "titleEnglish": "Plate Tectonics",
+      "category": "自然科学",
+      "image": "Images/color/067-plate-tectonics.jpg",
+      "thumbnail": "Thumbs/color/067-plate-tectonics.jpg",
+      "sha256": "a0d633e3d0106942f921eb12c0f0e7d0113cdcff256245f419ae74a883cb2b19",
+      "thumbnailSHA256": "99bbb8a57a16e51ffec9d49a822f81ce0e09fd60062aa2e0fa6cd7ed6c548aa4",
+      "context": {
+        "phrase": {
+          "zh": "地表看似安静，板块仍在移动。",
+          "en": "The surface seems still while plates move."
+        },
+        "visual": {
+          "zh": "地层边界沿弧线错开，内部亮带提示深处的地质活动。它不是地震风险图，也不对应可定位的断层。",
+          "en": "Layer boundaries slip along arcs while bright bands hint at activity below. This is neither an earthquake-risk map nor a locatable fault."
+        },
+        "background": {
+          "zh": "地球岩石圈分成彼此相对移动的板块。海底扩张在洋中脊生成新洋壳，其他边界的俯冲又使一些洋壳回到地球内部；变化通常在漫长时间里积累。",
+          "en": "Earth’s lithosphere is divided into plates that move relative to one another. New ocean crust forms at spreading ridges, while subduction returns some crust into Earth’s interior; these changes build over long timescales."
+        },
+        "sources": [
+          {
+            "label": "US Geological Survey · This Dynamic Earth",
+            "url": "https://pubs.usgs.gov/gip/dynamic/HHH.html"
+          }
+        ]
+      }
+    }
+  }
+}

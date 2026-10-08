@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-464",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-464",
+      "subject": "nobel-laureate-464",
+      "edition": "mono",
+      "title": "埃利·迪科曼",
+      "titleEnglish": "Élie Ducommun",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-464/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-464/mono.jpg",
+      "sha256": "a61c23ae5fcdf5e96b54cc96c4f7f7781dd0ce22584fd825aecd3f34dbe727aa",
+      "thumbnailSHA256": "64b9bc45f66639cd7bf4cf6fae6cb073ddf26156d61dcf70656bfb7be6957077",
+      "context": {
+        "phrase": {
+          "zh": "把联系维系下去，让和平有处可依。",
+          "en": "Sustain the connections that give peace a place to grow."
+        },
+        "visual": {
+          "zh": "为迪科曼独立创作的组织工作拼贴，以邮袋、信封、纸包和印章呼应和平团体之间持续的联系。纸页不引用真实文书，物件也不是他的私人遗物。",
+          "en": "An original organizing-work collage for Ducommun uses a dispatch bag, envelopes, paper bundles and a seal to evoke sustained connections among peace groups. It neither quotes documents nor depicts his personal belongings."
+        },
+        "background": {
+          "zh": "迪科曼与戈巴分享1902年诺贝尔和平奖。他长期主持伯尔尼的国际和平局，联系各国和平团体，为和平大会准备议程、发布决议并保持通信。配图把这些持续而具体的组织工作作为主题，没有把奖项简化为抽象的和平标志。\n1902年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他对伯尔尼和平局坚持不懈而卓有成效的领导。",
+          "en": "Ducommun shared the 1902 Nobel Peace Prize with Gobat. As leader of the International Peace Bureau in Bern, he linked peace groups, prepared congress programs, published resolutions and maintained correspondence. The artwork interprets this sustained organizational work.\n1902 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his untiring and skilful directorship of the Bern Peace Bureau"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年和平奖｜官方记录",
+              "en": "1902 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1902",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-464",
+      "subject": "nobel-laureate-464",
+      "edition": "color",
+      "title": "埃利·迪科曼",
+      "titleEnglish": "Élie Ducommun",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-464/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-464/color.jpg",
+      "sha256": "27efe7b83109741052fa8c10d7b4f39c8a2579582241896ab6ef29bf82ce4dea",
+      "thumbnailSHA256": "8e3c37698d6601285b860c69868b6aa5d0fce95beb7ca10355cbfbc268c1daea",
+      "context": {
+        "phrase": {
+          "zh": "把联系维系下去，让和平有处可依。",
+          "en": "Sustain the connections that give peace a place to grow."
+        },
+        "visual": {
+          "zh": "为迪科曼独立创作的组织工作拼贴，以邮袋、信封、纸包和印章呼应和平团体之间持续的联系。纸页不引用真实文书，物件也不是他的私人遗物。",
+          "en": "An original organizing-work collage for Ducommun uses a dispatch bag, envelopes, paper bundles and a seal to evoke sustained connections among peace groups. It neither quotes documents nor depicts his personal belongings."
+        },
+        "background": {
+          "zh": "迪科曼与戈巴分享1902年诺贝尔和平奖。他长期主持伯尔尼的国际和平局，联系各国和平团体，为和平大会准备议程、发布决议并保持通信。配图把这些持续而具体的组织工作作为主题，没有把奖项简化为抽象的和平标志。\n1902年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他对伯尔尼和平局坚持不懈而卓有成效的领导。",
+          "en": "Ducommun shared the 1902 Nobel Peace Prize with Gobat. As leader of the International Peace Bureau in Bern, he linked peace groups, prepared congress programs, published resolutions and maintained correspondence. The artwork interprets this sustained organizational work.\n1902 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his untiring and skilful directorship of the Bern Peace Bureau"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年和平奖｜官方记录",
+              "en": "1902 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1902",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

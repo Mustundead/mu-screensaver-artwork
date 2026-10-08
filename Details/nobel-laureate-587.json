@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-587",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-587",
+      "subject": "nobel-laureate-587",
+      "edition": "mono",
+      "title": "亨利克·彭托皮丹",
+      "titleEnglish": "Henrik Pontoppidan",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-587/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-587/mono.jpg",
+      "sha256": "41a5bd521ee086cbf05662a98e28fa39b9d9dfebb7b0b78b7f76b932996b65a5",
+      "thumbnailSHA256": "9dc54c1dca45d0d19a21da3c11637a71256155cc5663a332532c9ac8d911bd7f",
+      "context": {
+        "phrase": {
+          "zh": "把日常看仔细，也能写成时代。",
+          "en": "Look closely at everyday life and an era comes into view."
+        },
+        "visual": {
+          "zh": "左下巨大的木鞋与右上裁切的钢齿轮相对，右下较小的蓝灰布封书展开空白页，中部保持留白。彩色版区分暖木、冷钢、布封和奶油色纸张；黑白版保持布局。这些是日常生活与工业变化的原创象征，不是作家的用品或某部小说中的实物。",
+          "en": "An oversized wooden clog at lower left faces a cropped steel gear at upper right. A smaller slate-blue cloth book opens into blank pages at lower right, leaving the center quiet. Color distinguishes warm wood, cool steel, cloth and cream paper; monochrome keeps the layout. These original symbols of everyday life and industrial change are not the author’s belongings or artifacts from a novel."
+        },
+        "background": {
+          "zh": "彭托皮丹与卡尔·耶勒鲁普分享1917年诺贝尔文学奖，各占一半，获奖理由肯定他对当时丹麦生活的真实描写。诺贝尔官网介绍，他的小说与短篇覆盖丹麦生活的多个方面，描写宪政争论、工业化和社会运动兴起的年代；他曾于1873年在哥本哈根学习工程。《幸运的佩尔》（1898至1904）描写一位有才华的人离开宗教家庭、追求工程师生涯的故事。画面用木鞋、齿轮和书作原创象征，不复原这部小说的场景。短句为原创，不是作品摘句或获奖者引语。\n1917年文学奖；获得本年度奖项的一半。获奖理由（中文译述）：肯定其对当时丹麦生活的真实描写",
+          "en": "Pontoppidan shared the 1917 Nobel Prize in Literature equally with Karl Gjellerup, recognized for authentic descriptions of contemporary Danish life. NobelPrize.org describes novels and short stories spanning Danish life during constitutional conflict, industrialization and emerging social movements. He studied engineering in Copenhagen in 1873. Lucky Per (1898–1904) follows a gifted man who breaks with his religious family to become an engineer. Clog, gear and book are original symbols, not a scene from that novel. The phrase is original, not an excerpt or quotation.\n1917 — The Nobel Prize in Literature. Received half of the prize. Official motivation: for his authentic descriptions of present-day life in Denmark"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1917 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1917/summary/",
+            "labelLocalized": {
+              "zh": "1917年文学奖｜官方记录",
+              "en": "1917 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1917/pontoppidan/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-587",
+      "subject": "nobel-laureate-587",
+      "edition": "color",
+      "title": "亨利克·彭托皮丹",
+      "titleEnglish": "Henrik Pontoppidan",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-587/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-587/color.jpg",
+      "sha256": "e0d0d36c66abf34d2b0c25491ae055e43f7fdd8cdf08aa96c86b0c2bd7a41c14",
+      "thumbnailSHA256": "58ad605ea2088d2983a09845be65fb1efb71b9ef15f3cf31c3cf8ccd11069b30",
+      "context": {
+        "phrase": {
+          "zh": "把日常看仔细，也能写成时代。",
+          "en": "Look closely at everyday life and an era comes into view."
+        },
+        "visual": {
+          "zh": "左下巨大的木鞋与右上裁切的钢齿轮相对，右下较小的蓝灰布封书展开空白页，中部保持留白。彩色版区分暖木、冷钢、布封和奶油色纸张；黑白版保持布局。这些是日常生活与工业变化的原创象征，不是作家的用品或某部小说中的实物。",
+          "en": "An oversized wooden clog at lower left faces a cropped steel gear at upper right. A smaller slate-blue cloth book opens into blank pages at lower right, leaving the center quiet. Color distinguishes warm wood, cool steel, cloth and cream paper; monochrome keeps the layout. These original symbols of everyday life and industrial change are not the author’s belongings or artifacts from a novel."
+        },
+        "background": {
+          "zh": "彭托皮丹与卡尔·耶勒鲁普分享1917年诺贝尔文学奖，各占一半，获奖理由肯定他对当时丹麦生活的真实描写。诺贝尔官网介绍，他的小说与短篇覆盖丹麦生活的多个方面，描写宪政争论、工业化和社会运动兴起的年代；他曾于1873年在哥本哈根学习工程。《幸运的佩尔》（1898至1904）描写一位有才华的人离开宗教家庭、追求工程师生涯的故事。画面用木鞋、齿轮和书作原创象征，不复原这部小说的场景。短句为原创，不是作品摘句或获奖者引语。\n1917年文学奖；获得本年度奖项的一半。获奖理由（中文译述）：肯定其对当时丹麦生活的真实描写",
+          "en": "Pontoppidan shared the 1917 Nobel Prize in Literature equally with Karl Gjellerup, recognized for authentic descriptions of contemporary Danish life. NobelPrize.org describes novels and short stories spanning Danish life during constitutional conflict, industrialization and emerging social movements. He studied engineering in Copenhagen in 1873. Lucky Per (1898–1904) follows a gifted man who breaks with his religious family to become an engineer. Clog, gear and book are original symbols, not a scene from that novel. The phrase is original, not an excerpt or quotation.\n1917 — The Nobel Prize in Literature. Received half of the prize. Official motivation: for his authentic descriptions of present-day life in Denmark"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1917 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1917/summary/",
+            "labelLocalized": {
+              "zh": "1917年文学奖｜官方记录",
+              "en": "1917 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1917/pontoppidan/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

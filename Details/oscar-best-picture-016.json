@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-016",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-016",
+      "subject": "oscar-best-picture-016",
+      "edition": "mono",
+      "title": "卡萨布兰卡",
+      "titleEnglish": "Casablanca",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-016/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-016/mono.jpg",
+      "sha256": "0702d56c6785dbd39d44ffc03f3d58e4762d3106f771877d7bcd793215818f1f",
+      "thumbnailSHA256": "f858b49c9b61cbbfc4ca5b073977f11fd3a88371d02439c5748899238465a261",
+      "context": {
+        "phrase": {
+          "zh": "有些告别，让选择继续。",
+          "en": "Some farewells let a choice carry on."
+        },
+        "visual": {
+          "zh": "巨大的钢琴键盘斜压前景，两张空白票据与远处雾中的飞机形成尺度对照，呼应音乐、选择与离别。黑白与钴蓝版突出琴身；彩色版使用红褐木、乳白与乌黑琴键、浅色票据和冷灰蓝机场。它是原创拼贴，不是影片上色剧照、真实机场或历史票据复原。",
+          "en": "A huge diagonal piano keyboard contrasts with two blank tickets and a small plane in distant mist, evoking music, choice and departure. Cobalt marks the piano case in monochrome; full color uses mahogany, ivory/ebony keys, pale tickets and a cool gray-blue airfield. It is an original collage, not a colorized film still or a reconstruction of an airport or historical ticket."
+        },
+        "background": {
+          "zh": "《卡萨布兰卡》由迈克尔·柯蒂斯执导。美国电影学会记录其纽约首映为1942年11月26日、全国发行为1943年1月23日；它在1944年3月2日举行的第16届奥斯卡获最佳影片。故事发生在战时卡萨布兰卡：里克经营咖啡馆，旧爱伊尔莎与抵抗运动人物拉斯洛的到来，让他面对感情、通行文件与离开的选择。钢琴和通行文件对应叙事对象，物体的大小、摆放及空白文件为原创隐喻；短句不是电影台词。\n第16届奥斯卡最佳影片：卡萨布兰卡。颁奖年份 1944；参评年份 1943。",
+          "en": "Directed by Michael Curtiz, Casablanca opened in New York on November 26, 1942 and nationally on January 23, 1943, according to AFI. It won Best Picture at the 16th Academy Awards on March 2, 1944. In wartime Casablanca, café owner Rick encounters former lover Ilsa and resistance leader Laszlo, confronting love, transit papers and departure. Piano and papers correspond to narrative objects; their scale, arrangement and blank surfaces are an original metaphor. The phrase is not film dialogue.\nAcademy Awards ceremony 16 (1944), Best Picture: Casablanca. Eligibility year: 1943."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1944",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/27175-CASABLANCA",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-016",
+      "subject": "oscar-best-picture-016",
+      "edition": "color",
+      "title": "卡萨布兰卡",
+      "titleEnglish": "Casablanca",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-016/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-016/color.jpg",
+      "sha256": "21bb113a8d948fa2dc8efde2b386bc545838145c612ce86b56f565d078bb5e99",
+      "thumbnailSHA256": "901c5258718be2fabbbdb05a17d8069152e7140f80f7d2eaa37f2b89ce9ad891",
+      "context": {
+        "phrase": {
+          "zh": "有些告别，让选择继续。",
+          "en": "Some farewells let a choice carry on."
+        },
+        "visual": {
+          "zh": "巨大的钢琴键盘斜压前景，两张空白票据与远处雾中的飞机形成尺度对照，呼应音乐、选择与离别。黑白与钴蓝版突出琴身；彩色版使用红褐木、乳白与乌黑琴键、浅色票据和冷灰蓝机场。它是原创拼贴，不是影片上色剧照、真实机场或历史票据复原。",
+          "en": "A huge diagonal piano keyboard contrasts with two blank tickets and a small plane in distant mist, evoking music, choice and departure. Cobalt marks the piano case in monochrome; full color uses mahogany, ivory/ebony keys, pale tickets and a cool gray-blue airfield. It is an original collage, not a colorized film still or a reconstruction of an airport or historical ticket."
+        },
+        "background": {
+          "zh": "《卡萨布兰卡》由迈克尔·柯蒂斯执导。美国电影学会记录其纽约首映为1942年11月26日、全国发行为1943年1月23日；它在1944年3月2日举行的第16届奥斯卡获最佳影片。故事发生在战时卡萨布兰卡：里克经营咖啡馆，旧爱伊尔莎与抵抗运动人物拉斯洛的到来，让他面对感情、通行文件与离开的选择。钢琴和通行文件对应叙事对象，物体的大小、摆放及空白文件为原创隐喻；短句不是电影台词。\n第16届奥斯卡最佳影片：卡萨布兰卡。颁奖年份 1944；参评年份 1943。",
+          "en": "Directed by Michael Curtiz, Casablanca opened in New York on November 26, 1942 and nationally on January 23, 1943, according to AFI. It won Best Picture at the 16th Academy Awards on March 2, 1944. In wartime Casablanca, café owner Rick encounters former lover Ilsa and resistance leader Laszlo, confronting love, transit papers and departure. Piano and papers correspond to narrative objects; their scale, arrangement and blank surfaces are an original metaphor. The phrase is not film dialogue.\nAcademy Awards ceremony 16 (1944), Best Picture: Casablanca. Eligibility year: 1943."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1944",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/27175-CASABLANCA",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

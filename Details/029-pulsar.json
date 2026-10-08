@@ -1,0 +1,70 @@
+{
+  "subject": "029-pulsar",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:029-pulsar",
+      "subject": "029-pulsar",
+      "edition": "mono",
+      "title": "脉冲星",
+      "titleEnglish": "Pulsars",
+      "category": "宇宙",
+      "image": "Images/mono/029-pulsar.jpg",
+      "thumbnail": "Thumbs/mono/029-pulsar.jpg",
+      "sha256": "8ef3c3182fd042b0e4987b377bb65499ff0c2a6ac495c29e02e69776501b8e46",
+      "thumbnailSHA256": "26899774da897279d4fb67c50e6dd4c83303b2b40b43a6ef8852aaa9976ba7c1",
+      "context": {
+        "phrase": {
+          "zh": "稳定的闪烁，也是星体在转动。",
+          "en": "A steady pulse can reveal a spinning star."
+        },
+        "visual": {
+          "zh": "星体旁的同心光环与双向光束，把有规律的脉冲画成可见的拍点。图中的光束方向和比例不对应具体脉冲星。",
+          "en": "Concentric rings and opposing beams turn regular pulses into visible beats. Beam angles and scale do not represent a particular pulsar."
+        },
+        "background": {
+          "zh": "脉冲星是一类快速旋转的中子星。它的辐射束随旋转扫过地球时，观测者会接收到重复的脉冲；脉冲间隔反映其自转，而不是星体本身一明一灭。",
+          "en": "Pulsars are rapidly rotating neutron stars. As a radiation beam sweeps across Earth, observers receive repeated pulses. The intervals reflect rotation, rather than a star switching on and off."
+        },
+        "sources": [
+          {
+            "label": "NASA · Pulsars",
+            "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-pulsars/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:029-pulsar",
+      "subject": "029-pulsar",
+      "edition": "color",
+      "title": "脉冲星",
+      "titleEnglish": "Pulsars",
+      "category": "宇宙",
+      "image": "Images/color/029-pulsar.jpg",
+      "thumbnail": "Thumbs/color/029-pulsar.jpg",
+      "sha256": "2bc93ab11fbc1e119e07185b2b98f18c84be1d01979d54c030997a97b28c3253",
+      "thumbnailSHA256": "3ee36b11ea3e55a9c39a1ee974d6a91bb96704de49d90e65587bfeef420ea789",
+      "context": {
+        "phrase": {
+          "zh": "稳定的闪烁，也是星体在转动。",
+          "en": "A steady pulse can reveal a spinning star."
+        },
+        "visual": {
+          "zh": "星体旁的同心光环与双向光束，把有规律的脉冲画成可见的拍点。图中的光束方向和比例不对应具体脉冲星。",
+          "en": "Concentric rings and opposing beams turn regular pulses into visible beats. Beam angles and scale do not represent a particular pulsar."
+        },
+        "background": {
+          "zh": "脉冲星是一类快速旋转的中子星。它的辐射束随旋转扫过地球时，观测者会接收到重复的脉冲；脉冲间隔反映其自转，而不是星体本身一明一灭。",
+          "en": "Pulsars are rapidly rotating neutron stars. As a radiation beam sweeps across Earth, observers receive repeated pulses. The intervals reflect rotation, rather than a star switching on and off."
+        },
+        "sources": [
+          {
+            "label": "NASA · Pulsars",
+            "url": "https://science.nasa.gov/mission/hubble/science/science-behind-the-discoveries/hubble-pulsars/"
+          }
+        ]
+      }
+    }
+  }
+}

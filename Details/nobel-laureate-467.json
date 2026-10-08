@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-467",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-467",
+      "subject": "nobel-laureate-467",
+      "edition": "mono",
+      "title": "国际法学会",
+      "titleEnglish": "Institute of International Law",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-467/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-467/mono.jpg",
+      "sha256": "29fb8ef3f9792684468ab6d257ac33c9da7efa08e7836b2967681cfb56eef214",
+      "thumbnailSHA256": "d67aab9f7c3cfe56ffd4c3e6ba42f3296e8f0b1922a964f69b8f66b0d8553446",
+      "context": {
+        "phrase": {
+          "zh": "共同遵守的规则，让分歧有机会平和解决。",
+          "en": "Shared rules can give disagreements a peaceful way forward."
+        },
+        "visual": {
+          "zh": "为国际法学会独立创作的法律交流拼贴，以空椅、圆桌、无字书册和文书呼应共同讨论规则的工作。图中的书房、桥梁和物件均是艺术想象，不是学会的真实办公地点、徽标或历史文书。",
+          "en": "An original legal-dialogue collage for the Institute of International Law uses empty chairs, a round table, unlettered books and papers to evoke discussion of shared rules. The library, bridge and objects are imagined, not its actual office, emblem or historical documents."
+        },
+        "background": {
+          "zh": "国际法学会是一家由法律学者组成的非政府组织，成立于1873年。它获得1904年诺贝尔和平奖，表彰其通过公法促进国家间和平关系、并使战争法更具人道精神的努力。诺贝尔和平奖官方资料还介绍了它推动国际仲裁和战争期间法律规则的工作。\n1904年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰其通过公法促进国家间和平关系，并使战争法更具人道精神的努力。",
+          "en": "Founded in 1873, the Institute of International Law is a nongovernmental organization of lawyers. It received the 1904 Nobel Peace Prize for efforts in public law to develop peaceful ties between nations and make the laws of war more humane. Official Peace Prize material also describes its work promoting international arbitration and legal rules in wartime.\n1904 — The Nobel Peace Prize. Received the full prize. Official motivation: for its striving in public law to develop peaceful ties between nations and to make the laws of war more humane"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年和平奖｜官方记录",
+              "en": "1904 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1904",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-467",
+      "subject": "nobel-laureate-467",
+      "edition": "color",
+      "title": "国际法学会",
+      "titleEnglish": "Institute of International Law",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-467/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-467/color.jpg",
+      "sha256": "69f1dfc90da389504171d51cf61df42523b46d620a48f36b8ba700f4b9314140",
+      "thumbnailSHA256": "c3e2de5e4fac9f4d542001bd33753d2ef81478297e938bdc72bd40e05f8859a1",
+      "context": {
+        "phrase": {
+          "zh": "共同遵守的规则，让分歧有机会平和解决。",
+          "en": "Shared rules can give disagreements a peaceful way forward."
+        },
+        "visual": {
+          "zh": "为国际法学会独立创作的法律交流拼贴，以空椅、圆桌、无字书册和文书呼应共同讨论规则的工作。图中的书房、桥梁和物件均是艺术想象，不是学会的真实办公地点、徽标或历史文书。",
+          "en": "An original legal-dialogue collage for the Institute of International Law uses empty chairs, a round table, unlettered books and papers to evoke discussion of shared rules. The library, bridge and objects are imagined, not its actual office, emblem or historical documents."
+        },
+        "background": {
+          "zh": "国际法学会是一家由法律学者组成的非政府组织，成立于1873年。它获得1904年诺贝尔和平奖，表彰其通过公法促进国家间和平关系、并使战争法更具人道精神的努力。诺贝尔和平奖官方资料还介绍了它推动国际仲裁和战争期间法律规则的工作。\n1904年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰其通过公法促进国家间和平关系，并使战争法更具人道精神的努力。",
+          "en": "Founded in 1873, the Institute of International Law is a nongovernmental organization of lawyers. It received the 1904 Nobel Peace Prize for efforts in public law to develop peaceful ties between nations and make the laws of war more humane. Official Peace Prize material also describes its work promoting international arbitration and legal rules in wartime.\n1904 — The Nobel Peace Prize. Received the full prize. Official motivation: for its striving in public law to develop peaceful ties between nations and to make the laws of war more humane"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年和平奖｜官方记录",
+              "en": "1904 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "nobelpeaceprize.org",
+            "url": "https://www.nobelpeaceprize.org/laureates/1904",
+            "labelLocalized": {
+              "zh": "获奖者介绍｜诺贝尔和平奖官网",
+              "en": "Laureate profile — Nobel Peace Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

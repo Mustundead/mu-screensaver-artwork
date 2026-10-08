@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-30",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-30",
+      "subject": "nobel-laureate-30",
+      "edition": "mono",
+      "title": "詹姆斯·弗兰克",
+      "titleEnglish": "James Franck",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-30/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-30/mono.jpg",
+      "sha256": "0ae98ef598e896366efe668fc9658b79feda10b2d4560c689066729ec21570c5",
+      "thumbnailSHA256": "f3c074cf63a4ccba24f668fa81ad9868aed925bf50d6b99ac1cdb9bb522eb6b1",
+      "context": {
+        "phrase": {
+          "zh": "微小的碰撞，让原子的规律显形。",
+          "en": "Small impacts reveal the rules within atoms."
+        },
+        "visual": {
+          "zh": "一只淡青玻璃管斜穿画面，巨大铜网与线圈置于其中，两根钢杆从右下伸出，左下有三粒大小不同的琥珀色玻璃珠。黑白版保留物件、裁切与重叠，细刻纹更明显。这是电子碰撞实验的原创寓意，不是历史器材。",
+          "en": "A pale teal glass tube cuts diagonally across the frame, holding a large copper mesh and coil, with two steel rods extending at lower right and three unequal amber glass beads at lower left. Monochrome retains the objects, crop and overlaps, with stronger fine hatching. This is an original electron-impact metaphor, not a historical apparatus."
+        },
+        "background": {
+          "zh": "弗兰克与古斯塔夫·赫兹共同获1925年诺贝尔物理学奖，各占一半，奖项于1926年颁发。两人在1914年通过低压气体管中的电子碰撞实验，观察电流随电压变化出现的下降，支持了原子只能吸收特定能量的认识。玻璃管与金属网是这项实验工作的原创寓意，不是历史仪器复原或实际测量图。短句为原创。\n1925年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们发现电子撞击原子所遵循的规律。",
+          "en": "Franck and Gustav Hertz shared the 1925 Nobel Prize in Physics equally, receiving it in 1926. Their 1914 electron-impact experiment in a low-pressure gas tube showed current drops as voltage rose, supporting the idea of discrete atomic energies. The glass tube and mesh are an original metaphor for experimental work, not a reconstructed instrument or measured data. The phrase is original.\n1925 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their discovery of the laws governing the impact of an electron upon an atom"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年物理学奖｜官方记录",
+              "en": "1925 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1925/franck/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-30",
+      "subject": "nobel-laureate-30",
+      "edition": "color",
+      "title": "詹姆斯·弗兰克",
+      "titleEnglish": "James Franck",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-30/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-30/color.jpg",
+      "sha256": "0cc794ea4fae4e02046123d5a524cb834c808f92b2973642f00ec0762c20e6f7",
+      "thumbnailSHA256": "c4e12ca669f31b67156837d313039920ab3c27d023dc8ea75cc228c5d24d2464",
+      "context": {
+        "phrase": {
+          "zh": "微小的碰撞，让原子的规律显形。",
+          "en": "Small impacts reveal the rules within atoms."
+        },
+        "visual": {
+          "zh": "一只淡青玻璃管斜穿画面，巨大铜网与线圈置于其中，两根钢杆从右下伸出，左下有三粒大小不同的琥珀色玻璃珠。黑白版保留物件、裁切与重叠，细刻纹更明显。这是电子碰撞实验的原创寓意，不是历史器材。",
+          "en": "A pale teal glass tube cuts diagonally across the frame, holding a large copper mesh and coil, with two steel rods extending at lower right and three unequal amber glass beads at lower left. Monochrome retains the objects, crop and overlaps, with stronger fine hatching. This is an original electron-impact metaphor, not a historical apparatus."
+        },
+        "background": {
+          "zh": "弗兰克与古斯塔夫·赫兹共同获1925年诺贝尔物理学奖，各占一半，奖项于1926年颁发。两人在1914年通过低压气体管中的电子碰撞实验，观察电流随电压变化出现的下降，支持了原子只能吸收特定能量的认识。玻璃管与金属网是这项实验工作的原创寓意，不是历史仪器复原或实际测量图。短句为原创。\n1925年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们发现电子撞击原子所遵循的规律。",
+          "en": "Franck and Gustav Hertz shared the 1925 Nobel Prize in Physics equally, receiving it in 1926. Their 1914 electron-impact experiment in a low-pressure gas tube showed current drops as voltage rose, supporting the idea of discrete atomic energies. The glass tube and mesh are an original metaphor for experimental work, not a reconstructed instrument or measured data. The phrase is original.\n1925 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their discovery of the laws governing the impact of an electron upon an atom"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年物理学奖｜官方记录",
+              "en": "1925 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1925/franck/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-175",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-175",
+      "subject": "nobel-laureate-175",
+      "edition": "mono",
+      "title": "西奥多·威廉·理查兹",
+      "titleEnglish": "Theodore W. Richards",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-175/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-175/mono.jpg",
+      "sha256": "e80fd8b3572802094656a80ae86e82fd0ba4b581b1e2d86853cd96266b3c4579",
+      "thumbnailSHA256": "d24d3eea7a0778c5b09168fb9ff1e99a5d065ed1d3529cafbebf5077f04d81d4",
+      "context": {
+        "phrase": {
+          "zh": "多一分精确，世界就清楚一点。",
+          "en": "Greater precision brings the world into focus."
+        },
+        "visual": {
+          "zh": "巨大的秤盘占据左侧前景，一根细秤梁斜伸向远处砝码，以悬殊尺度呼应精细测量。黑白与钴蓝版突出秤盘；彩色版呈现黄铜秤盘、银色秤梁、青铜砝码与灰绿台面。它是原创静物隐喻，不是校准天平的工程图或真实测量记录。",
+          "en": "An immense foreground pan contrasts with a slender diagonal beam and distant weights, evoking precise measurement through unequal scale. Cobalt highlights the pan in monochrome; full color distinguishes brass, silvery steel, bronze and a sage-gray surface. This original still life is not a calibrated engineering drawing or an actual measurement record."
+        },
+        "background": {
+          "zh": "理查兹独享1914年诺贝尔化学奖，获奖理由是精确测定许多化学元素的原子量。原子量是元素的相对平均质量，与一个特定原子的质量不是同一概念；不同同位素的比例会影响这种平均值。这里用放大的秤盘和小砝码表达认真校准与追求精确，没有展示某种元素的测量数值，也没有把现代计量基准写成1914年的做法。图中的装置是原创视觉表达，短句为原创。\n1914年化学奖；独享本年度奖项。获奖理由（中文译述）：因精确测定许多化学元素的原子量。",
+          "en": "Richards alone received the 1914 Nobel Prize in Chemistry for accurate atomic-weight determinations for many elements. Atomic weight is a relative average for an element, distinct from the mass of a particular atom; isotope proportions affect that average. The enlarged pan and small weights evoke calibration and precision without displaying measured values or attributing modern standards to 1914. The apparatus is an original visual metaphor. The phrase is original.\n1914 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his accurate determinations of the atomic weight of a large number of chemical elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1914 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1914/summary/",
+            "labelLocalized": {
+              "zh": "1914年化学奖｜官方记录",
+              "en": "1914 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "ciaaw.org",
+            "url": "https://www.ciaaw.org/info.htm",
+            "labelLocalized": {
+              "zh": "原子量说明｜同位素丰度与原子量委员会",
+              "en": "Atomic weights explained — Commission on Isotopic Abundances and Atomic Weights"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-175",
+      "subject": "nobel-laureate-175",
+      "edition": "color",
+      "title": "西奥多·威廉·理查兹",
+      "titleEnglish": "Theodore W. Richards",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-175/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-175/color.jpg",
+      "sha256": "a0a7e1b5c11d0fecdd0e29348c8b5470bd48a36f14c3e775bfc62ddec6f72d4d",
+      "thumbnailSHA256": "5128395ce688a02e80dcc234364fe9ae1a458f3514ace75eb43a875ac0dfbd90",
+      "context": {
+        "phrase": {
+          "zh": "多一分精确，世界就清楚一点。",
+          "en": "Greater precision brings the world into focus."
+        },
+        "visual": {
+          "zh": "巨大的秤盘占据左侧前景，一根细秤梁斜伸向远处砝码，以悬殊尺度呼应精细测量。黑白与钴蓝版突出秤盘；彩色版呈现黄铜秤盘、银色秤梁、青铜砝码与灰绿台面。它是原创静物隐喻，不是校准天平的工程图或真实测量记录。",
+          "en": "An immense foreground pan contrasts with a slender diagonal beam and distant weights, evoking precise measurement through unequal scale. Cobalt highlights the pan in monochrome; full color distinguishes brass, silvery steel, bronze and a sage-gray surface. This original still life is not a calibrated engineering drawing or an actual measurement record."
+        },
+        "background": {
+          "zh": "理查兹独享1914年诺贝尔化学奖，获奖理由是精确测定许多化学元素的原子量。原子量是元素的相对平均质量，与一个特定原子的质量不是同一概念；不同同位素的比例会影响这种平均值。这里用放大的秤盘和小砝码表达认真校准与追求精确，没有展示某种元素的测量数值，也没有把现代计量基准写成1914年的做法。图中的装置是原创视觉表达，短句为原创。\n1914年化学奖；独享本年度奖项。获奖理由（中文译述）：因精确测定许多化学元素的原子量。",
+          "en": "Richards alone received the 1914 Nobel Prize in Chemistry for accurate atomic-weight determinations for many elements. Atomic weight is a relative average for an element, distinct from the mass of a particular atom; isotope proportions affect that average. The enlarged pan and small weights evoke calibration and precision without displaying measured values or attributing modern standards to 1914. The apparatus is an original visual metaphor. The phrase is original.\n1914 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of his accurate determinations of the atomic weight of a large number of chemical elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1914 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1914/summary/",
+            "labelLocalized": {
+              "zh": "1914年化学奖｜官方记录",
+              "en": "1914 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "ciaaw.org",
+            "url": "https://www.ciaaw.org/info.htm",
+            "labelLocalized": {
+              "zh": "原子量说明｜同位素丰度与原子量委员会",
+              "en": "Atomic weights explained — Commission on Isotopic Abundances and Atomic Weights"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

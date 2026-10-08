@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-199",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-199",
+      "subject": "nobel-laureate-199",
+      "edition": "mono",
+      "title": "阿道夫·布特南特",
+      "titleEnglish": "Adolf Butenandt",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-199/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-199/mono.jpg",
+      "sha256": "2977986a4884359b1203077525b19b0881c21efc06622ce76e4619eb28f8fd77",
+      "thumbnailSHA256": "9020d6b49e5e70a933f7c13c39bae7182f7058ea55a8243407b9d883a4df3822",
+      "context": {
+        "phrase": {
+          "zh": "把混杂的线索，一点点分开。",
+          "en": "Separate the clues, one step at a time."
+        },
+        "visual": {
+          "zh": "钢镊从右上斜入，夹住浅碟上方的一枚晶体；碟内散放晶体，左侧玻璃瓶越出画面，桌面排线衬出器物的明暗。",
+          "en": "Steel tweezers enter diagonally from the upper right, holding a crystal above a shallow dish of loose crystals. A glass bottle crops at the left, while tabletop hatching defines light and shadow around the objects."
+        },
+        "background": {
+          "zh": "布特南特因性激素研究与鲁齐卡共同获得1939年诺贝尔化学奖。诺贝尔官方传记记载，他分离出纯结晶形式的雌酮和雄酮，并研究其化学结构。画面以镊子从浅碟中的晶体间夹起一颗晶体，表达从混杂物质中分离和辨认。晶体经过视觉放大，不代表真实尺寸、显微照片或一种药品；画面不是实验装置复原。短句为原创。\n1939年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：研究性激素",
+          "en": "Butenandt shared the 1939 Nobel Prize in Chemistry with Ruzicka for work on sex hormones. His official Nobel biography describes isolating oestrone and androsterone in pure crystalline form and investigating their chemical structures. Tweezers lift one crystal above a shallow dish to express separation and identification within mixed material. The enlarged crystal is not a true size, micrograph or medicine, and the scene does not reconstruct an experiment. The phrase is original.\n1939 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his work on sex hormones"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年化学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1939/butenandt/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-199",
+      "subject": "nobel-laureate-199",
+      "edition": "color",
+      "title": "阿道夫·布特南特",
+      "titleEnglish": "Adolf Butenandt",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-199/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-199/color.jpg",
+      "sha256": "d5f554258b9f675ac50e575e512920751a1aad7e0d60628e739bebf84e50cbfb",
+      "thumbnailSHA256": "c6f229cfdb21f5fd9f1f77829208151f6f34acd9965b0c65b28dc7d1fc8d2677",
+      "context": {
+        "phrase": {
+          "zh": "把混杂的线索，一点点分开。",
+          "en": "Separate the clues, one step at a time."
+        },
+        "visual": {
+          "zh": "钢镊从右上斜入，夹住浅碟上方的一枚晶体；碟内散放晶体，左侧玻璃瓶越出画面，桌面排线衬出器物的明暗。",
+          "en": "Steel tweezers enter diagonally from the upper right, holding a crystal above a shallow dish of loose crystals. A glass bottle crops at the left, while tabletop hatching defines light and shadow around the objects."
+        },
+        "background": {
+          "zh": "布特南特因性激素研究与鲁齐卡共同获得1939年诺贝尔化学奖。诺贝尔官方传记记载，他分离出纯结晶形式的雌酮和雄酮，并研究其化学结构。画面以镊子从浅碟中的晶体间夹起一颗晶体，表达从混杂物质中分离和辨认。晶体经过视觉放大，不代表真实尺寸、显微照片或一种药品；画面不是实验装置复原。短句为原创。\n1939年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：研究性激素",
+          "en": "Butenandt shared the 1939 Nobel Prize in Chemistry with Ruzicka for work on sex hormones. His official Nobel biography describes isolating oestrone and androsterone in pure crystalline form and investigating their chemical structures. Tweezers lift one crystal above a shallow dish to express separation and identification within mixed material. The enlarged crystal is not a true size, micrograph or medicine, and the scene does not reconstruct an experiment. The phrase is original.\n1939 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his work on sex hormones"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年化学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1939/butenandt/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "05-loom",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:05-loom",
+      "subject": "05-loom",
+      "edition": "mono",
+      "title": "程序：穿孔卡与织造",
+      "titleEnglish": "Punched Cards and Weaving",
+      "category": "计算与人工智能",
+      "image": "Images/mono/05-loom.jpg",
+      "thumbnail": "Thumbs/mono/05-loom.jpg",
+      "sha256": "f01925b8d40c65376107e7391bf3dd471bb2ff1c4656d1f18dd7aa2bbb9fa01d",
+      "thumbnailSHA256": "587d0555bcb22f164ca45a7854deb97232f77a2b7302051dfede3726f4dbfb14",
+      "context": {
+        "phrase": {
+          "zh": "一排孔洞，也能保存一种方法。",
+          "en": "A row of holes can preserve a method."
+        },
+        "visual": {
+          "zh": "穿孔纸带跨过织机与经纬线，把“图案”与“指令”放在同一画面里。纸带的孔位是视觉符号，并没有编码一块可实际织出的布。",
+          "en": "Punched strips cross a loom and its threads, placing patterns beside instructions. The holes are visual symbols, not a working program for weaving a particular cloth."
+        },
+        "background": {
+          "zh": "雅卡尔在 1801 年展示了用穿孔卡控制复杂织纹的织机：孔洞决定梭子每次通过时哪些经线抬起。计算机历史博物馆也记载，巴贝奇在 1837 年规划用穿孔卡向分析机输入程序与数据。两者体现了把操作顺序保存在外部载体上的思想。",
+          "en": "Jacquard demonstrated a punched-card loom in 1801; holes determined which warp threads rose on each shuttle pass. The Computer History Museum also records Babbage’s 1837 plan to feed programs and data into the Analytical Engine with cards. Both illustrate storing operations outside the mechanism itself."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Jacquard loom",
+            "url": "https://www.computerhistory.org/storageengine/punched-cards-control-jacquard-loom/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:05-loom",
+      "subject": "05-loom",
+      "edition": "color",
+      "title": "程序：穿孔卡与织造",
+      "titleEnglish": "Punched Cards and Weaving",
+      "category": "计算与人工智能",
+      "image": "Images/color/05-loom.jpg",
+      "thumbnail": "Thumbs/color/05-loom.jpg",
+      "sha256": "6d775d1aebd8b0a4c277c15f86e6a720b2bad75c53947e3577adfe3d1c7d3613",
+      "thumbnailSHA256": "7ada3ced750c341868be3d5af48c1ea7d1c6074ea2d9493e3ddb9c2d3cfc255d",
+      "context": {
+        "phrase": {
+          "zh": "一排孔洞，也能保存一种方法。",
+          "en": "A row of holes can preserve a method."
+        },
+        "visual": {
+          "zh": "穿孔纸带跨过织机与经纬线，把“图案”与“指令”放在同一画面里。纸带的孔位是视觉符号，并没有编码一块可实际织出的布。",
+          "en": "Punched strips cross a loom and its threads, placing patterns beside instructions. The holes are visual symbols, not a working program for weaving a particular cloth."
+        },
+        "background": {
+          "zh": "雅卡尔在 1801 年展示了用穿孔卡控制复杂织纹的织机：孔洞决定梭子每次通过时哪些经线抬起。计算机历史博物馆也记载，巴贝奇在 1837 年规划用穿孔卡向分析机输入程序与数据。两者体现了把操作顺序保存在外部载体上的思想。",
+          "en": "Jacquard demonstrated a punched-card loom in 1801; holes determined which warp threads rose on each shuttle pass. The Computer History Museum also records Babbage’s 1837 plan to feed programs and data into the Analytical Engine with cards. Both illustrate storing operations outside the mechanism itself."
+        },
+        "sources": [
+          {
+            "label": "Computer History Museum · Jacquard loom",
+            "url": "https://www.computerhistory.org/storageengine/punched-cards-control-jacquard-loom/"
+          }
+        ]
+      }
+    }
+  }
+}

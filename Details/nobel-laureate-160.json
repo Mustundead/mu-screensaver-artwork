@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-160",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-160",
+      "subject": "nobel-laureate-160",
+      "edition": "mono",
+      "title": "雅各布斯·范特霍夫",
+      "titleEnglish": "Jacobus H. van 't Hoff",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-160/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-160/mono.jpg",
+      "sha256": "7e6c00267c5071717fd6dd7eb8c6d9e72fd87a16831f88cff5fc1fa4580fcc71",
+      "thumbnailSHA256": "b3b2f6789c144449ba46912eacf099074f0864e2588e1a268e50ba1fcacc8911",
+      "context": {
+        "phrase": {
+          "zh": "看不见的差别，也能推动世界。",
+          "en": "Unseen differences can still move the world."
+        },
+        "visual": {
+          "zh": "为范特霍夫独立创作的渗透压研究拼贴，以玻璃容器、细管、膜层与天平呈现溶液研究；是艺术解读，不是精确实验图。",
+          "en": "An original osmosis-research collage for van 't Hoff, using a glass vessel, capillary, membrane layers and balance. An artistic interpretation, not a precise experiment diagram."
+        },
+        "background": {
+          "zh": "范特霍夫获得1901年首届诺贝尔化学奖，获奖工作涉及化学动力学和溶液中的渗透压。他的研究将溶液浓度、温度与渗透压联系起来。画面中的膜层和液体差异，用来表达物质跨越边界的过程。\n1901年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现化学动力学及溶液渗透压规律所作出的卓越贡献。",
+          "en": "Van 't Hoff received the first Nobel Prize in Chemistry in 1901 for work on chemical dynamics and osmotic pressure in solutions. His research related osmotic pressure to solution concentration and temperature. Membrane layers and contrasting liquids interpret the movement of matter across a boundary.\n1901 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年化学奖｜官方记录",
+              "en": "1901 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1901/hoff/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/hoff-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-160",
+      "subject": "nobel-laureate-160",
+      "edition": "color",
+      "title": "雅各布斯·范特霍夫",
+      "titleEnglish": "Jacobus H. van 't Hoff",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-160/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-160/color.jpg",
+      "sha256": "d42f001377a96bd4b7e1a1d580e8469514f89ff80e650daeafb2435ed3b39b7c",
+      "thumbnailSHA256": "c8acc23c1621502d9627d22ca09d78197fe2bc40cbeb118d18be25e6f8f09083",
+      "context": {
+        "phrase": {
+          "zh": "看不见的差别，也能推动世界。",
+          "en": "Unseen differences can still move the world."
+        },
+        "visual": {
+          "zh": "为范特霍夫独立创作的渗透压研究拼贴，以玻璃容器、细管、膜层与天平呈现溶液研究；是艺术解读，不是精确实验图。",
+          "en": "An original osmosis-research collage for van 't Hoff, using a glass vessel, capillary, membrane layers and balance. An artistic interpretation, not a precise experiment diagram."
+        },
+        "background": {
+          "zh": "范特霍夫获得1901年首届诺贝尔化学奖，获奖工作涉及化学动力学和溶液中的渗透压。他的研究将溶液浓度、温度与渗透压联系起来。画面中的膜层和液体差异，用来表达物质跨越边界的过程。\n1901年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他发现化学动力学及溶液渗透压规律所作出的卓越贡献。",
+          "en": "Van 't Hoff received the first Nobel Prize in Chemistry in 1901 for work on chemical dynamics and osmotic pressure in solutions. His research related osmotic pressure to solution concentration and temperature. Membrane layers and contrasting liquids interpret the movement of matter across a boundary.\n1901 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of the extraordinary services he has rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1901 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1901/summary/",
+            "labelLocalized": {
+              "zh": "1901年化学奖｜官方记录",
+              "en": "1901 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1901/hoff/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/hoff-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

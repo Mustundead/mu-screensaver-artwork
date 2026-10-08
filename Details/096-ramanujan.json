@@ -1,0 +1,70 @@
+{
+  "subject": "096-ramanujan",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:096-ramanujan",
+      "subject": "096-ramanujan",
+      "edition": "mono",
+      "title": "拉马努金与数的直觉",
+      "titleEnglish": "Ramanujan and Numerical Intuition",
+      "category": "艺术与人文",
+      "image": "Images/mono/096-ramanujan.jpg",
+      "thumbnail": "Thumbs/mono/096-ramanujan.jpg",
+      "sha256": "02ab6bb19f6e433eb1574ecdc109b8622fec73cd6c0b32096d7068a6e2cdb2e7",
+      "thumbnailSHA256": "b054d6a9041863f16310d7de2ce34c9f07f9ceccf0d432661f9ed49f88e5e5a9",
+      "context": {
+        "phrase": {
+          "zh": "直觉提出问题，证明让它站稳。",
+          "en": "Intuition proposes; proof gives it footing."
+        },
+        "visual": {
+          "zh": "拉马努金的生成肖像、卷曲纸带与数理般的图形表达直觉和推演。画中符号是艺术材料，不能当作他亲笔写下或已经证明的公式。",
+          "en": "A generated Ramanujan portrait, curling paper and mathematical forms evoke intuition and reasoning. The symbols are artistic material, not authenticated handwriting or proven formulas."
+        },
+        "background": {
+          "zh": "剑桥三一学院记载，拉马努金在 1912—1913 年把定理样本寄给三位剑桥学者。这一联系让他的研究进入新的交流环境。画面借此讨论独立探索与数学共同体的相遇；直觉的重要性不取消对论证和检验的要求。",
+          "en": "Trinity College records Ramanujan sending samples of his theorems to three Cambridge academics in 1912–1913. These contacts brought his work into new exchanges. The illustration considers independent exploration meeting a mathematical community; valuing intuition does not remove the need for argument and verification."
+        },
+        "sources": [
+          {
+            "label": "Trinity College Cambridge · Ramanujan",
+            "url": "https://explore.trin.cam.ac.uk/assets/ramanujan/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:096-ramanujan",
+      "subject": "096-ramanujan",
+      "edition": "color",
+      "title": "拉马努金与数的直觉",
+      "titleEnglish": "Ramanujan and Numerical Intuition",
+      "category": "艺术与人文",
+      "image": "Images/color/096-ramanujan.jpg",
+      "thumbnail": "Thumbs/color/096-ramanujan.jpg",
+      "sha256": "58efccd2deeec6a3499c73dac311fdb4f13a066f8dfbcb284a9bb767c5651c13",
+      "thumbnailSHA256": "f9983564084fdf524c83fb0c504ccfe5d4839643a8a504d7d6ff5a70d2c4e590",
+      "context": {
+        "phrase": {
+          "zh": "直觉提出问题，证明让它站稳。",
+          "en": "Intuition proposes; proof gives it footing."
+        },
+        "visual": {
+          "zh": "拉马努金的生成肖像、卷曲纸带与数理般的图形表达直觉和推演。画中符号是艺术材料，不能当作他亲笔写下或已经证明的公式。",
+          "en": "A generated Ramanujan portrait, curling paper and mathematical forms evoke intuition and reasoning. The symbols are artistic material, not authenticated handwriting or proven formulas."
+        },
+        "background": {
+          "zh": "剑桥三一学院记载，拉马努金在 1912—1913 年把定理样本寄给三位剑桥学者。这一联系让他的研究进入新的交流环境。画面借此讨论独立探索与数学共同体的相遇；直觉的重要性不取消对论证和检验的要求。",
+          "en": "Trinity College records Ramanujan sending samples of his theorems to three Cambridge academics in 1912–1913. These contacts brought his work into new exchanges. The illustration considers independent exploration meeting a mathematical community; valuing intuition does not remove the need for argument and verification."
+        },
+        "sources": [
+          {
+            "label": "Trinity College Cambridge · Ramanujan",
+            "url": "https://explore.trin.cam.ac.uk/assets/ramanujan/"
+          }
+        ]
+      }
+    }
+  }
+}

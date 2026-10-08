@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-588",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-588",
+      "subject": "nobel-laureate-588",
+      "edition": "mono",
+      "title": "卡尔·施皮特勒",
+      "titleEnglish": "Carl Spitteler",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-588/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-588/mono.jpg",
+      "sha256": "a038d64b48e1bc2f74131d1229e7b5756a7b58cc6517a7de54e861db29b7e5b7",
+      "thumbnailSHA256": "3782d152e2b5902e715ff46b2dd0f79b11c78d7886107f77617bdd4ff16b79fd",
+      "context": {
+        "phrase": {
+          "zh": "旧故事里，也能长出新的枝叶。",
+          "en": "Old stories can grow new branches."
+        },
+        "visual": {
+          "zh": "巨大的浅色凹槽石柱残片从右下裁切；左上较小的皮面书摊开空白纸页，暗紫书签搭在中央；橄榄枝斜穿下方，叶尖与石柱轻叠。彩色版区分奶油色石材、棕皮书与橄榄绿枝叶，黑白版保持布局。书、古典石片与枝叶是对神话和生长的原创寓意，不代表诗中出现了这些物件或场景，也不复原任何版本的书。",
+          "en": "An enormous pale fluted column fragment is cropped at lower right. A smaller leather book opens to blank pages at upper left, with a muted violet bookmark; an olive branch crosses below, lightly overlapping the stone. Color distinguishes cream stone, brown leather and olive leaves; monochrome keeps the layout. Book, classical stone and growth are original symbols of myth and renewal, without claiming these props or a scene appear in the poem, or reconstructing any book edition."
+        },
+        "background": {
+          "zh": "施皮特勒独享1919年诺贝尔文学奖，获奖理由特别肯定他的史诗《奥林匹斯的春天》；他于次年1920年领取。诺贝尔官网的获奖者资料介绍，这部作品结合了幻想、自然、宗教与神话主题。画面借石柱残片和枝叶思考旧故事与新的生长，属于原创解读，不是诗句插图或特定季节的植物记录。短句为原创，不是施皮特勒引语。\n1919年文学奖；独享本年度奖项。获奖理由（中文译述）：特别肯定其史诗《奥林匹斯的春天》",
+          "en": "Spitteler received the full 1919 Nobel Prize in Literature, specifically recognizing his epic Olympian Spring, and received it in 1920. NobelPrize.org’s facts page describes the work as combining fantastic, naturalistic, religious and mythological themes. Stone and leaves are an original reflection on old stories and new growth, not an illustration of a particular verse or a botanical record of a season. The phrase is original, not a quotation.\n1919 — The Nobel Prize in Literature. Received the full prize. Official motivation: in special appreciation of his epic, Olympian Spring"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1919 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1919/summary/",
+            "labelLocalized": {
+              "zh": "1919年文学奖｜官方记录",
+              "en": "1919 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1919/spitteler/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-588",
+      "subject": "nobel-laureate-588",
+      "edition": "color",
+      "title": "卡尔·施皮特勒",
+      "titleEnglish": "Carl Spitteler",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-588/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-588/color.jpg",
+      "sha256": "af636ecd5229e7ab179dbe958ab203cc7f02d0e06cc1625679119a3ae941bc0c",
+      "thumbnailSHA256": "62c771e1e826749d8f0c6695726c144559a4dddae40a2de5f6043d6b57392aae",
+      "context": {
+        "phrase": {
+          "zh": "旧故事里，也能长出新的枝叶。",
+          "en": "Old stories can grow new branches."
+        },
+        "visual": {
+          "zh": "巨大的浅色凹槽石柱残片从右下裁切；左上较小的皮面书摊开空白纸页，暗紫书签搭在中央；橄榄枝斜穿下方，叶尖与石柱轻叠。彩色版区分奶油色石材、棕皮书与橄榄绿枝叶，黑白版保持布局。书、古典石片与枝叶是对神话和生长的原创寓意，不代表诗中出现了这些物件或场景，也不复原任何版本的书。",
+          "en": "An enormous pale fluted column fragment is cropped at lower right. A smaller leather book opens to blank pages at upper left, with a muted violet bookmark; an olive branch crosses below, lightly overlapping the stone. Color distinguishes cream stone, brown leather and olive leaves; monochrome keeps the layout. Book, classical stone and growth are original symbols of myth and renewal, without claiming these props or a scene appear in the poem, or reconstructing any book edition."
+        },
+        "background": {
+          "zh": "施皮特勒独享1919年诺贝尔文学奖，获奖理由特别肯定他的史诗《奥林匹斯的春天》；他于次年1920年领取。诺贝尔官网的获奖者资料介绍，这部作品结合了幻想、自然、宗教与神话主题。画面借石柱残片和枝叶思考旧故事与新的生长，属于原创解读，不是诗句插图或特定季节的植物记录。短句为原创，不是施皮特勒引语。\n1919年文学奖；独享本年度奖项。获奖理由（中文译述）：特别肯定其史诗《奥林匹斯的春天》",
+          "en": "Spitteler received the full 1919 Nobel Prize in Literature, specifically recognizing his epic Olympian Spring, and received it in 1920. NobelPrize.org’s facts page describes the work as combining fantastic, naturalistic, religious and mythological themes. Stone and leaves are an original reflection on old stories and new growth, not an illustration of a particular verse or a botanical record of a season. The phrase is original, not a quotation.\n1919 — The Nobel Prize in Literature. Received the full prize. Official motivation: in special appreciation of his epic, Olympian Spring"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1919 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1919/summary/",
+            "labelLocalized": {
+              "zh": "1919年文学奖｜官方记录",
+              "en": "1919 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1919/spitteler/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

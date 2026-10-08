@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-341",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-341",
+      "subject": "nobel-laureate-341",
+      "edition": "mono",
+      "title": "霍华德·弗洛里",
+      "titleEnglish": "Sir Howard Florey",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-341/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-341/mono.jpg",
+      "sha256": "c13813f2664876212f66fb3ee2e24d5fdf694aa0e642a0c2cd4ccca19b767283",
+      "thumbnailSHA256": "de6ed153cc86a8da19633b897feba6050e467fc11a51810a14b9b7c97ba5f7c2",
+      "context": {
+        "phrase": {
+          "zh": "让发现走出实验室。",
+          "en": "Carry discovery beyond the laboratory."
+        },
+        "visual": {
+          "zh": "分格托盘里密集排列封口玻璃小瓶，近处瓶盖与隔板清楚可见；一条纱布越过右侧盘沿，弯向画面边缘。",
+          "en": "Sealed glass vials fill a compartmented tray, with clear foreground stoppers and dividers; a gauze strip crosses the right lip and curves toward the edge."
+        },
+        "background": {
+          "zh": "弗洛里与钱恩等人组成的团队推进了青霉素的研究，提取并检验其抗菌作用，为后续生产与临床应用提供了重要基础。弗洛里、弗莱明与钱恩共同获得1945年诺贝尔生理学或医学奖，各占三分之一。画面用成批小瓶与纱布连接研究和照护，是原创寓意，不是真实包装、剂量或治疗建议。短句为原创。\n1945年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：发现青霉素及其对多种感染性疾病的治疗作用",
+          "en": "Florey’s team, including Chain, advanced penicillin research by extracting it and investigating its antibacterial action, providing an important basis for later production and clinical use. Florey, Fleming and Chain shared the 1945 Nobel Prize in Physiology or Medicine, each receiving one third. Rows of vials and gauze connect research with care in an original metaphor, not actual packaging, dosage or treatment advice. The phrase is original.\n1945 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for the discovery of penicillin and its curative effect in various infectious diseases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年生理学或医学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/florey/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-341",
+      "subject": "nobel-laureate-341",
+      "edition": "color",
+      "title": "霍华德·弗洛里",
+      "titleEnglish": "Sir Howard Florey",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-341/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-341/color.jpg",
+      "sha256": "71d4946922f4d62cbd5b10b9ef6005501e38dc3c7c475beada75489a3fe8c8c9",
+      "thumbnailSHA256": "85c88fc1b1615fa696c019737610b400623cbb320869dd741be5ab6782bc8862",
+      "context": {
+        "phrase": {
+          "zh": "让发现走出实验室。",
+          "en": "Carry discovery beyond the laboratory."
+        },
+        "visual": {
+          "zh": "分格托盘里密集排列封口玻璃小瓶，近处瓶盖与隔板清楚可见；一条纱布越过右侧盘沿，弯向画面边缘。",
+          "en": "Sealed glass vials fill a compartmented tray, with clear foreground stoppers and dividers; a gauze strip crosses the right lip and curves toward the edge."
+        },
+        "background": {
+          "zh": "弗洛里与钱恩等人组成的团队推进了青霉素的研究，提取并检验其抗菌作用，为后续生产与临床应用提供了重要基础。弗洛里、弗莱明与钱恩共同获得1945年诺贝尔生理学或医学奖，各占三分之一。画面用成批小瓶与纱布连接研究和照护，是原创寓意，不是真实包装、剂量或治疗建议。短句为原创。\n1945年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：发现青霉素及其对多种感染性疾病的治疗作用",
+          "en": "Florey’s team, including Chain, advanced penicillin research by extracting it and investigating its antibacterial action, providing an important basis for later production and clinical use. Florey, Fleming and Chain shared the 1945 Nobel Prize in Physiology or Medicine, each receiving one third. Rows of vials and gauze connect research with care in an original metaphor, not actual packaging, dosage or treatment advice. The phrase is original.\n1945 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for the discovery of penicillin and its curative effect in various infectious diseases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年生理学或医学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/florey/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

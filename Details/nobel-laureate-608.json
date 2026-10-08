@@ -1,0 +1,78 @@
+{
+  "subject": "nobel-laureate-608",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-608",
+      "subject": "nobel-laureate-608",
+      "edition": "mono",
+      "title": "尤金·奥尼尔",
+      "titleEnglish": "Eugene O'Neill",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-608/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-608/mono.jpg",
+      "sha256": "07482ef456c29f5e122d3681d867b3641ebe9f9432a1fdf32b55116323a70e51",
+      "thumbnailSHA256": "6ff475a0ce3cf15b38eb67966ca95558f9c74190991def25e3c2ff28904b1038",
+      "context": {
+        "phrase": {
+          "zh": "空下来的位置，仍留着未说尽的情感。",
+          "en": "An empty place can still hold feelings left unspoken."
+        },
+        "visual": {
+          "zh": "空舞台上，一把木椅位于中央偏左；灯光从右上斜照地板，椅影伸向左下，窄帷幕越出右缘，细刻线描出木纹与褶皱。",
+          "en": "A wooden chair sits left of center on an empty stage. Light falls diagonally from the upper right across the floorboards, casting the chair shadow toward the lower left. A narrow curtain crops at the right edge, with fine hatching describing wood and folds."
+        },
+        "background": {
+          "zh": "奥尼尔获得1936年诺贝尔文学奖，表彰其戏剧作品的力量、诚实与深切情感，以及独创的悲剧观。空舞台上的木椅、斜向灯光和影子是原创寓意，用缺席的位置表达未消散的情感，不是某部剧作的场景复原；短句为原创。\n1936年文学奖；独享本年度奖项。获奖理由（中文译述）：戏剧作品具有力量、诚实与深切情感，体现独创的悲剧观",
+          "en": "O’Neill received the 1936 Nobel Prize in Literature for the power, honesty and deeply felt emotion of his drama and an original conception of tragedy. A wooden chair on an empty stage, diagonal light and shadow form an original metaphor for feelings that remain in a place of absence, not a reconstruction of a scene from a named play. The phrase is original.\n1936 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年文学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-608",
+      "subject": "nobel-laureate-608",
+      "edition": "color",
+      "title": "尤金·奥尼尔",
+      "titleEnglish": "Eugene O'Neill",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-608/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-608/color.jpg",
+      "sha256": "91c2f9846ef15110543d4b36261c94b378c120de39f51c363b419003f34cddca",
+      "thumbnailSHA256": "09aa4b109c8db971b66f25adc38ab52c9da4594640ecd1ba46ebc74682c2bc44",
+      "context": {
+        "phrase": {
+          "zh": "空下来的位置，仍留着未说尽的情感。",
+          "en": "An empty place can still hold feelings left unspoken."
+        },
+        "visual": {
+          "zh": "空舞台上，一把木椅位于中央偏左；灯光从右上斜照地板，椅影伸向左下，窄帷幕越出右缘，细刻线描出木纹与褶皱。",
+          "en": "A wooden chair sits left of center on an empty stage. Light falls diagonally from the upper right across the floorboards, casting the chair shadow toward the lower left. A narrow curtain crops at the right edge, with fine hatching describing wood and folds."
+        },
+        "background": {
+          "zh": "奥尼尔获得1936年诺贝尔文学奖，表彰其戏剧作品的力量、诚实与深切情感，以及独创的悲剧观。空舞台上的木椅、斜向灯光和影子是原创寓意，用缺席的位置表达未消散的情感，不是某部剧作的场景复原；短句为原创。\n1936年文学奖；独享本年度奖项。获奖理由（中文译述）：戏剧作品具有力量、诚实与深切情感，体现独创的悲剧观",
+          "en": "O’Neill received the 1936 Nobel Prize in Literature for the power, honesty and deeply felt emotion of his drama and an original conception of tragedy. A wooden chair on an empty stage, diagonal light and shadow form an original metaphor for feelings that remain in a place of absence, not a reconstruction of a scene from a named play. The phrase is original.\n1936 — The Nobel Prize in Literature. Received the full prize. Official motivation: for the power, honesty and deep-felt emotions of his dramatic works, which embody an original concept of tragedy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年文学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "subject": "nobel-laureate-16",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-16",
+      "subject": "nobel-laureate-16",
+      "edition": "mono",
+      "title": "威廉·维恩",
+      "titleEnglish": "Wilhelm Wien",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-16/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-16/mono.jpg",
+      "sha256": "ad58e267724b0ab2d2007f9740c3dcd792db528f3750b9ded672dc716bc5a5ae",
+      "thumbnailSHA256": "a12bec6ff01b653a599fb5a66523eb63df00631ec2479641361d1cf41df271a8",
+      "context": {
+        "phrase": {
+          "zh": "温度改变，光的节奏也会改变。",
+          "en": "Changing heat changes light's rhythm."
+        },
+        "visual": {
+          "zh": "左下角大幅裁切的陶瓷空腔与三条疏密不同的波形纸带交叠，表现热辐射与波长变化。黑白与钴蓝版突出纸带；彩色版使用乳白陶瓷、赤铜色、赭黄色和青绿色纸带。颜色是艺术选择，不对应温度或辐射光谱；画面不是实验装置或定量曲线。",
+          "en": "A cropped ceramic cavity overlaps three wavy paper ribbons with different spacing, interpreting thermal radiation and changing wavelength. Cobalt marks the ribbons in the monochrome edition; full color uses ivory ceramic, russet, ochre and teal paper. Colors are artistic choices, not a temperature scale or radiation spectrum; the image is not an apparatus diagram or quantitative curve."
+        },
+        "background": {
+          "zh": "维恩因发现支配热辐射的规律获得1911年诺贝尔物理学奖。诺贝尔官方物理学史介绍指出，他研究受热物体的黑体辐射，并描述温度改变时，辐射强度峰值对应的波长如何移动。黑体是一种理想模型，吸收落在其上的全部辐射；这里不是说真实物体必须呈黑色。他在1911年12月11日的诺贝尔演讲中说明，已知一个温度下的分布，可以利用位移定律推算其他温度下的分布。配图只用空腔与不同疏密的纸带表现这一关系，不呈现温度测量或完整理论；短句为原创，不是本人引语。\n1911年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现支配热辐射的规律。",
+          "en": "Wien received the 1911 Nobel Prize in Physics for discoveries concerning thermal radiation. Nobel's physics history describes his study of radiation from hot bodies and the shift of the intensity maximum's wavelength as temperature changes. A blackbody is an ideal absorber, not a claim that every real object must appear black. In his Nobel lecture on 11 December 1911, Wien explains how the displacement law relates radiation distributions at different temperatures. The cavity and differently spaced paper ribbons interpret this relationship, without presenting measured temperatures or a complete theory. The phrase is original, not a quotation.\n1911 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discoveries regarding the laws governing the radiation of heat"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年物理学奖｜官方记录",
+              "en": "1911 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1911/wien/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "science.nasa.gov",
+            "url": "https://science.nasa.gov/earth/earth-observatory/vanishing-ice/",
+            "labelLocalized": {
+              "zh": "黑体与辐射说明｜NASA科普资料",
+              "en": "Blackbody radiation explained — NASA Science"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-16",
+      "subject": "nobel-laureate-16",
+      "edition": "color",
+      "title": "威廉·维恩",
+      "titleEnglish": "Wilhelm Wien",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-16/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-16/color.jpg",
+      "sha256": "81e3658576a5a150bf18d657e1ed570f22db1a96add218ab240477a7582930b8",
+      "thumbnailSHA256": "7ea08e833abcbc6bb7723e34c3fe95743caec2b457a1b5cc6a100a2c45362abf",
+      "context": {
+        "phrase": {
+          "zh": "温度改变，光的节奏也会改变。",
+          "en": "Changing heat changes light's rhythm."
+        },
+        "visual": {
+          "zh": "左下角大幅裁切的陶瓷空腔与三条疏密不同的波形纸带交叠，表现热辐射与波长变化。黑白与钴蓝版突出纸带；彩色版使用乳白陶瓷、赤铜色、赭黄色和青绿色纸带。颜色是艺术选择，不对应温度或辐射光谱；画面不是实验装置或定量曲线。",
+          "en": "A cropped ceramic cavity overlaps three wavy paper ribbons with different spacing, interpreting thermal radiation and changing wavelength. Cobalt marks the ribbons in the monochrome edition; full color uses ivory ceramic, russet, ochre and teal paper. Colors are artistic choices, not a temperature scale or radiation spectrum; the image is not an apparatus diagram or quantitative curve."
+        },
+        "background": {
+          "zh": "维恩因发现支配热辐射的规律获得1911年诺贝尔物理学奖。诺贝尔官方物理学史介绍指出，他研究受热物体的黑体辐射，并描述温度改变时，辐射强度峰值对应的波长如何移动。黑体是一种理想模型，吸收落在其上的全部辐射；这里不是说真实物体必须呈黑色。他在1911年12月11日的诺贝尔演讲中说明，已知一个温度下的分布，可以利用位移定律推算其他温度下的分布。配图只用空腔与不同疏密的纸带表现这一关系，不呈现温度测量或完整理论；短句为原创，不是本人引语。\n1911年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现支配热辐射的规律。",
+          "en": "Wien received the 1911 Nobel Prize in Physics for discoveries concerning thermal radiation. Nobel's physics history describes his study of radiation from hot bodies and the shift of the intensity maximum's wavelength as temperature changes. A blackbody is an ideal absorber, not a claim that every real object must appear black. In his Nobel lecture on 11 December 1911, Wien explains how the displacement law relates radiation distributions at different temperatures. The cavity and differently spaced paper ribbons interpret this relationship, without presenting measured temperatures or a complete theory. The phrase is original, not a quotation.\n1911 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discoveries regarding the laws governing the radiation of heat"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年物理学奖｜官方记录",
+              "en": "1911 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1911/wien/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "science.nasa.gov",
+            "url": "https://science.nasa.gov/earth/earth-observatory/vanishing-ice/",
+            "labelLocalized": {
+              "zh": "黑体与辐射说明｜NASA科普资料",
+              "en": "Blackbody radiation explained — NASA Science"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "059-neuron",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:059-neuron",
+      "subject": "059-neuron",
+      "edition": "mono",
+      "title": "神经与记忆",
+      "titleEnglish": "Neurons and Memory",
+      "category": "自然科学",
+      "image": "Images/mono/059-neuron.jpg",
+      "thumbnail": "Thumbs/mono/059-neuron.jpg",
+      "sha256": "875bc9ff00d23b25e0eba75f87be92ea15eb7b4596a2d4c1c78596606b3d052e",
+      "thumbnailSHA256": "31c72dded654ff8d5c772beb2cc1507bd29b0eb3f0d14339ac93ca665a090200",
+      "context": {
+        "phrase": {
+          "zh": "一根细线，把消息送向远方。",
+          "en": "A fine branch carries a signal onward."
+        },
+        "visual": {
+          "zh": "树状神经分支在暗处相连，亮点沿路径延伸，把细胞交流化作一幅网络图。它不是某个人脑的神经显微图。",
+          "en": "Branching neurons connect in darkness while light moves along a path, turning cell communication into a network image. It is not a micrograph of anyone’s brain."
+        },
+        "background": {
+          "zh": "神经元通常由细胞体、接收信息的树突和传出信号的轴突组成。神经网络参与感觉、运动和记忆等活动；不能从一根画出的连线定位或读取一段具体记忆。",
+          "en": "A neuron typically has a cell body, dendrites that receive signals, and an axon that carries signals onward. Neural circuits participate in sensation, movement and memory; a drawn connection cannot locate or read a particular memory."
+        },
+        "sources": [
+          {
+            "label": "NIH NINDS · Know Your Brain",
+            "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:059-neuron",
+      "subject": "059-neuron",
+      "edition": "color",
+      "title": "神经与记忆",
+      "titleEnglish": "Neurons and Memory",
+      "category": "自然科学",
+      "image": "Images/color/059-neuron.jpg",
+      "thumbnail": "Thumbs/color/059-neuron.jpg",
+      "sha256": "de7a98295700800be4ea9d61fdaa34c0f7f2dcc8e1ab2f740254ed29befaf413",
+      "thumbnailSHA256": "91473f573edce2ff9a86c8ff92a9c5d6fa5eb3314fe87470c44cb41fe5cecda6",
+      "context": {
+        "phrase": {
+          "zh": "一根细线，把消息送向远方。",
+          "en": "A fine branch carries a signal onward."
+        },
+        "visual": {
+          "zh": "树状神经分支在暗处相连，亮点沿路径延伸，把细胞交流化作一幅网络图。它不是某个人脑的神经显微图。",
+          "en": "Branching neurons connect in darkness while light moves along a path, turning cell communication into a network image. It is not a micrograph of anyone’s brain."
+        },
+        "background": {
+          "zh": "神经元通常由细胞体、接收信息的树突和传出信号的轴突组成。神经网络参与感觉、运动和记忆等活动；不能从一根画出的连线定位或读取一段具体记忆。",
+          "en": "A neuron typically has a cell body, dendrites that receive signals, and an axon that carries signals onward. Neural circuits participate in sensation, movement and memory; a drawn connection cannot locate or read a particular memory."
+        },
+        "sources": [
+          {
+            "label": "NIH NINDS · Know Your Brain",
+            "url": "https://www.ninds.nih.gov/sites/default/files/2025-05/know-your-brain-brian-basics.pdf"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "075-bridge-structure",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:075-bridge-structure",
+      "subject": "075-bridge-structure",
+      "edition": "mono",
+      "title": "结构与张力",
+      "titleEnglish": "Structure and Tension",
+      "category": "工程与制造",
+      "image": "Images/mono/075-bridge-structure.jpg",
+      "thumbnail": "Thumbs/mono/075-bridge-structure.jpg",
+      "sha256": "fb2a8b5d1c00bb3145d8bd86797d1ad74a8670f7b35eb1daa65dea85aa7a6149",
+      "thumbnailSHA256": "a4a4c11e6bd9797e9ea25631a6d172220ac88df91bbfa83aaaa1367da38efa4e",
+      "context": {
+        "phrase": {
+          "zh": "一根根拉索，分担跨越的重量。",
+          "en": "Cables share the load of a crossing."
+        },
+        "visual": {
+          "zh": "桥塔与斜拉索在暗色背景上展开，细线把桥面和高处连接成有节奏的结构。比例与受力并非可施工的设计图。",
+          "en": "A tower and diagonal stays connect deck to height against a dark field. Proportions and loads are not a buildable structural design."
+        },
+        "background": {
+          "zh": "斜拉桥通过钢索把桥面荷载传向桥塔；索是承受拉力的构件。美国联邦公路管理局的桥梁研究记录了斜拉索在桥面与桥塔之间的锚固及受力方式，真实设计还需计算风、交通与材料条件。",
+          "en": "A cable-stayed bridge transfers deck loads through tensioned stays toward its pylons. Federal Highway Administration research describes stays anchored between deck and tower; real design must also account for wind, traffic and materials."
+        },
+        "sources": [
+          {
+            "label": "Federal Highway Administration · Stay cables",
+            "url": "https://www.fhwa.dot.gov/publications/research/infrastructure/structures/bridge/14070/14070.pdf"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:075-bridge-structure",
+      "subject": "075-bridge-structure",
+      "edition": "color",
+      "title": "结构与张力",
+      "titleEnglish": "Structure and Tension",
+      "category": "工程与制造",
+      "image": "Images/color/075-bridge-structure.jpg",
+      "thumbnail": "Thumbs/color/075-bridge-structure.jpg",
+      "sha256": "500a28d56f8756f8b8c615a59d09e58b730a8b03c80a00f42dea6ebe68bf64ec",
+      "thumbnailSHA256": "e1e6f0acecec152c6946857aac23ab075c37547131014412495b19a8463ca3df",
+      "context": {
+        "phrase": {
+          "zh": "一根根拉索，分担跨越的重量。",
+          "en": "Cables share the load of a crossing."
+        },
+        "visual": {
+          "zh": "桥塔与斜拉索在暗色背景上展开，细线把桥面和高处连接成有节奏的结构。比例与受力并非可施工的设计图。",
+          "en": "A tower and diagonal stays connect deck to height against a dark field. Proportions and loads are not a buildable structural design."
+        },
+        "background": {
+          "zh": "斜拉桥通过钢索把桥面荷载传向桥塔；索是承受拉力的构件。美国联邦公路管理局的桥梁研究记录了斜拉索在桥面与桥塔之间的锚固及受力方式，真实设计还需计算风、交通与材料条件。",
+          "en": "A cable-stayed bridge transfers deck loads through tensioned stays toward its pylons. Federal Highway Administration research describes stays anchored between deck and tower; real design must also account for wind, traffic and materials."
+        },
+        "sources": [
+          {
+            "label": "Federal Highway Administration · Stay cables",
+            "url": "https://www.fhwa.dot.gov/publications/research/infrastructure/structures/bridge/14070/14070.pdf"
+          }
+        ]
+      }
+    }
+  }
+}

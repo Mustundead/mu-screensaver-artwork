@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-193",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-193",
+      "subject": "nobel-laureate-193",
+      "edition": "mono",
+      "title": "弗雷德里克·约里奥",
+      "titleEnglish": "Frédéric Joliot",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-193/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-193/mono.jpg",
+      "sha256": "2b592c6055ed50ca97e2d04613760dd3dac41fd7d8aaf4e280ee8b40a890fa34",
+      "thumbnailSHA256": "d1b30682d26460237e9278dc3bb591cdd554db3aee4aaa64d78bacae6d923fa6",
+      "context": {
+        "phrase": {
+          "zh": "让转变留下痕迹，观察便有了新的入口。",
+          "en": "When a transformation leaves a trace, observation gains a new opening."
+        },
+        "visual": {
+          "zh": "近乎俯视的圆形玻璃腔体越出上缘，宽金属外圈围住玻璃边沿；左下小薄片与四道细弧线相接，弧线向腔体上方和右侧散开。",
+          "en": "A near-top-down circular glass chamber crops beyond the top edge. A broad metal ring surrounds the glass lip; a small foil at lower left meets four fine curved traces spreading upward and to the right within the chamber."
+        },
+        "background": {
+          "zh": "弗雷德里克·约里奥与伊雷娜·约里奥-居里共同获得1935年诺贝尔化学奖，各占一半。1934年，他们用α粒子照射薄铝片，发现停止照射后仍有辐射：部分铝原子已变成磷的放射性同位素，也就是会发生放射性衰变的另一种磷原子。雾室能让粒子留下可观察的轨迹。画面的玻璃容器与细线取意于这种观察，是原创插画，不是原用装置、照片或轨迹数据；短句为原创。\n1935年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：因合成新的放射性元素，与伊雷娜·约里奥-居里共同获奖。",
+          "en": "Frédéric Joliot shared the 1935 Nobel Prize in Chemistry equally with Irène Joliot-Curie. In 1934 they exposed thin aluminum to alpha particles and found that radiation continued after irradiation stopped: some aluminum atoms had become a radioactive isotope of phosphorus, a form of phosphorus that undergoes radioactive decay. A cloud chamber can reveal particle tracks. The glass vessel and fine lines draw on this observation; they are original artwork, not the historical apparatus, a photograph or track data. The phrase is original.\n1935 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: in recognition of their synthesis of new radioactive elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年化学奖｜官方记录",
+              "en": "1935 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1935/joliot-fred/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-193",
+      "subject": "nobel-laureate-193",
+      "edition": "color",
+      "title": "弗雷德里克·约里奥",
+      "titleEnglish": "Frédéric Joliot",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-193/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-193/color.jpg",
+      "sha256": "4e81b89019d27bc6e8ce1649543ea73686a402369aab3752e144266bfc31dab2",
+      "thumbnailSHA256": "4a6c36ff76c559ba6dd7989b962977ccefe1f494e0594fff20591b1a1f7a0ebd",
+      "context": {
+        "phrase": {
+          "zh": "让转变留下痕迹，观察便有了新的入口。",
+          "en": "When a transformation leaves a trace, observation gains a new opening."
+        },
+        "visual": {
+          "zh": "近乎俯视的圆形玻璃腔体越出上缘，宽金属外圈围住玻璃边沿；左下小薄片与四道细弧线相接，弧线向腔体上方和右侧散开。",
+          "en": "A near-top-down circular glass chamber crops beyond the top edge. A broad metal ring surrounds the glass lip; a small foil at lower left meets four fine curved traces spreading upward and to the right within the chamber."
+        },
+        "background": {
+          "zh": "弗雷德里克·约里奥与伊雷娜·约里奥-居里共同获得1935年诺贝尔化学奖，各占一半。1934年，他们用α粒子照射薄铝片，发现停止照射后仍有辐射：部分铝原子已变成磷的放射性同位素，也就是会发生放射性衰变的另一种磷原子。雾室能让粒子留下可观察的轨迹。画面的玻璃容器与细线取意于这种观察，是原创插画，不是原用装置、照片或轨迹数据；短句为原创。\n1935年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：因合成新的放射性元素，与伊雷娜·约里奥-居里共同获奖。",
+          "en": "Frédéric Joliot shared the 1935 Nobel Prize in Chemistry equally with Irène Joliot-Curie. In 1934 they exposed thin aluminum to alpha particles and found that radiation continued after irradiation stopped: some aluminum atoms had become a radioactive isotope of phosphorus, a form of phosphorus that undergoes radioactive decay. A cloud chamber can reveal particle tracks. The glass vessel and fine lines draw on this observation; they are original artwork, not the historical apparatus, a photograph or track data. The phrase is original.\n1935 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: in recognition of their synthesis of new radioactive elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1935 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1935/summary/",
+            "labelLocalized": {
+              "zh": "1935年化学奖｜官方记录",
+              "en": "1935 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1935/joliot-fred/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-297",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-297",
+      "subject": "nobel-laureate-297",
+      "edition": "mono",
+      "title": "罗伯特·科赫",
+      "titleEnglish": "Robert Koch",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-297/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-297/mono.jpg",
+      "sha256": "fa4c4bacd0541db9a2c3c5087bbf77a001f579f7e2683b55e2deb807770b6ee7",
+      "thumbnailSHA256": "1291e0996b9ce235d10ab626f35ca5e3c6216b8ad3e0284830c0218168c2b5b0",
+      "context": {
+        "phrase": {
+          "zh": "细致的观察，让疾病的原因更清楚。",
+          "en": "Careful observation makes the causes of disease clearer."
+        },
+        "visual": {
+          "zh": "以显微镜、玻璃皿、载玻片盒与空白摄影片框组成的独立拼贴，呼应细菌学中的观察与记录。画面不是科赫的真实实验室，没有展示病原体、实验步骤或治疗方法。",
+          "en": "An original collage of a microscope, glass dishes, a slide box and a blank photographic plate holder evokes observation and recording in bacteriology. It is not Koch's actual laboratory and depicts no pathogens, experimental procedures or treatments."
+        },
+        "background": {
+          "zh": "科赫获得1905年诺贝尔生理学或医学奖，表彰他在结核病方面的研究和发现。他在1882年发表了关于结核杆菌的研究。配图用显微镜和记录物件表现查明疾病原因的工作，不把历史研究说成今天的治疗建议。\n1905年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在结核病方面的研究和发现。",
+          "en": "Koch received the 1905 Nobel Prize in Physiology or Medicine for investigations and discoveries concerning tuberculosis. In 1882 he published his work on the tubercle bacillus. The artwork uses instruments and recording objects to interpret research into disease causation, rather than offering present-day treatment advice.\n1905 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his investigations and discoveries in relation to tuberculosis"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年生理学或医学奖｜官方记录",
+              "en": "1905 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1905/koch/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-297",
+      "subject": "nobel-laureate-297",
+      "edition": "color",
+      "title": "罗伯特·科赫",
+      "titleEnglish": "Robert Koch",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-297/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-297/color.jpg",
+      "sha256": "f4acebb912ddc0ab446e2bd8167227d63a28a35dbba3264a877e2fc166ee230f",
+      "thumbnailSHA256": "2651348aeabcd4da968e5ee67a23a9d76eb1a3006f52bf186fa0dcf2b99f04f7",
+      "context": {
+        "phrase": {
+          "zh": "细致的观察，让疾病的原因更清楚。",
+          "en": "Careful observation makes the causes of disease clearer."
+        },
+        "visual": {
+          "zh": "以显微镜、玻璃皿、载玻片盒与空白摄影片框组成的独立拼贴，呼应细菌学中的观察与记录。画面不是科赫的真实实验室，没有展示病原体、实验步骤或治疗方法。",
+          "en": "An original collage of a microscope, glass dishes, a slide box and a blank photographic plate holder evokes observation and recording in bacteriology. It is not Koch's actual laboratory and depicts no pathogens, experimental procedures or treatments."
+        },
+        "background": {
+          "zh": "科赫获得1905年诺贝尔生理学或医学奖，表彰他在结核病方面的研究和发现。他在1882年发表了关于结核杆菌的研究。配图用显微镜和记录物件表现查明疾病原因的工作，不把历史研究说成今天的治疗建议。\n1905年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在结核病方面的研究和发现。",
+          "en": "Koch received the 1905 Nobel Prize in Physiology or Medicine for investigations and discoveries concerning tuberculosis. In 1882 he published his work on the tubercle bacillus. The artwork uses instruments and recording objects to interpret research into disease causation, rather than offering present-day treatment advice.\n1905 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his investigations and discoveries in relation to tuberculosis"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1905 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1905/summary/",
+            "labelLocalized": {
+              "zh": "1905年生理学或医学奖｜官方记录",
+              "en": "1905 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1905/koch/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

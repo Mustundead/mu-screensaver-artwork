@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-490",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-490",
+      "subject": "nobel-laureate-490",
+      "edition": "mono",
+      "title": "阿里斯蒂德·白里安",
+      "titleEnglish": "Aristide Briand",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-490/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-490/mono.jpg",
+      "sha256": "e35cc88aa6ebaaed0167c36a733be03ee25c8eeec571508d78093046f3e6ed82",
+      "thumbnailSHA256": "310d4c3e4b17333cf26c03ecfcb25ec0bb34e5642257869d568e8cf616792690",
+      "context": {
+        "phrase": {
+          "zh": "让对话继续，才有相互理解的余地。",
+          "en": "Keep talking to make room for understanding."
+        },
+        "visual": {
+          "zh": "大幅象牙色空白纸卷占据右下，沿右、下边缘裁切，卷曲处可见层叠纸边。铜色圆柱纸镇斜压左边；左上小枝带六片灰绿橄榄叶，右上留白。黑白版保留纸卷、纸镇与六片叶子的构图，底面纹理更强。画面是谈判寓意，不是公约原件。",
+          "en": "A broad blank ivory paper roll fills the lower right, extending beyond right and bottom, with layered edges in its curl. A copper cylindrical paperweight crosses its left edge. A small olive twig with six gray-green leaves sits at upper left; the upper right stays quiet. The monochrome edition preserves the roll, weight and six-leaf arrangement with stronger ground texture. This is a negotiation metaphor, not a treaty original."
+        },
+        "background": {
+          "zh": "白里安与施特雷泽曼各获1926年诺贝尔和平奖的一半，因促成《洛迦诺公约》的关键作用获奖。白里安代表法国参与1925年的谈判，以个人外交推动相互理解。纸卷与纸镇是对话的原创寓意，不是公约原件，也不表示协议带来永久和平；不把各国共同工作归给他一人。短句为原创。\n1926年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他与施特雷泽曼在促成《洛迦诺公约》中的关键作用。",
+          "en": "Briand and Stresemann shared the 1926 Nobel Peace Prize equally for their crucial roles in the Locarno Treaty. Briand represented France in the 1925 negotiations and used personal diplomacy to encourage understanding. The scroll and paperweight are an original metaphor for dialogue, not treaty originals or a promise of permanent peace, and do not credit the international effort to him alone. The phrase is original.\n1926 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their crucial role in bringing about the Locarno Treaty"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年和平奖｜官方记录",
+              "en": "1926 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1926/briand/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-490",
+      "subject": "nobel-laureate-490",
+      "edition": "color",
+      "title": "阿里斯蒂德·白里安",
+      "titleEnglish": "Aristide Briand",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-490/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-490/color.jpg",
+      "sha256": "518991534c5ed3a3eba3a04b0ef36379ea7b6a2d9e0d361cba90e3b077b0cf7b",
+      "thumbnailSHA256": "9967906f2d782854d45e2697aa336b29571253e3c938b20a0bac6de2a9ab5b4f",
+      "context": {
+        "phrase": {
+          "zh": "让对话继续，才有相互理解的余地。",
+          "en": "Keep talking to make room for understanding."
+        },
+        "visual": {
+          "zh": "大幅象牙色空白纸卷占据右下，沿右、下边缘裁切，卷曲处可见层叠纸边。铜色圆柱纸镇斜压左边；左上小枝带六片灰绿橄榄叶，右上留白。黑白版保留纸卷、纸镇与六片叶子的构图，底面纹理更强。画面是谈判寓意，不是公约原件。",
+          "en": "A broad blank ivory paper roll fills the lower right, extending beyond right and bottom, with layered edges in its curl. A copper cylindrical paperweight crosses its left edge. A small olive twig with six gray-green leaves sits at upper left; the upper right stays quiet. The monochrome edition preserves the roll, weight and six-leaf arrangement with stronger ground texture. This is a negotiation metaphor, not a treaty original."
+        },
+        "background": {
+          "zh": "白里安与施特雷泽曼各获1926年诺贝尔和平奖的一半，因促成《洛迦诺公约》的关键作用获奖。白里安代表法国参与1925年的谈判，以个人外交推动相互理解。纸卷与纸镇是对话的原创寓意，不是公约原件，也不表示协议带来永久和平；不把各国共同工作归给他一人。短句为原创。\n1926年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他与施特雷泽曼在促成《洛迦诺公约》中的关键作用。",
+          "en": "Briand and Stresemann shared the 1926 Nobel Peace Prize equally for their crucial roles in the Locarno Treaty. Briand represented France in the 1925 negotiations and used personal diplomacy to encourage understanding. The scroll and paperweight are an original metaphor for dialogue, not treaty originals or a promise of permanent peace, and do not credit the international effort to him alone. The phrase is original.\n1926 — The Nobel Peace Prize. Received half of the prize. Official motivation: for their crucial role in bringing about the Locarno Treaty"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年和平奖｜官方记录",
+              "en": "1926 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1926/briand/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "04-rock",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:04-rock",
+      "subject": "04-rock",
+      "edition": "mono",
+      "title": "人文：摇滚与自由表达",
+      "titleEnglish": "Rock Music and Free Expression",
+      "category": "艺术与人文",
+      "image": "Images/mono/04-rock.jpg",
+      "thumbnail": "Thumbs/mono/04-rock.jpg",
+      "sha256": "ceedea358db8b85a6ddb393960228d450a4bbc7031dfe350afcf10ad44233dfe",
+      "thumbnailSHA256": "2c25a61b2bec30fc6a3e651284c10e2d0b95e57ccf9e7059d88ca880c680329d",
+      "context": {
+        "phrase": {
+          "zh": "让声音保留自己的棱角。",
+          "en": "Let a sound keep its own edges."
+        },
+        "visual": {
+          "zh": "手指、琴弦和几何色块把演奏转成有力度的节奏。这里的自由表达是一种艺术主题，不表示所有摇滚作品都持有相同的社会立场。",
+          "en": "Fingers, strings and geometric shapes turn performance into visual rhythm. Freedom of expression is the artistic theme, rather than a claim that all rock music shares one social position."
+        },
+        "background": {
+          "zh": "摇滚名人堂介绍，吉米·亨德里克斯体验乐队从蓝调根基出发，把反馈声和录音室的声像、反向播放及相位处理纳入创作。电吉他的意义因此不只在旋律，也在于演奏者如何主动塑造音色。",
+          "en": "The Rock & Roll Hall of Fame describes the Jimi Hendrix Experience combining blues foundations with feedback and studio techniques such as panning, reversed recording and phasing. The electric guitar became a way to shape timbre as well as play melody."
+        },
+        "sources": [
+          {
+            "label": "Rock & Roll Hall of Fame · Jimi Hendrix Experience",
+            "url": "https://rockhall.com/inductees/jimi-hendrix-experience/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:04-rock",
+      "subject": "04-rock",
+      "edition": "color",
+      "title": "人文：摇滚与自由表达",
+      "titleEnglish": "Rock Music and Free Expression",
+      "category": "艺术与人文",
+      "image": "Images/color/04-rock.jpg",
+      "thumbnail": "Thumbs/color/04-rock.jpg",
+      "sha256": "c5a86e99455c408d30d7b0ea4b7bf06920c7cb7ca0002d0c562bf894de25927e",
+      "thumbnailSHA256": "e147ab02d2a2b25c11be7af8674e29c6f37cd2b6fdfeed2306c69ba9e0a481a2",
+      "context": {
+        "phrase": {
+          "zh": "让声音保留自己的棱角。",
+          "en": "Let a sound keep its own edges."
+        },
+        "visual": {
+          "zh": "手指、琴弦和几何色块把演奏转成有力度的节奏。这里的自由表达是一种艺术主题，不表示所有摇滚作品都持有相同的社会立场。",
+          "en": "Fingers, strings and geometric shapes turn performance into visual rhythm. Freedom of expression is the artistic theme, rather than a claim that all rock music shares one social position."
+        },
+        "background": {
+          "zh": "摇滚名人堂介绍，吉米·亨德里克斯体验乐队从蓝调根基出发，把反馈声和录音室的声像、反向播放及相位处理纳入创作。电吉他的意义因此不只在旋律，也在于演奏者如何主动塑造音色。",
+          "en": "The Rock & Roll Hall of Fame describes the Jimi Hendrix Experience combining blues foundations with feedback and studio techniques such as panning, reversed recording and phasing. The electric guitar became a way to shape timbre as well as play melody."
+        },
+        "sources": [
+          {
+            "label": "Rock & Roll Hall of Fame · Jimi Hendrix Experience",
+            "url": "https://rockhall.com/inductees/jimi-hendrix-experience/"
+          }
+        ]
+      }
+    }
+  }
+}

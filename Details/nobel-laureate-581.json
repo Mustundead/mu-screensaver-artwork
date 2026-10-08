@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-581",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-581",
+      "subject": "nobel-laureate-581",
+      "edition": "mono",
+      "title": "莫里斯·梅特林克",
+      "titleEnglish": "Maurice Maeterlinck",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-581/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-581/mono.jpg",
+      "sha256": "e85013bc9e4cf169e89ba0b99ba4e5ee47ad343564014aecd4427fa42cdc3ddc",
+      "thumbnailSHA256": "8f9db9a1f251d35d7e76c50407d055a8c38aed171076043e0408adb0ca377a49",
+      "context": {
+        "phrase": {
+          "zh": "想象，会给沉默一个形状。",
+          "en": "Imagination gives silence a shape."
+        },
+        "visual": {
+          "zh": "巨大的蓝色羽翼从左上角伸入，羽尖掠过右下角的小门，借悬殊尺度呼应梅特林克《青鸟》中的寻找。黑白与钴蓝版强调羽翼；彩色版以层次不同的蓝羽、胡桃木色门框与浅暖色墙地表现材质。它是原创文学隐喻，不对应某版舞台布景或准确鸟类图谱。",
+          "en": "An oversized blue wing enters from upper left, its tips passing a tiny doorway below, interpreting the search in Maeterlinck's The Blue Bird. Cobalt defines the monochrome wing; full color adds layered blues, walnut wood and pale warm walls and floor. It is an original literary metaphor, not a specific stage design or species plate."
+        },
+        "background": {
+          "zh": "梅特林克获得1911年诺贝尔文学奖，官方获奖记录尤其肯定其富于想象与诗意的戏剧，以及作品对读者感情和想象的触动。诺贝尔官方生平介绍将他描述为抒情戏剧作家：早期作品常围绕命运、死亡与神秘感展开，而《青鸟》带有童话般的乐观。他也写诗、散文与哲思性作品，包括对蜜蜂和植物的观察性写作。这里用鸟翼与空舞台联系童话意象和戏剧形式，不把他的所有作品概括成同一种情绪，也不复制某个演出版本；短句为原创，不是本人引语。\n1911年文学奖；独享本年度奖项。获奖理由（中文译述）：因其丰富的文学创作，尤其是富于想象与诗意的戏剧；作品有时借童话形式表达深刻灵感，以含蓄方式触动读者感情并激发想象。",
+          "en": "Maeterlinck received the 1911 Nobel Prize in Literature, with particular recognition for imaginative, poetic drama that evokes readers’ feelings and imagination. Nobel’s biography describes a lyrical dramatist whose early plays often concern fate, death and mystery, while The Blue Bird conveys fairy-tale optimism. He also wrote poetry, prose and philosophical works, including observational writing about bees and flowers. The wing and empty stage connect a fairy-tale motif with drama without reducing every work to one mood or reproducing a production. The phrase is original, not a quotation.\n1911 — The Nobel Prize in Literature. Received the full prize. Official motivation: in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年文学奖｜官方记录",
+              "en": "1911 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1911/maeterlinck/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-581",
+      "subject": "nobel-laureate-581",
+      "edition": "color",
+      "title": "莫里斯·梅特林克",
+      "titleEnglish": "Maurice Maeterlinck",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-581/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-581/color.jpg",
+      "sha256": "bc9e0ae55cb3a243c4b4f3d8ae858148593aa29112630af0fc87199b5e56734e",
+      "thumbnailSHA256": "fd3d15bf5398b495eb9a2fa50e68ddcb012438a308c25040da6ee6c795c04224",
+      "context": {
+        "phrase": {
+          "zh": "想象，会给沉默一个形状。",
+          "en": "Imagination gives silence a shape."
+        },
+        "visual": {
+          "zh": "巨大的蓝色羽翼从左上角伸入，羽尖掠过右下角的小门，借悬殊尺度呼应梅特林克《青鸟》中的寻找。黑白与钴蓝版强调羽翼；彩色版以层次不同的蓝羽、胡桃木色门框与浅暖色墙地表现材质。它是原创文学隐喻，不对应某版舞台布景或准确鸟类图谱。",
+          "en": "An oversized blue wing enters from upper left, its tips passing a tiny doorway below, interpreting the search in Maeterlinck's The Blue Bird. Cobalt defines the monochrome wing; full color adds layered blues, walnut wood and pale warm walls and floor. It is an original literary metaphor, not a specific stage design or species plate."
+        },
+        "background": {
+          "zh": "梅特林克获得1911年诺贝尔文学奖，官方获奖记录尤其肯定其富于想象与诗意的戏剧，以及作品对读者感情和想象的触动。诺贝尔官方生平介绍将他描述为抒情戏剧作家：早期作品常围绕命运、死亡与神秘感展开，而《青鸟》带有童话般的乐观。他也写诗、散文与哲思性作品，包括对蜜蜂和植物的观察性写作。这里用鸟翼与空舞台联系童话意象和戏剧形式，不把他的所有作品概括成同一种情绪，也不复制某个演出版本；短句为原创，不是本人引语。\n1911年文学奖；独享本年度奖项。获奖理由（中文译述）：因其丰富的文学创作，尤其是富于想象与诗意的戏剧；作品有时借童话形式表达深刻灵感，以含蓄方式触动读者感情并激发想象。",
+          "en": "Maeterlinck received the 1911 Nobel Prize in Literature, with particular recognition for imaginative, poetic drama that evokes readers’ feelings and imagination. Nobel’s biography describes a lyrical dramatist whose early plays often concern fate, death and mystery, while The Blue Bird conveys fairy-tale optimism. He also wrote poetry, prose and philosophical works, including observational writing about bees and flowers. The wing and empty stage connect a fairy-tale motif with drama without reducing every work to one mood or reproducing a production. The phrase is original, not a quotation.\n1911 — The Nobel Prize in Literature. Received the full prize. Official motivation: in appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年文学奖｜官方记录",
+              "en": "1911 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1911/maeterlinck/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

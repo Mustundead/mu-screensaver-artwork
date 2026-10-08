@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-22",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-22",
+      "subject": "nobel-laureate-22",
+      "edition": "mono",
+      "title": "查尔斯·格洛弗·巴克拉",
+      "titleEnglish": "Charles Glover Barkla",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-22/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-22/mono.jpg",
+      "sha256": "02672addcd685268a38d9cb804e1c542603a793d26109872b9a9925ff3015c98",
+      "thumbnailSHA256": "49aae73eef3855e8f3ffb16112165658d7959dae479265a806440a895bffb374",
+      "context": {
+        "phrase": {
+          "zh": "细小的差别，也值得看清。",
+          "en": "Small differences deserve a closer look."
+        },
+        "visual": {
+          "zh": "巨大的浅绿玻璃管从左上裁切，右下三枚银灰、红铜和黄铜色圆片与空白暗板形成大小对照。彩色版保留玻璃与金属的材质颜色，黑白版沿用构图。道具是原创象征，不复原巴克拉的真实仪器，也不展示光谱、测量数据或可见的X射线。",
+          "en": "An enormous pale green glass tube is cropped at upper left, contrasted with three small silver-gray, copper and brass disks and a blank dark plate at lower right. Color distinguishes glass and metals; monochrome retains the composition. These original props do not reconstruct Barkla’s apparatus or display spectra, measured data or visible X-rays."
+        },
+        "background": {
+          "zh": "巴克拉独享1917年诺贝尔物理学奖，因发现元素的特征X射线而获奖；该年度奖项保留至下一年，他于1918年领取。诺贝尔官网的物理学史文章说明，样品受X射线管照射后产生的这种次级射线具有元素各自的特征，不取决于样品的化学形态。插画以玻璃管和不同材质圆片表现对细微差异的观察，属于原创解读，不是实验图或测量结果。短句为原创，不是获奖者引语。\n1917年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现元素的特征X射线而获奖",
+          "en": "Barkla received the full 1917 Nobel Prize in Physics for discovering characteristic X-radiation of elements. The prize was reserved and awarded to him in 1918. NobelPrize.org’s historical survey explains that these secondary rays, produced when samples are exposed to an X-ray tube, are specific to each element and independent of the sample’s chemical form. Glass tube and contrasting metal disks are an original interpretation of observing differences, not an experiment diagram or measurement. The phrase is original, not a quotation.\n1917 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discovery of the characteristic Röntgen radiation of the elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1917 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1917/summary/",
+            "labelLocalized": {
+              "zh": "1917年物理学奖｜官方记录",
+              "en": "1917 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-22",
+      "subject": "nobel-laureate-22",
+      "edition": "color",
+      "title": "查尔斯·格洛弗·巴克拉",
+      "titleEnglish": "Charles Glover Barkla",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-22/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-22/color.jpg",
+      "sha256": "3caad319b62fa75a2a4bd710868e437d83378515733a782821db2a07f934f4f3",
+      "thumbnailSHA256": "91fa1220c0ca9cab105ea78b9089c727939933424f589f6afa2772a65756c36a",
+      "context": {
+        "phrase": {
+          "zh": "细小的差别，也值得看清。",
+          "en": "Small differences deserve a closer look."
+        },
+        "visual": {
+          "zh": "巨大的浅绿玻璃管从左上裁切，右下三枚银灰、红铜和黄铜色圆片与空白暗板形成大小对照。彩色版保留玻璃与金属的材质颜色，黑白版沿用构图。道具是原创象征，不复原巴克拉的真实仪器，也不展示光谱、测量数据或可见的X射线。",
+          "en": "An enormous pale green glass tube is cropped at upper left, contrasted with three small silver-gray, copper and brass disks and a blank dark plate at lower right. Color distinguishes glass and metals; monochrome retains the composition. These original props do not reconstruct Barkla’s apparatus or display spectra, measured data or visible X-rays."
+        },
+        "background": {
+          "zh": "巴克拉独享1917年诺贝尔物理学奖，因发现元素的特征X射线而获奖；该年度奖项保留至下一年，他于1918年领取。诺贝尔官网的物理学史文章说明，样品受X射线管照射后产生的这种次级射线具有元素各自的特征，不取决于样品的化学形态。插画以玻璃管和不同材质圆片表现对细微差异的观察，属于原创解读，不是实验图或测量结果。短句为原创，不是获奖者引语。\n1917年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现元素的特征X射线而获奖",
+          "en": "Barkla received the full 1917 Nobel Prize in Physics for discovering characteristic X-radiation of elements. The prize was reserved and awarded to him in 1918. NobelPrize.org’s historical survey explains that these secondary rays, produced when samples are exposed to an X-ray tube, are specific to each element and independent of the sample’s chemical form. Glass tube and contrasting metal disks are an original interpretation of observing differences, not an experiment diagram or measurement. The phrase is original, not a quotation.\n1917 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discovery of the characteristic Röntgen radiation of the elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1917 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1917/summary/",
+            "labelLocalized": {
+              "zh": "1917年物理学奖｜官方记录",
+              "en": "1917 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

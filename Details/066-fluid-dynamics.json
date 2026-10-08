@@ -1,0 +1,70 @@
+{
+  "subject": "066-fluid-dynamics",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:066-fluid-dynamics",
+      "subject": "066-fluid-dynamics",
+      "edition": "mono",
+      "title": "流体的形状",
+      "titleEnglish": "The Shapes of Fluids",
+      "category": "自然科学",
+      "image": "Images/mono/066-fluid-dynamics.jpg",
+      "thumbnail": "Thumbs/mono/066-fluid-dynamics.jpg",
+      "sha256": "90b5d252fc6f3a46f9c9e1a61a69abb1cd3f417e0ed36ff9b4c9bf8674f30280",
+      "thumbnailSHA256": "9a211d08123590382b0bac9cc7e873d9358ec22c8db70dda6bc5bf2d5753e964",
+      "context": {
+        "phrase": {
+          "zh": "看不见的流动，也有自己的形状。",
+          "en": "An invisible flow has a shape."
+        },
+        "visual": {
+          "zh": "顺着曲面转弯的细线与涡卷，表现空气或液体绕过物体的运动。线条是艺术安排，不是计算流体仿真的结果。",
+          "en": "Fine paths bend around a surface and curl into eddies, suggesting air or liquid flow. The lines are artistic, not the output of a fluid simulation."
+        },
+        "background": {
+          "zh": "流线用来表示流动在某一时刻的方向，流体速度在每一点都沿流线切向。NASA 用机翼和圆柱周围的流线帮助分析空气动力；真实流场会随形状和条件改变。",
+          "en": "Streamlines represent flow direction at a given moment, with velocity tangent to the line at each point. NASA uses flow around an airfoil or cylinder to explain aerodynamics; real patterns depend on geometry and conditions."
+        },
+        "sources": [
+          {
+            "label": "NASA Glenn · Streamlines",
+            "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/definition-of-streamlines/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:066-fluid-dynamics",
+      "subject": "066-fluid-dynamics",
+      "edition": "color",
+      "title": "流体的形状",
+      "titleEnglish": "The Shapes of Fluids",
+      "category": "自然科学",
+      "image": "Images/color/066-fluid-dynamics.jpg",
+      "thumbnail": "Thumbs/color/066-fluid-dynamics.jpg",
+      "sha256": "cffc2e43e0f759df92045fa45816c5c3a61e8d5b8b13ab01e582b01a33b7e5e9",
+      "thumbnailSHA256": "c796317904349ba3156018846164e8f9c814e0ab1b4d2bada91bc2ee7567723b",
+      "context": {
+        "phrase": {
+          "zh": "看不见的流动，也有自己的形状。",
+          "en": "An invisible flow has a shape."
+        },
+        "visual": {
+          "zh": "顺着曲面转弯的细线与涡卷，表现空气或液体绕过物体的运动。线条是艺术安排，不是计算流体仿真的结果。",
+          "en": "Fine paths bend around a surface and curl into eddies, suggesting air or liquid flow. The lines are artistic, not the output of a fluid simulation."
+        },
+        "background": {
+          "zh": "流线用来表示流动在某一时刻的方向，流体速度在每一点都沿流线切向。NASA 用机翼和圆柱周围的流线帮助分析空气动力；真实流场会随形状和条件改变。",
+          "en": "Streamlines represent flow direction at a given moment, with velocity tangent to the line at each point. NASA uses flow around an airfoil or cylinder to explain aerodynamics; real patterns depend on geometry and conditions."
+        },
+        "sources": [
+          {
+            "label": "NASA Glenn · Streamlines",
+            "url": "https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/definition-of-streamlines/"
+          }
+        ]
+      }
+    }
+  }
+}

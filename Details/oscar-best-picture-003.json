@@ -1,0 +1,86 @@
+{
+  "subject": "oscar-best-picture-003",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-003",
+      "subject": "oscar-best-picture-003",
+      "edition": "mono",
+      "title": "西线无战事",
+      "titleEnglish": "All Quiet on the Western Front",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-003/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-003/mono.jpg",
+      "sha256": "16d2aabe2f040030bd719711dd0c8abadf4c9651451b83a31a79537df786b052",
+      "thumbnailSHA256": "0f9918b662fa13bf272b3629bac66db595ef3a857ab3feaef73319bde5ccf0e3",
+      "context": {
+        "phrase": {
+          "zh": "愿每一个年轻的生命，都能走出战场。",
+          "en": "May every young life find a way beyond the battlefield."
+        },
+        "visual": {
+          "zh": "为1930年《西线无战事》独立创作的反战拼贴，以空钢盔、断开的铁丝网与蝴蝶表达脆弱的生命；不是电影剧照或海报。",
+          "en": "An original anti-war collage for the 1930 All Quiet on the Western Front, using an empty helmet, severed barbed wire and a butterfly to evoke life's fragility. Not a movie still or poster."
+        },
+        "background": {
+          "zh": "影片讲述一群年轻人加入第一次世界大战中的德军，在西线经历战争现实的故事，并于1930年获得第三届奥斯卡最佳影片奖。画面以遗留的装备和一只蝴蝶表达生命与战争的冲突；这是艺术解读，不重现某个具体镜头。\n第3届奥斯卡最佳影片：西线无战事。颁奖年份 1930；参评年份 1929/30。",
+          "en": "The film follows young men who join the German army during World War I and confront the realities of combat on the Western Front. It won Best Picture at the third Academy Awards in 1930. Abandoned equipment and a butterfly interpret the conflict between life and war; this is not a reconstruction of a specific shot.\nAcademy Awards ceremony 3 (1930), Best Picture: All Quiet on the Western Front. Eligibility year: 1929/30."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1931",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "Universal Pictures",
+            "url": "https://www.universalpicturesathome.com/movies/all-quiet-on-the-western-front"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-003",
+      "subject": "oscar-best-picture-003",
+      "edition": "color",
+      "title": "西线无战事",
+      "titleEnglish": "All Quiet on the Western Front",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-003/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-003/color.jpg",
+      "sha256": "0ad6ec10c86e815f176379ee30c85c170cabfb8a2c90c8c3d2e671aa485c7482",
+      "thumbnailSHA256": "d2eb75233cd58fa5de4c390a4c1f500ae0dbe4bd82f276992f7e640711871dc5",
+      "context": {
+        "phrase": {
+          "zh": "愿每一个年轻的生命，都能走出战场。",
+          "en": "May every young life find a way beyond the battlefield."
+        },
+        "visual": {
+          "zh": "为1930年《西线无战事》独立创作的反战拼贴，以空钢盔、断开的铁丝网与蝴蝶表达脆弱的生命；不是电影剧照或海报。",
+          "en": "An original anti-war collage for the 1930 All Quiet on the Western Front, using an empty helmet, severed barbed wire and a butterfly to evoke life's fragility. Not a movie still or poster."
+        },
+        "background": {
+          "zh": "影片讲述一群年轻人加入第一次世界大战中的德军，在西线经历战争现实的故事，并于1930年获得第三届奥斯卡最佳影片奖。画面以遗留的装备和一只蝴蝶表达生命与战争的冲突；这是艺术解读，不重现某个具体镜头。\n第3届奥斯卡最佳影片：西线无战事。颁奖年份 1930；参评年份 1929/30。",
+          "en": "The film follows young men who join the German army during World War I and confront the realities of combat on the Western Front. It won Best Picture at the third Academy Awards in 1930. Abandoned equipment and a butterfly interpret the conflict between life and war; this is not a reconstruction of a specific shot.\nAcademy Awards ceremony 3 (1930), Best Picture: All Quiet on the Western Front. Eligibility year: 1929/30."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1931",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "Universal Pictures",
+            "url": "https://www.universalpicturesathome.com/movies/all-quiet-on-the-western-front"
+          }
+        ]
+      }
+    }
+  }
+}

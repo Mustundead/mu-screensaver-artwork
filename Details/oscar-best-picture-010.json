@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-010",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-010",
+      "subject": "oscar-best-picture-010",
+      "edition": "mono",
+      "title": "左拉传",
+      "titleEnglish": "The Life of Emile Zola",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-010/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-010/mono.jpg",
+      "sha256": "ec673e7945afae4ea8f9181c0a082438ccd03def1e7b02fe3e98da859a0563f2",
+      "thumbnailSHA256": "b64364d1ca84dfc81c35c0e90e31f18b506d7f182ac16691ce5fac3930ed829f",
+      "context": {
+        "phrase": {
+          "zh": "让文字走出书房，替被忽略的人发声。",
+          "en": "Words can leave the study and speak for those unheard."
+        },
+        "visual": {
+          "zh": "印刷机、无字书报、空法庭席位、眼镜与信封组成独立拼贴，呼应影片中写作、发表和为冤案发声的主题。器具与场景是想象性的组合，不复制电影画面、历史报纸或真实法庭。",
+          "en": "An original collage of a printing press, blank books and newspapers, empty courtroom seats, glasses and an envelope evokes the film's themes of writing, publication and speaking against a wrongful conviction. It does not reproduce a film frame, a historical newspaper or an actual courtroom."
+        },
+        "background": {
+          "zh": "《左拉传》是1937年由威廉·迪特尔执导、保罗·穆尼主演的传记剧情片。影片描绘作家埃米尔·左拉的经历，并以他为德雷福斯冤案发声为重要情节。影片在1938年第10届奥斯卡获得最佳影片奖。配图把出版与法庭意象并置，表现文字进入公共生活的过程；电影叙事与真实历史仍应分开理解。\n第10届奥斯卡最佳影片：左拉传。颁奖年份 1938；参评年份 1937。",
+          "en": "The Life of Emile Zola is a 1937 biographical drama directed by William Dieterle and starring Paul Muni. It portrays the writer's life, with his defense of Dreyfus against a wrongful conviction as a central episode. The film won Best Picture at the 10th Academy Awards in 1938. The artwork connects publication and courtroom imagery to interpret writing's public role; the film's narrative should be distinguished from historical fact.\nAcademy Awards ceremony 10 (1938), Best Picture: The Life of Emile Zola. Eligibility year: 1937."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1938",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/3869-THE-LIFE-OF-EMILE-ZOLA",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-010",
+      "subject": "oscar-best-picture-010",
+      "edition": "color",
+      "title": "左拉传",
+      "titleEnglish": "The Life of Emile Zola",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-010/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-010/color.jpg",
+      "sha256": "48f2289652e3a50d557b08cfe8ef71cb7c4433f0d04cde84f546a811058877a2",
+      "thumbnailSHA256": "976c42389f698996d1e2cdeb010674406362a9fa11938c5141de794bea761774",
+      "context": {
+        "phrase": {
+          "zh": "让文字走出书房，替被忽略的人发声。",
+          "en": "Words can leave the study and speak for those unheard."
+        },
+        "visual": {
+          "zh": "印刷机、无字书报、空法庭席位、眼镜与信封组成独立拼贴，呼应影片中写作、发表和为冤案发声的主题。器具与场景是想象性的组合，不复制电影画面、历史报纸或真实法庭。",
+          "en": "An original collage of a printing press, blank books and newspapers, empty courtroom seats, glasses and an envelope evokes the film's themes of writing, publication and speaking against a wrongful conviction. It does not reproduce a film frame, a historical newspaper or an actual courtroom."
+        },
+        "background": {
+          "zh": "《左拉传》是1937年由威廉·迪特尔执导、保罗·穆尼主演的传记剧情片。影片描绘作家埃米尔·左拉的经历，并以他为德雷福斯冤案发声为重要情节。影片在1938年第10届奥斯卡获得最佳影片奖。配图把出版与法庭意象并置，表现文字进入公共生活的过程；电影叙事与真实历史仍应分开理解。\n第10届奥斯卡最佳影片：左拉传。颁奖年份 1938；参评年份 1937。",
+          "en": "The Life of Emile Zola is a 1937 biographical drama directed by William Dieterle and starring Paul Muni. It portrays the writer's life, with his defense of Dreyfus against a wrongful conviction as a central episode. The film won Best Picture at the 10th Academy Awards in 1938. The artwork connects publication and courtroom imagery to interpret writing's public role; the film's narrative should be distinguished from historical fact.\nAcademy Awards ceremony 10 (1938), Best Picture: The Life of Emile Zola. Eligibility year: 1937."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1938",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/3869-THE-LIFE-OF-EMILE-ZOLA",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

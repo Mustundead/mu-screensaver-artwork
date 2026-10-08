@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-498",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-498",
+      "subject": "nobel-laureate-498",
+      "edition": "mono",
+      "title": "诺曼·安吉尔",
+      "titleEnglish": "Sir Norman Angell",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-498/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-498/mono.jpg",
+      "sha256": "b7dd8ae592e7ba57ec095d3b5f710e70c3ee1ba4d50f474c2934436d0308c4e1",
+      "thumbnailSHA256": "1136b2f71c60ab4e6e7c818def0522661f1f712e118693cb107c15ac50a370c5",
+      "context": {
+        "phrase": {
+          "zh": "彼此相连的生活，无法靠征服变富。",
+          "en": "Interdependent lives cannot be enriched by conquest."
+        },
+        "visual": {
+          "zh": "锈红与米白的编织面横贯左侧，纵向裂口仍由多条连续的线相连；右缘折出一段弧面，深绿背景留在右侧。中性黑白版保留编织、裂口、相连线与折边。",
+          "en": "Rust-red and ivory woven bands fill the left, with several continuous strands spanning a vertical tear. The right edge folds into a curve against a quiet deep-green field. The neutral monochrome edition preserves the weave, tear, connecting strands and fold."
+        },
+        "background": {
+          "zh": "安吉尔获得1933年诺贝尔和平奖，实际于1934年颁发。他在《大幻觉》等著作中质疑战争能够带来经济利益的观念，倡导国际合作与和平。相连又撕裂的织物是对相互依赖与战争损害的原创解读，不是经济数据、历史实物或作者原话；短句为原创。\n1933年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他以著述揭示战争的幻觉，并有力倡导国际合作与和平。",
+          "en": "Angell received the Nobel Peace Prize for 1933, awarded in 1934. In The Great Illusion and other writings he challenged the belief that war could bring economic gains and advocated international cooperation and peace. Connected yet torn fabric is an original interpretation of interdependence and the damage of war, not economic data, a historical object or the author’s words. The phrase is original.\n1933 — The Nobel Peace Prize. Received the full prize. Official motivation: for having exposed by his pen the illusion of war and presented a convincing plea for international cooperation and peace"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年和平奖｜官方记录",
+              "en": "1933 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1933/angell/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/nomination/archive/show.php?id=1553&mode=normal",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-498",
+      "subject": "nobel-laureate-498",
+      "edition": "color",
+      "title": "诺曼·安吉尔",
+      "titleEnglish": "Sir Norman Angell",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-498/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-498/color.jpg",
+      "sha256": "c3daba327e24927cb2a1e4dfa30d753f90436e3481e66192226c5e4c0fb665f2",
+      "thumbnailSHA256": "9083b6ff086d611194793dab81c7c1f7253d9f60e28b7d9b495fa7e748874cb6",
+      "context": {
+        "phrase": {
+          "zh": "彼此相连的生活，无法靠征服变富。",
+          "en": "Interdependent lives cannot be enriched by conquest."
+        },
+        "visual": {
+          "zh": "锈红与米白的编织面横贯左侧，纵向裂口仍由多条连续的线相连；右缘折出一段弧面，深绿背景留在右侧。中性黑白版保留编织、裂口、相连线与折边。",
+          "en": "Rust-red and ivory woven bands fill the left, with several continuous strands spanning a vertical tear. The right edge folds into a curve against a quiet deep-green field. The neutral monochrome edition preserves the weave, tear, connecting strands and fold."
+        },
+        "background": {
+          "zh": "安吉尔获得1933年诺贝尔和平奖，实际于1934年颁发。他在《大幻觉》等著作中质疑战争能够带来经济利益的观念，倡导国际合作与和平。相连又撕裂的织物是对相互依赖与战争损害的原创解读，不是经济数据、历史实物或作者原话；短句为原创。\n1933年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他以著述揭示战争的幻觉，并有力倡导国际合作与和平。",
+          "en": "Angell received the Nobel Peace Prize for 1933, awarded in 1934. In The Great Illusion and other writings he challenged the belief that war could bring economic gains and advocated international cooperation and peace. Connected yet torn fabric is an original interpretation of interdependence and the damage of war, not economic data, a historical object or the author’s words. The phrase is original.\n1933 — The Nobel Peace Prize. Received the full prize. Official motivation: for having exposed by his pen the illusion of war and presented a convincing plea for international cooperation and peace"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1933 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1933/summary/",
+            "labelLocalized": {
+              "zh": "1933年和平奖｜官方记录",
+              "en": "1933 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1933/angell/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/nomination/archive/show.php?id=1553&mode=normal",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

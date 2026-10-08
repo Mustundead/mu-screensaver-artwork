@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-14",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-14",
+      "subject": "nobel-laureate-14",
+      "edition": "mono",
+      "title": "费迪南德·布劳恩",
+      "titleEnglish": "Ferdinand Braun",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-14/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-14/mono.jpg",
+      "sha256": "bb75d15b805287a401407bdec6453ce2155b399c7a2934d15b4f790f3e09dc7c",
+      "thumbnailSHA256": "4c6d789c42881db4551b385ebe8b1ce6837c1d797f1d104af3f91bc851be6c95",
+      "context": {
+        "phrase": {
+          "zh": "调到同一频率，让远方听见。",
+          "en": "Tune together, and let the distance listen."
+        },
+        "visual": {
+          "zh": "巨大的线圈斜向切出画面边缘，小线圈与旋钮形成悬殊尺度，蓝色折面穿过层叠器件。画面借调谐器件表现信号协调，不是布劳恩的原装仪器或可照做的电路。",
+          "en": "A massive cropped coil overlaps a smaller coil and control knob. A cobalt folded plane threads through the layered components. Tuning instruments suggest coordinated signals; the image is neither Braun’s original apparatus nor a usable circuit."
+        },
+        "background": {
+          "zh": "费迪南德·布劳恩与古列尔莫·马可尼共同获得1909年诺贝尔物理学奖，各占一半，表彰他们对无线电报发展的贡献。布劳恩研究发射与接收系统的频率协调，并改进无线通信技术。调谐就是把设备调整到相应的频率，让目标信号更容易被接收。他也因阴极射线管而知名，但1909年的获奖理由是无线电报，因此这张图使用线圈与调节器件，没有用电视机代替获奖工作。器件组合和短句为原创艺术表达，不是历史实验的精确复原或布劳恩的引语。\n1909年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们对无线电报发展的贡献",
+          "en": "Ferdinand Braun shared the 1909 Nobel Prize in Physics equally with Guglielmo Marconi for contributions to wireless telegraphy. Braun investigated coordinating transmitter and receiver frequencies and improving wireless systems. Tuning adjusts equipment to the relevant frequency so a desired signal can be received. Although also known for the cathode-ray tube, his 1909 prize concerned wireless telegraphy. The artwork therefore uses coils and controls rather than television imagery. The component arrangement and phrase are original artistic interpretations, not a precise historical reconstruction or a Braun quotation.\n1909 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of their contributions to the development of wireless telegraphy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年物理学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/braun/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "physik.uni-wuerzburg.de",
+            "url": "https://www.physik.uni-wuerzburg.de/en/about-us/history-of-the-faculty/nobel-prize-winners/karl-ferdinand-braun-1909/",
+            "labelLocalized": {
+              "zh": "人物与研究历史｜维尔茨堡大学",
+              "en": "Life and research history — University of Würzburg"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-14",
+      "subject": "nobel-laureate-14",
+      "edition": "color",
+      "title": "费迪南德·布劳恩",
+      "titleEnglish": "Ferdinand Braun",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-14/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-14/color.jpg",
+      "sha256": "3cafab1b31ecf2742bc13ecb9f77e88f92e49b64f9386c5c1007b9d385762b88",
+      "thumbnailSHA256": "cedc3aa8872ddf5c4f4fb351317c184e9c5e783fcfa8e89683421d7bf0ccc741",
+      "context": {
+        "phrase": {
+          "zh": "调到同一频率，让远方听见。",
+          "en": "Tune together, and let the distance listen."
+        },
+        "visual": {
+          "zh": "巨大的线圈斜向切出画面边缘，小线圈与旋钮形成悬殊尺度，蓝色折面穿过层叠器件。画面借调谐器件表现信号协调，不是布劳恩的原装仪器或可照做的电路。",
+          "en": "A massive cropped coil overlaps a smaller coil and control knob. A cobalt folded plane threads through the layered components. Tuning instruments suggest coordinated signals; the image is neither Braun’s original apparatus nor a usable circuit."
+        },
+        "background": {
+          "zh": "费迪南德·布劳恩与古列尔莫·马可尼共同获得1909年诺贝尔物理学奖，各占一半，表彰他们对无线电报发展的贡献。布劳恩研究发射与接收系统的频率协调，并改进无线通信技术。调谐就是把设备调整到相应的频率，让目标信号更容易被接收。他也因阴极射线管而知名，但1909年的获奖理由是无线电报，因此这张图使用线圈与调节器件，没有用电视机代替获奖工作。器件组合和短句为原创艺术表达，不是历史实验的精确复原或布劳恩的引语。\n1909年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：因他们对无线电报发展的贡献",
+          "en": "Ferdinand Braun shared the 1909 Nobel Prize in Physics equally with Guglielmo Marconi for contributions to wireless telegraphy. Braun investigated coordinating transmitter and receiver frequencies and improving wireless systems. Tuning adjusts equipment to the relevant frequency so a desired signal can be received. Although also known for the cathode-ray tube, his 1909 prize concerned wireless telegraphy. The artwork therefore uses coils and controls rather than television imagery. The component arrangement and phrase are original artistic interpretations, not a precise historical reconstruction or a Braun quotation.\n1909 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of their contributions to the development of wireless telegraphy"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1909 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/summary/",
+            "labelLocalized": {
+              "zh": "1909年物理学奖｜官方记录",
+              "en": "1909 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1909/braun/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "physik.uni-wuerzburg.de",
+            "url": "https://www.physik.uni-wuerzburg.de/en/about-us/history-of-the-faculty/nobel-prize-winners/karl-ferdinand-braun-1909/",
+            "labelLocalized": {
+              "zh": "人物与研究历史｜维尔茨堡大学",
+              "en": "Life and research history — University of Würzburg"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

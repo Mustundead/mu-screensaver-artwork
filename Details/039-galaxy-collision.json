@@ -1,0 +1,70 @@
+{
+  "subject": "039-galaxy-collision",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:039-galaxy-collision",
+      "subject": "039-galaxy-collision",
+      "edition": "mono",
+      "title": "星系相遇",
+      "titleEnglish": "Galaxies in Collision",
+      "category": "宇宙",
+      "image": "Images/mono/039-galaxy-collision.jpg",
+      "thumbnail": "Thumbs/mono/039-galaxy-collision.jpg",
+      "sha256": "8368d8bfe1ed359b089a37e815072e15ccf5a1ad0d6281d73a78e12bf5fb51f4",
+      "thumbnailSHA256": "6835145538006211c1b02a808bba347697469a695ac1c3401cd203a2ac873327",
+      "context": {
+        "phrase": {
+          "zh": "一次相遇，改写星系的形状。",
+          "en": "An encounter reshapes galaxies."
+        },
+        "visual": {
+          "zh": "两组旋臂在画中卷向彼此，像慢速相遇留下的潮汐曲线。这不是两座具体星系的观测照片或碰撞模拟结果。",
+          "en": "Two spiral forms curl toward each other like tidal traces of a slow encounter. This is not a photograph or simulation of named galaxies."
+        },
+        "background": {
+          "zh": "星系相互作用时，引力可扭曲其形状，并压缩气体、触发新的恒星形成。虽然称为“碰撞”，星系中的恒星间距通常很大，单个恒星直接相撞并不常见。",
+          "en": "During a galaxy encounter, gravity can distort shapes and compress gas, triggering star formation. Despite the word “collision,” individual stars are widely separated and direct star-to-star impacts are uncommon."
+        },
+        "sources": [
+          {
+            "label": "NASA · Galaxy evolution",
+            "url": "https://science.nasa.gov/universe/galaxies/evolution/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:039-galaxy-collision",
+      "subject": "039-galaxy-collision",
+      "edition": "color",
+      "title": "星系相遇",
+      "titleEnglish": "Galaxies in Collision",
+      "category": "宇宙",
+      "image": "Images/color/039-galaxy-collision.jpg",
+      "thumbnail": "Thumbs/color/039-galaxy-collision.jpg",
+      "sha256": "b326fe3d6ff2a4b5e95e181462302984422854bbb87623cabf3803ea8b0acee3",
+      "thumbnailSHA256": "2e2b832ed2ed8503d0fbd07a19c9ea6c22983b5450fe629b74d25fccc6ef08b3",
+      "context": {
+        "phrase": {
+          "zh": "一次相遇，改写星系的形状。",
+          "en": "An encounter reshapes galaxies."
+        },
+        "visual": {
+          "zh": "两组旋臂在画中卷向彼此，像慢速相遇留下的潮汐曲线。这不是两座具体星系的观测照片或碰撞模拟结果。",
+          "en": "Two spiral forms curl toward each other like tidal traces of a slow encounter. This is not a photograph or simulation of named galaxies."
+        },
+        "background": {
+          "zh": "星系相互作用时，引力可扭曲其形状，并压缩气体、触发新的恒星形成。虽然称为“碰撞”，星系中的恒星间距通常很大，单个恒星直接相撞并不常见。",
+          "en": "During a galaxy encounter, gravity can distort shapes and compress gas, triggering star formation. Despite the word “collision,” individual stars are widely separated and direct star-to-star impacts are uncommon."
+        },
+        "sources": [
+          {
+            "label": "NASA · Galaxy evolution",
+            "url": "https://science.nasa.gov/universe/galaxies/evolution/"
+          }
+        ]
+      }
+    }
+  }
+}

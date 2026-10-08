@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-167",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-167",
+      "subject": "nobel-laureate-167",
+      "edition": "mono",
+      "title": "欧内斯特·卢瑟福",
+      "titleEnglish": "Ernest Rutherford",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-167/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-167/mono.jpg",
+      "sha256": "8e6d9f993904b04a978c509363cd3aecdf73961c102fdd6b6b722e7a803093ca",
+      "thumbnailSHA256": "be49bc8682b7879f7e609cd6863f58158acf6adc5a672e0d6cf3b6db59f762bb",
+      "context": {
+        "phrase": {
+          "zh": "看不见的变化，也留下痕迹。",
+          "en": "Unseen changes still leave traces."
+        },
+        "visual": {
+          "zh": "验电器的玻璃腔体与金属叶片被大幅放大、裁切，弧形蓝色边缘绕过前景，小样品瓶与木箱退到边角。器物只象征放射性变化的测量，不是实际实验布置，也不混用后来原子核研究的金箔实验。",
+          "en": "The electroscope chamber and metal leaves are enlarged and cropped, with a blue curved rim sweeping through the foreground. A small sample jar and case occupy a corner. This symbolizes measurement of radioactive change, not a real setup or Rutherford’s later gold-foil work."
+        },
+        "background": {
+          "zh": "欧内斯特·卢瑟福获得1908年诺贝尔化学奖，获奖理由是研究元素的蜕变和放射性物质的化学性质。他通过研究放射性辐射和物质随时间的变化，推动了人们对放射性过程的理解。这里的“蜕变”指一种元素转变成另一种元素，并非普通的化学混合。1908年的奖项属于化学奖，不能与他后来提出的原子核模型混为一谈。配图借测量器具表现看不见的变化，不提供实验操作或放射性材料使用建议。\n1908年化学奖；独享本年度奖项。获奖理由（中文译述）：因其对元素蜕变及放射性物质化学性质的研究",
+          "en": "Ernest Rutherford received the 1908 Nobel Prize in Chemistry for investigations into the disintegration of elements and the chemistry of radioactive substances. Studying radiation and how radioactive material changed over time advanced understanding of these processes. Here disintegration means transformation from one element into another, rather than ordinary chemical mixing. This Chemistry award should be distinguished from his later nuclear model of the atom. The instruments symbolize measurement and unseen change; they are not instructions for using radioactive materials.\n1908 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his investigations into the disintegration of the elements, and the chemistry of radioactive substances"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年化学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1908/rutherford/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-167",
+      "subject": "nobel-laureate-167",
+      "edition": "color",
+      "title": "欧内斯特·卢瑟福",
+      "titleEnglish": "Ernest Rutherford",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-167/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-167/color.jpg",
+      "sha256": "3673d2b95b173bc5724f710d2719cc3492c822d3d02bf93523e7d5acd00e81a2",
+      "thumbnailSHA256": "3f06f6f45d212990a3444beebe6f594e459bc036600950ac11064fddd0653d0b",
+      "context": {
+        "phrase": {
+          "zh": "看不见的变化，也留下痕迹。",
+          "en": "Unseen changes still leave traces."
+        },
+        "visual": {
+          "zh": "验电器的玻璃腔体与金属叶片被大幅放大、裁切，弧形蓝色边缘绕过前景，小样品瓶与木箱退到边角。器物只象征放射性变化的测量，不是实际实验布置，也不混用后来原子核研究的金箔实验。",
+          "en": "The electroscope chamber and metal leaves are enlarged and cropped, with a blue curved rim sweeping through the foreground. A small sample jar and case occupy a corner. This symbolizes measurement of radioactive change, not a real setup or Rutherford’s later gold-foil work."
+        },
+        "background": {
+          "zh": "欧内斯特·卢瑟福获得1908年诺贝尔化学奖，获奖理由是研究元素的蜕变和放射性物质的化学性质。他通过研究放射性辐射和物质随时间的变化，推动了人们对放射性过程的理解。这里的“蜕变”指一种元素转变成另一种元素，并非普通的化学混合。1908年的奖项属于化学奖，不能与他后来提出的原子核模型混为一谈。配图借测量器具表现看不见的变化，不提供实验操作或放射性材料使用建议。\n1908年化学奖；独享本年度奖项。获奖理由（中文译述）：因其对元素蜕变及放射性物质化学性质的研究",
+          "en": "Ernest Rutherford received the 1908 Nobel Prize in Chemistry for investigations into the disintegration of elements and the chemistry of radioactive substances. Studying radiation and how radioactive material changed over time advanced understanding of these processes. Here disintegration means transformation from one element into another, rather than ordinary chemical mixing. This Chemistry award should be distinguished from his later nuclear model of the atom. The instruments symbolize measurement and unseen change; they are not instructions for using radioactive materials.\n1908 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his investigations into the disintegration of the elements, and the chemistry of radioactive substances"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年化学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1908/rutherford/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

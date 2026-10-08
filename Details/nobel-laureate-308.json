@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-308",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-308",
+      "subject": "nobel-laureate-308",
+      "edition": "mono",
+      "title": "罗伯特·巴拉尼",
+      "titleEnglish": "Robert Bárány",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-308/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-308/mono.jpg",
+      "sha256": "d9fa66a0302f73080d13edcefa7626c57bcb485fee1764343702b11da9dfd548",
+      "thumbnailSHA256": "803dc8eebc833238c76dcc7e9fb9f771ae4093db57bb23df0c23ebe442581f1c",
+      "context": {
+        "phrase": {
+          "zh": "身体知道，怎样找回平衡。",
+          "en": "The body finds its bearings."
+        },
+        "visual": {
+          "zh": "巨大的嵌套圆环从右侧伸入，把一枚小球围在不同方向的结构中，以空间关系呼应平衡与方向感。黑白与钴蓝版突出圆环；彩色版区分黄铜、青绿铜锈、赤褐青铜与乳白球体。它是原创雕塑隐喻，不是内耳解剖、诊断或测量装置的准确图示。",
+          "en": "Huge nested rings enter from the right around a small sphere, using spatial relationships to evoke balance and orientation. Cobalt emphasizes the rings in monochrome; full color distinguishes brass, green copper patina, russet bronze and ivory ceramic. This original sculptural metaphor is not accurate inner-ear anatomy, a diagnostic image or a measurement apparatus."
+        },
+        "background": {
+          "zh": "巴拉尼独享1914年诺贝尔生理学或医学奖，获奖理由是研究前庭器官的生理与病理。前庭系统位于内耳，帮助身体感知运动和保持平衡；视觉以及来自肌肉、关节等处的信号也参与其中，不能把平衡完全归于内耳。画面以交叠圆环与小球表达方向感，没有复原人体结构、诊断检查或提供自测与治疗方法。短句为原创，不是医学建议。\n1914年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因研究前庭器官的生理与病理。",
+          "en": "Bárány alone received the 1914 Nobel Prize in Physiology or Medicine for work on the physiology and pathology of the vestibular apparatus. The vestibular system in the inner ear helps sense motion and maintain balance, alongside vision and signals from muscles and joints. Balance cannot be attributed to the inner ear alone. Overlapping rings and a sphere evoke orientation without depicting anatomy, diagnostic testing or self-treatment. The phrase is original, not medical advice.\n1914 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on the physiology and pathology of the vestibular apparatus"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1914 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1914/summary/",
+            "labelLocalized": {
+              "zh": "1914年生理学或医学奖｜官方记录",
+              "en": "1914 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "nidcd.nih.gov",
+            "url": "https://www.nidcd.nih.gov/health/balance-disorders",
+            "labelLocalized": {
+              "zh": "平衡系统说明｜美国国立卫生研究院",
+              "en": "Balance explained — National Institutes of Health"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-308",
+      "subject": "nobel-laureate-308",
+      "edition": "color",
+      "title": "罗伯特·巴拉尼",
+      "titleEnglish": "Robert Bárány",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-308/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-308/color.jpg",
+      "sha256": "0cd9fbd73da0d2663298ff27ac540f3df3b1ac18ef5de6495f2982b7ec9a98df",
+      "thumbnailSHA256": "4066d3c2c0e0ffdb49887131408b8414c7f28d52a36f12e25a790c7b402a92f4",
+      "context": {
+        "phrase": {
+          "zh": "身体知道，怎样找回平衡。",
+          "en": "The body finds its bearings."
+        },
+        "visual": {
+          "zh": "巨大的嵌套圆环从右侧伸入，把一枚小球围在不同方向的结构中，以空间关系呼应平衡与方向感。黑白与钴蓝版突出圆环；彩色版区分黄铜、青绿铜锈、赤褐青铜与乳白球体。它是原创雕塑隐喻，不是内耳解剖、诊断或测量装置的准确图示。",
+          "en": "Huge nested rings enter from the right around a small sphere, using spatial relationships to evoke balance and orientation. Cobalt emphasizes the rings in monochrome; full color distinguishes brass, green copper patina, russet bronze and ivory ceramic. This original sculptural metaphor is not accurate inner-ear anatomy, a diagnostic image or a measurement apparatus."
+        },
+        "background": {
+          "zh": "巴拉尼独享1914年诺贝尔生理学或医学奖，获奖理由是研究前庭器官的生理与病理。前庭系统位于内耳，帮助身体感知运动和保持平衡；视觉以及来自肌肉、关节等处的信号也参与其中，不能把平衡完全归于内耳。画面以交叠圆环与小球表达方向感，没有复原人体结构、诊断检查或提供自测与治疗方法。短句为原创，不是医学建议。\n1914年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：因研究前庭器官的生理与病理。",
+          "en": "Bárány alone received the 1914 Nobel Prize in Physiology or Medicine for work on the physiology and pathology of the vestibular apparatus. The vestibular system in the inner ear helps sense motion and maintain balance, alongside vision and signals from muscles and joints. Balance cannot be attributed to the inner ear alone. Overlapping rings and a sphere evoke orientation without depicting anatomy, diagnostic testing or self-treatment. The phrase is original, not medical advice.\n1914 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his work on the physiology and pathology of the vestibular apparatus"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1914 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1914/summary/",
+            "labelLocalized": {
+              "zh": "1914年生理学或医学奖｜官方记录",
+              "en": "1914 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "nidcd.nih.gov",
+            "url": "https://www.nidcd.nih.gov/health/balance-disorders",
+            "labelLocalized": {
+              "zh": "平衡系统说明｜美国国立卫生研究院",
+              "en": "Balance explained — National Institutes of Health"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-017",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-017",
+      "subject": "oscar-best-picture-017",
+      "edition": "mono",
+      "title": "与我同行",
+      "titleEnglish": "Going My Way",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-017/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-017/mono.jpg",
+      "sha256": "8c585826a96506c61c34df1d8f9640d5b152ba3750b0b8506d59a308a029a06a",
+      "thumbnailSHA256": "f7b77646ee18fb3b113bfd442a6cada23b6fbb12e69a38405dd5351579406ecc",
+      "context": {
+        "phrase": {
+          "zh": "一同唱起，路就不再孤单。",
+          "en": "Sing together, and the path feels less lonely."
+        },
+        "visual": {
+          "zh": "巨钟压在左侧前景，三张小木椅沿台阶排列，编织带垂向地面，以尺度对照呼应声音与社群。黑白与钴蓝版突出编织带；彩色版使用青铜、红褐织物、深木色与暖石材。它是原创场景隐喻，不是《与我同行》的上色剧照、布景或某座教堂的复原。",
+          "en": "An immense foreground bell contrasts with three small wooden chairs on steps and a hanging braid, evoking voice and community. Cobalt emphasizes the braid in monochrome; full color uses bronze, burgundy cloth, dark wood and warm stone. It is an original scene metaphor, not a colorized Going My Way frame, film set or reconstructed church."
+        },
+        "background": {
+          "zh": "莱奥·麦卡里的《与我同行》是1944年影片，1945年3月15日举行的第17届奥斯卡将最佳影片授予它。美国电影学会记录1944年4月27日的前线放映首映与5月3日的纽约首映，不能把影片年份和领奖年份合在一起。故事围绕奥马利神父来到社区、组织男孩合唱团，以及与老神父从冲突走向信任展开，音乐也参与教堂的筹款和重建。画面以钟、空椅和上行石阶作原创解读，没有演员肖像、电影台词或歌曲歌词。短句为原创，不是影片对白。\n第17届奥斯卡最佳影片：与我同行。颁奖年份 1945；参评年份 1944。",
+          "en": "Leo McCarey’s Going My Way is a 1944 film that received Best Picture at the 17th Academy Awards on March 15, 1945. AFI distinguishes its April 27, 1944 fighting-front premiere and May 3 New York premiere from the award year. Father O’Malley’s community work and boys’ choir accompany his changing relationship with an older priest; music also contributes to fundraising and rebuilding the church. Bell, empty chairs and ascending steps are an original interpretation, with no actor portrait, dialogue or lyrics. The phrase is original.\nAcademy Awards ceremony 17 (1945), Best Picture: Going My Way. Eligibility year: 1944."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1945",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/1452-GOING-MY-WAY",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-017",
+      "subject": "oscar-best-picture-017",
+      "edition": "color",
+      "title": "与我同行",
+      "titleEnglish": "Going My Way",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-017/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-017/color.jpg",
+      "sha256": "7f1385a64ef2b959c7fbbaaf51da39f1c9f63e0ea722d89f7cea144ce19bb3ab",
+      "thumbnailSHA256": "f8d3c99ea7043ffc0a30c642d267a057136faeb9ef6f701cb2bb9d047042238c",
+      "context": {
+        "phrase": {
+          "zh": "一同唱起，路就不再孤单。",
+          "en": "Sing together, and the path feels less lonely."
+        },
+        "visual": {
+          "zh": "巨钟压在左侧前景，三张小木椅沿台阶排列，编织带垂向地面，以尺度对照呼应声音与社群。黑白与钴蓝版突出编织带；彩色版使用青铜、红褐织物、深木色与暖石材。它是原创场景隐喻，不是《与我同行》的上色剧照、布景或某座教堂的复原。",
+          "en": "An immense foreground bell contrasts with three small wooden chairs on steps and a hanging braid, evoking voice and community. Cobalt emphasizes the braid in monochrome; full color uses bronze, burgundy cloth, dark wood and warm stone. It is an original scene metaphor, not a colorized Going My Way frame, film set or reconstructed church."
+        },
+        "background": {
+          "zh": "莱奥·麦卡里的《与我同行》是1944年影片，1945年3月15日举行的第17届奥斯卡将最佳影片授予它。美国电影学会记录1944年4月27日的前线放映首映与5月3日的纽约首映，不能把影片年份和领奖年份合在一起。故事围绕奥马利神父来到社区、组织男孩合唱团，以及与老神父从冲突走向信任展开，音乐也参与教堂的筹款和重建。画面以钟、空椅和上行石阶作原创解读，没有演员肖像、电影台词或歌曲歌词。短句为原创，不是影片对白。\n第17届奥斯卡最佳影片：与我同行。颁奖年份 1945；参评年份 1944。",
+          "en": "Leo McCarey’s Going My Way is a 1944 film that received Best Picture at the 17th Academy Awards on March 15, 1945. AFI distinguishes its April 27, 1944 fighting-front premiere and May 3 New York premiere from the award year. Father O’Malley’s community work and boys’ choir accompany his changing relationship with an older priest; music also contributes to fundraising and rebuilding the church. Bell, empty chairs and ascending steps are an original interpretation, with no actor portrait, dialogue or lyrics. The phrase is original.\nAcademy Awards ceremony 17 (1945), Best Picture: Going My Way. Eligibility year: 1944."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1945",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/1452-GOING-MY-WAY",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

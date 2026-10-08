@@ -1,0 +1,102 @@
+{
+  "subject": "nobel-laureate-327",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-327",
+      "subject": "nobel-laureate-327",
+      "edition": "mono",
+      "title": "乔治·迈诺特",
+      "titleEnglish": "George R. Minot",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-327/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-327/mono.jpg",
+      "sha256": "024a45904d72be7eb5574b8a047f3d0fc755748fef3430c6748be3e3a8f2a0e5",
+      "thumbnailSHA256": "4928f4f8c2cc7afe3500ff0a218f444aa4a7a67684765ecc23938e79f5f4f9db",
+      "context": {
+        "phrase": {
+          "zh": "把研究的线索，带到需要帮助的人身边。",
+          "en": "Bring a research clue to the people who need it."
+        },
+        "visual": {
+          "zh": "放大的暗红双凹圆盘形血细胞横向错落，左侧近处较大并被裁切，右侧渐小；细刻线表现中央凹陷和不同转角。中性黑白版保留位置、重叠和明暗，数量与大小不代表检验数据。",
+          "en": "Enlarged dark-red biconcave cell forms overlap across the image, larger and cropped at left and smaller toward right. Fine engraving shows central depressions and varied tilts. Neutral monochrome keeps the placement, overlaps and tonal relationships; counts and sizes are not test data."
+        },
+        "background": {
+          "zh": "迈诺特与惠普尔、墨菲共同获得1934年诺贝尔生理学或医学奖。迈诺特与墨菲在1926年发表了针对恶性贫血的特殊饮食研究，肝脏后来成为这一历史疗法的重要部分。放大的双凹圆盘形血细胞取意于对血液变化的观察，是原创插画，不是检验结果或健康标准；今天的治疗与维生素B12有关，不应照搬当年的饮食疗法。短句为原创。\n1934年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：关于以肝脏疗法治疗贫血的发现。",
+          "en": "Minot shared the 1934 Nobel Prize in Physiology or Medicine with Whipple and Murphy. In 1926 Minot and Murphy published work on a special diet for pernicious anaemia; liver later became central to that historical treatment. Enlarged biconcave red-cell forms draw on observing changes in blood. They are original artwork, not test results or health standards. Present-day treatment involves vitamin B12; the historical diet should not be treated as current advice. The phrase is original.\n1934 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for their discoveries concerning liver therapy in cases of anaemia"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年生理学或医学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "nhlbi.nih.gov",
+            "url": "https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-327",
+      "subject": "nobel-laureate-327",
+      "edition": "color",
+      "title": "乔治·迈诺特",
+      "titleEnglish": "George R. Minot",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-327/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-327/color.jpg",
+      "sha256": "6c9b77b4804bab19f0111a0c798888a908e526c61f43ae44ac69694cf63020ab",
+      "thumbnailSHA256": "91b9abc6d48c15e1484791c4c87f52f119b99d2c44892049ce6d5f012a7274a5",
+      "context": {
+        "phrase": {
+          "zh": "把研究的线索，带到需要帮助的人身边。",
+          "en": "Bring a research clue to the people who need it."
+        },
+        "visual": {
+          "zh": "放大的暗红双凹圆盘形血细胞横向错落，左侧近处较大并被裁切，右侧渐小；细刻线表现中央凹陷和不同转角。中性黑白版保留位置、重叠和明暗，数量与大小不代表检验数据。",
+          "en": "Enlarged dark-red biconcave cell forms overlap across the image, larger and cropped at left and smaller toward right. Fine engraving shows central depressions and varied tilts. Neutral monochrome keeps the placement, overlaps and tonal relationships; counts and sizes are not test data."
+        },
+        "background": {
+          "zh": "迈诺特与惠普尔、墨菲共同获得1934年诺贝尔生理学或医学奖。迈诺特与墨菲在1926年发表了针对恶性贫血的特殊饮食研究，肝脏后来成为这一历史疗法的重要部分。放大的双凹圆盘形血细胞取意于对血液变化的观察，是原创插画，不是检验结果或健康标准；今天的治疗与维生素B12有关，不应照搬当年的饮食疗法。短句为原创。\n1934年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：关于以肝脏疗法治疗贫血的发现。",
+          "en": "Minot shared the 1934 Nobel Prize in Physiology or Medicine with Whipple and Murphy. In 1926 Minot and Murphy published work on a special diet for pernicious anaemia; liver later became central to that historical treatment. Enlarged biconcave red-cell forms draw on observing changes in blood. They are original artwork, not test results or health standards. Present-day treatment involves vitamin B12; the historical diet should not be treated as current advice. The phrase is original.\n1934 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for their discoveries concerning liver therapy in cases of anaemia"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年生理学或医学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1934/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          },
+          {
+            "label": "nhlbi.nih.gov",
+            "url": "https://www.nhlbi.nih.gov/health/anemia/vitamin-b12-deficiency-anemia"
+          }
+        ]
+      }
+    }
+  }
+}

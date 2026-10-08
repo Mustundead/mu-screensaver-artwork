@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-483",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-483",
+      "subject": "nobel-laureate-483",
+      "edition": "mono",
+      "title": "伍德罗·威尔逊",
+      "titleEnglish": "Woodrow Wilson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-483/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-483/mono.jpg",
+      "sha256": "874fd91f74cdce30386dbd180a160a8ff003a02a0052e0299e5d5037baab2afd",
+      "thumbnailSHA256": "39338e4d58b9a4b417d9f54e7a4216ce76eefee5e69801b3c6b40bcd4b4a811a",
+      "context": {
+        "phrase": {
+          "zh": "对话的桌旁，也要看见空着的位置。",
+          "en": "At the table of dialogue, notice the empty places too."
+        },
+        "visual": {
+          "zh": "巨大的红棕木桌弧段从右上裁切，左下空椅子与它保持距离；近侧桌沿的三张空白纸互相错叠，灰蓝布带搭在纸上。彩色版区分木材、青色椅面与纸张，黑白版保持构图。桌子与空席是对国际对话及缺席的原创寓意，不是国联会议、特定国家席位或真实条约物件的复原。",
+          "en": "An enormous reddish-brown curved table is cropped at upper right; a separate empty chair sits at lower left. Three blank sheets overlap along the near edge, with a blue-gray ribbon laid across them. Color distinguishes wood, teal upholstery and paper; monochrome keeps the layout. Table and empty seat are original symbols of international dialogue and absence, not a League meeting, a particular national seat or actual treaty artifacts."
+        },
+        "background": {
+          "zh": "威尔逊独享1919年诺贝尔和平奖，获奖理由是他在创立国际联盟中的作用；该年度奖项保留至次年，他于1920年领取。美国国家档案馆介绍《十四点》时说明，美国参议院未通过相关条约，美国最终没有加入国联。普林斯顿大学2020年的董事会声明也明确指出威尔逊的种族主义思想与政策。画面借桌子和空椅子思考对话与缺席，不把获奖等同于普遍和平或平等已经实现。短句为原创，不是威尔逊引语。\n1919年和平奖；独享本年度奖项。获奖理由（中文译述）：因在创立国际联盟中的作用而获奖",
+          "en": "Wilson received the full 1919 Nobel Peace Prize for his role in founding the League of Nations; the reserved prize was awarded in 1920. The US National Archives explains that the Senate did not adopt the treaty and the United States never joined the League. Princeton’s 2020 trustees statement also identifies Wilson’s racist thinking and policies. Table and empty chair invite reflection on dialogue and absence, without treating the award as proof that universal peace or equality was achieved. The phrase is original, not a quotation.\n1919 — The Nobel Peace Prize. Received the full prize. Official motivation: for his role as founder of the League of Nations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1919 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1919/summary/",
+            "labelLocalized": {
+              "zh": "1919年和平奖｜官方记录",
+              "en": "1919 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "archives.gov",
+            "url": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points",
+            "labelLocalized": {
+              "zh": "历史文献说明｜美国国家档案馆",
+              "en": "Historical document explained — US National Archives"
+            }
+          },
+          {
+            "label": "princeton.edu",
+            "url": "https://www.princeton.edu/news/2020/06/27/board-trustees-decision-removing-woodrow-wilsons-name-public-policy-school-and",
+            "labelLocalized": {
+              "zh": "威尔逊历史评价｜普林斯顿大学",
+              "en": "Wilson historical assessment — Princeton University"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-483",
+      "subject": "nobel-laureate-483",
+      "edition": "color",
+      "title": "伍德罗·威尔逊",
+      "titleEnglish": "Woodrow Wilson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-483/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-483/color.jpg",
+      "sha256": "72b896e5b48613b301bca93218032e9a33d40437ad61a463e05883990fdb9391",
+      "thumbnailSHA256": "323fbe01d1f9d6907fe67d958d1dd660809d80bc9e718f7c057692348986f468",
+      "context": {
+        "phrase": {
+          "zh": "对话的桌旁，也要看见空着的位置。",
+          "en": "At the table of dialogue, notice the empty places too."
+        },
+        "visual": {
+          "zh": "巨大的红棕木桌弧段从右上裁切，左下空椅子与它保持距离；近侧桌沿的三张空白纸互相错叠，灰蓝布带搭在纸上。彩色版区分木材、青色椅面与纸张，黑白版保持构图。桌子与空席是对国际对话及缺席的原创寓意，不是国联会议、特定国家席位或真实条约物件的复原。",
+          "en": "An enormous reddish-brown curved table is cropped at upper right; a separate empty chair sits at lower left. Three blank sheets overlap along the near edge, with a blue-gray ribbon laid across them. Color distinguishes wood, teal upholstery and paper; monochrome keeps the layout. Table and empty seat are original symbols of international dialogue and absence, not a League meeting, a particular national seat or actual treaty artifacts."
+        },
+        "background": {
+          "zh": "威尔逊独享1919年诺贝尔和平奖，获奖理由是他在创立国际联盟中的作用；该年度奖项保留至次年，他于1920年领取。美国国家档案馆介绍《十四点》时说明，美国参议院未通过相关条约，美国最终没有加入国联。普林斯顿大学2020年的董事会声明也明确指出威尔逊的种族主义思想与政策。画面借桌子和空椅子思考对话与缺席，不把获奖等同于普遍和平或平等已经实现。短句为原创，不是威尔逊引语。\n1919年和平奖；独享本年度奖项。获奖理由（中文译述）：因在创立国际联盟中的作用而获奖",
+          "en": "Wilson received the full 1919 Nobel Peace Prize for his role in founding the League of Nations; the reserved prize was awarded in 1920. The US National Archives explains that the Senate did not adopt the treaty and the United States never joined the League. Princeton’s 2020 trustees statement also identifies Wilson’s racist thinking and policies. Table and empty chair invite reflection on dialogue and absence, without treating the award as proof that universal peace or equality was achieved. The phrase is original, not a quotation.\n1919 — The Nobel Peace Prize. Received the full prize. Official motivation: for his role as founder of the League of Nations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1919 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1919/summary/",
+            "labelLocalized": {
+              "zh": "1919年和平奖｜官方记录",
+              "en": "1919 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "archives.gov",
+            "url": "https://www.archives.gov/milestone-documents/president-woodrow-wilsons-14-points",
+            "labelLocalized": {
+              "zh": "历史文献说明｜美国国家档案馆",
+              "en": "Historical document explained — US National Archives"
+            }
+          },
+          {
+            "label": "princeton.edu",
+            "url": "https://www.princeton.edu/news/2020/06/27/board-trustees-decision-removing-woodrow-wilsons-name-public-policy-school-and",
+            "labelLocalized": {
+              "zh": "威尔逊历史评价｜普林斯顿大学",
+              "en": "Wilson historical assessment — Princeton University"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

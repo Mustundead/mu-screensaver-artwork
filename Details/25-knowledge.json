@@ -1,0 +1,70 @@
+{
+  "subject": "25-knowledge",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:25-knowledge",
+      "subject": "25-knowledge",
+      "edition": "mono",
+      "title": "人文：知识与代际传递",
+      "titleEnglish": "Knowledge Across Generations",
+      "category": "艺术与人文",
+      "image": "Images/mono/25-knowledge.jpg",
+      "thumbnail": "Thumbs/mono/25-knowledge.jpg",
+      "sha256": "6efb4d3ebd108ed6200d1d1663ba1e94555b36531e7d1bec55b58b6d6263ba36",
+      "thumbnailSHA256": "dd70aa8c9e8caa0e30a05fedf620a8b0d40638ad23bb0ffb75ae6bf4a082fd23",
+      "context": {
+        "phrase": {
+          "zh": "知识得以延续，因为有人继续翻页。",
+          "en": "Knowledge continues when someone turns the page."
+        },
+        "visual": {
+          "zh": "展开的书页、手和代际般的重叠关系，把知识呈现为持续的传递。画中书页不是某部古籍的影印，表达的是阅读与保存的联系。",
+          "en": "Open pages and hands suggest knowledge passing between people and generations. These are not facsimiles of an identified manuscript, but a link between reading and preservation."
+        },
+        "background": {
+          "zh": "美国国会图书馆收藏的古登堡圣经印于美因茨，日期为 1455 年，文本为拉丁文武加大译本。这一具体藏品让我们看到印刷如何使长篇文本以物质形式流传；它不意味着书籍或印刷技术此前不存在。",
+          "en": "The Library of Congress dates its Gutenberg Bible to Mainz, 1455, with the Latin Vulgate text. This artifact shows a long text circulating in printed form. It does not imply that books or printing had no earlier history."
+        },
+        "sources": [
+          {
+            "label": "Library of Congress · The Gutenberg Bible",
+            "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:25-knowledge",
+      "subject": "25-knowledge",
+      "edition": "color",
+      "title": "人文：知识与代际传递",
+      "titleEnglish": "Knowledge Across Generations",
+      "category": "艺术与人文",
+      "image": "Images/color/25-knowledge.jpg",
+      "thumbnail": "Thumbs/color/25-knowledge.jpg",
+      "sha256": "407ffa934a7ee25a6b896dc2df974334fd66f1c4121958f218980efb3bc944d6",
+      "thumbnailSHA256": "3dccaf39f274ed1d14f3f774fbe4c910cd3cc428f7b37d3e98a633380e336687",
+      "context": {
+        "phrase": {
+          "zh": "知识得以延续，因为有人继续翻页。",
+          "en": "Knowledge continues when someone turns the page."
+        },
+        "visual": {
+          "zh": "展开的书页、手和代际般的重叠关系，把知识呈现为持续的传递。画中书页不是某部古籍的影印，表达的是阅读与保存的联系。",
+          "en": "Open pages and hands suggest knowledge passing between people and generations. These are not facsimiles of an identified manuscript, but a link between reading and preservation."
+        },
+        "background": {
+          "zh": "美国国会图书馆收藏的古登堡圣经印于美因茨，日期为 1455 年，文本为拉丁文武加大译本。这一具体藏品让我们看到印刷如何使长篇文本以物质形式流传；它不意味着书籍或印刷技术此前不存在。",
+          "en": "The Library of Congress dates its Gutenberg Bible to Mainz, 1455, with the Latin Vulgate text. This artifact shows a long text circulating in printed form. It does not imply that books or printing had no earlier history."
+        },
+        "sources": [
+          {
+            "label": "Library of Congress · The Gutenberg Bible",
+            "url": "https://www.loc.gov/exhibits/bibles/the-gutenberg-bible.html"
+          }
+        ]
+      }
+    }
+  }
+}

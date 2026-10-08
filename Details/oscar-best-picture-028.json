@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-028",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-028",
+      "subject": "oscar-best-picture-028",
+      "edition": "mono",
+      "title": "君子好逑",
+      "titleEnglish": "Marty",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-028/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-028/mono.jpg",
+      "sha256": "b67a7ab8f02e843efd2e11be7406defc0c3c6c7b4e97d912558c894a3252d588",
+      "thumbnailSHA256": "8012e05d508ce4f387620b688b5720721786df5c2e79ddcf7227b4bde245fea5",
+      "context": {
+        "phrase": {
+          "zh": "不必完美，也可以认真靠近一个人。",
+          "en": "You can reach out without being perfect."
+        },
+        "visual": {
+          "zh": "大黑色胶木电话斜占左下并沿左、下边缘裁切，象牙色拨盘留有圆孔但没有数字。摘下的黑听筒放在右上灰蓝绿折布上，一条黑色卷线连接电话；右侧一只小象牙色杯盛琥珀色饮品。左上留白。黑白版保留物件、裁切和卷线位置，表面刻纹更强；不是电影道具复原。",
+          "en": "A huge black bakelite telephone fills the lower left and extends past left and bottom. Its ivory dial has round holes but no digits. The detached black handset rests on folded dusty teal cloth at upper right, joined by a curled black cord; a small ivory cup of amber drink sits at right. The upper left stays quiet. The monochrome edition preserves objects, crop and cord placement with stronger surface engraving; this is not a film-prop reconstruction."
+        },
+        "background": {
+          "zh": "《君子好逑》（Marty）为1955年影片，在1956年第28届奥斯卡获最佳影片奖。故事写纽约屠夫马蒂与教师克拉拉相遇，在孤独与他人评价中尝试建立关系。电话与杯子是主动联系的原创寓意，不是影片道具复原或剧照；彩色版也不代表原片为彩色。短句为原创，不是台词。\n第28届奥斯卡最佳影片：君子好逑。颁奖年份 1956；参评年份 1955。",
+          "en": "Marty is a 1955 film that won Best Picture at the 28th Academy Awards in 1956. It follows Bronx butcher Marty and teacher Clara as they try to form a relationship amid loneliness and others’ judgments. The telephone and cup are an original metaphor for reaching out, not reconstructed props or a film still; the color edition does not suggest the original film was in color. The phrase is original, not dialogue.\nAcademy Awards ceremony 28 (1956), Best Picture: Marty. Eligibility year: 1955."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1956",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/53405-MARTY",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-028",
+      "subject": "oscar-best-picture-028",
+      "edition": "color",
+      "title": "君子好逑",
+      "titleEnglish": "Marty",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-028/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-028/color.jpg",
+      "sha256": "9773fa0ad71f421e4539626e33cc20371c3f2d6c64c4385b25e379ec99d6492d",
+      "thumbnailSHA256": "622cbef7a9d38c5f71b11735c08e2737cf2c89d3c1c0bce9031fc0f8b2b32512",
+      "context": {
+        "phrase": {
+          "zh": "不必完美，也可以认真靠近一个人。",
+          "en": "You can reach out without being perfect."
+        },
+        "visual": {
+          "zh": "大黑色胶木电话斜占左下并沿左、下边缘裁切，象牙色拨盘留有圆孔但没有数字。摘下的黑听筒放在右上灰蓝绿折布上，一条黑色卷线连接电话；右侧一只小象牙色杯盛琥珀色饮品。左上留白。黑白版保留物件、裁切和卷线位置，表面刻纹更强；不是电影道具复原。",
+          "en": "A huge black bakelite telephone fills the lower left and extends past left and bottom. Its ivory dial has round holes but no digits. The detached black handset rests on folded dusty teal cloth at upper right, joined by a curled black cord; a small ivory cup of amber drink sits at right. The upper left stays quiet. The monochrome edition preserves objects, crop and cord placement with stronger surface engraving; this is not a film-prop reconstruction."
+        },
+        "background": {
+          "zh": "《君子好逑》（Marty）为1955年影片，在1956年第28届奥斯卡获最佳影片奖。故事写纽约屠夫马蒂与教师克拉拉相遇，在孤独与他人评价中尝试建立关系。电话与杯子是主动联系的原创寓意，不是影片道具复原或剧照；彩色版也不代表原片为彩色。短句为原创，不是台词。\n第28届奥斯卡最佳影片：君子好逑。颁奖年份 1956；参评年份 1955。",
+          "en": "Marty is a 1955 film that won Best Picture at the 28th Academy Awards in 1956. It follows Bronx butcher Marty and teacher Clara as they try to form a relationship amid loneliness and others’ judgments. The telephone and cup are an original metaphor for reaching out, not reconstructed props or a film still; the color edition does not suggest the original film was in color. The phrase is original, not dialogue.\nAcademy Awards ceremony 28 (1956), Best Picture: Marty. Eligibility year: 1955."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1956",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/53405-MARTY",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

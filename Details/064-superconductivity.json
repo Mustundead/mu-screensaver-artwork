@@ -1,0 +1,70 @@
+{
+  "subject": "064-superconductivity",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:064-superconductivity",
+      "subject": "064-superconductivity",
+      "edition": "mono",
+      "title": "低温与超导",
+      "titleEnglish": "Cold and Superconductivity",
+      "category": "自然科学",
+      "image": "Images/mono/064-superconductivity.jpg",
+      "thumbnail": "Thumbs/mono/064-superconductivity.jpg",
+      "sha256": "f36ec2afe92b24c55514dc64420ad7c4c18009aa150682430365aa99761579c7",
+      "thumbnailSHA256": "f3c5a7a046b0a8ec3138341c81efca4470c4a57a8d3b06ccbe3af820d946bd5b",
+      "context": {
+        "phrase": {
+          "zh": "冷到一定程度，电流换一种走法。",
+          "en": "Below a threshold, current behaves differently."
+        },
+        "visual": {
+          "zh": "低温装置、悬浮圆环和发亮的路径交织，表现超导与磁场的关系。悬浮姿态是艺术画面，不构成可复现的实验方案。",
+          "en": "Cold apparatus, a floating ring and luminous paths evoke superconductivity and magnetic fields. The levitation is artistic, not a reproducible experiment."
+        },
+        "background": {
+          "zh": "某些材料冷却到临界温度以下后，直流电可以在没有电阻损耗的状态下流动，同时材料会排斥磁场。超导还受温度、电流和磁场限制，不能理解成普通环境中的“无限能源”。",
+          "en": "Below a critical temperature, certain materials conduct direct current without resistive loss and expel magnetic fields. Superconductivity also has temperature, current and field limits; it is not an unlimited energy source at ordinary conditions."
+        },
+        "sources": [
+          {
+            "label": "US Department of Energy · Superconductivity",
+            "url": "https://www.energy.gov/science/doe-explainssuperconductivity"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:064-superconductivity",
+      "subject": "064-superconductivity",
+      "edition": "color",
+      "title": "低温与超导",
+      "titleEnglish": "Cold and Superconductivity",
+      "category": "自然科学",
+      "image": "Images/color/064-superconductivity.jpg",
+      "thumbnail": "Thumbs/color/064-superconductivity.jpg",
+      "sha256": "bf6fe1e1e73b491d5b830a7c9cc39c8bb2fae8d0a431933970a21a000f837ef5",
+      "thumbnailSHA256": "ea4424acf9c7c3d195a773079c4dc6a0233b3300ccb4ecd6f8bfe2df4319a27f",
+      "context": {
+        "phrase": {
+          "zh": "冷到一定程度，电流换一种走法。",
+          "en": "Below a threshold, current behaves differently."
+        },
+        "visual": {
+          "zh": "低温装置、悬浮圆环和发亮的路径交织，表现超导与磁场的关系。悬浮姿态是艺术画面，不构成可复现的实验方案。",
+          "en": "Cold apparatus, a floating ring and luminous paths evoke superconductivity and magnetic fields. The levitation is artistic, not a reproducible experiment."
+        },
+        "background": {
+          "zh": "某些材料冷却到临界温度以下后，直流电可以在没有电阻损耗的状态下流动，同时材料会排斥磁场。超导还受温度、电流和磁场限制，不能理解成普通环境中的“无限能源”。",
+          "en": "Below a critical temperature, certain materials conduct direct current without resistive loss and expel magnetic fields. Superconductivity also has temperature, current and field limits; it is not an unlimited energy source at ordinary conditions."
+        },
+        "sources": [
+          {
+            "label": "US Department of Energy · Superconductivity",
+            "url": "https://www.energy.gov/science/doe-explainssuperconductivity"
+          }
+        ]
+      }
+    }
+  }
+}

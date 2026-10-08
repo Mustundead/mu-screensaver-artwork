@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-586",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-586",
+      "subject": "nobel-laureate-586",
+      "edition": "mono",
+      "title": "卡尔·耶勒鲁普",
+      "titleEnglish": "Karl Gjellerup",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-586/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-586/mono.jpg",
+      "sha256": "95af45f4a436d551bf823f5768a0e8ae10e982f1d264ac40f0562921949f8eb8",
+      "thumbnailSHA256": "7b4058c61653e33411bebd4e91de42c9d28037b0f9610d4934942192e2ae5291",
+      "context": {
+        "phrase": {
+          "zh": "让想象伸展，也让理想生根。",
+          "en": "Let imagination branch out and ideals take root."
+        },
+        "visual": {
+          "zh": "放大的金褐枝叶从左下斜向展开，右侧的小绿布封书翻起空白书页，右上空白纸卷被裁切。彩色版保留枝叶、布封和纸张的颜色，黑白版沿用布局。枝叶只借用《金枝》的标题作原创联想，不复原小说内容，也不是获奖者的书或手稿。",
+          "en": "Enlarged golden-brown leaves branch diagonally from lower left. At right, a small green cloth book opens into blank pages, beneath a cropped blank scroll. Color distinguishes leaves, cloth and paper; monochrome retains the layout. The branch is an original association with the title Den gyldne Gren, not a novel scene or the author’s book or manuscript."
+        },
+        "background": {
+          "zh": "耶勒鲁普与亨利克·彭托皮丹分享1917年诺贝尔文学奖，各占一半；他的获奖理由肯定了由崇高理想启发、丰富多样的诗歌。诺贝尔官网所载瑞典学院书目列出他的诗歌、戏剧及小说，包括1889年的Minna、1906年的Pilgrimen Kamanita和1917年的Den gyldne Gren。插画借《金枝》标题中的枝叶，与书和纸卷共同表现多种写作形式，不据此推断故事情节。短句为原创，不是作品摘句或获奖者引语。\n1917年文学奖；获得本年度奖项的一半。获奖理由（中文译述）：肯定其由崇高理想启发、丰富多样的诗歌",
+          "en": "Gjellerup shared the 1917 Nobel Prize in Literature equally with Henrik Pontoppidan. His award recognized rich and varied poetry inspired by lofty ideals. The Swedish Academy bibliography on NobelPrize.org lists poetry, plays and novels, including Minna (1889), Pilgrimen Kamanita (1906) and Den gyldne Gren (1917). The branch associates with the latter title, while book and scroll suggest varied literary forms; the illustration makes no claim about its plot. The phrase is original, not an excerpt or quotation.\n1917 — The Nobel Prize in Literature. Received half of the prize. Official motivation: for his varied and rich poetry, which is inspired by lofty ideals"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1917 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1917/summary/",
+            "labelLocalized": {
+              "zh": "1917年文学奖｜官方记录",
+              "en": "1917 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1917/gjellerup/bibliography/",
+            "labelLocalized": {
+              "zh": "作品书目｜诺贝尔奖官网",
+              "en": "Works bibliography — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-586",
+      "subject": "nobel-laureate-586",
+      "edition": "color",
+      "title": "卡尔·耶勒鲁普",
+      "titleEnglish": "Karl Gjellerup",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-586/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-586/color.jpg",
+      "sha256": "f7949e76807077d79f78772ba46afa6bff4dc1216bcfc070546c98fd3fa665b3",
+      "thumbnailSHA256": "0c35fde41519e5175b856b9bd60c3fcd6bfa345293fbaf9d6aa030c42cf00099",
+      "context": {
+        "phrase": {
+          "zh": "让想象伸展，也让理想生根。",
+          "en": "Let imagination branch out and ideals take root."
+        },
+        "visual": {
+          "zh": "放大的金褐枝叶从左下斜向展开，右侧的小绿布封书翻起空白书页，右上空白纸卷被裁切。彩色版保留枝叶、布封和纸张的颜色，黑白版沿用布局。枝叶只借用《金枝》的标题作原创联想，不复原小说内容，也不是获奖者的书或手稿。",
+          "en": "Enlarged golden-brown leaves branch diagonally from lower left. At right, a small green cloth book opens into blank pages, beneath a cropped blank scroll. Color distinguishes leaves, cloth and paper; monochrome retains the layout. The branch is an original association with the title Den gyldne Gren, not a novel scene or the author’s book or manuscript."
+        },
+        "background": {
+          "zh": "耶勒鲁普与亨利克·彭托皮丹分享1917年诺贝尔文学奖，各占一半；他的获奖理由肯定了由崇高理想启发、丰富多样的诗歌。诺贝尔官网所载瑞典学院书目列出他的诗歌、戏剧及小说，包括1889年的Minna、1906年的Pilgrimen Kamanita和1917年的Den gyldne Gren。插画借《金枝》标题中的枝叶，与书和纸卷共同表现多种写作形式，不据此推断故事情节。短句为原创，不是作品摘句或获奖者引语。\n1917年文学奖；获得本年度奖项的一半。获奖理由（中文译述）：肯定其由崇高理想启发、丰富多样的诗歌",
+          "en": "Gjellerup shared the 1917 Nobel Prize in Literature equally with Henrik Pontoppidan. His award recognized rich and varied poetry inspired by lofty ideals. The Swedish Academy bibliography on NobelPrize.org lists poetry, plays and novels, including Minna (1889), Pilgrimen Kamanita (1906) and Den gyldne Gren (1917). The branch associates with the latter title, while book and scroll suggest varied literary forms; the illustration makes no claim about its plot. The phrase is original, not an excerpt or quotation.\n1917 — The Nobel Prize in Literature. Received half of the prize. Official motivation: for his varied and rich poetry, which is inspired by lofty ideals"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1917 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1917/summary/",
+            "labelLocalized": {
+              "zh": "1917年文学奖｜官方记录",
+              "en": "1917 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1917/gjellerup/bibliography/",
+            "labelLocalized": {
+              "zh": "作品书目｜诺贝尔奖官网",
+              "en": "Works bibliography — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

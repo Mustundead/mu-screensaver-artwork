@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-188",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-188",
+      "subject": "nobel-laureate-188",
+      "edition": "mono",
+      "title": "汉斯·费歇尔",
+      "titleEnglish": "Hans Fischer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-188/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-188/mono.jpg",
+      "sha256": "781d7c2620ae94e163ea741fa71c8c9660c43873f476986dc2c9e088ebe254cd",
+      "thumbnailSHA256": "76fb881352a1b9a797d0a42926d75e376e08f2306d125a04ce88925f45795f04",
+      "context": {
+        "phrase": {
+          "zh": "不同的颜色，也可能有相通的结构。",
+          "en": "Different colors can have related structures."
+        },
+        "visual": {
+          "zh": "俯视画面左侧是一片大幅裁切的深绿锯齿叶，横向叶脉伸向中央；右下四块暗红晶体以锐角切面形成对照。黑白版保留叶片与晶块的位置。这些形体是色素研究的原创寓意，不是特定晶型的复原。",
+          "en": "An overhead composition contrasts a large cropped serrated dark green leaf at left with four angular burgundy crystal forms at lower right. A horizontal leaf vein points toward the gap. The neutral edition keeps their positions. These are original pigment-research motifs, not a reconstruction of a specific crystal structure."
+        },
+        "background": {
+          "zh": "费歇尔因研究氯化血红素与叶绿素的结构，尤其是合成氯化血红素，获得1930年诺贝尔化学奖。他的研究联系了血液色素与叶片色素。氯化血红素是相关色素化合物，不是完整的血红蛋白；此奖项也不意味着他已在1930年完成叶绿素的合成。叶片与暗红晶块表现探索不同色素结构的原创寓意；不是分子结构图，短句为原创。\n1930年化学奖；独享本年度奖项。获奖理由（中文译述）：因研究氯化血红素和叶绿素的结构，尤其是合成氯化血红素。",
+          "en": "Fischer received the 1930 Nobel Prize in Chemistry for research into the constitution of haemin and chlorophyll, especially his synthesis of haemin. His work connected blood and leaf pigment chemistry. Haemin is a related pigment compound, not whole haemoglobin; this prize does not imply a completed chlorophyll synthesis in 1930. The leaf and dark red crystal forms are an original metaphor for investigating different pigment structures, not a molecular diagram. The phrase is original.\n1930 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his researches into the constitution of haemin and chlorophyll and especially for his synthesis of haemin"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年化学奖｜官方记录",
+              "en": "1930 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/fischer-lecture-3.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-188",
+      "subject": "nobel-laureate-188",
+      "edition": "color",
+      "title": "汉斯·费歇尔",
+      "titleEnglish": "Hans Fischer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-188/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-188/color.jpg",
+      "sha256": "4a78877784b81db06f49923d2488752906858a93607ead53d8e0b4f177bd7134",
+      "thumbnailSHA256": "f9421ab183b2b49a278d29dbe69f87ddb2f6c883eaf69808caaf9358baa23beb",
+      "context": {
+        "phrase": {
+          "zh": "不同的颜色，也可能有相通的结构。",
+          "en": "Different colors can have related structures."
+        },
+        "visual": {
+          "zh": "俯视画面左侧是一片大幅裁切的深绿锯齿叶，横向叶脉伸向中央；右下四块暗红晶体以锐角切面形成对照。黑白版保留叶片与晶块的位置。这些形体是色素研究的原创寓意，不是特定晶型的复原。",
+          "en": "An overhead composition contrasts a large cropped serrated dark green leaf at left with four angular burgundy crystal forms at lower right. A horizontal leaf vein points toward the gap. The neutral edition keeps their positions. These are original pigment-research motifs, not a reconstruction of a specific crystal structure."
+        },
+        "background": {
+          "zh": "费歇尔因研究氯化血红素与叶绿素的结构，尤其是合成氯化血红素，获得1930年诺贝尔化学奖。他的研究联系了血液色素与叶片色素。氯化血红素是相关色素化合物，不是完整的血红蛋白；此奖项也不意味着他已在1930年完成叶绿素的合成。叶片与暗红晶块表现探索不同色素结构的原创寓意；不是分子结构图，短句为原创。\n1930年化学奖；独享本年度奖项。获奖理由（中文译述）：因研究氯化血红素和叶绿素的结构，尤其是合成氯化血红素。",
+          "en": "Fischer received the 1930 Nobel Prize in Chemistry for research into the constitution of haemin and chlorophyll, especially his synthesis of haemin. His work connected blood and leaf pigment chemistry. Haemin is a related pigment compound, not whole haemoglobin; this prize does not imply a completed chlorophyll synthesis in 1930. The leaf and dark red crystal forms are an original metaphor for investigating different pigment structures, not a molecular diagram. The phrase is original.\n1930 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his researches into the constitution of haemin and chlorophyll and especially for his synthesis of haemin"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年化学奖｜官方记录",
+              "en": "1930 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/fischer-lecture-3.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

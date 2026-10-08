@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-043",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-043",
+      "subject": "oscar-best-picture-043",
+      "edition": "mono",
+      "title": "巴顿将军",
+      "titleEnglish": "Patton",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-043/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-043/mono.jpg",
+      "sha256": "adee76ff9632489246880a9e032408d5615f3142281c12dffff498703863de8c",
+      "thumbnailSHA256": "f2923fc8e8a2111f2050a887162e55fb14537e48bddc1e7eaacfc192522f8b44",
+      "context": {
+        "phrase": {
+          "zh": "每一次前进，都需要看清方向。",
+          "en": "Every advance begins with finding a direction."
+        },
+        "visual": {
+          "zh": "俯视起伏折叠的地图，金属罗盘压在折线交汇处，左侧裁切的钢盔在纸面投下深影。",
+          "en": "A top-down folded map holds a metal compass where folds meet. A cropped helmet at the left casts a deep shadow across the paper."
+        },
+        "background": {
+          "zh": "影片描绘巴顿在二战中跨越北非与欧洲的作战经历。这部1970年的电影获得1971年第43届奥斯卡最佳影片。画面以折叠地图、罗盘和钢盔表达行进与决策，是原创寓意，不是剧照、演员肖像、真实作战地图或电影对白。\n第43届奥斯卡最佳影片：巴顿将军。颁奖年份 1971；参评年份 1970。",
+          "en": "Patton follows the general’s wartime campaigns in North Africa and Europe. This 1970 film won Best Picture at the 43rd Academy Awards in 1971. A folded map, compass and helmet express movement and decisions in an original metaphor, not a film still, actor portrait, operational map or film dialogue.\nAcademy Awards ceremony 43 (1971), Best Picture: Patton. Eligibility year: 1970."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1971",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "20thcenturystudios.com",
+            "url": "https://www.20thcenturystudios.com/movies/patton",
+            "labelLocalized": {
+              "zh": "《巴顿将军》影片介绍｜二十世纪影业",
+              "en": "Patton synopsis — 20th Century Studios"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-043",
+      "subject": "oscar-best-picture-043",
+      "edition": "color",
+      "title": "巴顿将军",
+      "titleEnglish": "Patton",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-043/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-043/color.jpg",
+      "sha256": "e0053f48272fdbfc3004d60fb2502ccca6bee2c975cf352c7b8678d7dc013da4",
+      "thumbnailSHA256": "e7631b056184c18aafe4a058869a5ac2d8ea095469dbe94e9227cd92268a97ef",
+      "context": {
+        "phrase": {
+          "zh": "每一次前进，都需要看清方向。",
+          "en": "Every advance begins with finding a direction."
+        },
+        "visual": {
+          "zh": "俯视起伏折叠的地图，金属罗盘压在折线交汇处，左侧裁切的钢盔在纸面投下深影。",
+          "en": "A top-down folded map holds a metal compass where folds meet. A cropped helmet at the left casts a deep shadow across the paper."
+        },
+        "background": {
+          "zh": "影片描绘巴顿在二战中跨越北非与欧洲的作战经历。这部1970年的电影获得1971年第43届奥斯卡最佳影片。画面以折叠地图、罗盘和钢盔表达行进与决策，是原创寓意，不是剧照、演员肖像、真实作战地图或电影对白。\n第43届奥斯卡最佳影片：巴顿将军。颁奖年份 1971；参评年份 1970。",
+          "en": "Patton follows the general’s wartime campaigns in North Africa and Europe. This 1970 film won Best Picture at the 43rd Academy Awards in 1971. A folded map, compass and helmet express movement and decisions in an original metaphor, not a film still, actor portrait, operational map or film dialogue.\nAcademy Awards ceremony 43 (1971), Best Picture: Patton. Eligibility year: 1970."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1971",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "20thcenturystudios.com",
+            "url": "https://www.20thcenturystudios.com/movies/patton",
+            "labelLocalized": {
+              "zh": "《巴顿将军》影片介绍｜二十世纪影业",
+              "en": "Patton synopsis — 20th Century Studios"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

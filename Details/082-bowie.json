@@ -1,0 +1,70 @@
+{
+  "subject": "082-bowie",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:082-bowie",
+      "subject": "082-bowie",
+      "edition": "mono",
+      "title": "鲍伊与舞台人格",
+      "titleEnglish": "Bowie and Stage Personas",
+      "category": "艺术与人文",
+      "image": "Images/mono/082-bowie.jpg",
+      "thumbnail": "Thumbs/mono/082-bowie.jpg",
+      "sha256": "eeac371edb228bfe7bbe103529cb66e1b2734441eef330bab8ae4c38bf135df1",
+      "thumbnailSHA256": "fbac0e138abb4ca1fdde612236d491eea4e5cae5270448763ddcb2e778af5e62",
+      "context": {
+        "phrase": {
+          "zh": "舞台上的自己，也可以重新发明。",
+          "en": "A stage identity can be reinvented."
+        },
+        "visual": {
+          "zh": "鲍伊的生成肖像与舞台般的几何光束表现身份变化。不同形状不是对某次演出的还原，而是对舞台人格可以被设计、呈现和更换的联想。",
+          "en": "A generated Bowie portrait and stage-like geometric beams suggest changing identity. Their arrangement does not recreate a concert; it evokes a persona being designed, performed and transformed."
+        },
+        "background": {
+          "zh": "V&A 的馆藏展示把 1972 年的 Ziggy Stardust 造型与服饰、化妆照片并置。这些实物说明舞台人格并不只由歌曲构成，也借助视觉设计表达。插画借用这一创作方法的主题，不冒充鲍伊认可的新形象。",
+          "en": "The V&A’s Creative Personas display includes costume and a photograph of Bowie applying Ziggy Stardust makeup in 1972. Such objects show a stage persona taking shape through visual design as well as music. The illustration evokes this process without claiming Bowie’s endorsement."
+        },
+        "sources": [
+          {
+            "label": "V&A · Creative personas",
+            "url": "https://lookup.vam.ac.uk/east-storehouse/storagedisplays/USE2238/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:082-bowie",
+      "subject": "082-bowie",
+      "edition": "color",
+      "title": "鲍伊与舞台人格",
+      "titleEnglish": "Bowie and Stage Personas",
+      "category": "艺术与人文",
+      "image": "Images/color/082-bowie.jpg",
+      "thumbnail": "Thumbs/color/082-bowie.jpg",
+      "sha256": "afaafcbd0a34d474ce0868f3633e0cb79a94b8bdf6c5d4a6d8f0558e86fa9ac9",
+      "thumbnailSHA256": "7bf3ee3625e6dc859ddf19d37bafd1dd06dc490118bbc94554452774289d50dd",
+      "context": {
+        "phrase": {
+          "zh": "舞台上的自己，也可以重新发明。",
+          "en": "A stage identity can be reinvented."
+        },
+        "visual": {
+          "zh": "鲍伊的生成肖像与舞台般的几何光束表现身份变化。不同形状不是对某次演出的还原，而是对舞台人格可以被设计、呈现和更换的联想。",
+          "en": "A generated Bowie portrait and stage-like geometric beams suggest changing identity. Their arrangement does not recreate a concert; it evokes a persona being designed, performed and transformed."
+        },
+        "background": {
+          "zh": "V&A 的馆藏展示把 1972 年的 Ziggy Stardust 造型与服饰、化妆照片并置。这些实物说明舞台人格并不只由歌曲构成，也借助视觉设计表达。插画借用这一创作方法的主题，不冒充鲍伊认可的新形象。",
+          "en": "The V&A’s Creative Personas display includes costume and a photograph of Bowie applying Ziggy Stardust makeup in 1972. Such objects show a stage persona taking shape through visual design as well as music. The illustration evokes this process without claiming Bowie’s endorsement."
+        },
+        "sources": [
+          {
+            "label": "V&A · Creative personas",
+            "url": "https://lookup.vam.ac.uk/east-storehouse/storagedisplays/USE2238/"
+          }
+        ]
+      }
+    }
+  }
+}

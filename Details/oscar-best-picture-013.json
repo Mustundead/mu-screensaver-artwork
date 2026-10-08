@@ -1,0 +1,102 @@
+{
+  "subject": "oscar-best-picture-013",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-013",
+      "subject": "oscar-best-picture-013",
+      "edition": "mono",
+      "title": "蝴蝶梦",
+      "titleEnglish": "Rebecca",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-013/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-013/mono.jpg",
+      "sha256": "e93da442136857758a4f8a8588172ca142187b8880c951c81c3a6bf3cbf56df4",
+      "thumbnailSHA256": "80f054fc79a123448f4050d0069a4fd44ef12f2946e3c3a786f941cc245c8ed1",
+      "context": {
+        "phrase": {
+          "zh": "未曾在场，也会留下痕迹。",
+          "en": "Absence can still leave a trace."
+        },
+        "visual": {
+          "zh": "巨幅弧形石阶从近处裁切，帷幕与远处空船形成尺度差。黑白与钴蓝版以帷幕和海面作为蓝色结构；彩色版加入暖石灰岩、木船和蓝绿色海水。原创建筑与道具借悬念和记忆表达影片主题，不是电影剧照或真实庄园复原。",
+          "en": "A closely cropped curved staircase contrasts with a curtain and tiny distant empty boat. The monochrome/cobalt edition emphasizes the curtain and sea; full color adds warm limestone, weathered wood and blue-green water. Invented architecture and props evoke suspense and memory, without reconstructing a film frame or historic estate."
+        },
+        "background": {
+          "zh": "《蝴蝶梦》是阿尔弗雷德·希区柯克执导的1940年美国影片，改编自达芙妮·杜穆里埃的同名小说。奥斯卡官方记录将它列为1941年举行的第13届颁奖礼最佳影片获奖作品，该届表彰1940年上映的电影。英国电影协会介绍，一位年轻女子与马克西姆·德温特结婚后住进康沃尔的曼德利庄园，已故前妻丽贝卡的记忆影响着她的生活与关系。这里的楼梯、帷幕与海岸是对这种压迫感和缺席的原创视觉解读，不是档案、具体布景复原或真实灵异证据；短句为原创，不是电影台词。\n第13届奥斯卡最佳影片：蝴蝶梦。颁奖年份 1941；参评年份 1940。",
+          "en": "Rebecca is a 1940 American film directed by Alfred Hitchcock and adapted from Daphne du Maurier’s novel. Academy records identify it as the Best Picture winner at the 13th ceremony in 1941, honoring films released in 1940. The BFI describes a young woman who marries Maxim de Winter and enters his Cornish mansion, where the memory of his late wife Rebecca shapes her life and relationships. The stair, curtain and coast are an original interpretation of oppressive memory and absence, not archival material, an exact set reconstruction or evidence of supernatural events. The phrase is original rather than film dialogue.\nAcademy Awards ceremony 13 (1941), Best Picture: Rebecca. Eligibility year: 1940."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1941",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "bfi.org.uk",
+            "url": "https://www.bfi.org.uk/film/db34df07-5232-5a00-a852-073090f9079b/rebecca",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          },
+          {
+            "label": "criterion.com",
+            "url": "https://www.criterion.com/films/680-rebecca"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-013",
+      "subject": "oscar-best-picture-013",
+      "edition": "color",
+      "title": "蝴蝶梦",
+      "titleEnglish": "Rebecca",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-013/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-013/color.jpg",
+      "sha256": "9b87a00d284113a805253e2c7b2d6b6234e587be366be4b2f557eda8d63466f6",
+      "thumbnailSHA256": "019fc9826420debc81e9b4e5e652b8b26e5104166d7e60e735493ffe68ebf728",
+      "context": {
+        "phrase": {
+          "zh": "未曾在场，也会留下痕迹。",
+          "en": "Absence can still leave a trace."
+        },
+        "visual": {
+          "zh": "巨幅弧形石阶从近处裁切，帷幕与远处空船形成尺度差。黑白与钴蓝版以帷幕和海面作为蓝色结构；彩色版加入暖石灰岩、木船和蓝绿色海水。原创建筑与道具借悬念和记忆表达影片主题，不是电影剧照或真实庄园复原。",
+          "en": "A closely cropped curved staircase contrasts with a curtain and tiny distant empty boat. The monochrome/cobalt edition emphasizes the curtain and sea; full color adds warm limestone, weathered wood and blue-green water. Invented architecture and props evoke suspense and memory, without reconstructing a film frame or historic estate."
+        },
+        "background": {
+          "zh": "《蝴蝶梦》是阿尔弗雷德·希区柯克执导的1940年美国影片，改编自达芙妮·杜穆里埃的同名小说。奥斯卡官方记录将它列为1941年举行的第13届颁奖礼最佳影片获奖作品，该届表彰1940年上映的电影。英国电影协会介绍，一位年轻女子与马克西姆·德温特结婚后住进康沃尔的曼德利庄园，已故前妻丽贝卡的记忆影响着她的生活与关系。这里的楼梯、帷幕与海岸是对这种压迫感和缺席的原创视觉解读，不是档案、具体布景复原或真实灵异证据；短句为原创，不是电影台词。\n第13届奥斯卡最佳影片：蝴蝶梦。颁奖年份 1941；参评年份 1940。",
+          "en": "Rebecca is a 1940 American film directed by Alfred Hitchcock and adapted from Daphne du Maurier’s novel. Academy records identify it as the Best Picture winner at the 13th ceremony in 1941, honoring films released in 1940. The BFI describes a young woman who marries Maxim de Winter and enters his Cornish mansion, where the memory of his late wife Rebecca shapes her life and relationships. The stair, curtain and coast are an original interpretation of oppressive memory and absence, not archival material, an exact set reconstruction or evidence of supernatural events. The phrase is original rather than film dialogue.\nAcademy Awards ceremony 13 (1941), Best Picture: Rebecca. Eligibility year: 1940."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1941",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "bfi.org.uk",
+            "url": "https://www.bfi.org.uk/film/db34df07-5232-5a00-a852-073090f9079b/rebecca",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          },
+          {
+            "label": "criterion.com",
+            "url": "https://www.criterion.com/films/680-rebecca"
+          }
+        ]
+      }
+    }
+  }
+}

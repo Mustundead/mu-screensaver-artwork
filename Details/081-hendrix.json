@@ -1,0 +1,70 @@
+{
+  "subject": "081-hendrix",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:081-hendrix",
+      "subject": "081-hendrix",
+      "edition": "mono",
+      "title": "亨德里克斯与电吉他",
+      "titleEnglish": "Hendrix and the Electric Guitar",
+      "category": "艺术与人文",
+      "image": "Images/mono/081-hendrix.jpg",
+      "thumbnail": "Thumbs/mono/081-hendrix.jpg",
+      "sha256": "a4135e9de9c3728652f051055cefd2b3c65b7f6f090ec35fa7d87f543fc29db6",
+      "thumbnailSHA256": "0a488677d4c66e0efc2e61907f965dd48baa83c02b236586f6c66236978e7c03",
+      "context": {
+        "phrase": {
+          "zh": "把音色，也当作可以创造的语言。",
+          "en": "Timbre can be a language of its own."
+        },
+        "visual": {
+          "zh": "亨德里克斯的生成形象紧贴电吉他，弯曲的色带让音色获得形状。画面不是演出实录，没有复刻舞台动作，也不包含真实录音的频谱。",
+          "en": "A generated Hendrix figure meets an electric guitar while curved bands give timbre a visual form. The image is not performance documentation or a spectrum from an actual recording."
+        },
+        "background": {
+          "zh": "摇滚名人堂将亨德里克斯体验乐队的创新与反馈声及录音室技术联系起来，其中包括声像移动、反向播放和相位处理。声音中的噪点和失真因此也能成为有意使用的材料，而不只是需要排除的故障。",
+          "en": "The Rock & Roll Hall of Fame links the Experience’s innovations to feedback and studio techniques including panning, reversed recording and phasing. Noise and distortion can therefore be deliberate musical materials, rather than only faults to eliminate."
+        },
+        "sources": [
+          {
+            "label": "Rock & Roll Hall of Fame · Jimi Hendrix Experience",
+            "url": "https://rockhall.com/inductees/jimi-hendrix-experience/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:081-hendrix",
+      "subject": "081-hendrix",
+      "edition": "color",
+      "title": "亨德里克斯与电吉他",
+      "titleEnglish": "Hendrix and the Electric Guitar",
+      "category": "艺术与人文",
+      "image": "Images/color/081-hendrix.jpg",
+      "thumbnail": "Thumbs/color/081-hendrix.jpg",
+      "sha256": "309ad1fd8a894e8d3e00992ff4cef6a704fb6692dc0bdc12831c41a5123fb04d",
+      "thumbnailSHA256": "ba6172c9f9a6856cef4db0a751959cfbb0571b7e0fc194776b5e10e93764518e",
+      "context": {
+        "phrase": {
+          "zh": "把音色，也当作可以创造的语言。",
+          "en": "Timbre can be a language of its own."
+        },
+        "visual": {
+          "zh": "亨德里克斯的生成形象紧贴电吉他，弯曲的色带让音色获得形状。画面不是演出实录，没有复刻舞台动作，也不包含真实录音的频谱。",
+          "en": "A generated Hendrix figure meets an electric guitar while curved bands give timbre a visual form. The image is not performance documentation or a spectrum from an actual recording."
+        },
+        "background": {
+          "zh": "摇滚名人堂将亨德里克斯体验乐队的创新与反馈声及录音室技术联系起来，其中包括声像移动、反向播放和相位处理。声音中的噪点和失真因此也能成为有意使用的材料，而不只是需要排除的故障。",
+          "en": "The Rock & Roll Hall of Fame links the Experience’s innovations to feedback and studio techniques including panning, reversed recording and phasing. Noise and distortion can therefore be deliberate musical materials, rather than only faults to eliminate."
+        },
+        "sources": [
+          {
+            "label": "Rock & Roll Hall of Fame · Jimi Hendrix Experience",
+            "url": "https://rockhall.com/inductees/jimi-hendrix-experience/"
+          }
+        ]
+      }
+    }
+  }
+}

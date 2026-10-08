@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-307",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-307",
+      "subject": "nobel-laureate-307",
+      "edition": "mono",
+      "title": "夏尔·里歇",
+      "titleEnglish": "Charles Richet",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-307/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-307/mono.jpg",
+      "sha256": "7f29f3270bb9071eb8d3c273a878917dfae7cb545b6b3588e28490fcad72c0d5",
+      "thumbnailSHA256": "8a49c32ad44408a9c7f95a4a7f8f3d04303d139687e37c44b16166cda82b0035",
+      "context": {
+        "phrase": {
+          "zh": "保护，也需要恰当的尺度。",
+          "en": "Protection also needs proportion."
+        },
+        "visual": {
+          "zh": "一枚很小的球停在巨大褶皱的低处，卷起的纤维纸面占据大部分画面，以尺度失衡表现被放大的反应。黑白与钴蓝版强调褶皱；彩色版使用赤陶、赭色纸纤维、浅绿小球和深灰绿背景。颜色与形态均为原创隐喻，不表示人体组织、诊断结果或具体生理过程。",
+          "en": "A tiny bead rests beneath an immense folded fibrous crest, using unequal scale to evoke an amplified response. Cobalt emphasizes folds in monochrome; full color uses terracotta/ochre fibers, a pale green bead and a dark green-charcoal background. Colors and forms are original metaphors, not tissue, a diagnosis or a specific physiological process."
+        },
+        "background": {
+          "zh": "里歇独自获得1913年诺贝尔生理学或医学奖，获奖理由是对严重过敏反应的研究。诺贝尔官方介绍把1902年的观察与这项工作联系起来；免疫系统专题指出，保护机体的反应也可能造成损害。画面用小陶珠与大幅展开的折叠膜形成尺度差异，借此提出对反应强度的思考。膜的形状、陶珠与黑白版中的钴蓝都没有医学对应关系，不能用于判断病情或指导处理。短句为原创，不是里歇引语。\n1913年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对严重过敏反应的研究。",
+          "en": "Richet was the sole recipient of the 1913 Nobel Prize in Physiology or Medicine for work on anaphylaxis, a severe allergic reaction. Nobel’s account connects the work with observations in 1902; its immune-system overview explains that protective responses can also cause harm. The contrast between a tiny bead and a large unfolding membrane is an original reflection on response magnitude. Shapes, objects and the monochrome edition’s cobalt color have no medical correspondence and do not guide diagnosis or treatment. The phrase is original, not a Richet quotation.\n1913 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his work on anaphylaxis"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年生理学或医学奖｜官方记录",
+              "en": "1913 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1913/richet/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/nobel-prizes-and-the-immune-system",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-307",
+      "subject": "nobel-laureate-307",
+      "edition": "color",
+      "title": "夏尔·里歇",
+      "titleEnglish": "Charles Richet",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-307/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-307/color.jpg",
+      "sha256": "0dd60208fcdbc829eff18cc688d23bb45b4535c9e2eb38524af8cef8296350c6",
+      "thumbnailSHA256": "96063e204d2240a7c59703866b002129540b6854f286d581d447fb3de692761f",
+      "context": {
+        "phrase": {
+          "zh": "保护，也需要恰当的尺度。",
+          "en": "Protection also needs proportion."
+        },
+        "visual": {
+          "zh": "一枚很小的球停在巨大褶皱的低处，卷起的纤维纸面占据大部分画面，以尺度失衡表现被放大的反应。黑白与钴蓝版强调褶皱；彩色版使用赤陶、赭色纸纤维、浅绿小球和深灰绿背景。颜色与形态均为原创隐喻，不表示人体组织、诊断结果或具体生理过程。",
+          "en": "A tiny bead rests beneath an immense folded fibrous crest, using unequal scale to evoke an amplified response. Cobalt emphasizes folds in monochrome; full color uses terracotta/ochre fibers, a pale green bead and a dark green-charcoal background. Colors and forms are original metaphors, not tissue, a diagnosis or a specific physiological process."
+        },
+        "background": {
+          "zh": "里歇独自获得1913年诺贝尔生理学或医学奖，获奖理由是对严重过敏反应的研究。诺贝尔官方介绍把1902年的观察与这项工作联系起来；免疫系统专题指出，保护机体的反应也可能造成损害。画面用小陶珠与大幅展开的折叠膜形成尺度差异，借此提出对反应强度的思考。膜的形状、陶珠与黑白版中的钴蓝都没有医学对应关系，不能用于判断病情或指导处理。短句为原创，不是里歇引语。\n1913年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对严重过敏反应的研究。",
+          "en": "Richet was the sole recipient of the 1913 Nobel Prize in Physiology or Medicine for work on anaphylaxis, a severe allergic reaction. Nobel’s account connects the work with observations in 1902; its immune-system overview explains that protective responses can also cause harm. The contrast between a tiny bead and a large unfolding membrane is an original reflection on response magnitude. Shapes, objects and the monochrome edition’s cobalt color have no medical correspondence and do not guide diagnosis or treatment. The phrase is original, not a Richet quotation.\n1913 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: in recognition of his work on anaphylaxis"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年生理学或医学奖｜官方记录",
+              "en": "1913 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1913/richet/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/nobel-prizes-and-the-immune-system",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

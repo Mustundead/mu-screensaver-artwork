@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-489",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-489",
+      "subject": "nobel-laureate-489",
+      "edition": "mono",
+      "title": "查尔斯·道威斯",
+      "titleEnglish": "Charles G. Dawes",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-489/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-489/mono.jpg",
+      "sha256": "77abe29024e0bee6561f2927a861605023b77ee4251982a121dffda6f58cd250",
+      "thumbnailSHA256": "122eb811d8338d2eaeb245614f9da41a03a37e24ce61432e22200516b2d212ed",
+      "context": {
+        "phrase": {
+          "zh": "把责任排好，才有重新开始的余地。",
+          "en": "Order obligations to make room for a new start."
+        },
+        "visual": {
+          "zh": "巨大的深绿皮面账本斜向裁入左下，象牙色纸页与宽布带形成明亮的弯曲层次，右上放着三枚叠起的无字黄铜圆片和一枚散片。黑白版保留裁切、物件与布带走向，皮面细纹更明显。这是安排责任的原创寓意，不是历史账本，也不表示实际金额或付款次数。",
+          "en": "A huge forest-green leather ledger cuts diagonally into the lower left; ivory pages and a broad fabric ribbon form a light curve, with three stacked blank brass discs and one loose disc at upper right. Monochrome retains the crop, objects and ribbon path with stronger leather detail. This is an original metaphor for organizing obligations, not a historical ledger or actual amounts or payment counts."
+        },
+        "background": {
+          "zh": "查尔斯·道威斯与奥斯汀·张伯伦各获1925年诺贝尔和平奖的一半，奖项于1926年颁发。道威斯主持委员会，为一战后德国赔款问题提出经济安排；张伯伦则因《洛迦诺公约》获奖。账本和金属圆片是责任安排的原创寓意，不表示真实金额、付款次数或持久和平；也不把委员会工作归给一人。短句为原创。\n1925年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他在促成道威斯计划中的关键作用。",
+          "en": "Charles Dawes and Austen Chamberlain shared the 1925 Nobel Peace Prize equally, receiving it in 1926. Dawes chaired the committee that proposed economic arrangements for German reparations after World War I; Chamberlain was recognized for Locarno. The ledger and discs are an original metaphor for organizing obligations, not amounts, payment counts or lasting peace, and do not credit the committee work to one person alone. The phrase is original.\n1925 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his crucial role in bringing about the Dawes Plan"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年和平奖｜官方记录",
+              "en": "1925 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1925/dawes/acceptance-speech/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-489",
+      "subject": "nobel-laureate-489",
+      "edition": "color",
+      "title": "查尔斯·道威斯",
+      "titleEnglish": "Charles G. Dawes",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-489/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-489/color.jpg",
+      "sha256": "f52078762c5b3d0f1fe86639ae300facfacdbecd3b3b28c3b21fdb340b5ceee4",
+      "thumbnailSHA256": "6b322b76499fbae88c5c90f5762036c0870eeb3f28613a3ac4b4febb4b28180f",
+      "context": {
+        "phrase": {
+          "zh": "把责任排好，才有重新开始的余地。",
+          "en": "Order obligations to make room for a new start."
+        },
+        "visual": {
+          "zh": "巨大的深绿皮面账本斜向裁入左下，象牙色纸页与宽布带形成明亮的弯曲层次，右上放着三枚叠起的无字黄铜圆片和一枚散片。黑白版保留裁切、物件与布带走向，皮面细纹更明显。这是安排责任的原创寓意，不是历史账本，也不表示实际金额或付款次数。",
+          "en": "A huge forest-green leather ledger cuts diagonally into the lower left; ivory pages and a broad fabric ribbon form a light curve, with three stacked blank brass discs and one loose disc at upper right. Monochrome retains the crop, objects and ribbon path with stronger leather detail. This is an original metaphor for organizing obligations, not a historical ledger or actual amounts or payment counts."
+        },
+        "background": {
+          "zh": "查尔斯·道威斯与奥斯汀·张伯伦各获1925年诺贝尔和平奖的一半，奖项于1926年颁发。道威斯主持委员会，为一战后德国赔款问题提出经济安排；张伯伦则因《洛迦诺公约》获奖。账本和金属圆片是责任安排的原创寓意，不表示真实金额、付款次数或持久和平；也不把委员会工作归给一人。短句为原创。\n1925年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他在促成道威斯计划中的关键作用。",
+          "en": "Charles Dawes and Austen Chamberlain shared the 1925 Nobel Peace Prize equally, receiving it in 1926. Dawes chaired the committee that proposed economic arrangements for German reparations after World War I; Chamberlain was recognized for Locarno. The ledger and discs are an original metaphor for organizing obligations, not amounts, payment counts or lasting peace, and do not credit the committee work to one person alone. The phrase is original.\n1925 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his crucial role in bringing about the Dawes Plan"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年和平奖｜官方记录",
+              "en": "1925 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1925/dawes/acceptance-speech/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

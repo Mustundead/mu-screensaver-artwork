@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-331",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-331",
+      "subject": "nobel-laureate-331",
+      "edition": "mono",
+      "title": "奥托·勒维",
+      "titleEnglish": "Otto Loewi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-331/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-331/mono.jpg",
+      "sha256": "20dd0ac5fa9ba39dff857edb26b6578710f9c336e749e89b92d182b868b5d42a",
+      "thumbnailSHA256": "3d9d8de406fa995c4625411d71aa72aea6b3ed5d184287a92ef31527236bb0e9",
+      "context": {
+        "phrase": {
+          "zh": "从一处传来的微小变化，能在另一处得到回应。",
+          "en": "A small change carried from one place can find a response in another."
+        },
+        "visual": {
+          "zh": "大浅皿裁在左下，小浅皿置于右上，各有一个红褐色组织示意；玻璃滴管左端连接深绿挤压球，右侧细尖上形成一滴液体。浅绿玻璃以环形刻线塑形，黑白版保留位置和关系。",
+          "en": "A large cropped dish at lower left and a smaller dish at upper right each contain a reddish-brown tissue form. A long glass pipette joins a dark-green squeeze bulb at left to a narrow tip at right, where a droplet forms. Fine circular engraving shapes the pale-green glass; neutral monochrome preserves positions and relationships."
+        },
+        "background": {
+          "zh": "勒维与戴尔共同获得1936年诺贝尔生理学或医学奖，表彰有关神经信号化学传递的发现。1921年的蛙心实验中，一处心脏周围的营养液转移到另一处后，后者出现相似反应，支持化学物质传递信号的解释。两只浅皿、蛙心组织示意与滴管尖端的一滴液体表达传递关系，是原创寓意，不是原实验装置、精确解剖或治疗说明；短句为原创。\n1936年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现神经信号的化学传递",
+          "en": "Loewi and Dale shared the 1936 Nobel Prize in Physiology or Medicine for discoveries relating to chemical transmission of nerve impulses. In Loewi’s 1921 frog-heart experiment, nutrient fluid transferred from around one heart produced a similar response in another, supporting chemical signal transmission. Two dishes, simplified frog-heart tissue forms and a droplet at the pipette tip express an original metaphor for transfer, not the original apparatus, exact anatomy or treatment advice. The phrase is original.\n1936 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries relating to chemical transmission of nerve impulses"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年生理学或医学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/loewi/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-331",
+      "subject": "nobel-laureate-331",
+      "edition": "color",
+      "title": "奥托·勒维",
+      "titleEnglish": "Otto Loewi",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-331/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-331/color.jpg",
+      "sha256": "d5ad303d65c3cd9def7c95fcaed0ca29216a4e7b20690cf231227c99b3dacb9f",
+      "thumbnailSHA256": "072642031d93742b9f813e264a477e82a3e610d1fee5b58d561edee46831d0ba",
+      "context": {
+        "phrase": {
+          "zh": "从一处传来的微小变化，能在另一处得到回应。",
+          "en": "A small change carried from one place can find a response in another."
+        },
+        "visual": {
+          "zh": "大浅皿裁在左下，小浅皿置于右上，各有一个红褐色组织示意；玻璃滴管左端连接深绿挤压球，右侧细尖上形成一滴液体。浅绿玻璃以环形刻线塑形，黑白版保留位置和关系。",
+          "en": "A large cropped dish at lower left and a smaller dish at upper right each contain a reddish-brown tissue form. A long glass pipette joins a dark-green squeeze bulb at left to a narrow tip at right, where a droplet forms. Fine circular engraving shapes the pale-green glass; neutral monochrome preserves positions and relationships."
+        },
+        "background": {
+          "zh": "勒维与戴尔共同获得1936年诺贝尔生理学或医学奖，表彰有关神经信号化学传递的发现。1921年的蛙心实验中，一处心脏周围的营养液转移到另一处后，后者出现相似反应，支持化学物质传递信号的解释。两只浅皿、蛙心组织示意与滴管尖端的一滴液体表达传递关系，是原创寓意，不是原实验装置、精确解剖或治疗说明；短句为原创。\n1936年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现神经信号的化学传递",
+          "en": "Loewi and Dale shared the 1936 Nobel Prize in Physiology or Medicine for discoveries relating to chemical transmission of nerve impulses. In Loewi’s 1921 frog-heart experiment, nutrient fluid transferred from around one heart produced a similar response in another, supporting chemical signal transmission. Two dishes, simplified frog-heart tissue forms and a droplet at the pipette tip express an original metaphor for transfer, not the original apparatus, exact anatomy or treatment advice. The phrase is original.\n1936 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries relating to chemical transmission of nerve impulses"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1936 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/summary/",
+            "labelLocalized": {
+              "zh": "1936年生理学或医学奖｜官方记录",
+              "en": "1936 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1936/loewi/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

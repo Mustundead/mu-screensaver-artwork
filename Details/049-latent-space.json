@@ -1,0 +1,70 @@
+{
+  "subject": "049-latent-space",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:049-latent-space",
+      "subject": "049-latent-space",
+      "edition": "mono",
+      "title": "潜在空间",
+      "titleEnglish": "Latent Space",
+      "category": "计算与人工智能",
+      "image": "Images/mono/049-latent-space.jpg",
+      "thumbnail": "Thumbs/mono/049-latent-space.jpg",
+      "sha256": "5f47694aae00e9a8b392102aca8480244618bc449903ffd607a832c7e7d0be85",
+      "thumbnailSHA256": "577ca888176e72f4020552ee296621ffedc888df230376322df7e0a71a19d3df",
+      "context": {
+        "phrase": {
+          "zh": "把复杂形状，放进更简洁的坐标。",
+          "en": "Place complexity in a simpler set of coordinates."
+        },
+        "visual": {
+          "zh": "柔软曲面和散落点位在画中渐渐收拢，表现数据表示的变化。这不是训练后模型的真实潜在空间投影。",
+          "en": "Soft surfaces and scattered points draw together, suggesting a change in data representation. This is not an actual projection from a trained model."
+        },
+        "background": {
+          "zh": "潜在变量模型用看不见的变量表示观测数据中的结构。变分自编码器在 2013 年提出一种可学习这类表示的方法；画中接近的点不保证代表语义相近的真实事物。",
+          "en": "Latent-variable models use hidden variables to represent structure in observed data. Variational auto-encoders, introduced in 2013, offer a way to learn such representations; nearby drawn points do not imply measured semantic similarity."
+        },
+        "sources": [
+          {
+            "label": "Kingma & Welling · Auto-Encoding Variational Bayes",
+            "url": "https://arxiv.org/abs/1312.6114"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:049-latent-space",
+      "subject": "049-latent-space",
+      "edition": "color",
+      "title": "潜在空间",
+      "titleEnglish": "Latent Space",
+      "category": "计算与人工智能",
+      "image": "Images/color/049-latent-space.jpg",
+      "thumbnail": "Thumbs/color/049-latent-space.jpg",
+      "sha256": "f297fec0b15cfd3eecf18c65011e0fb96e802d4a46c9eca8cd777c0d547cee4f",
+      "thumbnailSHA256": "fa890fa59c6ca69f39a416d460d540461580f2a824607fe4e79fa141848dc476",
+      "context": {
+        "phrase": {
+          "zh": "把复杂形状，放进更简洁的坐标。",
+          "en": "Place complexity in a simpler set of coordinates."
+        },
+        "visual": {
+          "zh": "柔软曲面和散落点位在画中渐渐收拢，表现数据表示的变化。这不是训练后模型的真实潜在空间投影。",
+          "en": "Soft surfaces and scattered points draw together, suggesting a change in data representation. This is not an actual projection from a trained model."
+        },
+        "background": {
+          "zh": "潜在变量模型用看不见的变量表示观测数据中的结构。变分自编码器在 2013 年提出一种可学习这类表示的方法；画中接近的点不保证代表语义相近的真实事物。",
+          "en": "Latent-variable models use hidden variables to represent structure in observed data. Variational auto-encoders, introduced in 2013, offer a way to learn such representations; nearby drawn points do not imply measured semantic similarity."
+        },
+        "sources": [
+          {
+            "label": "Kingma & Welling · Auto-Encoding Variational Bayes",
+            "url": "https://arxiv.org/abs/1312.6114"
+          }
+        ]
+      }
+    }
+  }
+}

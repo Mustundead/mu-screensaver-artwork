@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-204",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-204",
+      "subject": "nobel-laureate-204",
+      "edition": "mono",
+      "title": "詹姆斯·萨姆纳",
+      "titleEnglish": "James B. Sumner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-204/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-204/mono.jpg",
+      "sha256": "eb3dff728376937c3a5c425deb31ecc755aec545f1959a29c194876f6ec4be5b",
+      "thumbnailSHA256": "cae6e1e8087004eb0b3c1af7b7a4658fdc2d67223bbb81aea3a5854496e1cd29",
+      "context": {
+        "phrase": {
+          "zh": "从平常之物，看见清楚的结构。",
+          "en": "Find clear structure in ordinary things."
+        },
+        "visual": {
+          "zh": "打开的弯曲豆荚占据左侧，内部豆粒与散落豆粒通过细线塑形，右侧浅圆皿盛放棱面清楚的晶体。",
+          "en": "An open curved pod occupies the left, its enclosed and fallen beans shaped by fine lines; a shallow round dish at right holds faceted crystals."
+        },
+        "background": {
+          "zh": "萨姆纳从刀豆中分离出结晶形式的脲酶。脲酶是一种促进尿素分解的酶；他因发现酶能够结晶，获得1946年诺贝尔化学奖的一半奖项。画面把豆荚、豆粒与晶体联系起来，是原创插画；晶体的大小、数量和排列不代表实验数据。短句为原创。\n1946年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现酶能够结晶。",
+          "en": "Sumner isolated crystalline urease from jack beans. Urease is an enzyme that helps break down urea. His discovery that enzymes can be crystallized earned half of the 1946 Nobel Prize in Chemistry. The pod, beans and crystals form an original illustration; crystal size, count and arrangement do not represent experimental data. The phrase is original.\n1946 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his discovery that enzymes can be crystallized"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年化学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/sumner-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-204",
+      "subject": "nobel-laureate-204",
+      "edition": "color",
+      "title": "詹姆斯·萨姆纳",
+      "titleEnglish": "James B. Sumner",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-204/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-204/color.jpg",
+      "sha256": "653ee8640e7f52dc51c1f62e6217c507150fa5316e3229cbdf4e61c29c27d4a4",
+      "thumbnailSHA256": "8d886f96cd57fac38da9bd7a6a5c206f9a6d9d06dc80eddb8108286f54b0cfb9",
+      "context": {
+        "phrase": {
+          "zh": "从平常之物，看见清楚的结构。",
+          "en": "Find clear structure in ordinary things."
+        },
+        "visual": {
+          "zh": "打开的弯曲豆荚占据左侧，内部豆粒与散落豆粒通过细线塑形，右侧浅圆皿盛放棱面清楚的晶体。",
+          "en": "An open curved pod occupies the left, its enclosed and fallen beans shaped by fine lines; a shallow round dish at right holds faceted crystals."
+        },
+        "background": {
+          "zh": "萨姆纳从刀豆中分离出结晶形式的脲酶。脲酶是一种促进尿素分解的酶；他因发现酶能够结晶，获得1946年诺贝尔化学奖的一半奖项。画面把豆荚、豆粒与晶体联系起来，是原创插画；晶体的大小、数量和排列不代表实验数据。短句为原创。\n1946年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现酶能够结晶。",
+          "en": "Sumner isolated crystalline urease from jack beans. Urease is an enzyme that helps break down urea. His discovery that enzymes can be crystallized earned half of the 1946 Nobel Prize in Chemistry. The pod, beans and crystals form an original illustration; crystal size, count and arrangement do not represent experimental data. The phrase is original.\n1946 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his discovery that enzymes can be crystallized"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年化学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/sumner-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

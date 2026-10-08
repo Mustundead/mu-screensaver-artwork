@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-578",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-578",
+      "subject": "nobel-laureate-578",
+      "edition": "mono",
+      "title": "鲁道夫·欧肯",
+      "titleEnglish": "Rudolf Eucken",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-578/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-578/mono.jpg",
+      "sha256": "dfa9ab0663dfd2d159ceec176040964766e054f9b7c3dee394cc9b5b6eac549e",
+      "thumbnailSHA256": "bcca52abbcad7edc4cd9a845daac9f217de979c150cfa6ee61aa9bee24288043",
+      "context": {
+        "phrase": {
+          "zh": "翻开一页，重新看待生活。",
+          "en": "Open a page and reconsider life."
+        },
+        "visual": {
+          "zh": "巨大的空白书页弯曲成层叠近景，远处石窗和枝叶从间隙中显现，蓝色纸面参与结构。不同尺度表现内心思考与外在世界的关系；画面不是作者书房、具体著作页面或哲学论证图。",
+          "en": "Huge blank pages curve into a layered foreground while a distant stone window and branch appear through the gaps. A blue paper plane organizes the structure. Unequal scale evokes reflection and the surrounding world, not Eucken’s study, a specific book page or a philosophical diagram."
+        },
+        "background": {
+          "zh": "鲁道夫·欧肯获得1908年诺贝尔文学奖。他是一位哲学家，1874年起在耶拿任教，研究人的经验以及自然生活与精神生活的关系。获奖理由表彰他认真探索真理、深刻思考、广阔视野，以及通过众多著作阐发理想主义人生哲学的表达力量。这里的理想主义是哲学立场，并非单纯的乐观口号。配图借书页、窗口和枝叶表现思考与世界的联系；短句为本作品创作，不是欧肯的引语。\n1908年文学奖；独享本年度奖项。获奖理由（中文译述）：以表彰他认真探索真理、深刻思考、广阔视野，以及在众多著作中以热忱而有力的表达维护并发展理想主义人生哲学",
+          "en": "Rudolf Eucken received the 1908 Nobel Prize in Literature. A philosopher who taught at Jena from 1874, he explored human experience and the relationship between natural and spiritual life. The prize recognized his pursuit of truth, depth and breadth of thought, and expressive development of an idealistic philosophy of life. Idealism here names a philosophical position, rather than simple optimism. Pages, window and branch suggest reflection and the world. The accompanying phrase is original, not an Eucken quotation.\n1908 — The Nobel Prize in Literature. Received the full prize. Official motivation: in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年文学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1908/eucken/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1908/eucken/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-578",
+      "subject": "nobel-laureate-578",
+      "edition": "color",
+      "title": "鲁道夫·欧肯",
+      "titleEnglish": "Rudolf Eucken",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-578/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-578/color.jpg",
+      "sha256": "65923b9cf9b4ce0007b11c783fb2fa5160daeb42790c9fc03fdeba8f8ac5d27d",
+      "thumbnailSHA256": "70f549e8589be1455208c6ddbb1628cd5858dd1d56ad5fdf26b41611a12d7de1",
+      "context": {
+        "phrase": {
+          "zh": "翻开一页，重新看待生活。",
+          "en": "Open a page and reconsider life."
+        },
+        "visual": {
+          "zh": "巨大的空白书页弯曲成层叠近景，远处石窗和枝叶从间隙中显现，蓝色纸面参与结构。不同尺度表现内心思考与外在世界的关系；画面不是作者书房、具体著作页面或哲学论证图。",
+          "en": "Huge blank pages curve into a layered foreground while a distant stone window and branch appear through the gaps. A blue paper plane organizes the structure. Unequal scale evokes reflection and the surrounding world, not Eucken’s study, a specific book page or a philosophical diagram."
+        },
+        "background": {
+          "zh": "鲁道夫·欧肯获得1908年诺贝尔文学奖。他是一位哲学家，1874年起在耶拿任教，研究人的经验以及自然生活与精神生活的关系。获奖理由表彰他认真探索真理、深刻思考、广阔视野，以及通过众多著作阐发理想主义人生哲学的表达力量。这里的理想主义是哲学立场，并非单纯的乐观口号。配图借书页、窗口和枝叶表现思考与世界的联系；短句为本作品创作，不是欧肯的引语。\n1908年文学奖；独享本年度奖项。获奖理由（中文译述）：以表彰他认真探索真理、深刻思考、广阔视野，以及在众多著作中以热忱而有力的表达维护并发展理想主义人生哲学",
+          "en": "Rudolf Eucken received the 1908 Nobel Prize in Literature. A philosopher who taught at Jena from 1874, he explored human experience and the relationship between natural and spiritual life. The prize recognized his pursuit of truth, depth and breadth of thought, and expressive development of an idealistic philosophy of life. Idealism here names a philosophical position, rather than simple optimism. Pages, window and branch suggest reflection and the world. The accompanying phrase is original, not an Eucken quotation.\n1908 — The Nobel Prize in Literature. Received the full prize. Official motivation: in recognition of his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年文学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1908/eucken/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1908/eucken/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

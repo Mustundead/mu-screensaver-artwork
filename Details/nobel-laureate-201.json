@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-201",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-201",
+      "subject": "nobel-laureate-201",
+      "edition": "mono",
+      "title": "乔治·德·海韦西",
+      "titleEnglish": "George de Hevesy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-201/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-201/mono.jpg",
+      "sha256": "bc080f55c9bcc5975abf7501c82a2b5d04c300a5ba505381ad0bf5fad363bbdc",
+      "thumbnailSHA256": "e87b687c9cfaff43d2a1c6f6e707a3dc6b8aa891450c9ca3a09f6a96c5b2b94f",
+      "context": {
+        "phrase": {
+          "zh": "留下一点线索，看见它的去向。",
+          "en": "Leave a small trace to see where it goes."
+        },
+        "visual": {
+          "zh": "一株蚕豆从细密分叉的根系向上长出茎叶，少量圆点沿根、茎、叶留下标记，右侧保留空白。",
+          "en": "A broad-bean plant rises from finely branching roots to its stem and leaves. A few dots mark roots, stem and leaves, with quiet space on the right."
+        },
+        "background": {
+          "zh": "海韦西因把同位素用作示踪物、研究化学过程获得1943年诺贝尔化学奖，该年度奖于1944年颁发。1923年，他研究了放射性铅示踪物在蚕豆根、茎与叶中的吸收和移动。画面把连贯的根茎与少量印色圆点相连，表达追踪物质去向；圆点只是原创标记，不表示放射性物质发光，也不是测量位置或安全操作示范。短句为原创。\n1943年化学奖；独享本年度奖项。获奖理由（中文译述）：将同位素用作示踪物，研究化学过程",
+          "en": "Hevesy received the 1943 Nobel Prize in Chemistry, awarded in 1944, for using isotopes as tracers in chemical processes. In 1923 he studied the uptake and movement of radioactive lead tracers in broad-bean roots, stems and leaves. Connected plant structures and a few printed dots express following a substance. The dots are original visual marks, not radioactive glow, measured locations or an experiment to copy. The phrase is original.\n1943 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his work on the use of isotopes as tracers in the study of chemical processes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1943 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1943/summary/",
+            "labelLocalized": {
+              "zh": "1943年化学奖｜官方记录",
+              "en": "1943 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "mediatheque.lindau-nobel.org",
+            "url": "https://mediatheque.lindau-nobel.org/laureates/de-hevesy/research-profile",
+            "labelLocalized": {
+              "zh": "海韦西的示踪研究｜林道诺贝尔奖得主大会",
+              "en": "Hevesy tracer research — Lindau Nobel Laureate Meetings"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-201",
+      "subject": "nobel-laureate-201",
+      "edition": "color",
+      "title": "乔治·德·海韦西",
+      "titleEnglish": "George de Hevesy",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-201/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-201/color.jpg",
+      "sha256": "9a43ec88f68f9b588400df45c0d3afc1408ff6b8d6baf70ce2038d47d99bb843",
+      "thumbnailSHA256": "0116555043e129161f1b490e6451ec644cf6ca507cb70b968133d7ec3efea6d3",
+      "context": {
+        "phrase": {
+          "zh": "留下一点线索，看见它的去向。",
+          "en": "Leave a small trace to see where it goes."
+        },
+        "visual": {
+          "zh": "一株蚕豆从细密分叉的根系向上长出茎叶，少量圆点沿根、茎、叶留下标记，右侧保留空白。",
+          "en": "A broad-bean plant rises from finely branching roots to its stem and leaves. A few dots mark roots, stem and leaves, with quiet space on the right."
+        },
+        "background": {
+          "zh": "海韦西因把同位素用作示踪物、研究化学过程获得1943年诺贝尔化学奖，该年度奖于1944年颁发。1923年，他研究了放射性铅示踪物在蚕豆根、茎与叶中的吸收和移动。画面把连贯的根茎与少量印色圆点相连，表达追踪物质去向；圆点只是原创标记，不表示放射性物质发光，也不是测量位置或安全操作示范。短句为原创。\n1943年化学奖；独享本年度奖项。获奖理由（中文译述）：将同位素用作示踪物，研究化学过程",
+          "en": "Hevesy received the 1943 Nobel Prize in Chemistry, awarded in 1944, for using isotopes as tracers in chemical processes. In 1923 he studied the uptake and movement of radioactive lead tracers in broad-bean roots, stems and leaves. Connected plant structures and a few printed dots express following a substance. The dots are original visual marks, not radioactive glow, measured locations or an experiment to copy. The phrase is original.\n1943 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his work on the use of isotopes as tracers in the study of chemical processes"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1943 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1943/summary/",
+            "labelLocalized": {
+              "zh": "1943年化学奖｜官方记录",
+              "en": "1943 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "mediatheque.lindau-nobel.org",
+            "url": "https://mediatheque.lindau-nobel.org/laureates/de-hevesy/research-profile",
+            "labelLocalized": {
+              "zh": "海韦西的示踪研究｜林道诺贝尔奖得主大会",
+              "en": "Hevesy tracer research — Lindau Nobel Laureate Meetings"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

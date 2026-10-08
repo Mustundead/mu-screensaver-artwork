@@ -1,0 +1,70 @@
+{
+  "subject": "048-attention",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:048-attention",
+      "subject": "048-attention",
+      "edition": "mono",
+      "title": "注意力机制",
+      "titleEnglish": "Attention Mechanisms",
+      "category": "计算与人工智能",
+      "image": "Images/mono/048-attention.jpg",
+      "thumbnail": "Thumbs/mono/048-attention.jpg",
+      "sha256": "3caa2c56cc7d70200b1377da4a23627b9c4d75d937c2b3bf4ecb01603d83071f",
+      "thumbnailSHA256": "94ff82bad18c57d84ef26888745f9ceaa7b492243f21ec86e8d7115c0d20806c",
+      "context": {
+        "phrase": {
+          "zh": "关联远处的信息，再决定看哪里。",
+          "en": "Connect distant details to decide where to look."
+        },
+        "visual": {
+          "zh": "画面中分散的节点以不同强弱的线相连，表现“关注关系”的计算概念。线的粗细不是模型真正算出的权重。",
+          "en": "Scattered nodes connect with lines of varying strength, suggesting computational attention. Their thickness is not a model’s calculated weights."
+        },
+        "background": {
+          "zh": "2017 年提出的 Transformer 架构以注意力机制处理序列，让不同位置的信息相互关联。注意力是模型内部的计算方式，不等于人类有意识地凝视或理解。",
+          "en": "The Transformer architecture proposed in 2017 uses attention mechanisms to connect information across sequence positions. Computational attention is a model operation, not conscious human looking or understanding."
+        },
+        "sources": [
+          {
+            "label": "Vaswani et al. · Attention Is All You Need",
+            "url": "https://arxiv.org/abs/1706.03762"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:048-attention",
+      "subject": "048-attention",
+      "edition": "color",
+      "title": "注意力机制",
+      "titleEnglish": "Attention Mechanisms",
+      "category": "计算与人工智能",
+      "image": "Images/color/048-attention.jpg",
+      "thumbnail": "Thumbs/color/048-attention.jpg",
+      "sha256": "764667868a7b30efc93c84ce19516eeb8c6353ddd5caf63951aad2dca3e7d40d",
+      "thumbnailSHA256": "9c261ecadd4c6594d5ccf428177cf7454228aeff7fe9c173a950424204fca908",
+      "context": {
+        "phrase": {
+          "zh": "关联远处的信息，再决定看哪里。",
+          "en": "Connect distant details to decide where to look."
+        },
+        "visual": {
+          "zh": "画面中分散的节点以不同强弱的线相连，表现“关注关系”的计算概念。线的粗细不是模型真正算出的权重。",
+          "en": "Scattered nodes connect with lines of varying strength, suggesting computational attention. Their thickness is not a model’s calculated weights."
+        },
+        "background": {
+          "zh": "2017 年提出的 Transformer 架构以注意力机制处理序列，让不同位置的信息相互关联。注意力是模型内部的计算方式，不等于人类有意识地凝视或理解。",
+          "en": "The Transformer architecture proposed in 2017 uses attention mechanisms to connect information across sequence positions. Computational attention is a model operation, not conscious human looking or understanding."
+        },
+        "sources": [
+          {
+            "label": "Vaswani et al. · Attention Is All You Need",
+            "url": "https://arxiv.org/abs/1706.03762"
+          }
+        ]
+      }
+    }
+  }
+}

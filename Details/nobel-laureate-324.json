@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-324",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-324",
+      "subject": "nobel-laureate-324",
+      "edition": "mono",
+      "title": "埃德加·阿德里安",
+      "titleEnglish": "Edgar Adrian",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-324/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-324/mono.jpg",
+      "sha256": "417718f9e5114c000b6a9cd8d5448b6113b1032f518ec7e719c298e74d3c166c",
+      "thumbnailSHA256": "a5e7039a743e2232d3414fcec665cc3ab3eae61934f7e75adccdf8741f77cdb0",
+      "context": {
+        "phrase": {
+          "zh": "细小的信号，把强弱写进节奏。",
+          "en": "Small signals carry intensity in their rhythm."
+        },
+        "visual": {
+          "zh": "左侧大幅裁切的扬声器由深色纸盆、圆形中心与黄铜色边框组成，细刻线沿纸盆放射。浅色记录带横穿暗红背景，同样高度的短脉冲标记从疏变密。黑白版保留扬声器与记录带，以及标记的高度和间距关系。",
+          "en": "A large cropped speaker at left has a dark paper cone, round center cap and brass-colored rim, with radial fine engraving. A pale recording strip crosses the burgundy field, carrying equal-height short symbolic impulses that become more closely spaced. The neutral edition preserves the speaker, strip and the marks’ height and spacing relationships."
+        },
+        "background": {
+          "zh": "阿德里安与查尔斯·谢灵顿共同获得1932年诺贝尔生理学或医学奖。阿德里安放大神经纤维的微弱信号，发现较强刺激会使信号发出得更频繁，而不是让单次信号变大。扬声器与记录纸是倾听和观察这种节奏的原创寓意，不是实际仪器、实验数据或医疗判断；短句为原创。\n1932年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对神经元功能的发现。",
+          "en": "Adrian shared the 1932 Nobel Prize in Physiology or Medicine with Charles Sherrington. Amplifying weak signals from nerve fibres, he found that stronger stimulation produced more frequent impulses rather than larger individual impulses. The loudspeaker and recording strip are an original metaphor for listening to and observing this rhythm, not actual apparatus, experimental data or medical assessment. The phrase is original.\n1932 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries regarding the functions of neurons"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年生理学或医学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/nerve_signaling/overview/index.php",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-324",
+      "subject": "nobel-laureate-324",
+      "edition": "color",
+      "title": "埃德加·阿德里安",
+      "titleEnglish": "Edgar Adrian",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-324/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-324/color.jpg",
+      "sha256": "741081e5cf3c3589190bfa9d418e0aafcf8e7a9101204d841c3734985a458b67",
+      "thumbnailSHA256": "bf52afde7e44f322be61ea1d1d609139cba309347eead49f303fcd0df27755b8",
+      "context": {
+        "phrase": {
+          "zh": "细小的信号，把强弱写进节奏。",
+          "en": "Small signals carry intensity in their rhythm."
+        },
+        "visual": {
+          "zh": "左侧大幅裁切的扬声器由深色纸盆、圆形中心与黄铜色边框组成，细刻线沿纸盆放射。浅色记录带横穿暗红背景，同样高度的短脉冲标记从疏变密。黑白版保留扬声器与记录带，以及标记的高度和间距关系。",
+          "en": "A large cropped speaker at left has a dark paper cone, round center cap and brass-colored rim, with radial fine engraving. A pale recording strip crosses the burgundy field, carrying equal-height short symbolic impulses that become more closely spaced. The neutral edition preserves the speaker, strip and the marks’ height and spacing relationships."
+        },
+        "background": {
+          "zh": "阿德里安与查尔斯·谢灵顿共同获得1932年诺贝尔生理学或医学奖。阿德里安放大神经纤维的微弱信号，发现较强刺激会使信号发出得更频繁，而不是让单次信号变大。扬声器与记录纸是倾听和观察这种节奏的原创寓意，不是实际仪器、实验数据或医疗判断；短句为原创。\n1932年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对神经元功能的发现。",
+          "en": "Adrian shared the 1932 Nobel Prize in Physiology or Medicine with Charles Sherrington. Amplifying weak signals from nerve fibres, he found that stronger stimulation produced more frequent impulses rather than larger individual impulses. The loudspeaker and recording strip are an original metaphor for listening to and observing this rhythm, not actual apparatus, experimental data or medical assessment. The phrase is original.\n1932 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries regarding the functions of neurons"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年生理学或医学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/nerve_signaling/overview/index.php",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

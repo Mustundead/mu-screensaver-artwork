@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-299",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-299",
+      "subject": "nobel-laureate-299",
+      "edition": "mono",
+      "title": "圣地亚哥·拉蒙-卡哈尔",
+      "titleEnglish": "Santiago Ramón y Cajal",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-299/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-299/mono.jpg",
+      "sha256": "89936db1f5c77fd7d12b57608c88df66c142ab1cb197d54d55384f5ee4ee4b02",
+      "thumbnailSHA256": "4887e357c57ec033431813b9fdb3e31f84056440f975c37307e71b8c2d0ada9d",
+      "context": {
+        "phrase": {
+          "zh": "仔细观察，再把细节一笔一笔记下来。",
+          "en": "Observe carefully, then record each detail."
+        },
+        "visual": {
+          "zh": "打开的素描本、相互分开的神经细胞图形、铅笔与空白画板组成独立拼贴，呼应卡哈尔的观察和绘图。细胞图形是原创的象征性表达，不是他的原作或准确解剖图。",
+          "en": "An original collage of an open sketchbook, separate nerve-cell motifs, pencils and a blank drawing board evokes Cajal's observation and drawing. The cells are symbolic originals, not his drawings or precise anatomical plates."
+        },
+        "background": {
+          "zh": "卡哈尔与戈尔吉共同获得1906年诺贝尔生理学或医学奖，表彰他们对神经系统结构的研究。两人使用并改进染色方法来观察细胞；卡哈尔还推动了神经元理论，认为神经系统由独立的神经细胞组成，细胞之间通过接触传递信息。配图以观察后的绘图表现这一工作，不复制他的历史手稿。\n1906年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对神经系统结构的研究。",
+          "en": "Cajal shared the 1906 Nobel Prize in Physiology or Medicine with Golgi for work on the structure of the nervous system. Both used and refined staining methods to observe cells. Cajal helped develop neuron theory: the nervous system consists of separate nerve cells linked through contacts. The artwork interprets his practice of drawing observations without reproducing his historical manuscripts.\n1906 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: in recognition of their work on the structure of the nervous system"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年生理学或医学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/stories/cells-nerves-genes/",
+            "labelLocalized": {
+              "zh": "神经细胞研究背景｜诺贝尔奖官网",
+              "en": "Nerve-cell research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-299",
+      "subject": "nobel-laureate-299",
+      "edition": "color",
+      "title": "圣地亚哥·拉蒙-卡哈尔",
+      "titleEnglish": "Santiago Ramón y Cajal",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-299/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-299/color.jpg",
+      "sha256": "92dbad741205e720fca58aae03f277a6af4ab1a176d938fe3ee8acbccd6bd9f0",
+      "thumbnailSHA256": "b8b4f115a521b81267311435a88b9bbc8c61278e12d0878d83ee9eba7037f50e",
+      "context": {
+        "phrase": {
+          "zh": "仔细观察，再把细节一笔一笔记下来。",
+          "en": "Observe carefully, then record each detail."
+        },
+        "visual": {
+          "zh": "打开的素描本、相互分开的神经细胞图形、铅笔与空白画板组成独立拼贴，呼应卡哈尔的观察和绘图。细胞图形是原创的象征性表达，不是他的原作或准确解剖图。",
+          "en": "An original collage of an open sketchbook, separate nerve-cell motifs, pencils and a blank drawing board evokes Cajal's observation and drawing. The cells are symbolic originals, not his drawings or precise anatomical plates."
+        },
+        "background": {
+          "zh": "卡哈尔与戈尔吉共同获得1906年诺贝尔生理学或医学奖，表彰他们对神经系统结构的研究。两人使用并改进染色方法来观察细胞；卡哈尔还推动了神经元理论，认为神经系统由独立的神经细胞组成，细胞之间通过接触传递信息。配图以观察后的绘图表现这一工作，不复制他的历史手稿。\n1906年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对神经系统结构的研究。",
+          "en": "Cajal shared the 1906 Nobel Prize in Physiology or Medicine with Golgi for work on the structure of the nervous system. Both used and refined staining methods to observe cells. Cajal helped develop neuron theory: the nervous system consists of separate nerve cells linked through contacts. The artwork interprets his practice of drawing observations without reproducing his historical manuscripts.\n1906 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: in recognition of their work on the structure of the nervous system"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1906 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1906/summary/",
+            "labelLocalized": {
+              "zh": "1906年生理学或医学奖｜官方记录",
+              "en": "1906 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/stories/cells-nerves-genes/",
+            "labelLocalized": {
+              "zh": "神经细胞研究背景｜诺贝尔奖官网",
+              "en": "Nerve-cell research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

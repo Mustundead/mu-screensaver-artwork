@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-339",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-339",
+      "subject": "nobel-laureate-339",
+      "edition": "mono",
+      "title": "亚历山大·弗莱明",
+      "titleEnglish": "Sir Alexander Fleming",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-339/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-339/mono.jpg",
+      "sha256": "3b2a76c995a88c635164caa1b28f8319a283020caac15d9619d61a0111892dfd",
+      "thumbnailSHA256": "f9a891d497b89365bb8a1aac835af58fbf9d3ef910da4dfca5e2613ee6b9ecbd",
+      "context": {
+        "phrase": {
+          "zh": "多看一眼，发现藏在细节里。",
+          "en": "Look again; discovery lives in the details."
+        },
+        "visual": {
+          "zh": "大幅培养皿偏向右侧，右上方不规则菌落周围留出空白圈，细小斑点分布在圈外；透明皿边与浅影由细刻线描绘。",
+          "en": "A large plate sits toward the right, with an irregular upper-right colony surrounded by a clear ring and tiny flecks beyond it; fine etched lines draw its transparent rim and light shadow."
+        },
+        "background": {
+          "zh": "弗莱明在1928年注意到，培养皿里霉菌周围的细菌生长受到抑制。他随后研究了霉菌产生的物质，并将其命名为青霉素。弗莱明、钱恩与弗洛里共同获得1945年诺贝尔生理学或医学奖，各占三分之一。画面以霉菌周围的空白圈表达这次观察，是原创示意，不是真实标本、测量结果或用药建议。短句为原创。\n1945年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：发现青霉素及其对多种感染性疾病的治疗作用",
+          "en": "In 1928, Fleming noticed inhibited bacterial growth around mould in a culture plate. He investigated the substance the mould produced and named it penicillin. Fleming, Chain and Florey shared the 1945 Nobel Prize in Physiology or Medicine, each receiving one third. A clear ring around a mould colony expresses that observation in an original illustration, not an actual specimen, measurement or treatment advice. The phrase is original.\n1945 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for the discovery of penicillin and its curative effect in various infectious diseases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年生理学或医学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-339",
+      "subject": "nobel-laureate-339",
+      "edition": "color",
+      "title": "亚历山大·弗莱明",
+      "titleEnglish": "Sir Alexander Fleming",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-339/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-339/color.jpg",
+      "sha256": "6f7bc4e7768de4f870764044161c6c2e7d6be9bea9e82fa961b632395987c6fe",
+      "thumbnailSHA256": "c78d1b782f1db4bd28a2be40d30a8fa33621a047bab8b6cdb605f65d811cd3e8",
+      "context": {
+        "phrase": {
+          "zh": "多看一眼，发现藏在细节里。",
+          "en": "Look again; discovery lives in the details."
+        },
+        "visual": {
+          "zh": "大幅培养皿偏向右侧，右上方不规则菌落周围留出空白圈，细小斑点分布在圈外；透明皿边与浅影由细刻线描绘。",
+          "en": "A large plate sits toward the right, with an irregular upper-right colony surrounded by a clear ring and tiny flecks beyond it; fine etched lines draw its transparent rim and light shadow."
+        },
+        "background": {
+          "zh": "弗莱明在1928年注意到，培养皿里霉菌周围的细菌生长受到抑制。他随后研究了霉菌产生的物质，并将其命名为青霉素。弗莱明、钱恩与弗洛里共同获得1945年诺贝尔生理学或医学奖，各占三分之一。画面以霉菌周围的空白圈表达这次观察，是原创示意，不是真实标本、测量结果或用药建议。短句为原创。\n1945年生理学或医学奖；获得本年度奖项的三分之一。获奖理由（中文译述）：发现青霉素及其对多种感染性疾病的治疗作用",
+          "en": "In 1928, Fleming noticed inhibited bacterial growth around mould in a culture plate. He investigated the substance the mould produced and named it penicillin. Fleming, Chain and Florey shared the 1945 Nobel Prize in Physiology or Medicine, each receiving one third. A clear ring around a mould colony expresses that observation in an original illustration, not an actual specimen, measurement or treatment advice. The phrase is original.\n1945 — The Nobel Prize in Physiology or Medicine. Received one-third of the prize. Official motivation: for the discovery of penicillin and its curative effect in various infectious diseases"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1945 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/summary/",
+            "labelLocalized": {
+              "zh": "1945年生理学或医学奖｜官方记录",
+              "en": "1945 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1945/fleming/questions-and-answers/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-009",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-009",
+      "subject": "oscar-best-picture-009",
+      "edition": "mono",
+      "title": "歌舞大王",
+      "titleEnglish": "The Great Ziegfeld",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-009/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-009/mono.jpg",
+      "sha256": "76940129f11a5928f625e62a64c51be77ddd007a7c2e920e139b997af1d9d766",
+      "thumbnailSHA256": "a99a3951b9cabefad1f61c11b252b1ae8d72f86a476d4cfe79a0aaff8248aa31",
+      "context": {
+        "phrase": {
+          "zh": "一场盛大的演出，由许多细节撑起。",
+          "en": "A grand show rests on many small details."
+        },
+        "visual": {
+          "zh": "以空舞台阶梯、幕布、滑轮、羽毛与舞鞋组成的独立拼贴，呼应影片中的歌舞制作。舞台与物件是想象性的组合，没有复制电影画面，也不是齐格飞真实剧场的重现。",
+          "en": "An original collage of empty stage stairs, curtains, pulleys, feathers and dance shoes evokes the film's musical productions. The stage and objects are imagined, neither copied from a film frame nor reconstructed from Ziegfeld's actual theatre."
+        },
+        "background": {
+          "zh": "《歌舞大王》是1936年由罗伯特·Z·伦纳德执导的歌舞传记片，以演出制作人弗洛伦茨·齐格飞的生平为基础，威廉·鲍威尔饰演齐格飞。影片在1937年第9届奥斯卡获得最佳影片奖。配图从台前的阶梯与幕布延伸到后台的滑轮和道具，表现大型演出的制作过程。\n第9届奥斯卡最佳影片：歌舞大王。颁奖年份 1937；参评年份 1936。",
+          "en": "The Great Ziegfeld is a 1936 musical biography directed by Robert Z. Leonard, based on the life of showman Florenz Ziegfeld, portrayed by William Powell. It won Best Picture at the ninth Academy Awards in 1937. The artwork connects stage stairs and curtains with backstage rigging and objects to interpret the work behind large musical productions.\nAcademy Awards ceremony 9 (1937), Best Picture: The Great Ziegfeld. Eligibility year: 1936."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1937",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/8351-THE-GREAT-ZIEGFELD",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-009",
+      "subject": "oscar-best-picture-009",
+      "edition": "color",
+      "title": "歌舞大王",
+      "titleEnglish": "The Great Ziegfeld",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-009/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-009/color.jpg",
+      "sha256": "e70bc90187b87b21d4e66835d2371eac9bfca875f46f0db4c1c8a6dbfc870004",
+      "thumbnailSHA256": "0f3a7e4d8f37917616c9f9bea9cdf820be7d691764db8d5d3d5b8bb5b0153a48",
+      "context": {
+        "phrase": {
+          "zh": "一场盛大的演出，由许多细节撑起。",
+          "en": "A grand show rests on many small details."
+        },
+        "visual": {
+          "zh": "以空舞台阶梯、幕布、滑轮、羽毛与舞鞋组成的独立拼贴，呼应影片中的歌舞制作。舞台与物件是想象性的组合，没有复制电影画面，也不是齐格飞真实剧场的重现。",
+          "en": "An original collage of empty stage stairs, curtains, pulleys, feathers and dance shoes evokes the film's musical productions. The stage and objects are imagined, neither copied from a film frame nor reconstructed from Ziegfeld's actual theatre."
+        },
+        "background": {
+          "zh": "《歌舞大王》是1936年由罗伯特·Z·伦纳德执导的歌舞传记片，以演出制作人弗洛伦茨·齐格飞的生平为基础，威廉·鲍威尔饰演齐格飞。影片在1937年第9届奥斯卡获得最佳影片奖。配图从台前的阶梯与幕布延伸到后台的滑轮和道具，表现大型演出的制作过程。\n第9届奥斯卡最佳影片：歌舞大王。颁奖年份 1937；参评年份 1936。",
+          "en": "The Great Ziegfeld is a 1936 musical biography directed by Robert Z. Leonard, based on the life of showman Florenz Ziegfeld, portrayed by William Powell. It won Best Picture at the ninth Academy Awards in 1937. The artwork connects stage stairs and curtains with backstage rigging and objects to interpret the work behind large musical productions.\nAcademy Awards ceremony 9 (1937), Best Picture: The Great Ziegfeld. Eligibility year: 1936."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1937",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/8351-THE-GREAT-ZIEGFELD",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "subject": "nobel-laureate-590",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-590",
+      "subject": "nobel-laureate-590",
+      "edition": "mono",
+      "title": "阿纳托尔·法朗士",
+      "titleEnglish": "Anatole France",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-590/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-590/mono.jpg",
+      "sha256": "95e331c3ca4c3951c29c8df1d97df918b75a751555d245c558625c44bf417f09",
+      "thumbnailSHA256": "36b6747337b017c71ec173678a2e43afd175b8c1c45a6da44bfb181cb7926f74",
+      "context": {
+        "phrase": {
+          "zh": "读懂一页，也靠近一个人。",
+          "en": "Read a page and draw closer to a person."
+        },
+        "visual": {
+          "zh": "巨大的空白书页从左上裁入，紫褐布面装帧露出边缘；右下黄铜阅读镜覆在一片赭色枯叶上，木柄斜向伸出。黑白版保留书、镜、叶片与裁切。它表达细读与关照，不是某部小说场景或作家物品复原。",
+          "en": "An enormous blank-page book enters from upper left with aubergine cloth edges. At lower right a brass reading lens covers one ochre dry leaf, its wooden handle extending diagonally. Monochrome preserves book, lens, leaf and crop. This suggests attentive reading and care, not a particular novel scene or reconstruction of the author's belongings."
+        },
+        "background": {
+          "zh": "法朗士独享1921年诺贝尔文学奖，获奖理由赞扬其文学成就、优美风格和深厚的人文同情。此画以空白书页、阅读镜与一片枯叶表达细读与关照人的处境；这是原创艺术解读，不对应某部小说情节，也不复制作家的手稿或物品。短句为原创，不是人物引语。\n1921年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰其杰出的文学成就，以及作品中高雅的风格、深厚的人文同情、优美与鲜明的法国气质。",
+          "en": "France received the full 1921 Nobel Prize in Literature. The citation praised his literary achievement, grace of style and profound human sympathy. Blank pages, a reading lens and one dry leaf suggest attentive reading and care for human lives. This is an original interpretation, not a scene from a particular novel, a manuscript or one of the author's belongings. The phrase is original, not a quotation.\n1921 — The Nobel Prize in Literature. Received the full prize. Official motivation: in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年文学奖｜官方记录",
+              "en": "1921 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-590",
+      "subject": "nobel-laureate-590",
+      "edition": "color",
+      "title": "阿纳托尔·法朗士",
+      "titleEnglish": "Anatole France",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-590/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-590/color.jpg",
+      "sha256": "ff2bf6d317a6328d8a2713083cef76917c9ca11ea6d8620224165ec4f97a72f0",
+      "thumbnailSHA256": "17074ac7189689985dc6bab0f95b862514a0066c10787d3c81b05142f7ddfa25",
+      "context": {
+        "phrase": {
+          "zh": "读懂一页，也靠近一个人。",
+          "en": "Read a page and draw closer to a person."
+        },
+        "visual": {
+          "zh": "巨大的空白书页从左上裁入，紫褐布面装帧露出边缘；右下黄铜阅读镜覆在一片赭色枯叶上，木柄斜向伸出。黑白版保留书、镜、叶片与裁切。它表达细读与关照，不是某部小说场景或作家物品复原。",
+          "en": "An enormous blank-page book enters from upper left with aubergine cloth edges. At lower right a brass reading lens covers one ochre dry leaf, its wooden handle extending diagonally. Monochrome preserves book, lens, leaf and crop. This suggests attentive reading and care, not a particular novel scene or reconstruction of the author's belongings."
+        },
+        "background": {
+          "zh": "法朗士独享1921年诺贝尔文学奖，获奖理由赞扬其文学成就、优美风格和深厚的人文同情。此画以空白书页、阅读镜与一片枯叶表达细读与关照人的处境；这是原创艺术解读，不对应某部小说情节，也不复制作家的手稿或物品。短句为原创，不是人物引语。\n1921年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰其杰出的文学成就，以及作品中高雅的风格、深厚的人文同情、优美与鲜明的法国气质。",
+          "en": "France received the full 1921 Nobel Prize in Literature. The citation praised his literary achievement, grace of style and profound human sympathy. Blank pages, a reading lens and one dry leaf suggest attentive reading and care for human lives. This is an original interpretation, not a scene from a particular novel, a manuscript or one of the author's belongings. The phrase is original, not a quotation.\n1921 — The Nobel Prize in Literature. Received the full prize. Official motivation: in recognition of his brilliant literary achievements, characterized as they are by a nobility of style, a profound human sympathy, grace, and a true Gallic temperament"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1921 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1921/summary/",
+            "labelLocalized": {
+              "zh": "1921年文学奖｜官方记录",
+              "en": "1921 The Nobel Prize in Literature — official record"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

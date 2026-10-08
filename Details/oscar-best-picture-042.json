@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-042",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-042",
+      "subject": "oscar-best-picture-042",
+      "edition": "mono",
+      "title": "午夜牛郎",
+      "titleEnglish": "Midnight Cowboy",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-042/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-042/mono.jpg",
+      "sha256": "e590d7f8e588d501301d6a0b57618333df1d026fe06be838d12da201b30cfe6e",
+      "thumbnailSHA256": "2fb32a09debfde1ed472c05c5742bdd28cc599808aaac0182e5ab483648509f0",
+      "context": {
+        "phrase": {
+          "zh": "在陌生的城市里，给彼此一点依靠。",
+          "en": "In an unfamiliar city, give each other support."
+        },
+        "visual": {
+          "zh": "近处两张空车座并排，牛仔帽和围巾分别放在座上；布面刻线与围巾褶皱衬出质感，车窗外是远去的城市和地平线。",
+          "en": "Two empty bus seats in the foreground hold a cowboy hat and scarf. Fine lines describe the upholstery and scarf folds; beyond the window, the city recedes toward the horizon."
+        },
+        "background": {
+          "zh": "影片讲述从得克萨斯来到纽约的乔与里佐在困顿中结成友谊。这部1969年的电影获得1970年第42届奥斯卡最佳影片。画面以车厢中相邻的空座位、牛仔帽和旧围巾表达旅途中互相依靠；这是原创寓意，不是剧照、演员肖像或某一镜头的复原。短句不是台词或歌词。\n第42届奥斯卡最佳影片：午夜牛郎。颁奖年份 1970；参评年份 1969。",
+          "en": "Joe and Rizzo form a friendship amid hardship in New York. Joe arrived there from Texas. This 1969 film won Best Picture at the 42nd Academy Awards in 1970. Adjacent empty bus seats, a cowboy hat and a worn scarf express companionship on a journey. This is an original metaphor, not a film still, actor portrait or reconstruction of a shot. The phrase is not dialogue or a lyric.\nAcademy Awards ceremony 42 (1970), Best Picture: Midnight Cowboy. Eligibility year: 1969."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1970",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "criterion.com",
+            "url": "https://www.criterion.com/films/29369-midnight-cowboy",
+            "labelLocalized": {
+              "zh": "《午夜牛郎》影片介绍｜Criterion",
+              "en": "Midnight Cowboy synopsis — Criterion"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-042",
+      "subject": "oscar-best-picture-042",
+      "edition": "color",
+      "title": "午夜牛郎",
+      "titleEnglish": "Midnight Cowboy",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-042/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-042/color.jpg",
+      "sha256": "bff2ba123365fe0346eb8706a3cf1d8e59fb0d1630d7b31b2c0925ea6d39d2a5",
+      "thumbnailSHA256": "10194d25c4c571b54f4817226f32a9e3fe77d2273131e8a619853a663886aed6",
+      "context": {
+        "phrase": {
+          "zh": "在陌生的城市里，给彼此一点依靠。",
+          "en": "In an unfamiliar city, give each other support."
+        },
+        "visual": {
+          "zh": "近处两张空车座并排，牛仔帽和围巾分别放在座上；布面刻线与围巾褶皱衬出质感，车窗外是远去的城市和地平线。",
+          "en": "Two empty bus seats in the foreground hold a cowboy hat and scarf. Fine lines describe the upholstery and scarf folds; beyond the window, the city recedes toward the horizon."
+        },
+        "background": {
+          "zh": "影片讲述从得克萨斯来到纽约的乔与里佐在困顿中结成友谊。这部1969年的电影获得1970年第42届奥斯卡最佳影片。画面以车厢中相邻的空座位、牛仔帽和旧围巾表达旅途中互相依靠；这是原创寓意，不是剧照、演员肖像或某一镜头的复原。短句不是台词或歌词。\n第42届奥斯卡最佳影片：午夜牛郎。颁奖年份 1970；参评年份 1969。",
+          "en": "Joe and Rizzo form a friendship amid hardship in New York. Joe arrived there from Texas. This 1969 film won Best Picture at the 42nd Academy Awards in 1970. Adjacent empty bus seats, a cowboy hat and a worn scarf express companionship on a journey. This is an original metaphor, not a film still, actor portrait or reconstruction of a shot. The phrase is not dialogue or a lyric.\nAcademy Awards ceremony 42 (1970), Best Picture: Midnight Cowboy. Eligibility year: 1969."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1970",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "criterion.com",
+            "url": "https://www.criterion.com/films/29369-midnight-cowboy",
+            "labelLocalized": {
+              "zh": "《午夜牛郎》影片介绍｜Criterion",
+              "en": "Midnight Cowboy synopsis — Criterion"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

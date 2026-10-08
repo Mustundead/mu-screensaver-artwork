@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-583",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-583",
+      "subject": "nobel-laureate-583",
+      "edition": "mono",
+      "title": "罗宾德拉纳特·泰戈尔",
+      "titleEnglish": "Rabindranath Tagore",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-583/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-583/mono.jpg",
+      "sha256": "7a510f92c429d788129545df56f99654ca1d55cc44203bb752fbfc15d8f7fec0",
+      "thumbnailSHA256": "5d02f236f8c558e20ba847aab848302066c9498784208fe55eeea5c83f7fc7dd",
+      "context": {
+        "phrase": {
+          "zh": "换一种语言，诗意仍在流动。",
+          "en": "In another language, poetry still flows."
+        },
+        "visual": {
+          "zh": "近处带水滴的枝叶与水面上一张小小的空白纸形成尺度对照，以安静的自然景象呼应泰戈尔的诗意表达。黑白与钴蓝版突出纸张；彩色版呈现橄榄绿叶、棕色枝条、乳白纸与灰蓝绿水面。画面不对应真实手稿、具体诗句或已确认的地点。",
+          "en": "Large wet leaves contrast with a small blank sheet floating on water, evoking Tagore's poetic expression through a quiet natural scene. Cobalt emphasizes the paper in monochrome; full color uses olive leaves, brown branches, ivory paper and gray-blue-green water. The image does not depict an actual manuscript, a specific verse or a verified location."
+        },
+        "background": {
+          "zh": "泰戈尔独自获得1913年诺贝尔文学奖，官方理由肯定其敏锐、新鲜而优美的诗歌，以及他以自己的英语表达把诗意带入西方文学的能力。诺贝尔官方传记说明，英文《吉檀迦利：颂歌集》（1912）不仅收入同名孟加拉文诗集的诗，也选取其他作品；因此它不是单一原集的逐首直译。这里让空白纸页漂浮在枝叶与水光之间，用原创静物谈文字的流动，既不引用诗句，也不复制书页。获奖理由与画面解读分别记录，短句不是泰戈尔引语。\n1913年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰其敏锐、新鲜而优美的诗歌，以及他以自己的英语表达使诗意进入西方文学的能力。",
+          "en": "Tagore was the sole 1913 Nobel laureate in Literature. The award recognized his sensitive, fresh poetry and his skill in bringing it into Western literature through his own English expression. Nobel’s biography notes that English Gitanjali: Song Offerings (1912) draws on other works as well as its Bengali namesake; it is not a poem-for-poem translation of one volume. Blank paper floating between leaves and reflected light is an original still-life metaphor for words in motion. It reproduces no verse or book page, and the phrase is not a Tagore quotation.\n1913 — The Nobel Prize in Literature. Received the full prize. Official motivation: because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年文学奖｜官方记录",
+              "en": "1913 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-583",
+      "subject": "nobel-laureate-583",
+      "edition": "color",
+      "title": "罗宾德拉纳特·泰戈尔",
+      "titleEnglish": "Rabindranath Tagore",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-583/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-583/color.jpg",
+      "sha256": "28131c515f140444bd579c3c257e0729117d6c94102a285af59d2e96308514a7",
+      "thumbnailSHA256": "eb3ec1987c87a566115093837d4efdf46f706955f48b3e846e52275531574fb5",
+      "context": {
+        "phrase": {
+          "zh": "换一种语言，诗意仍在流动。",
+          "en": "In another language, poetry still flows."
+        },
+        "visual": {
+          "zh": "近处带水滴的枝叶与水面上一张小小的空白纸形成尺度对照，以安静的自然景象呼应泰戈尔的诗意表达。黑白与钴蓝版突出纸张；彩色版呈现橄榄绿叶、棕色枝条、乳白纸与灰蓝绿水面。画面不对应真实手稿、具体诗句或已确认的地点。",
+          "en": "Large wet leaves contrast with a small blank sheet floating on water, evoking Tagore's poetic expression through a quiet natural scene. Cobalt emphasizes the paper in monochrome; full color uses olive leaves, brown branches, ivory paper and gray-blue-green water. The image does not depict an actual manuscript, a specific verse or a verified location."
+        },
+        "background": {
+          "zh": "泰戈尔独自获得1913年诺贝尔文学奖，官方理由肯定其敏锐、新鲜而优美的诗歌，以及他以自己的英语表达把诗意带入西方文学的能力。诺贝尔官方传记说明，英文《吉檀迦利：颂歌集》（1912）不仅收入同名孟加拉文诗集的诗，也选取其他作品；因此它不是单一原集的逐首直译。这里让空白纸页漂浮在枝叶与水光之间，用原创静物谈文字的流动，既不引用诗句，也不复制书页。获奖理由与画面解读分别记录，短句不是泰戈尔引语。\n1913年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰其敏锐、新鲜而优美的诗歌，以及他以自己的英语表达使诗意进入西方文学的能力。",
+          "en": "Tagore was the sole 1913 Nobel laureate in Literature. The award recognized his sensitive, fresh poetry and his skill in bringing it into Western literature through his own English expression. Nobel’s biography notes that English Gitanjali: Song Offerings (1912) draws on other works as well as its Bengali namesake; it is not a poem-for-poem translation of one volume. Blank paper floating between leaves and reflected light is an original still-life metaphor for words in motion. It reproduces no verse or book page, and the phrase is not a Tagore quotation.\n1913 — The Nobel Prize in Literature. Received the full prize. Official motivation: because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1913 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1913/summary/",
+            "labelLocalized": {
+              "zh": "1913年文学奖｜官方记录",
+              "en": "1913 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1913/tagore/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

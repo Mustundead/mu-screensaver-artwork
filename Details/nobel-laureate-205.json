@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-205",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-205",
+      "subject": "nobel-laureate-205",
+      "edition": "mono",
+      "title": "约翰·诺思罗普",
+      "titleEnglish": "John H. Northrop",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-205/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-205/mono.jpg",
+      "sha256": "1193515bf261d47171fc03eb156b1b4eff77770f8743df05c88eabcb668cc17b",
+      "thumbnailSHA256": "d420a3adcfab18e2cb849086020d564d2955092c477f663ac41be12bac35723e",
+      "context": {
+        "phrase": {
+          "zh": "去掉混杂，才能看清本来。",
+          "en": "Remove the mixture, reveal the substance."
+        },
+        "visual": {
+          "zh": "三只带网面的圆盘沿右侧由大到小排列，盘间散落颗粒，最下方聚成棱面清楚的晶体，左侧保留宽阔空白。",
+          "en": "Three mesh trays descend along the right from large to small, with particles between them and a faceted crystal cluster below; the left remains open."
+        },
+        "background": {
+          "zh": "诺思罗普提纯并使胃蛋白酶等酶结晶，帮助确认这些酶是蛋白质。他与斯坦利因制备纯净形式的酶和病毒蛋白，各获得1946年诺贝尔化学奖的四分之一奖项。画面的三层筛盘从混杂颗粒过渡到晶体，是提纯的原创比喻；不是实际制备装置，酶并非由这套筛盘筛出。短句为原创。\n1946年化学奖；获得本年度奖项的四分之一。获奖理由（中文译述）：制备纯净形式的酶和病毒蛋白。",
+          "en": "Northrop purified and crystallized enzymes including pepsin, helping establish that these enzymes are proteins. He and Stanley each received a quarter of the 1946 Nobel Prize in Chemistry for preparing enzymes and virus proteins in pure form. Three trays progressing from mixed grains to crystals are an original purification metaphor, not actual equipment or a method of sieving enzymes. The phrase is original.\n1946 — The Nobel Prize in Chemistry. Received one-quarter of the prize. Official motivation: for their preparation of enzymes and virus proteins in a pure form"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年化学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/northrop-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-205",
+      "subject": "nobel-laureate-205",
+      "edition": "color",
+      "title": "约翰·诺思罗普",
+      "titleEnglish": "John H. Northrop",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-205/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-205/color.jpg",
+      "sha256": "43b9234024b603426809cd6fb761bd622c5aaf883dc4a8a8bbc226c2c5f282d4",
+      "thumbnailSHA256": "d4c39e77d3067c29380581ccc53b5e722e7a3676ef638f32a2e507784730f3c0",
+      "context": {
+        "phrase": {
+          "zh": "去掉混杂，才能看清本来。",
+          "en": "Remove the mixture, reveal the substance."
+        },
+        "visual": {
+          "zh": "三只带网面的圆盘沿右侧由大到小排列，盘间散落颗粒，最下方聚成棱面清楚的晶体，左侧保留宽阔空白。",
+          "en": "Three mesh trays descend along the right from large to small, with particles between them and a faceted crystal cluster below; the left remains open."
+        },
+        "background": {
+          "zh": "诺思罗普提纯并使胃蛋白酶等酶结晶，帮助确认这些酶是蛋白质。他与斯坦利因制备纯净形式的酶和病毒蛋白，各获得1946年诺贝尔化学奖的四分之一奖项。画面的三层筛盘从混杂颗粒过渡到晶体，是提纯的原创比喻；不是实际制备装置，酶并非由这套筛盘筛出。短句为原创。\n1946年化学奖；获得本年度奖项的四分之一。获奖理由（中文译述）：制备纯净形式的酶和病毒蛋白。",
+          "en": "Northrop purified and crystallized enzymes including pepsin, helping establish that these enzymes are proteins. He and Stanley each received a quarter of the 1946 Nobel Prize in Chemistry for preparing enzymes and virus proteins in pure form. Three trays progressing from mixed grains to crystals are an original purification metaphor, not actual equipment or a method of sieving enzymes. The phrase is original.\n1946 — The Nobel Prize in Chemistry. Received one-quarter of the prize. Official motivation: for their preparation of enzymes and virus proteins in a pure form"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年化学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/northrop-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

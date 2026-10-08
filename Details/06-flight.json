@@ -1,0 +1,70 @@
+{
+  "subject": "06-flight",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:06-flight",
+      "subject": "06-flight",
+      "edition": "mono",
+      "title": "飞行：翼肋与张线",
+      "titleEnglish": "Wings and Tension",
+      "category": "工程与制造",
+      "image": "Images/mono/06-flight.jpg",
+      "thumbnail": "Thumbs/mono/06-flight.jpg",
+      "sha256": "4052f0cd2623d1306e61ab9ebe6c45bebcbd559f20740d4dd9712e72e22c8e9e",
+      "thumbnailSHA256": "4182971549a098e07c3c3ad23d7ce0877742a656493b09dd0f48bed11ef35921",
+      "context": {
+        "phrase": {
+          "zh": "飞行，从理解空气开始。",
+          "en": "Flight begins with understanding air."
+        },
+        "visual": {
+          "zh": "翼肋、张线与展开的翼面强调早期飞机轻盈而受力明确的结构。画面借用了飞行器的形态，没有复刻某架飞机的尺寸或结构图。",
+          "en": "Wing ribs, bracing wires and fabric-like surfaces evoke the lightweight structure of early aircraft. The image borrows their forms without reproducing a specific aircraft’s dimensions or plans."
+        },
+        "background": {
+          "zh": "1903 年 12 月 17 日，奥维尔·莱特驾驶飞行器完成约 12 秒、120 英尺的首次飞行。NASA 记载，兄弟二人当天共飞行四次。这个具体起点提醒我们，持续、可控制的动力飞行来自反复试验，而不是只有一次灵光闪现。",
+          "en": "On December 17, 1903, Orville Wright made a first flight lasting about 12 seconds over 120 feet. NASA records four flights that day. This measured beginning illustrates how sustained, controlled powered flight emerged through repeated experiments."
+        },
+        "sources": [
+          {
+            "label": "NASA · 120th Anniversary of the First Powered, Controlled Flight",
+            "url": "https://www.nasa.gov/image-article/120th-anniversary-of-the-first-powered-controlled-flight/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:06-flight",
+      "subject": "06-flight",
+      "edition": "color",
+      "title": "飞行：翼肋与张线",
+      "titleEnglish": "Wings and Tension",
+      "category": "工程与制造",
+      "image": "Images/color/06-flight.jpg",
+      "thumbnail": "Thumbs/color/06-flight.jpg",
+      "sha256": "afafcd78ee106762fceafd74a1a1362f774c18a2d1605d2927bf25b50241f755",
+      "thumbnailSHA256": "5fe0ca187d9518bca6133379788f3b46be100206988b1d87b255fa46e4d035d3",
+      "context": {
+        "phrase": {
+          "zh": "飞行，从理解空气开始。",
+          "en": "Flight begins with understanding air."
+        },
+        "visual": {
+          "zh": "翼肋、张线与展开的翼面强调早期飞机轻盈而受力明确的结构。画面借用了飞行器的形态，没有复刻某架飞机的尺寸或结构图。",
+          "en": "Wing ribs, bracing wires and fabric-like surfaces evoke the lightweight structure of early aircraft. The image borrows their forms without reproducing a specific aircraft’s dimensions or plans."
+        },
+        "background": {
+          "zh": "1903 年 12 月 17 日，奥维尔·莱特驾驶飞行器完成约 12 秒、120 英尺的首次飞行。NASA 记载，兄弟二人当天共飞行四次。这个具体起点提醒我们，持续、可控制的动力飞行来自反复试验，而不是只有一次灵光闪现。",
+          "en": "On December 17, 1903, Orville Wright made a first flight lasting about 12 seconds over 120 feet. NASA records four flights that day. This measured beginning illustrates how sustained, controlled powered flight emerged through repeated experiments."
+        },
+        "sources": [
+          {
+            "label": "NASA · 120th Anniversary of the First Powered, Controlled Flight",
+            "url": "https://www.nasa.gov/image-article/120th-anniversary-of-the-first-powered-controlled-flight/"
+          }
+        ]
+      }
+    }
+  }
+}

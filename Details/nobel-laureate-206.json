@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-206",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-206",
+      "subject": "nobel-laureate-206",
+      "edition": "mono",
+      "title": "温德尔·斯坦利",
+      "titleEnglish": "Wendell M. Stanley",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-206/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-206/mono.jpg",
+      "sha256": "a1a85810d44c73dddca2e4d617ac0fd5fef9478abcfba0809aa1376a77d932b9",
+      "thumbnailSHA256": "9e8a4865086f5278ad945592f07c093364b07cc8d72a5cefae6776a7ca4ca8be",
+      "context": {
+        "phrase": {
+          "zh": "把难以看见的事物，带到眼前。",
+          "en": "Bring the unseen into view."
+        },
+        "visual": {
+          "zh": "带有深浅斑块的宽叶从底部伸入画面，分叉叶脉清楚可见，右上方一束细杆相互交叠，周围留出空白。",
+          "en": "A broad mottled leaf rises from the bottom, its branching veins clearly drawn; slender rods overlap above right within open space."
+        },
+        "background": {
+          "zh": "斯坦利分离了烟草花叶病毒的结晶材料。他与诺思罗普因制备纯净形式的酶和病毒蛋白，各获得1946年诺贝尔化学奖的四分之一奖项。画面用带斑块的烟草叶与分离的细杆形体联系植物和病毒材料，是原创寓意；不是显微照片，细杆的大小和排列也不表示实验结果。短句为原创。\n1946年化学奖；获得本年度奖项的四分之一。获奖理由（中文译述）：制备纯净形式的酶和病毒蛋白。",
+          "en": "Stanley isolated crystalline tobacco mosaic virus material. He and Northrop each received a quarter of the 1946 Nobel Prize in Chemistry for preparing enzymes and virus proteins in pure form. A mottled tobacco leaf and separated rod forms associate plant and virus material in an original metaphor. This is not microscopy; rod size and arrangement do not represent experimental results. The phrase is original.\n1946 — The Nobel Prize in Chemistry. Received one-quarter of the prize. Official motivation: for their preparation of enzymes and virus proteins in a pure form"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年化学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/stanley-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-206",
+      "subject": "nobel-laureate-206",
+      "edition": "color",
+      "title": "温德尔·斯坦利",
+      "titleEnglish": "Wendell M. Stanley",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-206/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-206/color.jpg",
+      "sha256": "482b5f56d3b3247c953f5c281a3a3c6536f5a0e9fbcb5c6bd0fb0eb75f297805",
+      "thumbnailSHA256": "cf5b9d242ec244b2c8de4737ecc27b995e0ab645830b4aa14e232dc1f4b6a4aa",
+      "context": {
+        "phrase": {
+          "zh": "把难以看见的事物，带到眼前。",
+          "en": "Bring the unseen into view."
+        },
+        "visual": {
+          "zh": "带有深浅斑块的宽叶从底部伸入画面，分叉叶脉清楚可见，右上方一束细杆相互交叠，周围留出空白。",
+          "en": "A broad mottled leaf rises from the bottom, its branching veins clearly drawn; slender rods overlap above right within open space."
+        },
+        "background": {
+          "zh": "斯坦利分离了烟草花叶病毒的结晶材料。他与诺思罗普因制备纯净形式的酶和病毒蛋白，各获得1946年诺贝尔化学奖的四分之一奖项。画面用带斑块的烟草叶与分离的细杆形体联系植物和病毒材料，是原创寓意；不是显微照片，细杆的大小和排列也不表示实验结果。短句为原创。\n1946年化学奖；获得本年度奖项的四分之一。获奖理由（中文译述）：制备纯净形式的酶和病毒蛋白。",
+          "en": "Stanley isolated crystalline tobacco mosaic virus material. He and Northrop each received a quarter of the 1946 Nobel Prize in Chemistry for preparing enzymes and virus proteins in pure form. A mottled tobacco leaf and separated rod forms associate plant and virus material in an original metaphor. This is not microscopy; rod size and arrangement do not represent experimental results. The phrase is original.\n1946 — The Nobel Prize in Chemistry. Received one-quarter of the prize. Official motivation: for their preparation of enzymes and virus proteins in a pure form"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1946 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1946/summary/",
+            "labelLocalized": {
+              "zh": "1946年化学奖｜官方记录",
+              "en": "1946 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/stanley-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

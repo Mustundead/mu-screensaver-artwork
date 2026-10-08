@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-44",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-44",
+      "subject": "nobel-laureate-44",
+      "edition": "mono",
+      "title": "克林顿·戴维森",
+      "titleEnglish": "Clinton Davisson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-44/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-44/mono.jpg",
+      "sha256": "0e73497596c11dee1ae249fc7db89fcd7d97f9e2293f2d56511796f3d1242c36",
+      "thumbnailSHA256": "c706fd23db7e65621c1ace4da2d0084c064b4e1f26e79b50ec9a98878d1ab8e8",
+      "context": {
+        "phrase": {
+          "zh": "相遇之后，粒子显出波的模样。",
+          "en": "An encounter reveals the wave within the particle."
+        },
+        "visual": {
+          "zh": "巨大的晶体切面从左下越出画面，细线落在上表面，弧线从接触处向右上逐层展开；细密刻线衬出晶体的棱角。",
+          "en": "A large faceted crystal crops beyond the lower left. A fine line meets its upper face, and arcs spread from that point toward the upper right. Fine hatching defines the crystal edges."
+        },
+        "background": {
+          "zh": "戴维森与乔治·佩吉特·汤姆孙因实验发现电子被晶体衍射，共享1937年诺贝尔物理学奖，各获一半。戴维森的研究通过电子在晶体表面的散射，检验电子的波动性质。画面用镍晶体、入射细线和展开的弧线表达这一相遇；弧线是原创寓意，不是电子实际轨迹、实验设备复原或测量结果。短句为原创。\n1937年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：实验发现电子被晶体衍射",
+          "en": "Davisson and George Paget Thomson shared the 1937 Nobel Prize in Physics equally for experimentally discovering electron diffraction by crystals. Davisson studied electrons scattered at a crystal surface to test their wave behavior. The nickel crystal, incoming fine trace and opening arcs form an original metaphor for that encounter. The arcs are not electron trajectories, a reconstruction of apparatus or measured results. The phrase is original.\n1937 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their experimental discovery of the diffraction of electrons by crystals"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年物理学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/davisson-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-44",
+      "subject": "nobel-laureate-44",
+      "edition": "color",
+      "title": "克林顿·戴维森",
+      "titleEnglish": "Clinton Davisson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-44/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-44/color.jpg",
+      "sha256": "3e48f26192a43363f6ffd9350355b11f32b1e05181e889a6eb82d3d23aa094c0",
+      "thumbnailSHA256": "7a6478283ef4e1af7cb271645f68a7d97477837f6a79522a6f4b319237c946ec",
+      "context": {
+        "phrase": {
+          "zh": "相遇之后，粒子显出波的模样。",
+          "en": "An encounter reveals the wave within the particle."
+        },
+        "visual": {
+          "zh": "巨大的晶体切面从左下越出画面，细线落在上表面，弧线从接触处向右上逐层展开；细密刻线衬出晶体的棱角。",
+          "en": "A large faceted crystal crops beyond the lower left. A fine line meets its upper face, and arcs spread from that point toward the upper right. Fine hatching defines the crystal edges."
+        },
+        "background": {
+          "zh": "戴维森与乔治·佩吉特·汤姆孙因实验发现电子被晶体衍射，共享1937年诺贝尔物理学奖，各获一半。戴维森的研究通过电子在晶体表面的散射，检验电子的波动性质。画面用镍晶体、入射细线和展开的弧线表达这一相遇；弧线是原创寓意，不是电子实际轨迹、实验设备复原或测量结果。短句为原创。\n1937年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：实验发现电子被晶体衍射",
+          "en": "Davisson and George Paget Thomson shared the 1937 Nobel Prize in Physics equally for experimentally discovering electron diffraction by crystals. Davisson studied electrons scattered at a crystal surface to test their wave behavior. The nickel crystal, incoming fine trace and opening arcs form an original metaphor for that encounter. The arcs are not electron trajectories, a reconstruction of apparatus or measured results. The phrase is original.\n1937 — The Nobel Prize in Physics. Received half of the prize. Official motivation: for their experimental discovery of the diffraction of electrons by crystals"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年物理学奖｜官方记录",
+              "en": "1937 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/uploads/2018/06/davisson-lecture.pdf",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-335",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-335",
+      "subject": "nobel-laureate-335",
+      "edition": "mono",
+      "title": "亨里克·达姆",
+      "titleEnglish": "Henrik Dam",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-335/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-335/mono.jpg",
+      "sha256": "30e9486130c9a6ac0a2e8d28b9258d77ecbf0a29b1605fc845331ce26d2536a6",
+      "thumbnailSHA256": "21663f69bd70547045040bc7b0db09d8464be8ea99c269733b18e7edbd3797e4",
+      "context": {
+        "phrase": {
+          "zh": "细小的缺失，也会改变整体。",
+          "en": "A small absence can change the whole."
+        },
+        "visual": {
+          "zh": "近景雏鸡低头靠近一只瓷盘，盘内放着叶片；细密刻线描出羽毛与叶脉，背景保持简洁。",
+          "en": "A chick lowers its head beside a ceramic dish holding a leaf. Fine hatching describes the feathers and leaf veins against a quiet background."
+        },
+        "background": {
+          "zh": "达姆因发现维生素K获得1943年诺贝尔生理学或医学奖的一半，该年度奖于1944年颁发。对雏鸡饮食的研究促使他寻找影响凝血的营养因素，绿色叶片等材料帮助揭示这一线索。画面以雏鸡、浅盘和叶片表达营养研究，不是某次实验复原、喂养配方或用餐治疗建议，也不画出受伤动物。短句为原创。\n1943年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现维生素K",
+          "en": "Dam received half of the 1943 Nobel Prize in Physiology or Medicine, awarded in 1944, for discovering vitamin K. Studies of chicks and their diets led him to investigate a nutritional factor affecting blood clotting, with green leaves among the clues. A chick, shallow dish and leaves express nutritional research, not a particular experiment, feeding recipe or treatment advice. No injured animal is depicted. The phrase is original.\n1943 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of vitamin K"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1943 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1943/summary/",
+            "labelLocalized": {
+              "zh": "1943年生理学或医学奖｜官方记录",
+              "en": "1943 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-and-the-discovery-of-vitamins/",
+            "labelLocalized": {
+              "zh": "维生素研究史｜诺贝尔奖官网",
+              "en": "Vitamin discoveries — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-335",
+      "subject": "nobel-laureate-335",
+      "edition": "color",
+      "title": "亨里克·达姆",
+      "titleEnglish": "Henrik Dam",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-335/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-335/color.jpg",
+      "sha256": "05ef2fca8a591716eefe0a7f1dba12e1f11f6e3f551ac8c2f33c67cc3eda167c",
+      "thumbnailSHA256": "3d3b64f47166054a860655b1942483360e9ddc0ff1de966c59dc16b8958b801e",
+      "context": {
+        "phrase": {
+          "zh": "细小的缺失，也会改变整体。",
+          "en": "A small absence can change the whole."
+        },
+        "visual": {
+          "zh": "近景雏鸡低头靠近一只瓷盘，盘内放着叶片；细密刻线描出羽毛与叶脉，背景保持简洁。",
+          "en": "A chick lowers its head beside a ceramic dish holding a leaf. Fine hatching describes the feathers and leaf veins against a quiet background."
+        },
+        "background": {
+          "zh": "达姆因发现维生素K获得1943年诺贝尔生理学或医学奖的一半，该年度奖于1944年颁发。对雏鸡饮食的研究促使他寻找影响凝血的营养因素，绿色叶片等材料帮助揭示这一线索。画面以雏鸡、浅盘和叶片表达营养研究，不是某次实验复原、喂养配方或用餐治疗建议，也不画出受伤动物。短句为原创。\n1943年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：发现维生素K",
+          "en": "Dam received half of the 1943 Nobel Prize in Physiology or Medicine, awarded in 1944, for discovering vitamin K. Studies of chicks and their diets led him to investigate a nutritional factor affecting blood clotting, with green leaves among the clues. A chick, shallow dish and leaves express nutritional research, not a particular experiment, feeding recipe or treatment advice. No injured animal is depicted. The phrase is original.\n1943 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for his discovery of vitamin K"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1943 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1943/summary/",
+            "labelLocalized": {
+              "zh": "1943年生理学或医学奖｜官方记录",
+              "en": "1943 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-and-the-discovery-of-vitamins/",
+            "labelLocalized": {
+              "zh": "维生素研究史｜诺贝尔奖官网",
+              "en": "Vitamin discoveries — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

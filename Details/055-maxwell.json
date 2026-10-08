@@ -1,0 +1,70 @@
+{
+  "subject": "055-maxwell",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:055-maxwell",
+      "subject": "055-maxwell",
+      "edition": "mono",
+      "title": "麦克斯韦与场",
+      "titleEnglish": "Maxwell and Fields",
+      "category": "自然科学",
+      "image": "Images/mono/055-maxwell.jpg",
+      "thumbnail": "Thumbs/mono/055-maxwell.jpg",
+      "sha256": "3f327acee952fc2b55578b6b6e110a58d271cdb65c45bf92f6f5bec286428fa9",
+      "thumbnailSHA256": "64a3ffe10662ef950dbea09ec41c04db931ef49b7a19f9fb228229396d99c8ae",
+      "context": {
+        "phrase": {
+          "zh": "电与磁，在同一场中相遇。",
+          "en": "Electricity and magnetism meet in one field."
+        },
+        "visual": {
+          "zh": "人物身后的红蓝曲线相互缠绕，给电场、磁场和传播中的波形以统一形象。曲线并不是麦克斯韦方程的数值解。",
+          "en": "Red and blue curves weave behind a stylized figure to join electric fields, magnetic fields and a traveling wave. They are not a numerical solution to Maxwell’s equations."
+        },
+        "background": {
+          "zh": "麦克斯韦把电与磁的规律组织成场的理论，并指出变化的电磁场能够以波传播，光也是电磁波。无线电与可见光属于同一电磁谱，但有不同的频率和波长。",
+          "en": "Maxwell organized the laws of electricity and magnetism into a field theory and showed that changing fields can propagate as waves, including light. Radio and visible light belong to one electromagnetic spectrum, at different frequencies and wavelengths."
+        },
+        "sources": [
+          {
+            "label": "NASA · Maxwell and Hertz",
+            "url": "https://pwg.gsfc.nasa.gov/Electric/-E27-Waves.htm"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:055-maxwell",
+      "subject": "055-maxwell",
+      "edition": "color",
+      "title": "麦克斯韦与场",
+      "titleEnglish": "Maxwell and Fields",
+      "category": "自然科学",
+      "image": "Images/color/055-maxwell.jpg",
+      "thumbnail": "Thumbs/color/055-maxwell.jpg",
+      "sha256": "f05a71718ca9e56c48398887c5170d9840c4d4e02d4b141b551ce774bc2dc2de",
+      "thumbnailSHA256": "d0c6028e0ab7bfe29e4828a1c6edb09351d0e08452a1217fa6fd55d2b21a3e10",
+      "context": {
+        "phrase": {
+          "zh": "电与磁，在同一场中相遇。",
+          "en": "Electricity and magnetism meet in one field."
+        },
+        "visual": {
+          "zh": "人物身后的红蓝曲线相互缠绕，给电场、磁场和传播中的波形以统一形象。曲线并不是麦克斯韦方程的数值解。",
+          "en": "Red and blue curves weave behind a stylized figure to join electric fields, magnetic fields and a traveling wave. They are not a numerical solution to Maxwell’s equations."
+        },
+        "background": {
+          "zh": "麦克斯韦把电与磁的规律组织成场的理论，并指出变化的电磁场能够以波传播，光也是电磁波。无线电与可见光属于同一电磁谱，但有不同的频率和波长。",
+          "en": "Maxwell organized the laws of electricity and magnetism into a field theory and showed that changing fields can propagate as waves, including light. Radio and visible light belong to one electromagnetic spectrum, at different frequencies and wavelengths."
+        },
+        "sources": [
+          {
+            "label": "NASA · Maxwell and Hertz",
+            "url": "https://pwg.gsfc.nasa.gov/Electric/-E27-Waves.htm"
+          }
+        ]
+      }
+    }
+  }
+}

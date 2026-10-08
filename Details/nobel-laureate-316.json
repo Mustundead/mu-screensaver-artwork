@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-316",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-316",
+      "subject": "nobel-laureate-316",
+      "edition": "mono",
+      "title": "约翰内斯·菲比格",
+      "titleEnglish": "Johannes Fibiger",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-316/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-316/mono.jpg",
+      "sha256": "30eca3ca641aeb8f105dcbc033b71d73689c3cf9d6400adfb11ea163a9417970",
+      "thumbnailSHA256": "c74d86a5626edde7bce6abd8a9c6200d0e643a05e3f5b944698ed5745d81c9d2",
+      "context": {
+        "phrase": {
+          "zh": "结论值得记住，也值得重新检验。",
+          "en": "A conclusion deserves to be remembered and rechecked."
+        },
+        "visual": {
+          "zh": "大玻璃片斜占左下并沿左、下边缘裁切，中央是一片抽象玫瑰色椭圆痕迹；上方另有较小透明玻璃片。右上黄铜放大镜带深棕木柄，镜面映出窗口光。上方留白。黑白版保留玻片、放大镜和裁切，细密纹理更强；椭圆痕迹不表示病理组织或诊断。",
+          "en": "A large glass slide cuts diagonally across the lower left, extending beyond left and bottom, with an abstract rose oval mark. A smaller clear slide sits above it. A brass magnifier with dark walnut handle rests at upper right, reflecting window light. The upper area stays quiet. The monochrome edition preserves slides, lens and crop with stronger fine texture; the mark is not tissue or a diagnosis."
+        },
+        "background": {
+          "zh": "菲比格独获1926年诺贝尔生理学或医学奖，实际于1927年领受。当时获奖理由涉及寄生虫与癌症的实验研究；哥本哈根大学的历史说明指出，其结果后来被推翻。这里记录历史，不把旧结论当作今天的医学事实。玻片与放大镜是重新检查证据的原创寓意，不是病理图；短句为原创。\n1926年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：当时因“Spiroptera癌”的发现获奖；相关研究结论后来被推翻。",
+          "en": "Fibiger alone received the 1926 Nobel Prize in Physiology or Medicine in 1927. The historical award concerned experiments linking a parasite with cancer. The University of Copenhagen explains that his results were later disproved. This records history rather than presenting the old conclusion as current medical fact. The slides and lens symbolize rechecking evidence; they are not pathology images. The phrase is original.\n1926 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the Spiroptera carcinoma"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年生理学或医学奖｜官方记录",
+              "en": "1926 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "universitetshistorie.ku.dk",
+            "url": "https://universitetshistorie.ku.dk/leksikon/f/johannes_fibiger",
+            "labelLocalized": {
+              "zh": "菲比格研究与后续纠正｜哥本哈根大学",
+              "en": "Fibiger research and later correction — University of Copenhagen"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-316",
+      "subject": "nobel-laureate-316",
+      "edition": "color",
+      "title": "约翰内斯·菲比格",
+      "titleEnglish": "Johannes Fibiger",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-316/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-316/color.jpg",
+      "sha256": "864c58afd13cf439fe478f82958d8c0439e7bc206184880dc244469919acd648",
+      "thumbnailSHA256": "1b4144fd8987ca3ffa97cd6d4d8ed99ee390429cda6eeb11e39130d5ae0a702f",
+      "context": {
+        "phrase": {
+          "zh": "结论值得记住，也值得重新检验。",
+          "en": "A conclusion deserves to be remembered and rechecked."
+        },
+        "visual": {
+          "zh": "大玻璃片斜占左下并沿左、下边缘裁切，中央是一片抽象玫瑰色椭圆痕迹；上方另有较小透明玻璃片。右上黄铜放大镜带深棕木柄，镜面映出窗口光。上方留白。黑白版保留玻片、放大镜和裁切，细密纹理更强；椭圆痕迹不表示病理组织或诊断。",
+          "en": "A large glass slide cuts diagonally across the lower left, extending beyond left and bottom, with an abstract rose oval mark. A smaller clear slide sits above it. A brass magnifier with dark walnut handle rests at upper right, reflecting window light. The upper area stays quiet. The monochrome edition preserves slides, lens and crop with stronger fine texture; the mark is not tissue or a diagnosis."
+        },
+        "background": {
+          "zh": "菲比格独获1926年诺贝尔生理学或医学奖，实际于1927年领受。当时获奖理由涉及寄生虫与癌症的实验研究；哥本哈根大学的历史说明指出，其结果后来被推翻。这里记录历史，不把旧结论当作今天的医学事实。玻片与放大镜是重新检查证据的原创寓意，不是病理图；短句为原创。\n1926年生理学或医学奖；独享本年度奖项。获奖理由（中文译述）：当时因“Spiroptera癌”的发现获奖；相关研究结论后来被推翻。",
+          "en": "Fibiger alone received the 1926 Nobel Prize in Physiology or Medicine in 1927. The historical award concerned experiments linking a parasite with cancer. The University of Copenhagen explains that his results were later disproved. This records history rather than presenting the old conclusion as current medical fact. The slides and lens symbolize rechecking evidence; they are not pathology images. The phrase is original.\n1926 — The Nobel Prize in Physiology or Medicine. Received the full prize. Official motivation: for his discovery of the Spiroptera carcinoma"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年生理学或医学奖｜官方记录",
+              "en": "1926 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "universitetshistorie.ku.dk",
+            "url": "https://universitetshistorie.ku.dk/leksikon/f/johannes_fibiger",
+            "labelLocalized": {
+              "zh": "菲比格研究与后续纠正｜哥本哈根大学",
+              "en": "Fibiger research and later correction — University of Copenhagen"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

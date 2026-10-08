@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-572",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-572",
+      "subject": "nobel-laureate-572",
+      "edition": "mono",
+      "title": "比约恩斯彻纳·比昂松",
+      "titleEnglish": "Bjørnstjerne Bjørnson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-572/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-572/mono.jpg",
+      "sha256": "d269af26329e4924ae7eb1039823058c4be3cf3f2c68de8cda764980e4d9671e",
+      "thumbnailSHA256": "a6386fddc45a79bac3fc4b4ef666c24c20833ea3e674941bc1606bfe4b45ed35",
+      "context": {
+        "phrase": {
+          "zh": "把日常生活，写成能够远行的故事。",
+          "en": "Give everyday life stories that can travel."
+        },
+        "visual": {
+          "zh": "为比昂松独立创作的乡村文学拼贴，以想象的木屋、桦树、空白书页与幕布呼应乡村故事、诗歌和戏剧。木屋不是他的故居，书页不是手稿；场景不复制某部作品中的具体地点。",
+          "en": "An original rural-literature collage for Bjørnson uses an imagined timber house, birch, blank pages and a curtain to evoke countryside stories, poetry and drama. The house is not his home and the pages are not manuscripts; the scene copies no specific location from a work."
+        },
+        "background": {
+          "zh": "比昂松获得1903年诺贝尔文学奖，获奖理由赞扬他的诗歌创作及其灵感与精神。他写诗歌和戏剧，早期作品描绘挪威乡村生活。配图将乡间物件和舞台幕布组合起来，表现这些不同的创作方向，不替作品编造情节，也不声称画面是历史实景。\n1903年文学奖；独享本年度奖项。获奖理由（中文译述）：向他高尚、恢宏而多样的诗歌创作致敬；这些作品始终以灵感的清新和精神的纯粹而著称。",
+          "en": "Bjørnson received the 1903 Nobel Prize in Literature, with his poetry and its inspiration and spirit praised in the citation. He wrote poetry and drama, and his early works depicted Norwegian countryside life. The artwork combines rural objects and a stage curtain to evoke these directions without inventing plots or claiming a historical scene.\n1903 — The Nobel Prize in Literature. Received the full prize. Official motivation: as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年文学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1903/bjornson/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-572",
+      "subject": "nobel-laureate-572",
+      "edition": "color",
+      "title": "比约恩斯彻纳·比昂松",
+      "titleEnglish": "Bjørnstjerne Bjørnson",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-572/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-572/color.jpg",
+      "sha256": "3dd96e301c7cbd897571ecb5c3ff8e7ba372a785144addb7d25dae10a2f2dcb3",
+      "thumbnailSHA256": "79666843e5210c0060ced3de77bd9807ccd6e3deb1965aeda16134a730187956",
+      "context": {
+        "phrase": {
+          "zh": "把日常生活，写成能够远行的故事。",
+          "en": "Give everyday life stories that can travel."
+        },
+        "visual": {
+          "zh": "为比昂松独立创作的乡村文学拼贴，以想象的木屋、桦树、空白书页与幕布呼应乡村故事、诗歌和戏剧。木屋不是他的故居，书页不是手稿；场景不复制某部作品中的具体地点。",
+          "en": "An original rural-literature collage for Bjørnson uses an imagined timber house, birch, blank pages and a curtain to evoke countryside stories, poetry and drama. The house is not his home and the pages are not manuscripts; the scene copies no specific location from a work."
+        },
+        "background": {
+          "zh": "比昂松获得1903年诺贝尔文学奖，获奖理由赞扬他的诗歌创作及其灵感与精神。他写诗歌和戏剧，早期作品描绘挪威乡村生活。配图将乡间物件和舞台幕布组合起来，表现这些不同的创作方向，不替作品编造情节，也不声称画面是历史实景。\n1903年文学奖；独享本年度奖项。获奖理由（中文译述）：向他高尚、恢宏而多样的诗歌创作致敬；这些作品始终以灵感的清新和精神的纯粹而著称。",
+          "en": "Bjørnson received the 1903 Nobel Prize in Literature, with his poetry and its inspiration and spirit praised in the citation. He wrote poetry and drama, and his early works depicted Norwegian countryside life. The artwork combines rural objects and a stage curtain to evoke these directions without inventing plots or claiming a historical scene.\n1903 — The Nobel Prize in Literature. Received the full prize. Official motivation: as a tribute to his noble, magnificent and versatile poetry, which has always been distinguished by both the freshness of its inspiration and the rare purity of its spirit"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1903 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1903/summary/",
+            "labelLocalized": {
+              "zh": "1903年文学奖｜官方记录",
+              "en": "1903 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1903/bjornson/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "089-zhuangzi",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:089-zhuangzi",
+      "subject": "089-zhuangzi",
+      "edition": "mono",
+      "title": "庄子与梦",
+      "titleEnglish": "Zhuangzi and Dreams",
+      "category": "艺术与人文",
+      "image": "Images/mono/089-zhuangzi.jpg",
+      "thumbnail": "Thumbs/mono/089-zhuangzi.jpg",
+      "sha256": "d45f48501cd47859223e1cf2183dd143a28b881fc2b8a8db3f340e8b0e94e65a",
+      "thumbnailSHA256": "68cdfef7751ce4e088d63c275391d775388190c64ccf3f3037ebf6afdd9fbff1",
+      "context": {
+        "phrase": {
+          "zh": "换一个视角，熟悉的界限便松动。",
+          "en": "A changed perspective can loosen familiar boundaries."
+        },
+        "visual": {
+          "zh": "庄子、蝴蝶与流动山水把梦与醒并置。人物是想象形象，蝴蝶是文学意象；它不宣称梦境能证明现实不存在。",
+          "en": "An imagined Zhuangzi, butterfly and flowing landscape place dreaming beside waking. The butterfly is a literary motif, not proof that reality does not exist."
+        },
+        "background": {
+          "zh": "《斯坦福哲学百科全书》在讨论《庄子》时，把梦蝶故事与视角转换、对确定知识的反思联系起来。故事位于《齐物论》：醒与梦的转换让“谁在认识谁”成为问题。这里保留提问的开放性，而不把它改写成一个简单的科学结论。",
+          "en": "The Stanford Encyclopedia of Philosophy connects the butterfly dream in the Zhuangzi’s second chapter with changes of perspective and reflection on certainty. The shift between waking and dreaming raises questions about the knower. It is left as a philosophical question, not rewritten as a scientific conclusion."
+        },
+        "sources": [
+          {
+            "label": "Stanford Encyclopedia of Philosophy · Zhuangzi",
+            "url": "https://plato.stanford.edu/entries/zhuangzi/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:089-zhuangzi",
+      "subject": "089-zhuangzi",
+      "edition": "color",
+      "title": "庄子与梦",
+      "titleEnglish": "Zhuangzi and Dreams",
+      "category": "艺术与人文",
+      "image": "Images/color/089-zhuangzi.jpg",
+      "thumbnail": "Thumbs/color/089-zhuangzi.jpg",
+      "sha256": "92bc6f05f1a0db1855b7a060a5d0a5b5e6f792335b70ac7bf8e9d2a77e7c04fb",
+      "thumbnailSHA256": "e4b2b04db9b499f2fc228446f9e131426c7664b90e24a41635981b237e85facf",
+      "context": {
+        "phrase": {
+          "zh": "换一个视角，熟悉的界限便松动。",
+          "en": "A changed perspective can loosen familiar boundaries."
+        },
+        "visual": {
+          "zh": "庄子、蝴蝶与流动山水把梦与醒并置。人物是想象形象，蝴蝶是文学意象；它不宣称梦境能证明现实不存在。",
+          "en": "An imagined Zhuangzi, butterfly and flowing landscape place dreaming beside waking. The butterfly is a literary motif, not proof that reality does not exist."
+        },
+        "background": {
+          "zh": "《斯坦福哲学百科全书》在讨论《庄子》时，把梦蝶故事与视角转换、对确定知识的反思联系起来。故事位于《齐物论》：醒与梦的转换让“谁在认识谁”成为问题。这里保留提问的开放性，而不把它改写成一个简单的科学结论。",
+          "en": "The Stanford Encyclopedia of Philosophy connects the butterfly dream in the Zhuangzi’s second chapter with changes of perspective and reflection on certainty. The shift between waking and dreaming raises questions about the knower. It is left as a philosophical question, not rewritten as a scientific conclusion."
+        },
+        "sources": [
+          {
+            "label": "Stanford Encyclopedia of Philosophy · Zhuangzi",
+            "url": "https://plato.stanford.edu/entries/zhuangzi/"
+          }
+        ]
+      }
+    }
+  }
+}

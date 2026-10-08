@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-32",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-32",
+      "subject": "nobel-laureate-32",
+      "edition": "mono",
+      "title": "让·佩兰",
+      "titleEnglish": "Jean Baptiste Perrin",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-32/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-32/mono.jpg",
+      "sha256": "c05eaeec9574fe40fb4ca0080e728139b891afd051fffba19b082c2dcc833367",
+      "thumbnailSHA256": "5d25705cf2f2c4c6eb609cee0d2796a23dff2e1fec1051c6f6042b341e5f355d",
+      "context": {
+        "phrase": {
+          "zh": "细小的摇动，也能留下可靠的证据。",
+          "en": "Small motions can leave dependable evidence."
+        },
+        "visual": {
+          "zh": "巨大的玻璃容器斜占右侧并越出上下边缘，液体里细小颗粒向左下逐渐密集；左下放着一枚小物镜，左上留出暗面。颗粒位置在两版间略有差异，疏密与数量不是测量结果。",
+          "en": "A large slanted glass vessel fills the right side and crops beyond the top and bottom. Fine particles in the liquid grow denser toward the lower left; a small objective rests at lower left beneath quiet dark space. Particle positions vary slightly between editions; density and counts are not measurements."
+        },
+        "background": {
+          "zh": "让·佩兰独获1926年诺贝尔物理学奖。他通过悬浮微粒的沉降平衡和布朗运动研究，为原子、分子的真实存在提供实验支持。布朗运动指液体中小颗粒不停地随机移动。玻璃容器与微粒是原创寓意，不是实验装置复原或测量数据；短句为原创。\n1926年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对物质由离散微粒构成的研究，尤其是沉降平衡的发现。",
+          "en": "Jean Perrin alone received the 1926 Nobel Prize in Physics. His studies of sedimentation equilibrium and Brownian motion supported the physical existence of atoms and molecules. Brownian motion means the random movement of small particles in liquid. The vessel and particles are an original metaphor, not an experiment reconstruction or measured distribution. The phrase is original.\n1926 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年物理学奖｜官方记录",
+              "en": "1926 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1926/perrin/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-32",
+      "subject": "nobel-laureate-32",
+      "edition": "color",
+      "title": "让·佩兰",
+      "titleEnglish": "Jean Baptiste Perrin",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-32/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-32/color.jpg",
+      "sha256": "0096310645fc6079253e3ab998dcaaeb4ed4143c1be30c48b436b3f2b26c8cb4",
+      "thumbnailSHA256": "aaaef461ba02c94ac14852a5ebf38b6f3f81165bd8f767f50be8b962bb76495d",
+      "context": {
+        "phrase": {
+          "zh": "细小的摇动，也能留下可靠的证据。",
+          "en": "Small motions can leave dependable evidence."
+        },
+        "visual": {
+          "zh": "巨大的玻璃容器斜占右侧并越出上下边缘，液体里细小颗粒向左下逐渐密集；左下放着一枚小物镜，左上留出暗面。颗粒位置在两版间略有差异，疏密与数量不是测量结果。",
+          "en": "A large slanted glass vessel fills the right side and crops beyond the top and bottom. Fine particles in the liquid grow denser toward the lower left; a small objective rests at lower left beneath quiet dark space. Particle positions vary slightly between editions; density and counts are not measurements."
+        },
+        "background": {
+          "zh": "让·佩兰独获1926年诺贝尔物理学奖。他通过悬浮微粒的沉降平衡和布朗运动研究，为原子、分子的真实存在提供实验支持。布朗运动指液体中小颗粒不停地随机移动。玻璃容器与微粒是原创寓意，不是实验装置复原或测量数据；短句为原创。\n1926年物理学奖；独享本年度奖项。获奖理由（中文译述）：表彰他对物质由离散微粒构成的研究，尤其是沉降平衡的发现。",
+          "en": "Jean Perrin alone received the 1926 Nobel Prize in Physics. His studies of sedimentation equilibrium and Brownian motion supported the physical existence of atoms and molecules. Brownian motion means the random movement of small particles in liquid. The vessel and particles are an original metaphor, not an experiment reconstruction or measured distribution. The phrase is original.\n1926 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his work on the discontinuous structure of matter, and especially for his discovery of sedimentation equilibrium"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1926 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1926/summary/",
+            "labelLocalized": {
+              "zh": "1926年物理学奖｜官方记录",
+              "en": "1926 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1926/perrin/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

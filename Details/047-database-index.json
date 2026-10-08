@@ -1,0 +1,70 @@
+{
+  "subject": "047-database-index",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:047-database-index",
+      "subject": "047-database-index",
+      "edition": "mono",
+      "title": "索引与记忆",
+      "titleEnglish": "Indexes and Memory",
+      "category": "计算与人工智能",
+      "image": "Images/mono/047-database-index.jpg",
+      "thumbnail": "Thumbs/mono/047-database-index.jpg",
+      "sha256": "e9a248a4dd26b9ec69184e8afa9ccadc939848a7ee8ee952da17ba59427e3f4c",
+      "thumbnailSHA256": "4236d22880afa85a12529415e931c2b0f4cdcc1435ac0032ad7bdb9bc84d8564",
+      "context": {
+        "phrase": {
+          "zh": "找到一条记录，不必翻遍所有页。",
+          "en": "Find a record without reading every page."
+        },
+        "visual": {
+          "zh": "一排排档案卡被细线和标记连接，借图书检索的形象表达数据索引。卡片位置不代表真实数据库的物理布局。",
+          "en": "Rows of cards link through lines and markers, borrowing a library-search image for a database index. Card positions do not represent a real database layout."
+        },
+        "background": {
+          "zh": "数据库索引按选定的键组织查找入口，可让适合的查询更快找到行。索引也占用空间，并在数据变化时产生维护成本，所以并非越多越好。",
+          "en": "A database index organizes lookup entries for selected keys and can speed suitable queries. It also uses storage and requires upkeep when data changes, so more indexes are not always better."
+        },
+        "sources": [
+          {
+            "label": "PostgreSQL · Indexes",
+            "url": "https://www.postgresql.org/docs/18/indexes.html"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:047-database-index",
+      "subject": "047-database-index",
+      "edition": "color",
+      "title": "索引与记忆",
+      "titleEnglish": "Indexes and Memory",
+      "category": "计算与人工智能",
+      "image": "Images/color/047-database-index.jpg",
+      "thumbnail": "Thumbs/color/047-database-index.jpg",
+      "sha256": "b3d9e094dc4b0bcab51336de0a2263a8fa5410a13ae01e793c58bb858a937681",
+      "thumbnailSHA256": "0f03f8d576d548416c2e26a4da1ded159c2ac1d0522a696d7f7d2ff361675e29",
+      "context": {
+        "phrase": {
+          "zh": "找到一条记录，不必翻遍所有页。",
+          "en": "Find a record without reading every page."
+        },
+        "visual": {
+          "zh": "一排排档案卡被细线和标记连接，借图书检索的形象表达数据索引。卡片位置不代表真实数据库的物理布局。",
+          "en": "Rows of cards link through lines and markers, borrowing a library-search image for a database index. Card positions do not represent a real database layout."
+        },
+        "background": {
+          "zh": "数据库索引按选定的键组织查找入口，可让适合的查询更快找到行。索引也占用空间，并在数据变化时产生维护成本，所以并非越多越好。",
+          "en": "A database index organizes lookup entries for selected keys and can speed suitable queries. It also uses storage and requires upkeep when data changes, so more indexes are not always better."
+        },
+        "sources": [
+          {
+            "label": "PostgreSQL · Indexes",
+            "url": "https://www.postgresql.org/docs/18/indexes.html"
+          }
+        ]
+      }
+    }
+  }
+}

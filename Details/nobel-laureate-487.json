@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-487",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-487",
+      "subject": "nobel-laureate-487",
+      "edition": "mono",
+      "title": "弗里乔夫·南森",
+      "titleEnglish": "Fridtjof Nansen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-487/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-487/mono.jpg",
+      "sha256": "aad1d1ae7c3b98323ab6e293f412f4de415b882963551f40cdc6b61e4b4bd121",
+      "thumbnailSHA256": "3642d33811a4df51006bad1bbb2958aae52f9cdfca1f7b3a96d4ebf245a23dff",
+      "context": {
+        "phrase": {
+          "zh": "让无处可去的人，有路可走。",
+          "en": "Make a path for those with nowhere to go."
+        },
+        "visual": {
+          "zh": "橄榄灰布质夹袋从左下裁入，空白浅色纸张向右上伸出；远处的小黄铜框跨过地面缝隙。黑白版保留纸边、织纹、物件与裁切。这是通行与庇护的原创联想，不是历史证件或可用护照。",
+          "en": "An olive-gray cloth wallet enters from lower left, with blank pale paper extending upper right; a small brass frame crosses a seam farther away. Monochrome preserves paper edges, weave, objects and crop. This is an original passage-and-refuge association, not a historical document or usable passport."
+        },
+        "background": {
+          "zh": "南森独享1922年诺贝尔和平奖，获奖理由涉及战俘遣返、国际救济，以及担任国际联盟难民事务高级专员的工作。南森护照帮助无国籍难民获得旅行身份文件。画中空白纸、布质夹袋与小框是通行与庇护的原创联想，不是历史护照的复制品，也不是可用证件。短句为原创。\n1922年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他在战俘遣返、国际救济和担任国际联盟难民事务高级专员方面的领导作用。",
+          "en": "Nansen received the full 1922 Nobel Peace Prize for prisoner-of-war repatriation, international relief and his work as the League of Nations refugee commissioner. Nansen passports helped stateless refugees obtain travel identity documents. The blank paper, cloth wallet and small frame are original associations with passage and refuge, not a historical passport reproduction or a usable document. The phrase is original.\n1922 — The Nobel Peace Prize. Received the full prize. Official motivation: for his leading role in the repatriation of prisoners of war, in international relief work and as the League of Nations' High Commissioner for refugees"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年和平奖｜官方记录",
+              "en": "1922 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1922/nansen/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-487",
+      "subject": "nobel-laureate-487",
+      "edition": "color",
+      "title": "弗里乔夫·南森",
+      "titleEnglish": "Fridtjof Nansen",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-487/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-487/color.jpg",
+      "sha256": "5e8baee2db4282796ea970832487d2a285a3c22def7d96307f73f411995fbda0",
+      "thumbnailSHA256": "400aa55e5b32253ecc3a2be9f7acf44bab6398dc8cf44ea9ed122e004689ba9c",
+      "context": {
+        "phrase": {
+          "zh": "让无处可去的人，有路可走。",
+          "en": "Make a path for those with nowhere to go."
+        },
+        "visual": {
+          "zh": "橄榄灰布质夹袋从左下裁入，空白浅色纸张向右上伸出；远处的小黄铜框跨过地面缝隙。黑白版保留纸边、织纹、物件与裁切。这是通行与庇护的原创联想，不是历史证件或可用护照。",
+          "en": "An olive-gray cloth wallet enters from lower left, with blank pale paper extending upper right; a small brass frame crosses a seam farther away. Monochrome preserves paper edges, weave, objects and crop. This is an original passage-and-refuge association, not a historical document or usable passport."
+        },
+        "background": {
+          "zh": "南森独享1922年诺贝尔和平奖，获奖理由涉及战俘遣返、国际救济，以及担任国际联盟难民事务高级专员的工作。南森护照帮助无国籍难民获得旅行身份文件。画中空白纸、布质夹袋与小框是通行与庇护的原创联想，不是历史护照的复制品，也不是可用证件。短句为原创。\n1922年和平奖；独享本年度奖项。获奖理由（中文译述）：表彰他在战俘遣返、国际救济和担任国际联盟难民事务高级专员方面的领导作用。",
+          "en": "Nansen received the full 1922 Nobel Peace Prize for prisoner-of-war repatriation, international relief and his work as the League of Nations refugee commissioner. Nansen passports helped stateless refugees obtain travel identity documents. The blank paper, cloth wallet and small frame are original associations with passage and refuge, not a historical passport reproduction or a usable document. The phrase is original.\n1922 — The Nobel Peace Prize. Received the full prize. Official motivation: for his leading role in the repatriation of prisoners of war, in international relief work and as the League of Nations' High Commissioner for refugees"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1922 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1922/summary/",
+            "labelLocalized": {
+              "zh": "1922年和平奖｜官方记录",
+              "en": "1922 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1922/nansen/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

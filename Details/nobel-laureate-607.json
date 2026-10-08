@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-607",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-607",
+      "subject": "nobel-laureate-607",
+      "edition": "mono",
+      "title": "路易吉·皮兰德娄",
+      "titleEnglish": "Luigi Pirandello",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-607/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-607/mono.jpg",
+      "sha256": "2ddbd0bb98aba54be918bc6d8bc22e74d46a3e3bd441e368be3c7dc93e6e52d7",
+      "thumbnailSHA256": "b5b8b7560d4a3f2e83d17525249029573ba1d4cced2a54b3fd8e9bfce067fe40",
+      "context": {
+        "phrase": {
+          "zh": "走上舞台，也重新追问自己是谁。",
+          "en": "Step onto the stage and ask again who you are."
+        },
+        "visual": {
+          "zh": "左侧暗红幕布旁，一块浅色木质面具立在低支架上，空眼孔与薄边缘可辨；长影子向右延伸到舞台木地板，右上深绿留白。中性黑白版保留面具、支架、幕布和单一影子的关系。",
+          "en": "Beside dark-red curtains at left, a pale carved wood mask stands on a low support, its hollow eye and thin rim visible. A long shadow extends right across the stage boards, with quiet deep-green space above. Neutral monochrome preserves the mask, stand, curtains and single shadow relationship."
+        },
+        "background": {
+          "zh": "皮兰德娄因大胆而巧妙地推动戏剧与舞台艺术获得1934年诺贝尔文学奖。他的戏剧常把喜剧与悲剧交织，探索自我与身份，《六个寻找作者的剧中人》是代表作之一。幕布、面具与错位影子取意于舞台角色和身份的关系，是原创插画，不是具体剧作的道具、场景或作者肖像；短句为原创。\n1934年文学奖；独享本年度奖项。获奖理由（中文译述）：大胆而巧妙地推动戏剧与舞台艺术。",
+          "en": "Pirandello received the 1934 Nobel Prize in Literature for his bold and inventive renewal of drama and stage art. His plays often combine farce and tragedy while exploring the self and identity; Six Characters in Search of an Author is one of his notable works. Curtains, a mask and a displaced shadow draw on the relation between role and identity. They are original artwork, not props or scenery from a particular production or a portrait of the author. The phrase is original.\n1934 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his bold and ingenious revival of dramatic and scenic art"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年文学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1934/pirandello/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-607",
+      "subject": "nobel-laureate-607",
+      "edition": "color",
+      "title": "路易吉·皮兰德娄",
+      "titleEnglish": "Luigi Pirandello",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-607/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-607/color.jpg",
+      "sha256": "72e76c3abb28c164c8d3b297ca8f46669d9422ce719554cc1801169328087f58",
+      "thumbnailSHA256": "c33b223535a9e07d8475ee202ea82035cd41596ef5fc9effb9e06874eea1151e",
+      "context": {
+        "phrase": {
+          "zh": "走上舞台，也重新追问自己是谁。",
+          "en": "Step onto the stage and ask again who you are."
+        },
+        "visual": {
+          "zh": "左侧暗红幕布旁，一块浅色木质面具立在低支架上，空眼孔与薄边缘可辨；长影子向右延伸到舞台木地板，右上深绿留白。中性黑白版保留面具、支架、幕布和单一影子的关系。",
+          "en": "Beside dark-red curtains at left, a pale carved wood mask stands on a low support, its hollow eye and thin rim visible. A long shadow extends right across the stage boards, with quiet deep-green space above. Neutral monochrome preserves the mask, stand, curtains and single shadow relationship."
+        },
+        "background": {
+          "zh": "皮兰德娄因大胆而巧妙地推动戏剧与舞台艺术获得1934年诺贝尔文学奖。他的戏剧常把喜剧与悲剧交织，探索自我与身份，《六个寻找作者的剧中人》是代表作之一。幕布、面具与错位影子取意于舞台角色和身份的关系，是原创插画，不是具体剧作的道具、场景或作者肖像；短句为原创。\n1934年文学奖；独享本年度奖项。获奖理由（中文译述）：大胆而巧妙地推动戏剧与舞台艺术。",
+          "en": "Pirandello received the 1934 Nobel Prize in Literature for his bold and inventive renewal of drama and stage art. His plays often combine farce and tragedy while exploring the self and identity; Six Characters in Search of an Author is one of his notable works. Curtains, a mask and a displaced shadow draw on the relation between role and identity. They are original artwork, not props or scenery from a particular production or a portrait of the author. The phrase is original.\n1934 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his bold and ingenious revival of dramatic and scenic art"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1934 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1934/summary/",
+            "labelLocalized": {
+              "zh": "1934年文学奖｜官方记录",
+              "en": "1934 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1934/pirandello/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

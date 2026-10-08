@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-24",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-24",
+      "subject": "nobel-laureate-24",
+      "edition": "mono",
+      "title": "约翰内斯·斯塔克",
+      "titleEnglish": "Johannes Stark",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-24/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-24/mono.jpg",
+      "sha256": "41777ecbd8aa1e2382517ed5ca96ada3ccf5486905456a6c6fdd1f9974337d58",
+      "thumbnailSHA256": "dae9bbc34955b573f65f95943b0778592a1265c684f1909a2132a19f6104fdae",
+      "context": {
+        "phrase": {
+          "zh": "细微的分裂，值得仔细辨认。",
+          "en": "Small separations deserve close attention."
+        },
+        "visual": {
+          "zh": "巨大的黄铜板从左下裁切，后方较冷的灰色金属板与它保持间隙；右上三根珊瑚红细条长短不同，其中最长的一根轻轻搭上前板。彩色版区分黄铜、灰金属与红色涂层，黑白版保持布局。这些物件借分离与偏移表达谱线研究的原创寓意，不是斯塔克仪器、真实光谱或测量图。",
+          "en": "An enormous brass plate is cropped at lower left, separated by a dark gap from the cooler gray plate behind it. Three offset coral strips sit at upper right; the longest lightly overlaps the front plate. Color distinguishes brass, gray metal and enamel; monochrome keeps the layout. Separation and offset are original metaphors for spectral research, not Stark’s equipment, an actual spectrum or a measurement chart."
+        },
+        "background": {
+          "zh": "斯塔克独享1919年诺贝尔物理学奖，获奖研究涉及阳极射线的多普勒效应（运动带来的光频率变化），以及电场引起的谱线分裂。诺贝尔官网的物理学历史介绍将这一电场研究与塞曼的磁场研究区分。维尔茨堡大学的官方院史同时记录了斯塔克的纳粹党成员身份与反犹著述；科学获奖不能替代对这段历史的交代。金属板与细条只是原创视觉寓意，数量、颜色和间距没有计量含义。短句为原创，不是人物引语。\n1919年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现阳极射线的多普勒效应及电场中的谱线分裂而获奖",
+          "en": "Stark received the full 1919 Nobel Prize in Physics for work on the Doppler effect in canal rays and spectral-line splitting in electric fields. NobelPrize.org’s physics history distinguishes this electric-field work from Zeeman’s magnetic-field research. Würzburg University’s official faculty history also records Stark’s Nazi Party membership and anti-Jewish publications; the scientific award does not erase that history. Plates and strips are original visual symbols, with no measurement meaning in their number, colors or spacing. The phrase is original, not a quotation.\n1919 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1919 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1919/summary/",
+            "labelLocalized": {
+              "zh": "1919年物理学奖｜官方记录",
+              "en": "1919 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "physik.uni-wuerzburg.de",
+            "url": "https://www.physik.uni-wuerzburg.de/en/about-us/history-of-the-faculty/nobel-prize-winners/johannes-stark-1919/",
+            "labelLocalized": {
+              "zh": "人物与研究历史｜维尔茨堡大学",
+              "en": "Life and research history — University of Würzburg"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-24",
+      "subject": "nobel-laureate-24",
+      "edition": "color",
+      "title": "约翰内斯·斯塔克",
+      "titleEnglish": "Johannes Stark",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-24/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-24/color.jpg",
+      "sha256": "e908e3f9447bc5a13b572685372d94a265c8f4c4e40fc8491dccd6ebe58e5ff0",
+      "thumbnailSHA256": "438b35c4a7e7e0bf41c2e35189b8f83a277abbfa858cc4447f91ae06ed825ff4",
+      "context": {
+        "phrase": {
+          "zh": "细微的分裂，值得仔细辨认。",
+          "en": "Small separations deserve close attention."
+        },
+        "visual": {
+          "zh": "巨大的黄铜板从左下裁切，后方较冷的灰色金属板与它保持间隙；右上三根珊瑚红细条长短不同，其中最长的一根轻轻搭上前板。彩色版区分黄铜、灰金属与红色涂层，黑白版保持布局。这些物件借分离与偏移表达谱线研究的原创寓意，不是斯塔克仪器、真实光谱或测量图。",
+          "en": "An enormous brass plate is cropped at lower left, separated by a dark gap from the cooler gray plate behind it. Three offset coral strips sit at upper right; the longest lightly overlaps the front plate. Color distinguishes brass, gray metal and enamel; monochrome keeps the layout. Separation and offset are original metaphors for spectral research, not Stark’s equipment, an actual spectrum or a measurement chart."
+        },
+        "background": {
+          "zh": "斯塔克独享1919年诺贝尔物理学奖，获奖研究涉及阳极射线的多普勒效应（运动带来的光频率变化），以及电场引起的谱线分裂。诺贝尔官网的物理学历史介绍将这一电场研究与塞曼的磁场研究区分。维尔茨堡大学的官方院史同时记录了斯塔克的纳粹党成员身份与反犹著述；科学获奖不能替代对这段历史的交代。金属板与细条只是原创视觉寓意，数量、颜色和间距没有计量含义。短句为原创，不是人物引语。\n1919年物理学奖；独享本年度奖项。获奖理由（中文译述）：因发现阳极射线的多普勒效应及电场中的谱线分裂而获奖",
+          "en": "Stark received the full 1919 Nobel Prize in Physics for work on the Doppler effect in canal rays and spectral-line splitting in electric fields. NobelPrize.org’s physics history distinguishes this electric-field work from Zeeman’s magnetic-field research. Würzburg University’s official faculty history also records Stark’s Nazi Party membership and anti-Jewish publications; the scientific award does not erase that history. Plates and strips are original visual symbols, with no measurement meaning in their number, colors or spacing. The phrase is original, not a quotation.\n1919 — The Nobel Prize in Physics. Received the full prize. Official motivation: for his discovery of the Doppler effect in canal rays and the splitting of spectral lines in electric fields"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1919 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1919/summary/",
+            "labelLocalized": {
+              "zh": "1919年物理学奖｜官方记录",
+              "en": "1919 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-physics-1901-2000/",
+            "labelLocalized": {
+              "zh": "诺贝尔奖官方资料",
+              "en": "Official Nobel Prize source"
+            }
+          },
+          {
+            "label": "physik.uni-wuerzburg.de",
+            "url": "https://www.physik.uni-wuerzburg.de/en/about-us/history-of-the-faculty/nobel-prize-winners/johannes-stark-1919/",
+            "labelLocalized": {
+              "zh": "人物与研究历史｜维尔茨堡大学",
+              "en": "Life and research history — University of Würzburg"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

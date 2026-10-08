@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-323",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-323",
+      "subject": "nobel-laureate-323",
+      "edition": "mono",
+      "title": "查尔斯·谢灵顿",
+      "titleEnglish": "Sir Charles Sherrington",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-323/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-323/mono.jpg",
+      "sha256": "bfc84859997d2eec499f905b16a232635cbc1523d2e28826944523c80c19a3a7",
+      "thumbnailSHA256": "7157898e513a82a96132f491b7ec5934736f4939f67ebad5519e9840e073a419",
+      "context": {
+        "phrase": {
+          "zh": "一边用力，一边让开，动作才协调。",
+          "en": "One side pulls; the other yields; movement finds coordination."
+        },
+        "visual": {
+          "zh": "木质关节中央是圆形金属轴，两根浅色编绳连接臂上的固定环；上方绳子直而紧，下方绳子弯曲松开。木纹与绳纹以细刻线描绘，背景留出深橄榄色空间。黑白版保留臂、轴、连接点和松紧关系。",
+          "en": "A round metal pivot sits within a wooden joint. Two pale braided cords attach to seated eyelets on the arms: the upper cord is straight and taut, the lower curved and loose. Fine engraving describes wood and braid against a quiet dark-olive field. The neutral edition retains the arms, pivot, attachments and taut/slack relationship."
+        },
+        "background": {
+          "zh": "谢灵顿与埃德加·阿德里安共同获得1932年诺贝尔生理学或医学奖，表彰他们对神经元功能的发现。谢灵顿研究神经系统如何协调动作，包括让一组肌肉收缩、同时抑制相反动作的肌肉。拉紧与松开的绳索是对这种配合的原创机械寓意，不是人体结构图或治疗建议；短句为原创。\n1932年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对神经元功能的发现。",
+          "en": "Sherrington shared the 1932 Nobel Prize in Physiology or Medicine with Edgar Adrian for discoveries regarding neuron functions. He studied nervous coordination, including contraction of one muscle group with inhibition of its antagonists. Taut and slack cords are an original mechanical metaphor for this coordination, not human anatomy or treatment advice. The phrase is original.\n1932 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries regarding the functions of neurons"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年生理学或医学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1932/sherrington/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-323",
+      "subject": "nobel-laureate-323",
+      "edition": "color",
+      "title": "查尔斯·谢灵顿",
+      "titleEnglish": "Sir Charles Sherrington",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-323/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-323/color.jpg",
+      "sha256": "38d57685f02968a8259ed5f25e69f2a6039f7406db06559fd0564516fe7da356",
+      "thumbnailSHA256": "1f497a88ad37b5bd21265dc2f9d00ffcd0db0702a6c44b885411d8c1eae6c07e",
+      "context": {
+        "phrase": {
+          "zh": "一边用力，一边让开，动作才协调。",
+          "en": "One side pulls; the other yields; movement finds coordination."
+        },
+        "visual": {
+          "zh": "木质关节中央是圆形金属轴，两根浅色编绳连接臂上的固定环；上方绳子直而紧，下方绳子弯曲松开。木纹与绳纹以细刻线描绘，背景留出深橄榄色空间。黑白版保留臂、轴、连接点和松紧关系。",
+          "en": "A round metal pivot sits within a wooden joint. Two pale braided cords attach to seated eyelets on the arms: the upper cord is straight and taut, the lower curved and loose. Fine engraving describes wood and braid against a quiet dark-olive field. The neutral edition retains the arms, pivot, attachments and taut/slack relationship."
+        },
+        "background": {
+          "zh": "谢灵顿与埃德加·阿德里安共同获得1932年诺贝尔生理学或医学奖，表彰他们对神经元功能的发现。谢灵顿研究神经系统如何协调动作，包括让一组肌肉收缩、同时抑制相反动作的肌肉。拉紧与松开的绳索是对这种配合的原创机械寓意，不是人体结构图或治疗建议；短句为原创。\n1932年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们对神经元功能的发现。",
+          "en": "Sherrington shared the 1932 Nobel Prize in Physiology or Medicine with Edgar Adrian for discoveries regarding neuron functions. He studied nervous coordination, including contraction of one muscle group with inhibition of its antagonists. Taut and slack cords are an original mechanical metaphor for this coordination, not human anatomy or treatment advice. The phrase is original.\n1932 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: for their discoveries regarding the functions of neurons"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1932 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1932/summary/",
+            "labelLocalized": {
+              "zh": "1932年生理学或医学奖｜官方记录",
+              "en": "1932 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/medicine/1932/sherrington/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

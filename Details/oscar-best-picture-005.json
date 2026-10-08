@@ -1,0 +1,86 @@
+{
+  "subject": "oscar-best-picture-005",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-005",
+      "subject": "oscar-best-picture-005",
+      "edition": "mono",
+      "title": "大饭店",
+      "titleEnglish": "Grand Hotel",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-005/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-005/mono.jpg",
+      "sha256": "c73bf516c392e6ef6c2ef85a8411b485201b1169d150fdd10b08061275d10295",
+      "thumbnailSHA256": "884e77786ed177281191b7d67ddc3c30b87a8dac2fba6ac0bfe2ed87bdb98d59",
+      "context": {
+        "phrase": {
+          "zh": "擦肩而过，也会改变彼此的人生。",
+          "en": "Lives can change where passing paths meet."
+        },
+        "visual": {
+          "zh": "为《大饭店》独立创作的物件拼贴：前台铃、钥匙、芭蕾舞鞋、行李箱和打字机，呼应旅馆里交错的人生。画面没有复刻演员、电影镜头或布景。",
+          "en": "An original object collage for Grand Hotel uses a reception bell, key, pointe shoe, suitcase and typewriter to evoke intersecting lives. It does not reproduce actors, shots or sets."
+        },
+        "background": {
+          "zh": "《大饭店》在1932年第5届奥斯卡获得最佳影片。影片以柏林一家旅馆为交会点，讲述舞者、窃贼、速记员、实业家等人物彼此影响的故事。配图以物件象征不同人物的处境，短句是原创概括，不是电影对白。\n第5届奥斯卡最佳影片：大饭店。颁奖年份 1932；参评年份 1931/32。",
+          "en": "Grand Hotel won Best Picture at the fifth Academy Awards in 1932. At a Berlin hotel, a dancer, thief, stenographer, industrialist and other guests affect one another's lives. The objects evoke their circumstances; the phrase is an original interpretation rather than dialogue.\nAcademy Awards ceremony 5 (1932), Best Picture: Grand Hotel. Eligibility year: 1931/32."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1933",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "TCM",
+            "url": "https://www.tcm.com/watchtcm/titles/183"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-005",
+      "subject": "oscar-best-picture-005",
+      "edition": "color",
+      "title": "大饭店",
+      "titleEnglish": "Grand Hotel",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-005/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-005/color.jpg",
+      "sha256": "469841e9aa8a5076c08293fc48626680ee65d51144cb5fb60e6281f687d3ed25",
+      "thumbnailSHA256": "66391386e97453e54798f7e7fe5dd5ab81a8d005a4e573f4ab95cf63cb08d06f",
+      "context": {
+        "phrase": {
+          "zh": "擦肩而过，也会改变彼此的人生。",
+          "en": "Lives can change where passing paths meet."
+        },
+        "visual": {
+          "zh": "为《大饭店》独立创作的物件拼贴：前台铃、钥匙、芭蕾舞鞋、行李箱和打字机，呼应旅馆里交错的人生。画面没有复刻演员、电影镜头或布景。",
+          "en": "An original object collage for Grand Hotel uses a reception bell, key, pointe shoe, suitcase and typewriter to evoke intersecting lives. It does not reproduce actors, shots or sets."
+        },
+        "background": {
+          "zh": "《大饭店》在1932年第5届奥斯卡获得最佳影片。影片以柏林一家旅馆为交会点，讲述舞者、窃贼、速记员、实业家等人物彼此影响的故事。配图以物件象征不同人物的处境，短句是原创概括，不是电影对白。\n第5届奥斯卡最佳影片：大饭店。颁奖年份 1932；参评年份 1931/32。",
+          "en": "Grand Hotel won Best Picture at the fifth Academy Awards in 1932. At a Berlin hotel, a dancer, thief, stenographer, industrialist and other guests affect one another's lives. The objects evoke their circumstances; the phrase is an original interpretation rather than dialogue.\nAcademy Awards ceremony 5 (1932), Best Picture: Grand Hotel. Eligibility year: 1931/32."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1933",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "TCM",
+            "url": "https://www.tcm.com/watchtcm/titles/183"
+          }
+        ]
+      }
+    }
+  }
+}

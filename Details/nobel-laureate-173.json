@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-173",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-173",
+      "subject": "nobel-laureate-173",
+      "edition": "mono",
+      "title": "保罗·萨巴捷",
+      "titleEnglish": "Paul Sabatier",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-173/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-173/mono.jpg",
+      "sha256": "470fbbaddd9523a9dc45851d02d342692167992eabffdcdd2cab0a499229edc5",
+      "thumbnailSHA256": "da9e2f0e943f12feddf0cbbf5d7f6cd223acf2648b05e189c3250ad899c45e81",
+      "context": {
+        "phrase": {
+          "zh": "一次细小的接触，打开变化的可能。",
+          "en": "A small contact opens the way to change."
+        },
+        "visual": {
+          "zh": "大幅裁切的多孔块体托住一条斜向金属槽，两枚小球形成尺度与质感对照，借表面与通道呼应催化研究。黑白与钴蓝版突出孔洞结构；彩色版使用镍灰金属、黄铜色槽和乳白、青绿小球。小球颜色不代表具体分子，画面也不是催化机理或实测材料表面的示意图。",
+          "en": "A greatly cropped porous block supports a diagonal channel with two tiny spheres, contrasting scale and texture to evoke catalysis. Cobalt emphasizes the pores in monochrome; full color uses nickel-gray metal, brass and ivory/teal beads. Bead colors do not identify molecules, and the image is not a reaction mechanism or a measured surface model."
+        },
+        "background": {
+          "zh": "保罗·萨巴捷与维克多·格林尼亚平分1912年诺贝尔化学奖。萨巴捷获奖的工作是在细碎金属存在时对有机化合物进行氢化的方法。诺贝尔官方化学发展回顾将其表述为利用金属催化剂的氢化，并举油转化为饱和脂肪以及工业用途为例。这里的粗糙块体、双球和斜槽只联系金属表面、气体与变化，不表示催化剂精确形貌、具体反应路径、效率或实验条件；不把两人的获奖工作混为同一种方法，短句为原创。\n1912年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：建立在细碎金属存在时对有机化合物进行氢化的方法，显著推动了有机化学的发展。",
+          "en": "Paul Sabatier shared the 1912 Nobel Prize in Chemistry equally with Victor Grignard. His recognized contribution was hydrogenating organic compounds in the presence of finely divided metals. Nobel’s chemistry history describes metallic catalysts and gives conversion of oils to saturated fats as an industrial example. Slab, paired spheres and channel provide a metaphor for metal, gas and transformation, without asserting catalyst microstructure, reaction pathway, efficiency or conditions. The two laureates’ methods remain distinct; the phrase is original.\n1912 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his method of hydrogenating organic compounds in the presence of finely disintegrated metals whereby the progress of organic chemistry has been greatly advanced in recent years"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年化学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-173",
+      "subject": "nobel-laureate-173",
+      "edition": "color",
+      "title": "保罗·萨巴捷",
+      "titleEnglish": "Paul Sabatier",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-173/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-173/color.jpg",
+      "sha256": "e8beb9f21844db89693e396827187ad7b9471bccd74adb8ea7b9092da0012d5a",
+      "thumbnailSHA256": "fc8b44af20cd245cd6a3762d511632f8c2fc9e9675b324e0a540a6fc3ee2f4e6",
+      "context": {
+        "phrase": {
+          "zh": "一次细小的接触，打开变化的可能。",
+          "en": "A small contact opens the way to change."
+        },
+        "visual": {
+          "zh": "大幅裁切的多孔块体托住一条斜向金属槽，两枚小球形成尺度与质感对照，借表面与通道呼应催化研究。黑白与钴蓝版突出孔洞结构；彩色版使用镍灰金属、黄铜色槽和乳白、青绿小球。小球颜色不代表具体分子，画面也不是催化机理或实测材料表面的示意图。",
+          "en": "A greatly cropped porous block supports a diagonal channel with two tiny spheres, contrasting scale and texture to evoke catalysis. Cobalt emphasizes the pores in monochrome; full color uses nickel-gray metal, brass and ivory/teal beads. Bead colors do not identify molecules, and the image is not a reaction mechanism or a measured surface model."
+        },
+        "background": {
+          "zh": "保罗·萨巴捷与维克多·格林尼亚平分1912年诺贝尔化学奖。萨巴捷获奖的工作是在细碎金属存在时对有机化合物进行氢化的方法。诺贝尔官方化学发展回顾将其表述为利用金属催化剂的氢化，并举油转化为饱和脂肪以及工业用途为例。这里的粗糙块体、双球和斜槽只联系金属表面、气体与变化，不表示催化剂精确形貌、具体反应路径、效率或实验条件；不把两人的获奖工作混为同一种方法，短句为原创。\n1912年化学奖；获得本年度奖项的一半。获奖理由（中文译述）：建立在细碎金属存在时对有机化合物进行氢化的方法，显著推动了有机化学的发展。",
+          "en": "Paul Sabatier shared the 1912 Nobel Prize in Chemistry equally with Victor Grignard. His recognized contribution was hydrogenating organic compounds in the presence of finely divided metals. Nobel’s chemistry history describes metallic catalysts and gives conversion of oils to saturated fats as an industrial example. Slab, paired spheres and channel provide a metaphor for metal, gas and transformation, without asserting catalyst microstructure, reaction pathway, efficiency or conditions. The two laureates’ methods remain distinct; the phrase is original.\n1912 — The Nobel Prize in Chemistry. Received half of the prize. Official motivation: for his method of hydrogenating organic compounds in the presence of finely disintegrated metals whereby the progress of organic chemistry has been greatly advanced in recent years"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1912 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1912/summary/",
+            "labelLocalized": {
+              "zh": "1912年化学奖｜官方记录",
+              "en": "1912 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "17-making",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:17-making",
+      "subject": "17-making",
+      "edition": "mono",
+      "title": "计算：递归与人的创造",
+      "titleEnglish": "Recursion and Human Creativity",
+      "category": "计算与人工智能",
+      "image": "Images/mono/17-making.jpg",
+      "thumbnail": "Thumbs/mono/17-making.jpg",
+      "sha256": "6731019531bc3618d539a9ce9cbf6fedc2f90c62a5c0fe84109e6c6a0aa1d743",
+      "thumbnailSHA256": "bdcf34956e769bfa13060a976e133d37bb7702d797f96f2aa319cee40de112ff",
+      "context": {
+        "phrase": {
+          "zh": "把大问题，拆成可以完成的一步。",
+          "en": "Make a large problem small enough to solve."
+        },
+        "visual": {
+          "zh": "画中框架一层套着一层，手的动作将这种重复带回人的创造过程。它借嵌套形态暗示递归，并非一段程序执行过程的精确图示。",
+          "en": "Nested frames connect repeated structure with the act of making. They suggest recursion visually, rather than tracing the execution of a specific program."
+        },
+        "background": {
+          "zh": "MIT 的递归课程把方法分为可直接求解的基本情形，以及把问题缩小后再次调用自身的步骤。每次递进都要更接近基本情形，否则可能无法停止。图中看似无尽的嵌套是艺术隐喻，真实程序需要明确的终止条件。",
+          "en": "MIT’s recursion material distinguishes a directly solvable base case from a step that calls the same method on a smaller problem. Each step must approach a base case to ensure termination. The image’s apparent endlessness is a metaphor; working code needs a stopping condition."
+        },
+        "sources": [
+          {
+            "label": "MIT OpenCourseWare · Recursion",
+            "url": "https://ocw.mit.edu/ans7870/6/6.005/s16/classes/10-recursion/"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:17-making",
+      "subject": "17-making",
+      "edition": "color",
+      "title": "计算：递归与人的创造",
+      "titleEnglish": "Recursion and Human Creativity",
+      "category": "计算与人工智能",
+      "image": "Images/color/17-making.jpg",
+      "thumbnail": "Thumbs/color/17-making.jpg",
+      "sha256": "3710f68442954ad6739dbd07e8bb628d7bd14e26c5bf8f045867a2c2b2320261",
+      "thumbnailSHA256": "60fad0ced11c3b0ad0c4034826126f7f99d81859299e40d671ed1eab08e64db5",
+      "context": {
+        "phrase": {
+          "zh": "把大问题，拆成可以完成的一步。",
+          "en": "Make a large problem small enough to solve."
+        },
+        "visual": {
+          "zh": "画中框架一层套着一层，手的动作将这种重复带回人的创造过程。它借嵌套形态暗示递归，并非一段程序执行过程的精确图示。",
+          "en": "Nested frames connect repeated structure with the act of making. They suggest recursion visually, rather than tracing the execution of a specific program."
+        },
+        "background": {
+          "zh": "MIT 的递归课程把方法分为可直接求解的基本情形，以及把问题缩小后再次调用自身的步骤。每次递进都要更接近基本情形，否则可能无法停止。图中看似无尽的嵌套是艺术隐喻，真实程序需要明确的终止条件。",
+          "en": "MIT’s recursion material distinguishes a directly solvable base case from a step that calls the same method on a smaller problem. Each step must approach a base case to ensure termination. The image’s apparent endlessness is a metaphor; working code needs a stopping condition."
+        },
+        "sources": [
+          {
+            "label": "MIT OpenCourseWare · Recursion",
+            "url": "https://ocw.mit.edu/ans7870/6/6.005/s16/classes/10-recursion/"
+          }
+        ]
+      }
+    }
+  }
+}

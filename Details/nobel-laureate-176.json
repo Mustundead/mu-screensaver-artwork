@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-176",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-176",
+      "subject": "nobel-laureate-176",
+      "edition": "mono",
+      "title": "理查德·威尔施泰特",
+      "titleEnglish": "Richard Willstätter",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-176/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-176/mono.jpg",
+      "sha256": "361c530319aace2b961ded1de423a55949bf685c641dc08a71f5d7412f9a9a92",
+      "thumbnailSHA256": "cb5cd560069cecbe888ada008a4d980007b9004ba58335bd4d1d714a5cb7f892",
+      "context": {
+        "phrase": {
+          "zh": "一片绿叶，藏着不止一种颜色。",
+          "en": "A green leaf holds more than one color."
+        },
+        "visual": {
+          "zh": "一片巨大的绿叶从左侧和下方裁切，斜向主脉带出细密叶脉；右上裁切琥珀色玻璃瓶，右下小玻璃皿盛着黄绿色色素，钢制药匙落在空白纸上。叶片、器皿和空出的深色台面形成大小对照。黑白版保留全部位置和纹理。植物种类、实验器具、色素颜色与浓度均为原创意象，不是威尔施泰特真实实验的复原。",
+          "en": "An enormous leaf is cropped at left and below, its diagonal midrib opening into fine veins. A cropped amber bottle sits above a small yellow-green pigment dish; a steel spatula rests on blank paper. Leaf, smaller vessels and quiet dark surface create a strong scale contrast. Monochrome preserves positions and textures. Species, equipment, pigment colors and concentrations are original symbols, not Willstätter’s actual experiment."
+        },
+        "background": {
+          "zh": "威尔施泰特获得1915年诺贝尔化学奖，独享奖金份额，获奖工作是植物色素研究，尤其叶绿素。诺贝尔官方解读说明，他制备较纯且数量充足的叶绿素以研究其化学组成，并提供了区分蓝绿色与黄绿色两类叶绿素的确凿证据。画面把叶脉、色素与玻璃器皿放在一起，作为这些研究的原创解读；没有绘制分子结构，也不把意象当作实验步骤或测量数据。短句为原创，不是获奖者引语。\n1915年化学奖；独享本年度奖项。获奖理由（中文译述）：因对植物色素，尤其叶绿素的研究而获奖",
+          "en": "Willstätter received the 1915 Nobel Prize in Chemistry with the full prize share for research on plant pigments, especially chlorophyll. Nobel’s explanatory article describes preparing purified chlorophyll in quantity to investigate its chemical composition and conclusively distinguishing blue-green and yellow-green types. Leaf veins, pigment and glass vessels are an original interpretation. The image supplies neither a molecular structure nor experimental instructions or measured data. The phrase is original, not a quotation.\n1915 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his researches on plant pigments, especially chlorophyll"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1915 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1915/summary/",
+            "labelLocalized": {
+              "zh": "1915年化学奖｜官方记录",
+              "en": "1915 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1915/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-176",
+      "subject": "nobel-laureate-176",
+      "edition": "color",
+      "title": "理查德·威尔施泰特",
+      "titleEnglish": "Richard Willstätter",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-176/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-176/color.jpg",
+      "sha256": "ad246f0ef17f17ecd79038905c02d01fb0490f9db354f9c22aee4d747e1b0d4c",
+      "thumbnailSHA256": "899498c13e09eacbd5c96ec975f3f4d3c38b0103bd291176e3ac2d8859fa6af5",
+      "context": {
+        "phrase": {
+          "zh": "一片绿叶，藏着不止一种颜色。",
+          "en": "A green leaf holds more than one color."
+        },
+        "visual": {
+          "zh": "一片巨大的绿叶从左侧和下方裁切，斜向主脉带出细密叶脉；右上裁切琥珀色玻璃瓶，右下小玻璃皿盛着黄绿色色素，钢制药匙落在空白纸上。叶片、器皿和空出的深色台面形成大小对照。黑白版保留全部位置和纹理。植物种类、实验器具、色素颜色与浓度均为原创意象，不是威尔施泰特真实实验的复原。",
+          "en": "An enormous leaf is cropped at left and below, its diagonal midrib opening into fine veins. A cropped amber bottle sits above a small yellow-green pigment dish; a steel spatula rests on blank paper. Leaf, smaller vessels and quiet dark surface create a strong scale contrast. Monochrome preserves positions and textures. Species, equipment, pigment colors and concentrations are original symbols, not Willstätter’s actual experiment."
+        },
+        "background": {
+          "zh": "威尔施泰特获得1915年诺贝尔化学奖，独享奖金份额，获奖工作是植物色素研究，尤其叶绿素。诺贝尔官方解读说明，他制备较纯且数量充足的叶绿素以研究其化学组成，并提供了区分蓝绿色与黄绿色两类叶绿素的确凿证据。画面把叶脉、色素与玻璃器皿放在一起，作为这些研究的原创解读；没有绘制分子结构，也不把意象当作实验步骤或测量数据。短句为原创，不是获奖者引语。\n1915年化学奖；独享本年度奖项。获奖理由（中文译述）：因对植物色素，尤其叶绿素的研究而获奖",
+          "en": "Willstätter received the 1915 Nobel Prize in Chemistry with the full prize share for research on plant pigments, especially chlorophyll. Nobel’s explanatory article describes preparing purified chlorophyll in quantity to investigate its chemical composition and conclusively distinguishing blue-green and yellow-green types. Leaf veins, pigment and glass vessels are an original interpretation. The image supplies neither a molecular structure nor experimental instructions or measured data. The phrase is original, not a quotation.\n1915 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for his researches on plant pigments, especially chlorophyll"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1915 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1915/summary/",
+            "labelLocalized": {
+              "zh": "1915年化学奖｜官方记录",
+              "en": "1915 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1915/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

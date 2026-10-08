@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-161",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-161",
+      "subject": "nobel-laureate-161",
+      "edition": "mono",
+      "title": "埃米尔·费舍尔",
+      "titleEnglish": "Emil Fischer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-161/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-161/mono.jpg",
+      "sha256": "b75fbb8b8bdf9782aa20148b44fb38125c67d510bb5aedd6a754cf46fd33ead7",
+      "thumbnailSHA256": "5194e7711e590b515adad047f4ed33e8d6f606459135b45356bb08a5a02aa6b7",
+      "context": {
+        "phrase": {
+          "zh": "从日常之物，看见更深的联系。",
+          "en": "Find deeper connections in everyday things."
+        },
+        "visual": {
+          "zh": "为费舍尔独立创作的化学拼贴，以糖晶、玻璃器皿、咖啡豆、茶叶和可可呼应糖与嘌呤研究。器皿组合是艺术表达，没有复刻实验装置或分子结构。",
+          "en": "An original chemistry collage for Fischer uses sugar crystals, glassware, coffee beans, tea and cacao to evoke research into sugars and purines. The arrangement is artistic, without reconstructing apparatus or molecular structures."
+        },
+        "background": {
+          "zh": "费舍尔因糖和嘌呤的合成研究获得1902年诺贝尔化学奖。诺贝尔奖官方介绍将这项研究与糖类之间的化学联系，以及咖啡、茶和可可中的相关化合物联系起来。配图借这些日常材料表现研究主题，不把其中任何一种材料当作全部获奖理由。\n1902年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在糖和嘌呤的合成研究中作出的卓越贡献。",
+          "en": "Fischer received the 1902 Nobel Prize in Chemistry for work on sugar and purine syntheses. Nobel's official account connects this research with chemical relationships among sugars and compounds found in coffee, tea and cacao. These familiar materials evoke the work rather than stand for the entire award citation.\n1902 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of the extraordinary services he has rendered by his work on sugar and purine syntheses"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年化学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1902/fischer/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1902/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-161",
+      "subject": "nobel-laureate-161",
+      "edition": "color",
+      "title": "埃米尔·费舍尔",
+      "titleEnglish": "Emil Fischer",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-161/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-161/color.jpg",
+      "sha256": "97d64cc958d9213000c35dbb5394add02363bad899ddb1de20c4725b7298c682",
+      "thumbnailSHA256": "e33e76a41bc879f78febdca7532ceeeb476cc6c41a5cf7d9bbfc6c839330a002",
+      "context": {
+        "phrase": {
+          "zh": "从日常之物，看见更深的联系。",
+          "en": "Find deeper connections in everyday things."
+        },
+        "visual": {
+          "zh": "为费舍尔独立创作的化学拼贴，以糖晶、玻璃器皿、咖啡豆、茶叶和可可呼应糖与嘌呤研究。器皿组合是艺术表达，没有复刻实验装置或分子结构。",
+          "en": "An original chemistry collage for Fischer uses sugar crystals, glassware, coffee beans, tea and cacao to evoke research into sugars and purines. The arrangement is artistic, without reconstructing apparatus or molecular structures."
+        },
+        "background": {
+          "zh": "费舍尔因糖和嘌呤的合成研究获得1902年诺贝尔化学奖。诺贝尔奖官方介绍将这项研究与糖类之间的化学联系，以及咖啡、茶和可可中的相关化合物联系起来。配图借这些日常材料表现研究主题，不把其中任何一种材料当作全部获奖理由。\n1902年化学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在糖和嘌呤的合成研究中作出的卓越贡献。",
+          "en": "Fischer received the 1902 Nobel Prize in Chemistry for work on sugar and purine syntheses. Nobel's official account connects this research with chemical relationships among sugars and compounds found in coffee, tea and cacao. These familiar materials evoke the work rather than stand for the entire award citation.\n1902 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: in recognition of the extraordinary services he has rendered by his work on sugar and purine syntheses"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年化学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1902/fischer/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1902/speedread/",
+            "labelLocalized": {
+              "zh": "研究背景｜诺贝尔奖官网",
+              "en": "Research background — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

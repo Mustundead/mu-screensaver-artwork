@@ -1,0 +1,110 @@
+{
+  "subject": "nobel-laureate-478",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-478",
+      "subject": "nobel-laureate-478",
+      "edition": "mono",
+      "title": "托比亚斯·阿塞尔",
+      "titleEnglish": "Tobias Asser",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-478/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-478/mono.jpg",
+      "sha256": "2d35eb1427b312b347b0a2ae3eaa59f07ad0e5716d63e3ba6fc55bf1601a8f7d",
+      "thumbnailSHA256": "c18d972c2f52f2ec629841aaa3b50b6cde23bead072e7c87395e782ebd2cce5a",
+      "context": {
+        "phrase": {
+          "zh": "不同的规则，也需要连接的办法。",
+          "en": "Different rules need a way to connect."
+        },
+        "visual": {
+          "zh": "一把斜穿画面的巨钥匙与小钥匙共用圆环，下方压着折叠的空白文书，借相连的物件表达法律合作。黑白与钴蓝版突出巨钥匙；彩色版呈现黄铜、青铜、深色钢铁与乳白、灰绿纸张。它是原创隐喻，不是某个机构的真实钥匙、条约或档案。",
+          "en": "An immense diagonal key shares a ring with a small key above folded blank papers, interpreting legal cooperation through connected objects. Cobalt marks the large key in monochrome; full color distinguishes brass, bronze, dark steel and ivory/sage paper. These are original symbols, not an institution's real keys, treaty or archive."
+        },
+        "background": {
+          "zh": "阿塞尔与阿尔弗雷德·弗里德共同获得1911年诺贝尔和平奖，各占二分之一份额。诺贝尔官方记录肯定阿塞尔共同创立国际法学会、发起海牙国际私法会议以及开拓国际法律关系的工作。海牙国际私法会议的历史资料记载，1893年9月12日他主持召开第一次会议，13个国家的代表讨论民事程序、管辖权及相关跨境事务。国际私法在这里关注不同国家的法律如何处理个人与企业之间的跨境关系，不是把所有国家的法律直接变成同一部法律。钥匙、圆环与空白文件是原创协作隐喻，不呈现具体条约条文；短句不是本人引语。\n1911年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因共同创立国际法学会、发起海牙国际私法会议，并在国际法律关系领域发挥开拓作用。",
+          "en": "Asser shared the 1911 Nobel Peace Prize equally with Alfred Fried. Nobel recognizes his co-founding of the Institute of International Law, initiation of Hague private international law conferences and pioneering legal cooperation. HCCH history records the first session on 12 September 1893 with delegates from 13 states addressing civil procedure and jurisdiction. Private international law concerns cross-border private relationships and interactions between legal systems; it does not simply replace national laws with one universal law. Keys, a ring and blank documents interpret cooperation without reproducing treaty text. The phrase is original, not a quotation.\n1911 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his role as co-founder of the Institut de droit international, initiator of the Conferences on International Private Law (Conférences de Droit international privé) at the Hague, and pioneer in the field of international legal relations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年和平奖｜官方记录",
+              "en": "1911 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "hcch.net",
+            "url": "https://www.hcch.net/en/news-archive/details/?varevent=636",
+            "labelLocalized": {
+              "zh": "国际法律协作历史｜海牙国际私法会议",
+              "en": "History of legal cooperation — Hague Conference on Private International Law"
+            }
+          },
+          {
+            "label": "hcch.net",
+            "url": "https://www.hcch.net/en/about/history",
+            "labelLocalized": {
+              "zh": "国际法律协作历史｜海牙国际私法会议",
+              "en": "History of legal cooperation — Hague Conference on Private International Law"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-478",
+      "subject": "nobel-laureate-478",
+      "edition": "color",
+      "title": "托比亚斯·阿塞尔",
+      "titleEnglish": "Tobias Asser",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-478/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-478/color.jpg",
+      "sha256": "77e09fc7c64907ce516bda7287d5bc629a3064f9749a5778aff9db363f6e2400",
+      "thumbnailSHA256": "7c673afcd82ab73b1f50cf8d300a58e2d29eda2350147945cf4c60ff6a280e2a",
+      "context": {
+        "phrase": {
+          "zh": "不同的规则，也需要连接的办法。",
+          "en": "Different rules need a way to connect."
+        },
+        "visual": {
+          "zh": "一把斜穿画面的巨钥匙与小钥匙共用圆环，下方压着折叠的空白文书，借相连的物件表达法律合作。黑白与钴蓝版突出巨钥匙；彩色版呈现黄铜、青铜、深色钢铁与乳白、灰绿纸张。它是原创隐喻，不是某个机构的真实钥匙、条约或档案。",
+          "en": "An immense diagonal key shares a ring with a small key above folded blank papers, interpreting legal cooperation through connected objects. Cobalt marks the large key in monochrome; full color distinguishes brass, bronze, dark steel and ivory/sage paper. These are original symbols, not an institution's real keys, treaty or archive."
+        },
+        "background": {
+          "zh": "阿塞尔与阿尔弗雷德·弗里德共同获得1911年诺贝尔和平奖，各占二分之一份额。诺贝尔官方记录肯定阿塞尔共同创立国际法学会、发起海牙国际私法会议以及开拓国际法律关系的工作。海牙国际私法会议的历史资料记载，1893年9月12日他主持召开第一次会议，13个国家的代表讨论民事程序、管辖权及相关跨境事务。国际私法在这里关注不同国家的法律如何处理个人与企业之间的跨境关系，不是把所有国家的法律直接变成同一部法律。钥匙、圆环与空白文件是原创协作隐喻，不呈现具体条约条文；短句不是本人引语。\n1911年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因共同创立国际法学会、发起海牙国际私法会议，并在国际法律关系领域发挥开拓作用。",
+          "en": "Asser shared the 1911 Nobel Peace Prize equally with Alfred Fried. Nobel recognizes his co-founding of the Institute of International Law, initiation of Hague private international law conferences and pioneering legal cooperation. HCCH history records the first session on 12 September 1893 with delegates from 13 states addressing civil procedure and jurisdiction. Private international law concerns cross-border private relationships and interactions between legal systems; it does not simply replace national laws with one universal law. Keys, a ring and blank documents interpret cooperation without reproducing treaty text. The phrase is original, not a quotation.\n1911 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his role as co-founder of the Institut de droit international, initiator of the Conferences on International Private Law (Conférences de Droit international privé) at the Hague, and pioneer in the field of international legal relations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年和平奖｜官方记录",
+              "en": "1911 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "hcch.net",
+            "url": "https://www.hcch.net/en/news-archive/details/?varevent=636",
+            "labelLocalized": {
+              "zh": "国际法律协作历史｜海牙国际私法会议",
+              "en": "History of legal cooperation — Hague Conference on Private International Law"
+            }
+          },
+          {
+            "label": "hcch.net",
+            "url": "https://www.hcch.net/en/about/history",
+            "labelLocalized": {
+              "zh": "国际法律协作历史｜海牙国际私法会议",
+              "en": "History of legal cooperation — Hague Conference on Private International Law"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

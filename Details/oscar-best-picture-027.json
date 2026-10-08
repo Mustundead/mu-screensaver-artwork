@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-027",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-027",
+      "subject": "oscar-best-picture-027",
+      "edition": "mono",
+      "title": "码头风云",
+      "titleEnglish": "On the Waterfront",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-027/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-027/mono.jpg",
+      "sha256": "c62345e3ce8435f5db41210f1b636a454e1ca906f0bcc96db79845b5148e43e0",
+      "thumbnailSHA256": "1813e802ed0801000919dae3c529c099b072cd3ba865debf0b8cdf086af7211a",
+      "context": {
+        "phrase": {
+          "zh": "沉默之外，还有自己的选择。",
+          "en": "Beyond silence, a choice remains."
+        },
+        "visual": {
+          "zh": "巨大的锈铁系泊环和旧木板裁入右下，麻绳弯向左上并露出松散纤维，一只小些的深蓝工作手套压在绳下，右上保留安静暗面。黑白版保留物件与裁切，木纹、铁锈和绳纤维的刻纹更明显。这是码头劳动与个人选择的原创寓意，不是电影道具或场景复刻。",
+          "en": "A huge rust-iron mooring ring and worn wooden plank cut into the lower right; hemp rope curves toward upper left with loose fibers, over a smaller navy work glove, while upper right stays quiet and dark. Monochrome preserves the objects and crop with stronger wood, rust and rope hatching. This is an original metaphor for dock labor and personal choice, not a film prop or scene replica."
+        },
+        "background": {
+          "zh": "《码头风云》是1954年影片，于1955年第27届奥斯卡获最佳影片奖。索尼影业介绍主人公特里曾为拳击手，后来在受黑帮控制的码头工作，面对愧疚、压力与自我救赎。系泊环、绳索和工作手套是码头劳动与个人选择的原创寓意，不复刻电影场景、道具或演员。短句为原创。\n第27届奥斯卡最佳影片：码头风云。颁奖年份 1955；参评年份 1954。",
+          "en": "On the Waterfront is a 1954 film that won Best Motion Picture at the 27th Academy Awards in 1955. Sony Pictures describes former fighter Terry working on a gang-controlled waterfront and confronting guilt, pressure and redemption. The mooring ring, rope and work glove are original metaphors for dock labor and personal choice, not a film scene, prop replica or actor likeness. The phrase is original.\nAcademy Awards ceremony 27 (1955), Best Picture: On the Waterfront. Eligibility year: 1954."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1955",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "sonypictures.com",
+            "url": "https://www.sonypictures.com/movies/onthewaterfront",
+            "labelLocalized": {
+              "zh": "《码头风云》影片介绍｜索尼影业",
+              "en": "On the Waterfront synopsis — Sony Pictures"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-027",
+      "subject": "oscar-best-picture-027",
+      "edition": "color",
+      "title": "码头风云",
+      "titleEnglish": "On the Waterfront",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-027/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-027/color.jpg",
+      "sha256": "f491c76194d26bdb3c2808a899a140dcc20d012336ec228bfec60ef569dababe",
+      "thumbnailSHA256": "62fa6e06c6909dcfe465820efbab9b1521facd6e67ee33d9428c34be9a2b51f6",
+      "context": {
+        "phrase": {
+          "zh": "沉默之外，还有自己的选择。",
+          "en": "Beyond silence, a choice remains."
+        },
+        "visual": {
+          "zh": "巨大的锈铁系泊环和旧木板裁入右下，麻绳弯向左上并露出松散纤维，一只小些的深蓝工作手套压在绳下，右上保留安静暗面。黑白版保留物件与裁切，木纹、铁锈和绳纤维的刻纹更明显。这是码头劳动与个人选择的原创寓意，不是电影道具或场景复刻。",
+          "en": "A huge rust-iron mooring ring and worn wooden plank cut into the lower right; hemp rope curves toward upper left with loose fibers, over a smaller navy work glove, while upper right stays quiet and dark. Monochrome preserves the objects and crop with stronger wood, rust and rope hatching. This is an original metaphor for dock labor and personal choice, not a film prop or scene replica."
+        },
+        "background": {
+          "zh": "《码头风云》是1954年影片，于1955年第27届奥斯卡获最佳影片奖。索尼影业介绍主人公特里曾为拳击手，后来在受黑帮控制的码头工作，面对愧疚、压力与自我救赎。系泊环、绳索和工作手套是码头劳动与个人选择的原创寓意，不复刻电影场景、道具或演员。短句为原创。\n第27届奥斯卡最佳影片：码头风云。颁奖年份 1955；参评年份 1954。",
+          "en": "On the Waterfront is a 1954 film that won Best Motion Picture at the 27th Academy Awards in 1955. Sony Pictures describes former fighter Terry working on a gang-controlled waterfront and confronting guilt, pressure and redemption. The mooring ring, rope and work glove are original metaphors for dock labor and personal choice, not a film scene, prop replica or actor likeness. The phrase is original.\nAcademy Awards ceremony 27 (1955), Best Picture: On the Waterfront. Eligibility year: 1954."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1955",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "sonypictures.com",
+            "url": "https://www.sonypictures.com/movies/onthewaterfront",
+            "labelLocalized": {
+              "zh": "《码头风云》影片介绍｜索尼影业",
+              "en": "On the Waterfront synopsis — Sony Pictures"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-603",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-603",
+      "subject": "nobel-laureate-603",
+      "edition": "mono",
+      "title": "辛克莱·刘易斯",
+      "titleEnglish": "Sinclair Lewis",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-603/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-603/mono.jpg",
+      "sha256": "6f8982f611888056f60134b4016ef9c7e39deefaeb780a04bcbbbf51eb3e3dab",
+      "thumbnailSHA256": "7959714bc2251ce1883cad4d738c6ec8ab586f06e1d0933ff9ba5b995f1f7670",
+      "context": {
+        "phrase": {
+          "zh": "把日常看清，才看得见它的荒诞。",
+          "en": "Look closely at ordinary life to see its absurdity."
+        },
+        "visual": {
+          "zh": "竖向椭圆镜越出上下边缘，细窄内圈与木框围住映出的商铺；屋檐和路面线条随镜面轻轻弯曲，右侧暗面与左侧留白相衬。",
+          "en": "A vertical oval mirror crops beyond the top and bottom. A narrow inner rim and wooden frame enclose reflected shop fronts; roof and pavement lines bend gently with the mirror. A dark field at right contrasts with open space at left."
+        },
+        "background": {
+          "zh": "刘易斯因生动有力的描写，以及以机智和幽默塑造新人物类型的能力，获得1930年诺贝尔文学奖。他在诺贝尔演讲中批评把美国社会写得过分理想化，主张正视普通人的复杂生活。弯曲的店面倒影是观察社会自我形象的原创寓意；建筑并非真实地点、小说插图或他的私人物件复原。短句为原创，不是他的引语。\n1930年文学奖；独享本年度奖项。获奖理由（中文译述）：因其有力而生动的描写艺术，以及以机智和幽默创造新人物类型的能力。",
+          "en": "Lewis received the 1930 Nobel Prize in Literature for vivid descriptive writing and creating new character types with wit and humor. In his Nobel lecture he criticized overly idealized depictions of American society and called for attention to the complexity of ordinary life. Bent shop-front reflections are an original metaphor for examining society’s self-image. The architecture is not a real location, a novel illustration or a reconstruction of his possessions. The phrase is original, not his quotation.\n1930 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年文学奖｜官方记录",
+              "en": "1930 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1930/lewis/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-603",
+      "subject": "nobel-laureate-603",
+      "edition": "color",
+      "title": "辛克莱·刘易斯",
+      "titleEnglish": "Sinclair Lewis",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-603/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-603/color.jpg",
+      "sha256": "ec0b4041ce03e747a5df927f1e709fda6bb3b467a63999d95e5ab89b2c17550c",
+      "thumbnailSHA256": "58ee18ab5daf663dade407287006b94d3cc2554c6f64645ef96b71068ab9868c",
+      "context": {
+        "phrase": {
+          "zh": "把日常看清，才看得见它的荒诞。",
+          "en": "Look closely at ordinary life to see its absurdity."
+        },
+        "visual": {
+          "zh": "竖向椭圆镜越出上下边缘，细窄内圈与木框围住映出的商铺；屋檐和路面线条随镜面轻轻弯曲，右侧暗面与左侧留白相衬。",
+          "en": "A vertical oval mirror crops beyond the top and bottom. A narrow inner rim and wooden frame enclose reflected shop fronts; roof and pavement lines bend gently with the mirror. A dark field at right contrasts with open space at left."
+        },
+        "background": {
+          "zh": "刘易斯因生动有力的描写，以及以机智和幽默塑造新人物类型的能力，获得1930年诺贝尔文学奖。他在诺贝尔演讲中批评把美国社会写得过分理想化，主张正视普通人的复杂生活。弯曲的店面倒影是观察社会自我形象的原创寓意；建筑并非真实地点、小说插图或他的私人物件复原。短句为原创，不是他的引语。\n1930年文学奖；独享本年度奖项。获奖理由（中文译述）：因其有力而生动的描写艺术，以及以机智和幽默创造新人物类型的能力。",
+          "en": "Lewis received the 1930 Nobel Prize in Literature for vivid descriptive writing and creating new character types with wit and humor. In his Nobel lecture he criticized overly idealized depictions of American society and called for attention to the complexity of ordinary life. Bent shop-front reflections are an original metaphor for examining society’s self-image. The architecture is not a real location, a novel illustration or a reconstruction of his possessions. The phrase is original, not his quotation.\n1930 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his vigorous and graphic art of description and his ability to create, with wit and humour, new types of characters"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1930 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1930/summary/",
+            "labelLocalized": {
+              "zh": "1930年文学奖｜官方记录",
+              "en": "1930 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1930/lewis/lecture/",
+            "labelLocalized": {
+              "zh": "诺贝尔演讲｜官方资料",
+              "en": "Nobel lecture — official source"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

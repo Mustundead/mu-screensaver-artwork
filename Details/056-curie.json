@@ -1,0 +1,70 @@
+{
+  "subject": "056-curie",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:056-curie",
+      "subject": "056-curie",
+      "edition": "mono",
+      "title": "居里与物质深处",
+      "titleEnglish": "Curie and the Depths of Matter",
+      "category": "自然科学",
+      "image": "Images/mono/056-curie.jpg",
+      "thumbnail": "Thumbs/mono/056-curie.jpg",
+      "sha256": "29992a93f911a9e22fc399ba880b64d970cb5c76d0005d69ccdf83114c4f4d8d",
+      "thumbnailSHA256": "3e15a035cb357ac8bad2a08bfddf0c87130c2d46d71938a9aca13db2278b7bff",
+      "context": {
+        "phrase": {
+          "zh": "认真测量，让未知元素显形。",
+          "en": "Careful measurements reveal unknown elements."
+        },
+        "visual": {
+          "zh": "人物、矿石与精细实验器具围成一处安静工作台，表现从样品中追踪新物质的过程。矿石和仪器不是实验室档案照片。",
+          "en": "A stylized figure, minerals and delicate apparatus form a quiet bench, suggesting a search for new substances in samples. This is not an archival photograph of a laboratory."
+        },
+        "background": {
+          "zh": "玛丽·居里和皮埃尔·居里通过测量矿物的放射性，发现了钋和镭。她在 1903 年分享物理学诺贝尔奖，并在 1911 年因放射化学研究获化学奖；画里的光晕并非放射性的真实可见外观。",
+          "en": "Marie and Pierre Curie measured radioactivity in minerals and discovered polonium and radium. She shared the 1903 Physics Nobel Prize and received the 1911 Chemistry Prize for her work; the painted glow is not how radioactivity visibly appears."
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize · Marie Curie",
+            "url": "https://www.nobelprize.org/womenwhochangedscience/stories/marie-curie"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:056-curie",
+      "subject": "056-curie",
+      "edition": "color",
+      "title": "居里与物质深处",
+      "titleEnglish": "Curie and the Depths of Matter",
+      "category": "自然科学",
+      "image": "Images/color/056-curie.jpg",
+      "thumbnail": "Thumbs/color/056-curie.jpg",
+      "sha256": "356a259eaaa4913211e68648da2d96c038c533c23adb5e528524c0558b52832e",
+      "thumbnailSHA256": "5e5726f650d782c5d3312f6c5ece24532184916ad60e4720237d20e122ef4a25",
+      "context": {
+        "phrase": {
+          "zh": "认真测量，让未知元素显形。",
+          "en": "Careful measurements reveal unknown elements."
+        },
+        "visual": {
+          "zh": "人物、矿石与精细实验器具围成一处安静工作台，表现从样品中追踪新物质的过程。矿石和仪器不是实验室档案照片。",
+          "en": "A stylized figure, minerals and delicate apparatus form a quiet bench, suggesting a search for new substances in samples. This is not an archival photograph of a laboratory."
+        },
+        "background": {
+          "zh": "玛丽·居里和皮埃尔·居里通过测量矿物的放射性，发现了钋和镭。她在 1903 年分享物理学诺贝尔奖，并在 1911 年因放射化学研究获化学奖；画里的光晕并非放射性的真实可见外观。",
+          "en": "Marie and Pierre Curie measured radioactivity in minerals and discovered polonium and radium. She shared the 1903 Physics Nobel Prize and received the 1911 Chemistry Prize for her work; the painted glow is not how radioactivity visibly appears."
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize · Marie Curie",
+            "url": "https://www.nobelprize.org/womenwhochangedscience/stories/marie-curie"
+          }
+        ]
+      }
+    }
+  }
+}

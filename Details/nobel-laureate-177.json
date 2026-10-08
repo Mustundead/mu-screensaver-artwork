@@ -1,0 +1,126 @@
+{
+  "subject": "nobel-laureate-177",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-177",
+      "subject": "nobel-laureate-177",
+      "edition": "mono",
+      "title": "弗里茨·哈伯",
+      "titleEnglish": "Fritz Haber",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-177/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-177/mono.jpg",
+      "sha256": "e56ffae85601178a8f8f0f031cdddd9b7dd7f0fe8957beb6db7c57e6d6ff81a6",
+      "thumbnailSHA256": "e2cc57054315bc5d7d219bf2f7b9e114c3c6623418d06e36154876871619b143",
+      "context": {
+        "phrase": {
+          "zh": "改变世界的成果，也要追问用途。",
+          "en": "Ask how discoveries are used, as well as what they change."
+        },
+        "visual": {
+          "zh": "巨大的蓝灰色压力容器从右上裁切，左下三枝金色麦穗与容器轻轻交叠，弯管伸向右下。彩色版区分钢、黄铜接头和谷物；黑白版保持布局。它们是工业化学与农业用途的原创象征，不是哈伯装置的复原或制备过程示意。",
+          "en": "An enormous blue-gray pressure vessel is cropped at upper right; three golden wheat ears enter from lower left and lightly overlap it, while curved pipes run toward lower right. Color distinguishes steel, brass fitting and grain; monochrome keeps the layout. These original symbols of industrial chemistry and agricultural use are not a reconstruction of Haber’s equipment or a production diagram."
+        },
+        "background": {
+          "zh": "哈伯独享1918年诺贝尔化学奖，因从元素合成氨而获奖；诺贝尔官网传记说明该奖于1919年颁发。官网化学史文章指出，这些元素是氮和氢。弗里茨·哈伯研究所介绍了合成氨对粮食生产的作用，同时明确否定他在第一次世界大战期间开发与使用化学战剂的行为。画面只以麦穗和容器表达工业化学的农业用途，不以获奖掩盖这段历史。短句为原创，不是哈伯引语。\n1918年化学奖；独享本年度奖项。获奖理由（中文译述）：因从元素合成氨而获奖。",
+          "en": "Haber received the full 1918 Nobel Prize in Chemistry for synthesizing ammonia from its elements; the Nobel biography says it was awarded in 1919. NobelPrize.org’s chemistry history identifies nitrogen and hydrogen. The Fritz Haber Institute discusses ammonia’s contribution to food production while disapproving his role in developing and using chemical warfare agents during World War I. Wheat and vessel are an original interpretation of agricultural use, without allowing the award to erase that history. The phrase is original, not a quotation.\n1918 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for the synthesis of ammonia from its elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1918 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1918/summary/",
+            "labelLocalized": {
+              "zh": "1918年化学奖｜官方记录",
+              "en": "1918 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1918/haber/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "fhi.mpg.de",
+            "url": "https://www.fhi.mpg.de/about",
+            "labelLocalized": {
+              "zh": "研究所介绍｜弗里茨·哈伯研究所",
+              "en": "Institute profile — Fritz Haber Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-177",
+      "subject": "nobel-laureate-177",
+      "edition": "color",
+      "title": "弗里茨·哈伯",
+      "titleEnglish": "Fritz Haber",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-177/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-177/color.jpg",
+      "sha256": "163ec7d63dbd157f081f3a225838b371dcc57fa3d9310bb6ae243054ef95a870",
+      "thumbnailSHA256": "224b9108f4e9bcd682576ec11a33c54b224a24cef8377cb6e4fbabd24a9f4a81",
+      "context": {
+        "phrase": {
+          "zh": "改变世界的成果，也要追问用途。",
+          "en": "Ask how discoveries are used, as well as what they change."
+        },
+        "visual": {
+          "zh": "巨大的蓝灰色压力容器从右上裁切，左下三枝金色麦穗与容器轻轻交叠，弯管伸向右下。彩色版区分钢、黄铜接头和谷物；黑白版保持布局。它们是工业化学与农业用途的原创象征，不是哈伯装置的复原或制备过程示意。",
+          "en": "An enormous blue-gray pressure vessel is cropped at upper right; three golden wheat ears enter from lower left and lightly overlap it, while curved pipes run toward lower right. Color distinguishes steel, brass fitting and grain; monochrome keeps the layout. These original symbols of industrial chemistry and agricultural use are not a reconstruction of Haber’s equipment or a production diagram."
+        },
+        "background": {
+          "zh": "哈伯独享1918年诺贝尔化学奖，因从元素合成氨而获奖；诺贝尔官网传记说明该奖于1919年颁发。官网化学史文章指出，这些元素是氮和氢。弗里茨·哈伯研究所介绍了合成氨对粮食生产的作用，同时明确否定他在第一次世界大战期间开发与使用化学战剂的行为。画面只以麦穗和容器表达工业化学的农业用途，不以获奖掩盖这段历史。短句为原创，不是哈伯引语。\n1918年化学奖；独享本年度奖项。获奖理由（中文译述）：因从元素合成氨而获奖。",
+          "en": "Haber received the full 1918 Nobel Prize in Chemistry for synthesizing ammonia from its elements; the Nobel biography says it was awarded in 1919. NobelPrize.org’s chemistry history identifies nitrogen and hydrogen. The Fritz Haber Institute discusses ammonia’s contribution to food production while disapproving his role in developing and using chemical warfare agents during World War I. Wheat and vessel are an original interpretation of agricultural use, without allowing the award to erase that history. The phrase is original, not a quotation.\n1918 — The Nobel Prize in Chemistry. Received the full prize. Official motivation: for the synthesis of ammonia from its elements"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1918 — Chemistry",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1918/summary/",
+            "labelLocalized": {
+              "zh": "1918年化学奖｜官方记录",
+              "en": "1918 The Nobel Prize in Chemistry — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/themes/the-nobel-prize-in-chemistry-the-development-of-modern-chemistry/",
+            "labelLocalized": {
+              "zh": "现代化学发展史｜诺贝尔奖官网",
+              "en": "History of modern chemistry — Nobel Prize"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/chemistry/1918/haber/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "fhi.mpg.de",
+            "url": "https://www.fhi.mpg.de/about",
+            "labelLocalized": {
+              "zh": "研究所介绍｜弗里茨·哈伯研究所",
+              "en": "Institute profile — Fritz Haber Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

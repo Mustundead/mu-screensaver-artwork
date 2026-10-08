@@ -1,0 +1,102 @@
+{
+  "subject": "oscar-best-picture-006",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-006",
+      "subject": "oscar-best-picture-006",
+      "edition": "mono",
+      "title": "乱世春秋",
+      "titleEnglish": "Cavalcade",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-006/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-006/mono.jpg",
+      "sha256": "a3de516e2c2a266a9d25ecf20facfa02e540a64ca358c735021de2dd90b88eb8",
+      "thumbnailSHA256": "ed81ed7157d982fb821fd059655f97f84707009dada83fbca0de39d0b870d958",
+      "context": {
+        "phrase": {
+          "zh": "时代经过家门，也留在每个人的生活里。",
+          "en": "History passes the doorstep and stays in everyday lives."
+        },
+        "visual": {
+          "zh": "为《乱世春秋》独立创作的家庭记忆拼贴，用门廊、空相框、相册、远洋船与旧靴子表现家庭经历的时代变化。伦敦轮廓与物件是艺术诠释，不复刻影片镜头，也不把船只指认为准确的泰坦尼克号模型。",
+          "en": "An original family-memory collage for Cavalcade uses a doorway, empty frame, albums, ocean liner and worn boots to evoke changing times in family lives. Its London silhouettes and objects are artistic interpretations, not a copied film scene or an exact model of Titanic."
+        },
+        "background": {
+          "zh": "1933年的《乱世春秋》由弗兰克·劳埃德执导，获得第六届奥斯卡最佳影片奖。故事交织伦敦马里奥特一家和布里奇斯一家的经历，时间从1899年岁末延续到1933年，涉及泰坦尼克号沉没和第一次世界大战等历史事件。配图采用家庭记忆的物件表达这种跨度，不将想象的门廊或相册当作影片中的真实道具。\n第6届奥斯卡最佳影片：乱世春秋。颁奖年份 1934；参评年份 1932/33。",
+          "en": "Directed by Frank Lloyd, the 1933 film Cavalcade won Best Picture at the sixth Academy Awards. It intertwines the Marryot and Bridges families from the end of 1899 into 1933, touching on Titanic and World War I. The artwork interprets that span through family-memory objects without presenting its imagined doorway or albums as actual film props.\nAcademy Awards ceremony 6 (1934), Best Picture: Cavalcade. Eligibility year: 1932/33."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1934",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/4511-CAVALCADE",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          },
+          {
+            "label": "moma.org",
+            "url": "https://www.moma.org/calendar/events/8403"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-006",
+      "subject": "oscar-best-picture-006",
+      "edition": "color",
+      "title": "乱世春秋",
+      "titleEnglish": "Cavalcade",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-006/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-006/color.jpg",
+      "sha256": "54d9abc0640262ef76022f344f579582faa90ba360d5bbacae7efec73c4f1650",
+      "thumbnailSHA256": "49c6616eb9c2dd2eee0c5f374258c80f7851a2f4cd551d6dc6a73e29f6a99329",
+      "context": {
+        "phrase": {
+          "zh": "时代经过家门，也留在每个人的生活里。",
+          "en": "History passes the doorstep and stays in everyday lives."
+        },
+        "visual": {
+          "zh": "为《乱世春秋》独立创作的家庭记忆拼贴，用门廊、空相框、相册、远洋船与旧靴子表现家庭经历的时代变化。伦敦轮廓与物件是艺术诠释，不复刻影片镜头，也不把船只指认为准确的泰坦尼克号模型。",
+          "en": "An original family-memory collage for Cavalcade uses a doorway, empty frame, albums, ocean liner and worn boots to evoke changing times in family lives. Its London silhouettes and objects are artistic interpretations, not a copied film scene or an exact model of Titanic."
+        },
+        "background": {
+          "zh": "1933年的《乱世春秋》由弗兰克·劳埃德执导，获得第六届奥斯卡最佳影片奖。故事交织伦敦马里奥特一家和布里奇斯一家的经历，时间从1899年岁末延续到1933年，涉及泰坦尼克号沉没和第一次世界大战等历史事件。配图采用家庭记忆的物件表达这种跨度，不将想象的门廊或相册当作影片中的真实道具。\n第6届奥斯卡最佳影片：乱世春秋。颁奖年份 1934；参评年份 1932/33。",
+          "en": "Directed by Frank Lloyd, the 1933 film Cavalcade won Best Picture at the sixth Academy Awards. It intertwines the Marryot and Bridges families from the end of 1899 into 1933, touching on Titanic and World War I. The artwork interprets that span through family-memory objects without presenting its imagined doorway or albums as actual film props.\nAcademy Awards ceremony 6 (1934), Best Picture: Cavalcade. Eligibility year: 1932/33."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1934",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/4511-CAVALCADE",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          },
+          {
+            "label": "moma.org",
+            "url": "https://www.moma.org/calendar/events/8403"
+          }
+        ]
+      }
+    }
+  }
+}

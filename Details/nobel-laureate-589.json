@@ -1,0 +1,126 @@
+{
+  "subject": "nobel-laureate-589",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-589",
+      "subject": "nobel-laureate-589",
+      "edition": "mono",
+      "title": "克努特·汉姆生",
+      "titleEnglish": "Knut Hamsun",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-589/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-589/mono.jpg",
+      "sha256": "7653d3e77e136ebfd515396e9a941bacac74b6ca0f6354ff7c37da4b7e07c4b4",
+      "thumbnailSHA256": "846ad185e74e99d4dc7aabae4e07dd66c232f2949634d5a48e9e68457860bdb6",
+      "context": {
+        "phrase": {
+          "zh": "土壤与文字，都留下时间。",
+          "en": "Soil and words both hold time."
+        },
+        "visual": {
+          "zh": "巨大的锈红犁铧连着木件，从右上裁切；左下土块中露出小小的绿色幼苗，卷起的空白纸页位于前方，与犁铧下缘交叠。黑白版保留物件和构图。这是围绕《大地的成长》的原创静物寓意，不是作者手稿、人物肖像或小说场景复刻。",
+          "en": "An enormous rust-red ploughshare with wooden fittings is cropped at upper right. A small green shoot emerges from soil at lower left; a rolled blank sheet sits in front, overlapping the share’s lower edge. Monochrome keeps the objects and composition. This is an original still-life interpretation of Growth of the Soil, not an author’s manuscript, portrait or replica of a novel scene."
+        },
+        "background": {
+          "zh": "汉姆生独享1920年诺贝尔文学奖，获奖作品是1917年出版的《大地的成长》（Growth of the Soil）。汉姆生中心介绍了伊萨克开垦土地、农场逐渐发展，以及作品中乡村与城市的冲突。该中心的政治背景资料与诺贝尔官网生平同时记录了汉姆生在二战期间支持德国的立场；文学获奖不能替代对这段历史的交代。犁铧、幼苗与空白纸页是原创寓意，没有原物或原稿身份。短句为原创，不是人物引语。\n1920年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰其重要作品《大地的成长》（Growth of the Soil）。",
+          "en": "Hamsun received the full 1920 Nobel Prize in Literature for Growth of the Soil, published in 1917. The Hamsun Centre describes Isak cultivating land, the farm’s growth and the novel’s conflict between rural and urban life. The Centre’s political material and NobelPrize.org’s biography also record Hamsun’s support for Germany during the Second World War; the literary award does not erase that history. Share, shoot and blank paper are original symbols, not identified artifacts or manuscripts. The phrase is original, not a quotation.\n1920 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his monumental work, Growth of the Soil"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1920 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1920/summary/",
+            "labelLocalized": {
+              "zh": "1920年文学奖｜官方记录",
+              "en": "1920 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "hamsunsenteret.no",
+            "url": "https://www.hamsunsenteret.no/artikler/markens-grde",
+            "labelLocalized": {
+              "zh": "《大地的成长》作品介绍｜汉姆生中心",
+              "en": "Growth of the Soil explained — Hamsun Centre"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1920/hamsun/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "hamsunsenteret.no",
+            "url": "https://www.hamsunsenteret.no/en/artikler/politikk",
+            "labelLocalized": {
+              "zh": "汉姆生政治背景｜汉姆生中心",
+              "en": "Hamsun political background — Hamsun Centre"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-589",
+      "subject": "nobel-laureate-589",
+      "edition": "color",
+      "title": "克努特·汉姆生",
+      "titleEnglish": "Knut Hamsun",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-589/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-589/color.jpg",
+      "sha256": "fc0d45331bf8902dd0f7555331c478c87e678dca2f0136205ba300558bfd23c5",
+      "thumbnailSHA256": "ec623ca15c0513836e1ca1a4d3f97d1a4afa298d270d07dbf6affad1c62d156e",
+      "context": {
+        "phrase": {
+          "zh": "土壤与文字，都留下时间。",
+          "en": "Soil and words both hold time."
+        },
+        "visual": {
+          "zh": "巨大的锈红犁铧连着木件，从右上裁切；左下土块中露出小小的绿色幼苗，卷起的空白纸页位于前方，与犁铧下缘交叠。黑白版保留物件和构图。这是围绕《大地的成长》的原创静物寓意，不是作者手稿、人物肖像或小说场景复刻。",
+          "en": "An enormous rust-red ploughshare with wooden fittings is cropped at upper right. A small green shoot emerges from soil at lower left; a rolled blank sheet sits in front, overlapping the share’s lower edge. Monochrome keeps the objects and composition. This is an original still-life interpretation of Growth of the Soil, not an author’s manuscript, portrait or replica of a novel scene."
+        },
+        "background": {
+          "zh": "汉姆生独享1920年诺贝尔文学奖，获奖作品是1917年出版的《大地的成长》（Growth of the Soil）。汉姆生中心介绍了伊萨克开垦土地、农场逐渐发展，以及作品中乡村与城市的冲突。该中心的政治背景资料与诺贝尔官网生平同时记录了汉姆生在二战期间支持德国的立场；文学获奖不能替代对这段历史的交代。犁铧、幼苗与空白纸页是原创寓意，没有原物或原稿身份。短句为原创，不是人物引语。\n1920年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰其重要作品《大地的成长》（Growth of the Soil）。",
+          "en": "Hamsun received the full 1920 Nobel Prize in Literature for Growth of the Soil, published in 1917. The Hamsun Centre describes Isak cultivating land, the farm’s growth and the novel’s conflict between rural and urban life. The Centre’s political material and NobelPrize.org’s biography also record Hamsun’s support for Germany during the Second World War; the literary award does not erase that history. Share, shoot and blank paper are original symbols, not identified artifacts or manuscripts. The phrase is original, not a quotation.\n1920 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his monumental work, Growth of the Soil"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1920 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1920/summary/",
+            "labelLocalized": {
+              "zh": "1920年文学奖｜官方记录",
+              "en": "1920 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "hamsunsenteret.no",
+            "url": "https://www.hamsunsenteret.no/artikler/markens-grde",
+            "labelLocalized": {
+              "zh": "《大地的成长》作品介绍｜汉姆生中心",
+              "en": "Growth of the Soil explained — Hamsun Centre"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1920/hamsun/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          },
+          {
+            "label": "hamsunsenteret.no",
+            "url": "https://www.hamsunsenteret.no/en/artikler/politikk",
+            "labelLocalized": {
+              "zh": "汉姆生政治背景｜汉姆生中心",
+              "en": "Hamsun political background — Hamsun Centre"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

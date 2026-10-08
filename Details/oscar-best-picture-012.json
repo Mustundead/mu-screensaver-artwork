@@ -1,0 +1,102 @@
+{
+  "subject": "oscar-best-picture-012",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-012",
+      "subject": "oscar-best-picture-012",
+      "edition": "mono",
+      "title": "乱世佳人",
+      "titleEnglish": "Gone with the Wind",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-012/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-012/mono.jpg",
+      "sha256": "bd29a7d96311972d2d74d3f7fd8f19f27b41237c7352651936fa868d7b32d425",
+      "thumbnailSHA256": "586e988d3b7839b69158b97ff00bd3267b83a0529649cb5e5740e92360e94c79",
+      "context": {
+        "phrase": {
+          "zh": "变化之后，仍要面对明天。",
+          "en": "After change, face another day."
+        },
+        "visual": {
+          "zh": "倾斜的大幅木百叶窗与蓝色衣料相互遮挡，近处的棉枝和远处受损房屋形成尺度反差。它从土地、失去与继续生活中取意，不复制电影海报、演员面孔或具体场景。",
+          "en": "An oversized diagonal wooden shutter overlaps cobalt fabric; nearby cotton and a distant damaged house create contrasting scales. Land, loss and persistence inform an original interpretation without copying a poster, actor likeness or particular scene."
+        },
+        "background": {
+          "zh": "《乱世佳人》是1939年的美国影片，在1940年举行的第12届奥斯卡颁奖礼上获得最佳影片；颁奖年份与影片年份不同。美国国会图书馆的影片目录将故事概括为斯嘉丽在美国内战前、战争期间和战后重建时期的生活与情感，塔拉庄园是她反复牵挂的地方。电影将个人关系与社会变迁交织在一起，但它对蓄奴南方的浪漫化呈现和黑人角色的刻板描写也受到批评，英国电影协会的介绍明确提醒观众这一局限。配图以残损木窗、衣料和棉枝作原创视觉解读，不将电影叙事当作真实历史全貌；短句为原创，不是台词。\n第12届奥斯卡最佳影片：乱世佳人。颁奖年份 1940；参评年份 1939。",
+          "en": "Gone with the Wind is a 1939 American film that won Best Picture at the 12th Academy Awards in 1940; release and ceremony years differ. The Library of Congress catalog summarizes Scarlett's life and loves across the antebellum period, Civil War and Reconstruction, with Tara central to her attachments. Personal relationships intersect with social upheaval, but the film's romanticized slaveholding South and stereotyped Black roles are important limitations explicitly criticized in the BFI's introduction. The damaged shutter, fabric and cotton are an original visual interpretation rather than a historical record. The phrase is original, not film dialogue.\nAcademy Awards ceremony 12 (1940), Best Picture: Gone with the Wind. Eligibility year: 1939."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1940",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "loc.gov",
+            "url": "https://www.loc.gov/item/86707780/"
+          },
+          {
+            "label": "player.bfi.org.uk",
+            "url": "https://player.bfi.org.uk/rentals/film/watch-gone-with-the-wind-1939-online",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-012",
+      "subject": "oscar-best-picture-012",
+      "edition": "color",
+      "title": "乱世佳人",
+      "titleEnglish": "Gone with the Wind",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-012/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-012/color.jpg",
+      "sha256": "2af101879e087b1cef180daec9cc3334badea5e4521c48c7fd050dcf20af4322",
+      "thumbnailSHA256": "2a994ac169c2ed5483cc4c82e9be6620dc227954f927f3ab13bbf92757bff8e3",
+      "context": {
+        "phrase": {
+          "zh": "变化之后，仍要面对明天。",
+          "en": "After change, face another day."
+        },
+        "visual": {
+          "zh": "倾斜的大幅木百叶窗与蓝色衣料相互遮挡，近处的棉枝和远处受损房屋形成尺度反差。它从土地、失去与继续生活中取意，不复制电影海报、演员面孔或具体场景。",
+          "en": "An oversized diagonal wooden shutter overlaps cobalt fabric; nearby cotton and a distant damaged house create contrasting scales. Land, loss and persistence inform an original interpretation without copying a poster, actor likeness or particular scene."
+        },
+        "background": {
+          "zh": "《乱世佳人》是1939年的美国影片，在1940年举行的第12届奥斯卡颁奖礼上获得最佳影片；颁奖年份与影片年份不同。美国国会图书馆的影片目录将故事概括为斯嘉丽在美国内战前、战争期间和战后重建时期的生活与情感，塔拉庄园是她反复牵挂的地方。电影将个人关系与社会变迁交织在一起，但它对蓄奴南方的浪漫化呈现和黑人角色的刻板描写也受到批评，英国电影协会的介绍明确提醒观众这一局限。配图以残损木窗、衣料和棉枝作原创视觉解读，不将电影叙事当作真实历史全貌；短句为原创，不是台词。\n第12届奥斯卡最佳影片：乱世佳人。颁奖年份 1940；参评年份 1939。",
+          "en": "Gone with the Wind is a 1939 American film that won Best Picture at the 12th Academy Awards in 1940; release and ceremony years differ. The Library of Congress catalog summarizes Scarlett's life and loves across the antebellum period, Civil War and Reconstruction, with Tara central to her attachments. Personal relationships intersect with social upheaval, but the film's romanticized slaveholding South and stereotyped Black roles are important limitations explicitly criticized in the BFI's introduction. The damaged shutter, fabric and cotton are an original visual interpretation rather than a historical record. The phrase is original, not film dialogue.\nAcademy Awards ceremony 12 (1940), Best Picture: Gone with the Wind. Eligibility year: 1939."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1940",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "loc.gov",
+            "url": "https://www.loc.gov/item/86707780/"
+          },
+          {
+            "label": "player.bfi.org.uk",
+            "url": "https://player.bfi.org.uk/rentals/film/watch-gone-with-the-wind-1939-online",
+            "labelLocalized": {
+              "zh": "影片资料｜英国电影协会",
+              "en": "Film record — BFI"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

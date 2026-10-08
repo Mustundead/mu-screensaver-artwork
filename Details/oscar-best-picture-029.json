@@ -1,0 +1,94 @@
+{
+  "subject": "oscar-best-picture-029",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:oscar-best-picture-029",
+      "subject": "oscar-best-picture-029",
+      "edition": "mono",
+      "title": "环游世界八十天",
+      "titleEnglish": "Around the World in 80 Days",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-029/mono.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-029/mono.jpg",
+      "sha256": "8a1a10d614df12be46b12a66150011eac7782f7f762b8a5ccc68544b730a2585",
+      "thumbnailSHA256": "16eafdef878073556fe06b184b7f446cd179e2e2e6221493606209773a01fb7b",
+      "context": {
+        "phrase": {
+          "zh": "带着好奇出发，也留意脚下的时间。",
+          "en": "Travel with curiosity and keep time in view."
+        },
+        "visual": {
+          "zh": "从气球下方仰看，暗红、灰绿与暖白布片呈放射状展开，并在画面上方和两侧裁切。绳索把中央支撑圈与下方吊篮连在一起，细刻线表现布片和编织纹理。黑白版保留连接关系；这是旅程寓意，不是剧照或道具复原。",
+          "en": "Viewed from below, muted red, green and ivory balloon panels radiate outward and are cropped at the top and both sides. Ropes connect the central support ring to the basket below; fine engraving shapes the fabric and woven wicker. The neutral monochrome edition retains these connections. This is an original travel metaphor, not a film still or prop reconstruction."
+        },
+        "background": {
+          "zh": "《环游世界八十天》是1956年影片，在1957年第29届奥斯卡获最佳影片奖，改编自儒勒·凡尔纳的小说。故事中，福格与仆人路路通尝试按约定时间环游世界；气球旅行是影片中的情节。仰视气球是旅程的原创寓意，不是剧照、影片道具复原或真实路线；短句为原创，不是台词。\n第29届奥斯卡最佳影片：环游世界八十天。颁奖年份 1957；参评年份 1956。",
+          "en": "Around the World in 80 Days is a 1956 film that won Best Picture at the 29th Academy Awards in 1957, adapted from Jules Verne’s novel. Fogg and his servant Passepartout attempt a journey around the world within a deadline; balloon travel appears in the film. The upward view of the balloon is an original metaphor for travel, not a film still, reconstructed props or an actual route. The phrase is original, not dialogue.\nAcademy Awards ceremony 29 (1957), Best Picture: Around the World in 80 Days. Eligibility year: 1956."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1957",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/51739-AROUND-THEWORLDINEIGHTYDAYS",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:oscar-best-picture-029",
+      "subject": "oscar-best-picture-029",
+      "edition": "color",
+      "title": "环游世界八十天",
+      "titleEnglish": "Around the World in 80 Days",
+      "category": "奥斯卡最佳影片",
+      "image": "Images/awards/oscar-best-picture-029/color.jpg",
+      "thumbnail": "Thumbs/awards/oscar-best-picture-029/color.jpg",
+      "sha256": "bfa6ebb284459b38ee53f4a2cac04b2db487e726fb41d7cb3c6f15c46ba56e28",
+      "thumbnailSHA256": "bfe617b5d17c91e77240a7d91724730159c1de992c97dd90285ad2948da083c6",
+      "context": {
+        "phrase": {
+          "zh": "带着好奇出发，也留意脚下的时间。",
+          "en": "Travel with curiosity and keep time in view."
+        },
+        "visual": {
+          "zh": "从气球下方仰看，暗红、灰绿与暖白布片呈放射状展开，并在画面上方和两侧裁切。绳索把中央支撑圈与下方吊篮连在一起，细刻线表现布片和编织纹理。黑白版保留连接关系；这是旅程寓意，不是剧照或道具复原。",
+          "en": "Viewed from below, muted red, green and ivory balloon panels radiate outward and are cropped at the top and both sides. Ropes connect the central support ring to the basket below; fine engraving shapes the fabric and woven wicker. The neutral monochrome edition retains these connections. This is an original travel metaphor, not a film still or prop reconstruction."
+        },
+        "background": {
+          "zh": "《环游世界八十天》是1956年影片，在1957年第29届奥斯卡获最佳影片奖，改编自儒勒·凡尔纳的小说。故事中，福格与仆人路路通尝试按约定时间环游世界；气球旅行是影片中的情节。仰视气球是旅程的原创寓意，不是剧照、影片道具复原或真实路线；短句为原创，不是台词。\n第29届奥斯卡最佳影片：环游世界八十天。颁奖年份 1957；参评年份 1956。",
+          "en": "Around the World in 80 Days is a 1956 film that won Best Picture at the 29th Academy Awards in 1957, adapted from Jules Verne’s novel. Fogg and his servant Passepartout attempt a journey around the world within a deadline; balloon travel appears in the film. The upward view of the balloon is an original metaphor for travel, not a film still, reconstructed props or an actual route. The phrase is original, not dialogue.\nAcademy Awards ceremony 29 (1957), Best Picture: Around the World in 80 Days. Eligibility year: 1956."
+        },
+        "sources": [
+          {
+            "label": "Academy Awards",
+            "url": "https://www.oscars.org/oscars/ceremonies/1957",
+            "labelLocalized": {
+              "zh": "奥斯卡官方获奖记录",
+              "en": "Official Academy Awards record"
+            }
+          },
+          {
+            "label": "catalog.afi.com",
+            "url": "https://catalog.afi.com/Film/51739-AROUND-THEWORLDINEIGHTYDAYS",
+            "labelLocalized": {
+              "zh": "影片资料｜美国电影学会",
+              "en": "Film record — American Film Institute"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

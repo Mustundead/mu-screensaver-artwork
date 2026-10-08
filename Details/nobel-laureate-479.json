@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-479",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-479",
+      "subject": "nobel-laureate-479",
+      "edition": "mono",
+      "title": "阿尔弗雷德·弗里德",
+      "titleEnglish": "Alfred Fried",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-479/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-479/mono.jpg",
+      "sha256": "2e3cf23f997c58b7154860734100030bfdefca8d3425e8728970ad58023b157e",
+      "thumbnailSHA256": "00508ed12695c4295757335dbc2659c0ebfb523b36e3c9c261ab7b9fab2a2438",
+      "context": {
+        "phrase": {
+          "zh": "持续的联络，需要持续的表达。",
+          "en": "Lasting cooperation needs a continuing voice."
+        },
+        "visual": {
+          "zh": "巨大的印刷滚筒压过向左下展开的空白纸带，旁边少量折页把尺度拉开，借出版物的传播呼应和平倡议。黑白与钴蓝版突出滚筒；彩色版使用深青绿滚筒、乳白纸带和灰绿、浅赭折页。纸面没有虚构文章或标语，装置也不是历史印刷机的精确复原。",
+          "en": "An enormous cropped printing roller feeds a blank sheet toward the lower left beside a small folded stack, evoking publishing and peace advocacy. Cobalt highlights the roller in monochrome; full color uses deep teal, ivory, sage and pale ochre paper. No invented article or slogan appears, and the apparatus is not a precise historical reconstruction."
+        },
+        "background": {
+          "zh": "弗里德与阿塞尔共同获得1911年诺贝尔和平奖，各占二分之一份额。他通过新闻写作、编辑、出版和组织工作参与和平运动。诺贝尔官方生平介绍记载，他受贝尔塔·冯·苏特纳影响，参与德国和平协会，并创办和编辑和平刊物；1899年后编辑《和平观察》。同一资料指出，1899年海牙和平会议是他思想发展中的转折点，他更加重视国家间的经济合作与政治组织，把国际关系中的无序视为战争的根源之一。这里介绍的是他的主张与历史工作，不把这一观点写成能够解释全部战争的定论。印刷滚筒和空白报纸是原创隐喻，不复制具体刊物；短句不是本人引语。\n1911年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因揭示并反对他认为导致战争的主要原因，即国际关系中的无序状态。",
+          "en": "Fried shared the 1911 Nobel Peace Prize equally with Asser. He worked through journalism, editing, publishing and peace organizations. Nobel’s biographical account describes Suttner’s influence, his German Peace Society work and peace journals, including Die Friedenswarte from 1899. It identifies the 1899 Hague Peace Conference as a turning point toward economic cooperation and political organization between nations. He saw international anarchy as a cause of war; this is his historical argument, not a complete explanation of every war. The roller and blank newspapers are original metaphors, not copied publications. The phrase is not a quotation.\n1911 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his effort to expose and fight what he considers to be the main cause of war, namely, the anarchy in international relations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年和平奖｜官方记录",
+              "en": "1911 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1911/fried/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-479",
+      "subject": "nobel-laureate-479",
+      "edition": "color",
+      "title": "阿尔弗雷德·弗里德",
+      "titleEnglish": "Alfred Fried",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-479/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-479/color.jpg",
+      "sha256": "be8005bfcfddd863ca707c05330279810854c8038cb31f58a67917b807790abe",
+      "thumbnailSHA256": "8457d73a83e6c5d035346c6e2e0cc0aa8d660daef3ed7d48daf1da802ee576d1",
+      "context": {
+        "phrase": {
+          "zh": "持续的联络，需要持续的表达。",
+          "en": "Lasting cooperation needs a continuing voice."
+        },
+        "visual": {
+          "zh": "巨大的印刷滚筒压过向左下展开的空白纸带，旁边少量折页把尺度拉开，借出版物的传播呼应和平倡议。黑白与钴蓝版突出滚筒；彩色版使用深青绿滚筒、乳白纸带和灰绿、浅赭折页。纸面没有虚构文章或标语，装置也不是历史印刷机的精确复原。",
+          "en": "An enormous cropped printing roller feeds a blank sheet toward the lower left beside a small folded stack, evoking publishing and peace advocacy. Cobalt highlights the roller in monochrome; full color uses deep teal, ivory, sage and pale ochre paper. No invented article or slogan appears, and the apparatus is not a precise historical reconstruction."
+        },
+        "background": {
+          "zh": "弗里德与阿塞尔共同获得1911年诺贝尔和平奖，各占二分之一份额。他通过新闻写作、编辑、出版和组织工作参与和平运动。诺贝尔官方生平介绍记载，他受贝尔塔·冯·苏特纳影响，参与德国和平协会，并创办和编辑和平刊物；1899年后编辑《和平观察》。同一资料指出，1899年海牙和平会议是他思想发展中的转折点，他更加重视国家间的经济合作与政治组织，把国际关系中的无序视为战争的根源之一。这里介绍的是他的主张与历史工作，不把这一观点写成能够解释全部战争的定论。印刷滚筒和空白报纸是原创隐喻，不复制具体刊物；短句不是本人引语。\n1911年和平奖；获得本年度奖项的一半。获奖理由（中文译述）：因揭示并反对他认为导致战争的主要原因，即国际关系中的无序状态。",
+          "en": "Fried shared the 1911 Nobel Peace Prize equally with Asser. He worked through journalism, editing, publishing and peace organizations. Nobel’s biographical account describes Suttner’s influence, his German Peace Society work and peace journals, including Die Friedenswarte from 1899. It identifies the 1899 Hague Peace Conference as a turning point toward economic cooperation and political organization between nations. He saw international anarchy as a cause of war; this is his historical argument, not a complete explanation of every war. The roller and blank newspapers are original metaphors, not copied publications. The phrase is not a quotation.\n1911 — The Nobel Peace Prize. Received half of the prize. Official motivation: for his effort to expose and fight what he considers to be the main cause of war, namely, the anarchy in international relations"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1911 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1911/summary/",
+            "labelLocalized": {
+              "zh": "1911年和平奖｜官方记录",
+              "en": "1911 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1911/fried/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

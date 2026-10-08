@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-580",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-580",
+      "subject": "nobel-laureate-580",
+      "edition": "mono",
+      "title": "保罗·海泽",
+      "titleEnglish": "Paul Heyse",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-580/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-580/mono.jpg",
+      "sha256": "70c91370e2690464c3de99b4dd400e394dfcad3f8cd2780889c1a565baa5a8c4",
+      "thumbnailSHA256": "bf73b6d095b67414d5d65d38bc3c979c4f3bf7b74441f45ab5c4a9dafa6649fd",
+      "context": {
+        "phrase": {
+          "zh": "短小的篇章，也能容纳完整的世界。",
+          "en": "A short work can hold a whole world."
+        },
+        "visual": {
+          "zh": "巨幅裁切的空白纸页扇形与较小的戏剧面具交叠，暗示短篇写作与戏剧创作。黑白与钴蓝版强调蓝色纸页；彩色版以暖象牙色纸张、陶土色面具和灰绿背景形成材质对照。它不是海泽的肖像、书封、实际手稿或私人用品。",
+          "en": "A giant cropped fan of blank pages overlaps a smaller theatrical mask, evoking short fiction and drama. Cobalt paper defines the monochrome edition; ivory pages, terracotta and a sage-gray background distinguish the full-color materials. These original props are not Heyse's portrait, book cover, manuscript or belongings."
+        },
+        "background": {
+          "zh": "保罗·海泽获得1910年诺贝尔文学奖。诺贝尔官方介绍记载，他创作短篇小说、诗歌、长篇小说与戏剧，也翻译意大利诗歌；其中短篇创作尤为知名。他学习过罗曼语文学，1852年以普罗旺斯诗歌研究获得博士学位，随后赴罗马和意大利图书馆继续研究，后来定居慕尼黑。官方介绍指出他的写作重视自由与个性。配图只用空白纸页与戏剧面具表现多种文学形式，不复制任何具体作品或真实物品；短句为原创，不是本人引语。\n1910年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在长期创作中，以充满理想主义的成熟艺术，在抒情诗、戏剧、小说和享誉世界的短篇小说领域作出的成就。",
+          "en": "Paul Heyse received the 1910 Nobel Prize in Literature. Nobel's official account describes short fiction, poetry, novels and plays, alongside translations of Italian poetry, with particular success in short fiction. He studied Romance philology, earned a doctorate on Provençal poetry in 1852, continued research in Rome and Italian libraries, and later settled in Munich. Nobel's account emphasizes freedom and individuality in his writing. Blank pages and a theatrical mask interpret literary forms rather than a specific work or historical object. The phrase is original, not a quotation.\n1910 — The Nobel Prize in Literature. Received the full prize. Official motivation: as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年文学奖｜官方记录",
+              "en": "1910 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1910/heyse/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-580",
+      "subject": "nobel-laureate-580",
+      "edition": "color",
+      "title": "保罗·海泽",
+      "titleEnglish": "Paul Heyse",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-580/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-580/color.jpg",
+      "sha256": "21bf92a61c5d1a61f319ea9ff5c4bbb803cda8c4361fd2f773661726124b1ef2",
+      "thumbnailSHA256": "9630a961fce9500589514ba450850f214cbae40317b6c22ffc3f6056f176fbb4",
+      "context": {
+        "phrase": {
+          "zh": "短小的篇章，也能容纳完整的世界。",
+          "en": "A short work can hold a whole world."
+        },
+        "visual": {
+          "zh": "巨幅裁切的空白纸页扇形与较小的戏剧面具交叠，暗示短篇写作与戏剧创作。黑白与钴蓝版强调蓝色纸页；彩色版以暖象牙色纸张、陶土色面具和灰绿背景形成材质对照。它不是海泽的肖像、书封、实际手稿或私人用品。",
+          "en": "A giant cropped fan of blank pages overlaps a smaller theatrical mask, evoking short fiction and drama. Cobalt paper defines the monochrome edition; ivory pages, terracotta and a sage-gray background distinguish the full-color materials. These original props are not Heyse's portrait, book cover, manuscript or belongings."
+        },
+        "background": {
+          "zh": "保罗·海泽获得1910年诺贝尔文学奖。诺贝尔官方介绍记载，他创作短篇小说、诗歌、长篇小说与戏剧，也翻译意大利诗歌；其中短篇创作尤为知名。他学习过罗曼语文学，1852年以普罗旺斯诗歌研究获得博士学位，随后赴罗马和意大利图书馆继续研究，后来定居慕尼黑。官方介绍指出他的写作重视自由与个性。配图只用空白纸页与戏剧面具表现多种文学形式，不复制任何具体作品或真实物品；短句为原创，不是本人引语。\n1910年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他在长期创作中，以充满理想主义的成熟艺术，在抒情诗、戏剧、小说和享誉世界的短篇小说领域作出的成就。",
+          "en": "Paul Heyse received the 1910 Nobel Prize in Literature. Nobel's official account describes short fiction, poetry, novels and plays, alongside translations of Italian poetry, with particular success in short fiction. He studied Romance philology, earned a doctorate on Provençal poetry in 1852, continued research in Rome and Italian libraries, and later settled in Munich. Nobel's account emphasizes freedom and individuality in his writing. Blank pages and a theatrical mask interpret literary forms rather than a specific work or historical object. The phrase is original, not a quotation.\n1910 — The Nobel Prize in Literature. Received the full prize. Official motivation: as a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1910 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1910/summary/",
+            "labelLocalized": {
+              "zh": "1910年文学奖｜官方记录",
+              "en": "1910 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1910/heyse/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

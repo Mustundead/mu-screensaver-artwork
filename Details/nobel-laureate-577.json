@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-577",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-577",
+      "subject": "nobel-laureate-577",
+      "edition": "mono",
+      "title": "鲁德亚德·吉卜林",
+      "titleEnglish": "Rudyard Kipling",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-577/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-577/mono.jpg",
+      "sha256": "4fc5559a6bcb835337078d8c42f8ed2c3e76bcf62f4cd0f433e5d0aaea59b8a8",
+      "thumbnailSHA256": "e28cfe31adc47897ac86f19c4e8e2f9b1a156f26c4c3db9d57336ef4aabbaee3",
+      "context": {
+        "phrase": {
+          "zh": "从一片叶、一声脚步，写出另一个世界。",
+          "en": "From a leaf and a footstep, imagine another world."
+        },
+        "visual": {
+          "zh": "豹、象、交错的植物与无字书卷组成独立拼贴，以自然意象和写作器具呼应文学想象。动物为原创绘制，不复制电影角色、书封或某一篇故事的具体场景。",
+          "en": "A leopard, an elephant, intertwined plants and blank books form an original collage connecting natural imagery and writing with literary imagination. The animals do not copy film characters, book covers or a particular story scene."
+        },
+        "background": {
+          "zh": "鲁德亚德·吉卜林获得1907年诺贝尔文学奖，获奖理由涉及观察力、独创想象、思想活力与叙事才能。他创作短篇小说、诗歌和长篇作品，代表作包括1894年的《丛林之书》和1901年的《吉姆》。他的写作也与英国帝国时代的观念紧密相连。配图选择动物、植物和书卷作为文学意象，不把获奖理解为对作者所有历史立场的认可。\n1907年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰其作品中的观察力、独创想象、思想活力与卓越叙事才能。",
+          "en": "Rudyard Kipling received the 1907 Nobel Prize in Literature for observation, original imagination, strength of ideas and narrative talent. He wrote short stories, poems and novels, including The Jungle Book (1894) and Kim (1901). His writing was also closely tied to ideas of the British Empire. Animals, plants and books serve as literary imagery; the award should not be read as endorsing every historical position he held.\n1907 — The Nobel Prize in Literature. Received the full prize. Official motivation: in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年文学奖｜官方记录",
+              "en": "1907 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1907/kipling/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-577",
+      "subject": "nobel-laureate-577",
+      "edition": "color",
+      "title": "鲁德亚德·吉卜林",
+      "titleEnglish": "Rudyard Kipling",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-577/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-577/color.jpg",
+      "sha256": "bcdc64e05110a3fbe404fba973a0fd79237f7def636c2657744044dca7439f10",
+      "thumbnailSHA256": "159c0e4bf8a748ec4ea21a9c8101a8ee76e6f639f93771de578feb4ed4ff7c19",
+      "context": {
+        "phrase": {
+          "zh": "从一片叶、一声脚步，写出另一个世界。",
+          "en": "From a leaf and a footstep, imagine another world."
+        },
+        "visual": {
+          "zh": "豹、象、交错的植物与无字书卷组成独立拼贴，以自然意象和写作器具呼应文学想象。动物为原创绘制，不复制电影角色、书封或某一篇故事的具体场景。",
+          "en": "A leopard, an elephant, intertwined plants and blank books form an original collage connecting natural imagery and writing with literary imagination. The animals do not copy film characters, book covers or a particular story scene."
+        },
+        "background": {
+          "zh": "鲁德亚德·吉卜林获得1907年诺贝尔文学奖，获奖理由涉及观察力、独创想象、思想活力与叙事才能。他创作短篇小说、诗歌和长篇作品，代表作包括1894年的《丛林之书》和1901年的《吉姆》。他的写作也与英国帝国时代的观念紧密相连。配图选择动物、植物和书卷作为文学意象，不把获奖理解为对作者所有历史立场的认可。\n1907年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰其作品中的观察力、独创想象、思想活力与卓越叙事才能。",
+          "en": "Rudyard Kipling received the 1907 Nobel Prize in Literature for observation, original imagination, strength of ideas and narrative talent. He wrote short stories, poems and novels, including The Jungle Book (1894) and Kim (1901). His writing was also closely tied to ideas of the British Empire. Animals, plants and books serve as literary imagery; the award should not be read as endorsing every historical position he held.\n1907 — The Nobel Prize in Literature. Received the full prize. Official motivation: in consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1907 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1907/summary/",
+            "labelLocalized": {
+              "zh": "1907年文学奖｜官方记录",
+              "en": "1907 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1907/kipling/biographical/",
+            "labelLocalized": {
+              "zh": "生平与工作｜诺贝尔奖官网",
+              "en": "Life and work — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

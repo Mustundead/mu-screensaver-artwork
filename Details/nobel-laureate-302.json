@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-302",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-302",
+      "subject": "nobel-laureate-302",
+      "edition": "mono",
+      "title": "保罗·埃尔利希",
+      "titleEnglish": "Paul Ehrlich",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-302/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-302/mono.jpg",
+      "sha256": "fd4148624473102589177de9055a9212dc528b3bcebbb6dde50dcc61f3d541df",
+      "thumbnailSHA256": "54d1e9c5862466118892c57b8f86dc7fdd7a57e470a1fc0987da76ddb4b25d02",
+      "context": {
+        "phrase": {
+          "zh": "找到相合之处，理解身体的防御。",
+          "en": "Look for the fit that makes defence possible."
+        },
+        "visual": {
+          "zh": "观察用的手部特写、斜向交叠的玻璃片和大幅裁切的染剂瓶组成独立拼贴。玻璃中的相合形态借喻有选择的结合，蓝色玻璃面参与构图；这些不是抗体结构图或真实实验记录。",
+          "en": "A close-up observing hand, diagonally overlapping glass slides and a boldly cropped dye bottle form an original collage. Matching shapes suggest selective binding; a blue glass plane organizes the composition. These are not antibody structures or experimental records."
+        },
+        "background": {
+          "zh": "保罗·埃尔利希与伊利亚·梅契尼科夫共同获得1908年诺贝尔生理学或医学奖，以表彰他们对免疫的研究。埃尔利希发展组织和细菌染色方法，并提出“侧链”理论，尝试解释身体如何产生能与特定外来物结合的物质，后来称为抗体。他的理论中一些细节后来被修正，但有选择的识别与结合这一思路推动了免疫研究。介绍区分历史假说与今天的知识；配图中的相合形态只是比喻，不是分子模型或用药建议。\n1908年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：以表彰他们对免疫的研究",
+          "en": "Paul Ehrlich shared the 1908 Nobel Prize in Physiology or Medicine with Ilya Mechnikov for research on immunity. He developed tissue and bacterial staining techniques and proposed a side-chain theory to explain substances, later called antibodies, that bind particular foreign targets. Some details were subsequently corrected, but selective recognition and binding influenced later research. This account distinguishes historical theory from present knowledge. The fitting forms are metaphors, not molecular models or treatment advice.\n1908 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: in recognition of their work on immunity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年生理学或医学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/immuneresponses/overview/index.php",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-302",
+      "subject": "nobel-laureate-302",
+      "edition": "color",
+      "title": "保罗·埃尔利希",
+      "titleEnglish": "Paul Ehrlich",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-302/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-302/color.jpg",
+      "sha256": "6faa59b6307921cbae4f459f7f2db52461fcfde968c19ce724e54e8544255d10",
+      "thumbnailSHA256": "6ba53062c9487e0fa1ebd4045cb9561c2856ae07da8520de0db336e7e59c5e2d",
+      "context": {
+        "phrase": {
+          "zh": "找到相合之处，理解身体的防御。",
+          "en": "Look for the fit that makes defence possible."
+        },
+        "visual": {
+          "zh": "观察用的手部特写、斜向交叠的玻璃片和大幅裁切的染剂瓶组成独立拼贴。玻璃中的相合形态借喻有选择的结合，蓝色玻璃面参与构图；这些不是抗体结构图或真实实验记录。",
+          "en": "A close-up observing hand, diagonally overlapping glass slides and a boldly cropped dye bottle form an original collage. Matching shapes suggest selective binding; a blue glass plane organizes the composition. These are not antibody structures or experimental records."
+        },
+        "background": {
+          "zh": "保罗·埃尔利希与伊利亚·梅契尼科夫共同获得1908年诺贝尔生理学或医学奖，以表彰他们对免疫的研究。埃尔利希发展组织和细菌染色方法，并提出“侧链”理论，尝试解释身体如何产生能与特定外来物结合的物质，后来称为抗体。他的理论中一些细节后来被修正，但有选择的识别与结合这一思路推动了免疫研究。介绍区分历史假说与今天的知识；配图中的相合形态只是比喻，不是分子模型或用药建议。\n1908年生理学或医学奖；获得本年度奖项的一半。获奖理由（中文译述）：以表彰他们对免疫的研究",
+          "en": "Paul Ehrlich shared the 1908 Nobel Prize in Physiology or Medicine with Ilya Mechnikov for research on immunity. He developed tissue and bacterial staining techniques and proposed a side-chain theory to explain substances, later called antibodies, that bind particular foreign targets. Some details were subsequently corrected, but selective recognition and binding influenced later research. This account distinguishes historical theory from present knowledge. The fitting forms are metaphors, not molecular models or treatment advice.\n1908 — The Nobel Prize in Physiology or Medicine. Received half of the prize. Official motivation: in recognition of their work on immunity"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1908 — Physiology or Medicine",
+            "url": "https://www.nobelprize.org/prizes/medicine/1908/summary/",
+            "labelLocalized": {
+              "zh": "1908年生理学或医学奖｜官方记录",
+              "en": "1908 The Nobel Prize in Physiology or Medicine — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://educationalgames.nobelprize.org/educational/medicine/immuneresponses/overview/index.php",
+            "labelLocalized": {
+              "zh": "研究原理｜诺贝尔奖科普资料",
+              "en": "Research explained — Nobel Prize education"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-502",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-502",
+      "subject": "nobel-laureate-502",
+      "edition": "mono",
+      "title": "罗伯特·塞西尔",
+      "titleEnglish": "Robert Cecil, Viscount Cecil of Chelwood",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-502/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-502/mono.jpg",
+      "sha256": "e81cc66a3aeb051f2a3ff31ac5b5e02c64f4a20f776b9a40f321783e8c8b0c8d",
+      "thumbnailSHA256": "4333fb4a22776781fd77713c783c4a31dcf2ddd8abdf0f212acd88b25ddb3886",
+      "context": {
+        "phrase": {
+          "zh": "共同的规则，让分散的承诺相连。",
+          "en": "Shared rules connect separate commitments."
+        },
+        "visual": {
+          "zh": "近处圆形空白印章从左下越出画面，几页纸向右上叠放，编绳穿过孔洞束住纸边；刻线描出金属与纸面的质感。",
+          "en": "A large round blank seal crops beyond the lower left. Overlapping sheets fan toward the upper right, with a braided cord through holes along their edge. Hatching describes metal and paper."
+        },
+        "background": {
+          "zh": "塞西尔因持续支持国际联盟、裁军与和平，获得1937年诺贝尔和平奖，独享该奖。他参与国际联盟规则的制定，并推动集体安全与裁军。画面把几页空白纸用绳索束在一起，旁边放置一枚无文字印章，表达共同规则连接不同承诺。纸张、绳索和印章都是原创寓意，不是实际公约、组织标志或历史文物，也不表示各国达成了全部目标。短句为原创。\n1937年和平奖；独享本年度奖项。获奖理由（中文译述）：持续支持国际联盟、裁军与和平",
+          "en": "Cecil received the sole 1937 Nobel Peace Prize for sustained support of the League of Nations, disarmament and peace. He helped formulate its rules and promoted collective security and disarmament. Blank sheets held together by a cord beside an unlettered seal symbolize commitments connected by common rules. These are original metaphors, not an actual covenant, organization emblem or historical artifact, and do not imply that nations achieved every objective. The phrase is original.\n1937 — The Nobel Peace Prize. Received the full prize. Official motivation: for his tireless effort in support of the League of Nations, disarmament and peace"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年和平奖｜官方记录",
+              "en": "1937 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1937/chelwood/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-502",
+      "subject": "nobel-laureate-502",
+      "edition": "color",
+      "title": "罗伯特·塞西尔",
+      "titleEnglish": "Robert Cecil, Viscount Cecil of Chelwood",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-502/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-502/color.jpg",
+      "sha256": "60e86938cfd624585c8e691c2f55ea36dd1452370e71bfce3c76fac120839b38",
+      "thumbnailSHA256": "ee0c112a11f9fd55c60e2d54f8d338e5816e84865aa197f7af4df937f4b3d7ef",
+      "context": {
+        "phrase": {
+          "zh": "共同的规则，让分散的承诺相连。",
+          "en": "Shared rules connect separate commitments."
+        },
+        "visual": {
+          "zh": "近处圆形空白印章从左下越出画面，几页纸向右上叠放，编绳穿过孔洞束住纸边；刻线描出金属与纸面的质感。",
+          "en": "A large round blank seal crops beyond the lower left. Overlapping sheets fan toward the upper right, with a braided cord through holes along their edge. Hatching describes metal and paper."
+        },
+        "background": {
+          "zh": "塞西尔因持续支持国际联盟、裁军与和平，获得1937年诺贝尔和平奖，独享该奖。他参与国际联盟规则的制定，并推动集体安全与裁军。画面把几页空白纸用绳索束在一起，旁边放置一枚无文字印章，表达共同规则连接不同承诺。纸张、绳索和印章都是原创寓意，不是实际公约、组织标志或历史文物，也不表示各国达成了全部目标。短句为原创。\n1937年和平奖；独享本年度奖项。获奖理由（中文译述）：持续支持国际联盟、裁军与和平",
+          "en": "Cecil received the sole 1937 Nobel Peace Prize for sustained support of the League of Nations, disarmament and peace. He helped formulate its rules and promoted collective security and disarmament. Blank sheets held together by a cord beside an unlettered seal symbolize commitments connected by common rules. These are original metaphors, not an actual covenant, organization emblem or historical artifact, and do not imply that nations achieved every objective. The phrase is original.\n1937 — The Nobel Peace Prize. Received the full prize. Official motivation: for his tireless effort in support of the League of Nations, disarmament and peace"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1937 — Peace",
+            "url": "https://www.nobelprize.org/prizes/peace/1937/summary/",
+            "labelLocalized": {
+              "zh": "1937年和平奖｜官方记录",
+              "en": "1937 The Nobel Peace Prize — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/peace/1937/chelwood/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "subject": "052-robotic-perception",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:052-robotic-perception",
+      "subject": "052-robotic-perception",
+      "edition": "mono",
+      "title": "机器感知与触觉",
+      "titleEnglish": "Machine Perception and Touch",
+      "category": "计算与人工智能",
+      "image": "Images/mono/052-robotic-perception.jpg",
+      "thumbnail": "Thumbs/mono/052-robotic-perception.jpg",
+      "sha256": "724cba473ee007998d78336e7287a98e153d1bdcb09d416911113fe07d93ec41",
+      "thumbnailSHA256": "02c2ae9769ff17f88aceeb84c976e2f3edcdeb77b91afec38b3a0b0b14709e0c",
+      "context": {
+        "phrase": {
+          "zh": "接触的轻重，也是一种信息。",
+          "en": "The pressure of touch is information."
+        },
+        "visual": {
+          "zh": "机械手旁的弧线和细小接触点，把抓取过程画成视觉与触觉的协作。它不表示机器人具备人类的感觉体验。",
+          "en": "A robotic hand, arcs and tiny contact points connect vision with touch during grasping. They do not imply a robot experiences touch as a person does."
+        },
+        "background": {
+          "zh": "机器人抓取需要判断物体位置、接触与施力情况。美国国家标准与技术研究院正在研究触觉传感和抓取评测方法，目的是更可靠地测量和比较机器人操作能力。",
+          "en": "Robotic grasping involves object position, contact and applied force. NIST studies tactile sensing and grasping test methods to measure and compare manipulation performance more reliably."
+        },
+        "sources": [
+          {
+            "label": "NIST · Robotic grasping and contact",
+            "url": "https://www.nist.gov/programs-projects/grasping-manipulation-and-contact-safety-performance-robotic-systems"
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:052-robotic-perception",
+      "subject": "052-robotic-perception",
+      "edition": "color",
+      "title": "机器感知与触觉",
+      "titleEnglish": "Machine Perception and Touch",
+      "category": "计算与人工智能",
+      "image": "Images/color/052-robotic-perception.jpg",
+      "thumbnail": "Thumbs/color/052-robotic-perception.jpg",
+      "sha256": "185eb06effd956f858c8d9204b26f263953efec5a45ba7f8eb286e777fe8cf86",
+      "thumbnailSHA256": "ce9481542cf20240d70ece931d0029b5a8fc0111c940a68e341f105c840c1d50",
+      "context": {
+        "phrase": {
+          "zh": "接触的轻重，也是一种信息。",
+          "en": "The pressure of touch is information."
+        },
+        "visual": {
+          "zh": "机械手旁的弧线和细小接触点，把抓取过程画成视觉与触觉的协作。它不表示机器人具备人类的感觉体验。",
+          "en": "A robotic hand, arcs and tiny contact points connect vision with touch during grasping. They do not imply a robot experiences touch as a person does."
+        },
+        "background": {
+          "zh": "机器人抓取需要判断物体位置、接触与施力情况。美国国家标准与技术研究院正在研究触觉传感和抓取评测方法，目的是更可靠地测量和比较机器人操作能力。",
+          "en": "Robotic grasping involves object position, contact and applied force. NIST studies tactile sensing and grasping test methods to measure and compare manipulation performance more reliably."
+        },
+        "sources": [
+          {
+            "label": "NIST · Robotic grasping and contact",
+            "url": "https://www.nist.gov/programs-projects/grasping-manipulation-and-contact-safety-performance-robotic-systems"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-574",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-574",
+      "subject": "nobel-laureate-574",
+      "edition": "mono",
+      "title": "何塞·埃切加赖",
+      "titleEnglish": "José Echegaray",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-574/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-574/mono.jpg",
+      "sha256": "83d82920d467d3830227b6a8ad406827b72a682a238874ca717817cf3789b443",
+      "thumbnailSHA256": "e3281e2c19fa6e01487f766d65b9f97dfcb89c87b1f6cb68f134857e8913c524",
+      "context": {
+        "phrase": {
+          "zh": "舞台上的选择，也照见生活中的责任。",
+          "en": "Choices on stage can reflect responsibilities in life."
+        },
+        "visual": {
+          "zh": "为埃切加赖独立创作的戏剧与几何拼贴，以空舞台、剧本、圆规和无刻度三角尺呼应他的文学及工程数学背景。剧院、文书与工具均是象征性组合，不复制某一部戏的演出，也不是他的真实手稿或个人物件。",
+          "en": "An original drama-and-geometry collage for Echegaray uses an empty stage, a script book, a compass and an ungraduated set-square to evoke his literary and engineering-mathematics background. The theatre, papers and tools are symbolic, not a copied performance, actual manuscript or personal belongings."
+        },
+        "background": {
+          "zh": "埃切加赖与弗雷德里克·米斯特拉尔共同获得1904年诺贝尔文学奖，各占二分之一奖项份额。他的获奖理由肯定了以个人原创方式振兴西班牙戏剧传统的创作。诺贝尔官方资料介绍了他的工程和数学经历，也指出责任冲突是其许多戏剧中的核心议题。配图借舞台与几何工具表现这两方面，不将某个工具当作获奖作品。\n1904年文学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他众多出色的戏剧创作，以个人而原创的方式振兴西班牙戏剧的伟大传统。",
+          "en": "Echegaray shared the 1904 Nobel Prize in Literature with Frédéric Mistral, each receiving one half. His motivation recognizes original dramatic compositions reviving the traditions of Spanish drama. Official Nobel material describes his engineering and mathematics background and conflicts of duty in many plays. The stage and geometric tools interpret those aspects without presenting any tool as a prize-winning work.\n1904 — The Nobel Prize in Literature. Received half of the prize. Official motivation: in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年文学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1904/eizaguirre/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-574",
+      "subject": "nobel-laureate-574",
+      "edition": "color",
+      "title": "何塞·埃切加赖",
+      "titleEnglish": "José Echegaray",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-574/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-574/color.jpg",
+      "sha256": "835487ef477503ec521b6e2f4c06f8d692321decde0d9ff79c0e12b946d344a7",
+      "thumbnailSHA256": "a61beb000dd1eb9830caf8fb2d3fada8fa49ea020e29755b62e01ebf6bc8e32a",
+      "context": {
+        "phrase": {
+          "zh": "舞台上的选择，也照见生活中的责任。",
+          "en": "Choices on stage can reflect responsibilities in life."
+        },
+        "visual": {
+          "zh": "为埃切加赖独立创作的戏剧与几何拼贴，以空舞台、剧本、圆规和无刻度三角尺呼应他的文学及工程数学背景。剧院、文书与工具均是象征性组合，不复制某一部戏的演出，也不是他的真实手稿或个人物件。",
+          "en": "An original drama-and-geometry collage for Echegaray uses an empty stage, a script book, a compass and an ungraduated set-square to evoke his literary and engineering-mathematics background. The theatre, papers and tools are symbolic, not a copied performance, actual manuscript or personal belongings."
+        },
+        "background": {
+          "zh": "埃切加赖与弗雷德里克·米斯特拉尔共同获得1904年诺贝尔文学奖，各占二分之一奖项份额。他的获奖理由肯定了以个人原创方式振兴西班牙戏剧传统的创作。诺贝尔官方资料介绍了他的工程和数学经历，也指出责任冲突是其许多戏剧中的核心议题。配图借舞台与几何工具表现这两方面，不将某个工具当作获奖作品。\n1904年文学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他众多出色的戏剧创作，以个人而原创的方式振兴西班牙戏剧的伟大传统。",
+          "en": "Echegaray shared the 1904 Nobel Prize in Literature with Frédéric Mistral, each receiving one half. His motivation recognizes original dramatic compositions reviving the traditions of Spanish drama. Official Nobel material describes his engineering and mathematics background and conflicts of duty in many plays. The stage and geometric tools interpret those aspects without presenting any tool as a prize-winning work.\n1904 — The Nobel Prize in Literature. Received half of the prize. Official motivation: in recognition of the numerous and brilliant compositions which, in an individual and original manner, have revived the great traditions of the Spanish drama"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1904 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1904/summary/",
+            "labelLocalized": {
+              "zh": "1904年文学奖｜官方记录",
+              "en": "1904 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1904/eizaguirre/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

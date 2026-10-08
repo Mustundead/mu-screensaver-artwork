@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-613",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-613",
+      "subject": "nobel-laureate-613",
+      "edition": "mono",
+      "title": "弗兰斯·埃米尔·西兰帕",
+      "titleEnglish": "Frans Eemil Sillanpää",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-613/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-613/mono.jpg",
+      "sha256": "8bf51c3f9d551a2943c6456ede6fb28bb04ff6f55de103aff688a6268ce2b611",
+      "thumbnailSHA256": "c0c4a2586f412ec35fe2fa0b6c8f371c720c96c71e3a7ee5466e8f133183a59a",
+      "context": {
+        "phrase": {
+          "zh": "人的生活，也在季节里生长。",
+          "en": "Life grows within the seasons."
+        },
+        "visual": {
+          "zh": "宽阔木框窗向两侧打开，窗外田野、树线和远处水面逐层延伸；左下木地板上放着一双工作靴，细刻线描出木纹与云层。",
+          "en": "A broad timber window opens to both sides, framing fields, a treeline and distant water. A pair of work boots rests on the lower-left floorboards, with fine hatching describing wood grain and clouds."
+        },
+        "background": {
+          "zh": "西兰帕因深刻理解芬兰农民，并描写其生活与自然的关系获得1939年诺贝尔文学奖。诺贝尔颁奖词把田野、季节和日常生活的联系放在他的创作核心。画面从木屋内看向夏日田野，近处工作靴与远处树线、湖面相接，表达劳动与自然同在一个生活空间。这里不是作家故居，也不是某一部小说的具体场景。短句为原创。\n1939年文学奖；独享本年度奖项。获奖理由（中文译述）：深刻理解本国农民，并以精湛艺术描写他们的生活及其与自然的关系",
+          "en": "Sillanpaa received the 1939 Nobel Prize in Literature for understanding Finnish rural people and portraying their lives and relationship with nature. The official presentation speech connects fields, seasons and everyday life with his writing. A view from a timber room toward summer fields links nearby work boots with distant trees and a glimpse of water, expressing labour and nature within one lived space. This is not his home or a specific scene from a novel. The phrase is original.\n1939 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年文学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1939/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-613",
+      "subject": "nobel-laureate-613",
+      "edition": "color",
+      "title": "弗兰斯·埃米尔·西兰帕",
+      "titleEnglish": "Frans Eemil Sillanpää",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-613/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-613/color.jpg",
+      "sha256": "4060e0b50cf7dbec3248eb6844133e72f64a2f8ef748277581f4207899e53862",
+      "thumbnailSHA256": "1a27ecfd553ab7168694b0e1457c107162f20c345b4e37a9fac3c79d08980dbd",
+      "context": {
+        "phrase": {
+          "zh": "人的生活，也在季节里生长。",
+          "en": "Life grows within the seasons."
+        },
+        "visual": {
+          "zh": "宽阔木框窗向两侧打开，窗外田野、树线和远处水面逐层延伸；左下木地板上放着一双工作靴，细刻线描出木纹与云层。",
+          "en": "A broad timber window opens to both sides, framing fields, a treeline and distant water. A pair of work boots rests on the lower-left floorboards, with fine hatching describing wood grain and clouds."
+        },
+        "background": {
+          "zh": "西兰帕因深刻理解芬兰农民，并描写其生活与自然的关系获得1939年诺贝尔文学奖。诺贝尔颁奖词把田野、季节和日常生活的联系放在他的创作核心。画面从木屋内看向夏日田野，近处工作靴与远处树线、湖面相接，表达劳动与自然同在一个生活空间。这里不是作家故居，也不是某一部小说的具体场景。短句为原创。\n1939年文学奖；独享本年度奖项。获奖理由（中文译述）：深刻理解本国农民，并以精湛艺术描写他们的生活及其与自然的关系",
+          "en": "Sillanpaa received the 1939 Nobel Prize in Literature for understanding Finnish rural people and portraying their lives and relationship with nature. The official presentation speech connects fields, seasons and everyday life with his writing. A view from a timber room toward summer fields links nearby work boots with distant trees and a glimpse of water, expressing labour and nature within one lived space. This is not his home or a specific scene from a novel. The phrase is original.\n1939 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his deep understanding of his country's peasantry and the exquisite art with which he has portrayed their way of life and their relationship with Nature"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1939 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1939/summary/",
+            "labelLocalized": {
+              "zh": "1939年文学奖｜官方记录",
+              "en": "1939 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1939/ceremony-speech/",
+            "labelLocalized": {
+              "zh": "颁奖演说｜诺贝尔奖官网",
+              "en": "Award presentation speech — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

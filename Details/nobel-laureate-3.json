@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-3",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-3",
+      "subject": "nobel-laureate-3",
+      "edition": "mono",
+      "title": "彼得·塞曼",
+      "titleEnglish": "Pieter Zeeman",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-3/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-3/mono.jpg",
+      "sha256": "1c64960079fe688f2d8479dd911a3e9e365a0933874ef948fd121784a00b1d60",
+      "thumbnailSHA256": "1f326de91ec8528e5d9561f2259f615c65c24515dbed881234973dab6828cf65",
+      "context": {
+        "phrase": {
+          "zh": "细看一道光，也能发现新的规律。",
+          "en": "Look closely at a line of light to find a new law."
+        },
+        "visual": {
+          "zh": "为塞曼独立创作的光谱拼贴，用马蹄形磁铁、分光器和边缘的细光线表现磁场与光的联系。器具组合与光线位置是艺术表达，不是实验示意图。",
+          "en": "An original spectral collage for Zeeman uses a horseshoe magnet, spectroscope and fine edge-bound light lines to interpret the connection between magnetism and light. The arrangement is artistic, not an experiment diagram."
+        },
+        "background": {
+          "zh": "塞曼发现，光谱中的细线在磁场影响下会分裂成多条。他与提供理论解释的洛伦兹分享1902年诺贝尔物理学奖。配图用磁铁和分光器呼应这项研究，没有复刻他的实验装置。\n1902年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们研究磁性对辐射现象影响所作出的卓越贡献。",
+          "en": "Zeeman observed that spectral lines split into several components under a magnetic field. He shared the 1902 Nobel Prize in Physics with Lorentz, whose work provided a theoretical explanation. The magnet and spectroscope evoke this research without reconstructing his apparatus.\n1902 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年物理学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/zeeman/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-3",
+      "subject": "nobel-laureate-3",
+      "edition": "color",
+      "title": "彼得·塞曼",
+      "titleEnglish": "Pieter Zeeman",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-3/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-3/color.jpg",
+      "sha256": "7e09dcb9b31f8de7d86660ff49bb2e1efff60a01803bcaa25ee28b9375d92cf5",
+      "thumbnailSHA256": "3f7739b1a864b2ec6bfcfe33d0973f8eea87bcf56008ea09d1816c9453da6626",
+      "context": {
+        "phrase": {
+          "zh": "细看一道光，也能发现新的规律。",
+          "en": "Look closely at a line of light to find a new law."
+        },
+        "visual": {
+          "zh": "为塞曼独立创作的光谱拼贴，用马蹄形磁铁、分光器和边缘的细光线表现磁场与光的联系。器具组合与光线位置是艺术表达，不是实验示意图。",
+          "en": "An original spectral collage for Zeeman uses a horseshoe magnet, spectroscope and fine edge-bound light lines to interpret the connection between magnetism and light. The arrangement is artistic, not an experiment diagram."
+        },
+        "background": {
+          "zh": "塞曼发现，光谱中的细线在磁场影响下会分裂成多条。他与提供理论解释的洛伦兹分享1902年诺贝尔物理学奖。配图用磁铁和分光器呼应这项研究，没有复刻他的实验装置。\n1902年物理学奖；获得本年度奖项的一半。获奖理由（中文译述）：表彰他们研究磁性对辐射现象影响所作出的卓越贡献。",
+          "en": "Zeeman observed that spectral lines split into several components under a magnetic field. He shared the 1902 Nobel Prize in Physics with Lorentz, whose work provided a theoretical explanation. The magnet and spectroscope evoke this research without reconstructing his apparatus.\n1902 — The Nobel Prize in Physics. Received half of the prize. Official motivation: in recognition of the extraordinary service they rendered by their researches into the influence of magnetism upon radiation phenomena"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1902 — Physics",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/summary/",
+            "labelLocalized": {
+              "zh": "1902年物理学奖｜官方记录",
+              "en": "1902 The Nobel Prize in Physics — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/physics/1902/zeeman/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}

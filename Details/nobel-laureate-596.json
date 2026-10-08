@@ -1,0 +1,94 @@
+{
+  "subject": "nobel-laureate-596",
+  "thumbnailAvailable": false,
+  "editions": {
+    "mono": {
+      "id": "mono:nobel-laureate-596",
+      "subject": "nobel-laureate-596",
+      "edition": "mono",
+      "title": "乔治·萧伯纳",
+      "titleEnglish": "George Bernard Shaw",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-596/mono.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-596/mono.jpg",
+      "sha256": "4e3bc5655afb440af1b3eb29c22a94592da6d87d071ea29cdaf83eaa31c6eca5",
+      "thumbnailSHA256": "2ac20e6cab3a40479d9538448f309f50dbb96729a8616708cb763216a42b7c53",
+      "context": {
+        "phrase": {
+          "zh": "一句讽刺，让习以为常的事重新显形。",
+          "en": "Satire makes the familiar visible again."
+        },
+        "visual": {
+          "zh": "浅色木质戏剧面具占据右侧，微笑与深眼洞形成对照，暗紫红绒布斜向铺在左侧，一枚小黄铜笔尖落在左下。黑白版保留面具、绒布与裁切，细密刻纹更明显。这是戏剧与讽刺写作的原创寓意，不是具体剧作的道具。",
+          "en": "A pale wooden theatre mask fills the right, its smile contrasting with deep eye openings; burgundy velvet sweeps across the left, beside a small brass nib at lower left. Monochrome keeps the objects and crop with stronger fine hatching. This is an original metaphor for theatre and satire, not a prop from a particular play."
+        },
+        "background": {
+          "zh": "萧伯纳独获1925年诺贝尔文学奖，奖项于1926年颁发。诺贝尔奖官网介绍其戏剧通过讽刺、挑衅与寓言讨论社会问题。木质戏剧面具、绒布与小笔尖是写作和舞台表达的原创寓意，不复刻某部作品的场景或道具；短句为原创。\n1925年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他富于理想与人道精神的创作，以及兼具启发性讽刺和独特诗意的作品。",
+          "en": "Shaw received the entire 1925 Nobel Prize in Literature in 1926. Nobel Prize describes his plays as using satire, provocation and allegory to address social issues. The wooden theatre mask, velvet and small nib are original metaphors for writing and stage expression, not a scene or prop from a particular play. The phrase is original.\n1925 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年文学奖｜官方记录",
+              "en": "1925 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1925/shaw/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    },
+    "color": {
+      "id": "color:nobel-laureate-596",
+      "subject": "nobel-laureate-596",
+      "edition": "color",
+      "title": "乔治·萧伯纳",
+      "titleEnglish": "George Bernard Shaw",
+      "category": "诺贝尔历届获奖",
+      "image": "Images/awards/nobel-laureate-596/color.jpg",
+      "thumbnail": "Thumbs/awards/nobel-laureate-596/color.jpg",
+      "sha256": "a30b7780161d36017359ed4435a4fb9d11368954c0d1e90cf29d0f6a1b611a6c",
+      "thumbnailSHA256": "a40d4e103013cb980eac8430b98426cbe7bbffb079aba8b6a965f3af7fd13dc5",
+      "context": {
+        "phrase": {
+          "zh": "一句讽刺，让习以为常的事重新显形。",
+          "en": "Satire makes the familiar visible again."
+        },
+        "visual": {
+          "zh": "浅色木质戏剧面具占据右侧，微笑与深眼洞形成对照，暗紫红绒布斜向铺在左侧，一枚小黄铜笔尖落在左下。黑白版保留面具、绒布与裁切，细密刻纹更明显。这是戏剧与讽刺写作的原创寓意，不是具体剧作的道具。",
+          "en": "A pale wooden theatre mask fills the right, its smile contrasting with deep eye openings; burgundy velvet sweeps across the left, beside a small brass nib at lower left. Monochrome keeps the objects and crop with stronger fine hatching. This is an original metaphor for theatre and satire, not a prop from a particular play."
+        },
+        "background": {
+          "zh": "萧伯纳独获1925年诺贝尔文学奖，奖项于1926年颁发。诺贝尔奖官网介绍其戏剧通过讽刺、挑衅与寓言讨论社会问题。木质戏剧面具、绒布与小笔尖是写作和舞台表达的原创寓意，不复刻某部作品的场景或道具；短句为原创。\n1925年文学奖；独享本年度奖项。获奖理由（中文译述）：表彰他富于理想与人道精神的创作，以及兼具启发性讽刺和独特诗意的作品。",
+          "en": "Shaw received the entire 1925 Nobel Prize in Literature in 1926. Nobel Prize describes his plays as using satire, provocation and allegory to address social issues. The wooden theatre mask, velvet and small nib are original metaphors for writing and stage expression, not a scene or prop from a particular play. The phrase is original.\n1925 — The Nobel Prize in Literature. Received the full prize. Official motivation: for his work which is marked by both idealism and humanity, its stimulating satire often being infused with a singular poetic beauty"
+        },
+        "sources": [
+          {
+            "label": "Nobel Prize 1925 — Literature",
+            "url": "https://www.nobelprize.org/prizes/literature/1925/summary/",
+            "labelLocalized": {
+              "zh": "1925年文学奖｜官方记录",
+              "en": "1925 The Nobel Prize in Literature — official record"
+            }
+          },
+          {
+            "label": "Nobel Prize",
+            "url": "https://www.nobelprize.org/prizes/literature/1925/shaw/facts/",
+            "labelLocalized": {
+              "zh": "获奖者资料｜诺贝尔奖官网",
+              "en": "Laureate facts — Nobel Prize"
+            }
+          }
+        ]
+      }
+    }
+  }
+}
